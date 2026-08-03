@@ -1,0 +1,8 @@
+source,neutral_to_negative,neutral_support,rate
+internal_twitter_test_roberta_b,67,1549,0.04325371207230471
+internal_twitter_test_bert_base,84,1549,0.05422853453841188
+internal_twitter_test_distilber,82,1549,0.05293737895416398
+sp500_external_test_original_fi,36,339,0.10619469026548672
+sp500_external_test_roberta_bas,19,339,0.05604719764011799
+sp500_external_test_bert_base_u,15,339,0.04424778761061947
+sp500_external_test_distilbert_,16,339,0.0471976401179941
