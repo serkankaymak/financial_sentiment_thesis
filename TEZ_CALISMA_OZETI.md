@@ -34,123 +34,248 @@ Ana karşılaştırma çizgisi:
 
 ## 3. Kullanılan Eğitim Veri Kaynakları
 
-| Veri seti | Projedeki satır | Kullanım amacı |
-| --- | ---: | --- |
-| Twitter Financial News Sentiment | 11.931 | Kısa finansal/piyasa metinlerinde ana eğitim kaynağı |
-| Financial PhraseBank | 4.846 | Finans haber cümlelerini eğitim havuzuna ekleyen yardımcı kaynak |
-| **Plain sentiment dataset** | **16.777** | BERT, DistilBERT ve RoBERTa fine-tuning |
+Bu projede ana eğitim hattı plain sentiment üzerindedir. Şirket/hedef bazlı ayrı etiketleme hattı kullanılmaz.
 
-Plain sentiment sınıf dağılımı:
+**Twitter Financial News Sentiment**
 
-| Sınıf | Adet | Oran |
-| --- | ---: | ---: |
-| Neutral | 10.623 | %63,32 |
-| Positive | 3.761 | %22,42 |
-| Negative | 2.393 | %14,26 |
-| **Toplam** | **16.777** | **%100** |
+- Satır sayısı: 11.931.
+- Rolü: Kısa finansal ve piyasa odaklı metinlerde ana eğitim kaynağı.
+- Etiket mantığı: `negative`, `neutral`, `positive` sınıflarına dönüştürülür.
+
+**Financial PhraseBank**
+
+- Satır sayısı: 4.846.
+- Rolü: Finans haber cümleleriyle eğitim havuzunu zenginleştiren yardımcı kaynak.
+- Etiket mantığı: Cümle düzeyinde finansal sentiment etiketi.
+
+**Birleştirilmiş Plain Sentiment Dataset**
+
+- Dosya: `db/processed/training_datasets/plain_sentiment_dataset.parquet`.
+- Toplam satır sayısı: 16.777.
+- Kullanım: BERT, DistilBERT ve RoBERTa fine-tuning.
+
+**Sınıf Dağılımı**
+
+- Neutral: 10.623 satır, %63,32.
+- Positive: 3.761 satır, %22,42.
+- Negative: 2.393 satır, %14,26.
+- Toplam: 16.777 satır.
 
 Veri setinde `neutral` sınıfı baskındır. Bu nedenle model karşılaştırmalarında yalnızca accuracy değil, sınıfları eşit ağırlıkla değerlendiren macro-F1 metriği de temel alınır.
 
 ## 4. Dış Test ve Değerlendirme Kaynakları
 
-| Kaynak | Güncel dosya durumu | Kullanım |
-| --- | --- | --- |
-| S&P 500 Financial News Headlines 2008-2024 | `db/processed/sp500_headlines_2008_2024_finbert_labeled.csv`, 17.917 satır | Ham başlık havuzu ve FinBERT label üretimi |
-| S&P 500 balanced annotation master | `db/annotations/sp500_balanced_1500/`, master 1.500 satır | Dengeli anotasyon hazırlığı |
-| S&P 500 human review batches | `db/annotations/sp500_human_review_batches/`, 106 batch dosyası; 1.067 satır okunuyor | Dış test/anotasyon batchleri |
-| S&P 500 zero-shot çıktısı | `outputs/zero_shot_sp500_external_test_model_family/...summary.csv`, `n_eval=1060` | NLI/MNLI zero-shot model ailesi karşılaştırması |
-| Reuters 5.000 annotation set | `db/annotations/reuters_5000/REUTERS_annotation_all_clean.csv`, 5.000 satır | Reuters dış test değerlendirmesi |
-| Sentetik finans haberleri | `db/evaluation/synthetic_financial_news/` | Dengeli sentetik test örnekleri |
+**S&P 500 Financial News Headlines 2008-2024**
+
+- Dosya: `db/processed/sp500_headlines_2008_2024_finbert_labeled.csv`.
+- Satır sayısı: 17.917.
+- Rolü: Ham başlık havuzu ve FinBERT label üretimi.
+
+**S&P 500 Balanced Annotation Master**
+
+- Klasör: `db/annotations/sp500_balanced_1500/`.
+- Master dosya: 1.500 satır.
+- Rolü: Dengeli anotasyon hazırlığı.
+
+**S&P 500 Human Review Batches**
+
+- Klasör: `db/annotations/sp500_human_review_batches/`.
+- Durum: 106 batch dosyası; 1.067 satır okunuyor.
+- Rolü: S&P 500 dış test ve anotasyon batchleri.
+
+**S&P 500 Zero-Shot Çıktısı**
+
+- Özet dosya: `outputs/zero_shot_sp500_external_test_model_family/...summary.csv`.
+- Değerlendirme satırı: `n_eval=1060`.
+- Rolü: NLI/MNLI zero-shot model ailesi karşılaştırması.
+
+**Reuters 5.000 Annotation Set**
+
+- Dosya: `db/annotations/reuters_5000/REUTERS_annotation_all_clean.csv`.
+- Satır sayısı: 5.000.
+- Rolü: Reuters dış test değerlendirmesi.
+
+**Sentetik Finans Haberleri**
+
+- Klasör: `db/evaluation/synthetic_financial_news/`.
+- Rolü: Dengeli sentetik test örnekleri.
 
 ## 5. Hazırlanan Ana Veri Tabloları
 
-| Tablo | Satır | Açıklama |
-| --- | ---: | --- |
-| `db/processed/aggregated_financial_news_enriched.csv` | 943.326 | Birleştirilmiş ve zenginleştirilmiş finans haber havuzu |
-| `db/processed/market_sentiment_modeling_master.parquet` | 42.178 | Piyasa yönü modellemesi için hazırlanmış ana tablo |
-| `db/processed/sp500_headlines_2008_2024_finbert_labeled.csv` | 17.917 | FinBERT ile etiketlenen S&P 500 haber başlıkları |
-| `db/interim/pseudo_labeled_news_confidence_090.parquet` | 88.342 | FinBERT güven skoru en az `0.90` olan pseudo-label haberler |
-| `db/processed/training_datasets/plain_sentiment_dataset.parquet` | 16.777 | Genel sentiment sınıflandırması eğitim tablosu |
+**Birleştirilmiş Haber Havuzu**
+
+- Dosya: `db/processed/aggregated_financial_news_enriched.csv`.
+- Satır sayısı: 943.326.
+- Açıklama: Birleştirilmiş ve zenginleştirilmiş finans haber havuzu.
+
+**Piyasa Modelleme Ana Tablosu**
+
+- Dosya: `db/processed/market_sentiment_modeling_master.parquet`.
+- Satır sayısı: 42.178.
+- Açıklama: Piyasa yönü modellemesi için hazırlanmış ana tablo.
+
+**S&P 500 FinBERT Etiketli Başlıklar**
+
+- Dosya: `db/processed/sp500_headlines_2008_2024_finbert_labeled.csv`.
+- Satır sayısı: 17.917.
+- Açıklama: FinBERT ile etiketlenen S&P 500 haber başlıkları.
+
+**Pseudo-Label Haberler**
+
+- Dosya: `db/interim/pseudo_labeled_news_confidence_090.parquet`.
+- Satır sayısı: 88.342.
+- Açıklama: FinBERT güven skoru en az `0.90` olan pseudo-label haberler.
+
+**Plain Sentiment Eğitim Tablosu**
+
+- Dosya: `db/processed/training_datasets/plain_sentiment_dataset.parquet`.
+- Satır sayısı: 16.777.
+- Açıklama: Genel sentiment sınıflandırması eğitim tablosu.
 
 ## 6. Notebook Akışı
 
-| Sıra | Notebook | Güncel rolü |
-| ---: | --- | --- |
-| 1 | `app/00_setup_requirements.ipynb` | Ortam ve paket hazırlığı |
-| 2 | `app/01a_build_reuters_annotation_dataset.ipynb` | Reuters 5.000 dış test anotasyon setinin hazırlanması |
-| 3 | `app/01b_build_sp500_annotation_dataset.ipynb` | S&P 500 başlıklarının FinBERT ile etiketlenmesi ve anotasyon batchlerinin hazırlanması |
-| 4 | `app/02_evaluate_finbert_baseline.ipynb` | Hazır FinBERT modelinin hedef veri setinde nasıl davrandığını gösteren baseline ve hata analizi |
-| 5 | `app/03a_evaluate_unfinetuned_models_diagnostic.ipynb` | Fine-tune edilmemiş modellerin rastgele classification head ile neden ana baseline olamayacağını gösteren diagnostic kontrol |
-| 6 | `app/03b_evaluate_zero_shot_sp500_external_test.ipynb` | BART MNLI ile gerçek zero-shot S&P 500 testi |
-| 7 | `app/03c_evaluate_zero_shot_model_family_sp500_external_test.ipynb` | BERT/DistilBERT/RoBERTa NLI/MNLI zero-shot aile testi |
-| 8 | `app/04_train_plain_sentiment_models.ipynb` | Tezin ana fine-tuning aşaması: BERT, DistilBERT ve RoBERTa plain sentiment eğitimi |
-| 9 | `app/05_evaluate_sp500_finetuned_models.ipynb` | Fine-tune modellerin S&P 500 dış test değerlendirmesi |
-| 10 | `app/06_evaluate_synthetic_finetuned_models.ipynb` | Fine-tune modellerin sentetik finans haberleri üzerinde kontrol testi |
-| 11 | `app/07_evaluate_reuters_finetuned_models.ipynb` | Fine-tune modellerin Reuters 5.000 dış test değerlendirmesi |
-| 12 | `app/09_search_new_dataset.ipynb` | Hocanın istediği ek veri seti arama ve dış test adayı seçimi |
+Notebookların sırası hocaya anlatılacak mantığa göre düzenlenmiştir. Önce hazırlık, sonra hazır modellerin davranışı, sonra tezin ana fine-tuning deneyleri gelir. `09` en sonda bırakılmıştır.
+
+**Hazırlık**
+
+- `00_setup_requirements.ipynb`: Ortam ve paket hazırlığı.
+- `01a_build_reuters_annotation_dataset.ipynb`: Reuters 5.000 dış test anotasyon setinin hazırlanması.
+- `01b_build_sp500_annotation_dataset.ipynb`: S&P 500 başlıklarının FinBERT ile etiketlenmesi ve anotasyon batchlerinin hazırlanması.
+
+**Hazır Model ve Zero-Shot Kontrolleri**
+
+- `02_evaluate_finbert_baseline.ipynb`: Hazır FinBERT modelinin hedef veri setinde nasıl davrandığını gösteren baseline ve hata analizi.
+- `03a_evaluate_unfinetuned_models_diagnostic.ipynb`: Fine-tune edilmemiş modellerin rastgele classification head ile neden ana baseline olamayacağını gösteren diagnostic kontrol.
+- `03b_evaluate_zero_shot_sp500_external_test.ipynb`: BART MNLI ile gerçek zero-shot S&P 500 testi.
+- `03c_evaluate_zero_shot_model_family_sp500_external_test.ipynb`: BERT, DistilBERT ve RoBERTa ailelerinin NLI/MNLI zero-shot testi.
+
+**Tezin Ana Fine-Tuning ve Dış Test Akışı**
+
+- `04_train_plain_sentiment_models.ipynb`: BERT, DistilBERT ve RoBERTa modellerinin plain sentiment eğitimi.
+- `05_evaluate_sp500_finetuned_models.ipynb`: Fine-tune modellerin S&P 500 dış test değerlendirmesi.
+- `06_evaluate_synthetic_finetuned_models.ipynb`: Fine-tune modellerin sentetik finans haberleri üzerinde kontrol testi.
+- `07_evaluate_reuters_finetuned_models.ipynb`: Fine-tune modellerin Reuters 5.000 dış test değerlendirmesi.
+
+**Ek Veri Seti Arama**
+
+- `09_search_new_dataset.ipynb`: Hocanın istediği ek veri seti arama ve dış test adayı seçimi.
 
 ### 6.1. Baseline, Diagnostic ve Zero-Shot Dosyalarının Farkı
 
-`02`, `03a`, `03b` ve `03c` notebookları bizim fine-tuning deneyinden önceki karşılaştırma ve kontrol katmanını oluşturur. Bu dosyalar aynı şeyi yapmaz; her biri farklı bir soruya cevap verir.
+`02`, `03a`, `03b` ve `03c` notebookları bizim fine-tuning deneyinden önceki karşılaştırma ve kontrol katmanını oluşturur. Bu dosyalar aynı şeyi yapmaz.
 
-| Notebook | Ne test ediyor? | Tezdeki anlamı | Ana başarı baseline'ı mı? |
-| --- | --- | --- | --- |
-| `02_evaluate_finbert_baseline.ipynb` | Hazır `ProsusAI/finbert` modeli | Finansal sentiment için zaten eğitilmiş bir modelin hedef veri setinde ne kadar uyumlu olduğunu gösterir. | Evet |
-| `03a_evaluate_unfinetuned_models_diagnostic.ipynb` | Fine-tune edilmemiş BERT/DistilBERT/RoBERTa modelleri ve rastgele başlayan classification head | Modeli göreve eğitmeden doğrudan kullanmanın neden anlamlı bir başarı sonucu vermediğini gösteren diagnostic kontroldür. | Hayır |
-| `03b_evaluate_zero_shot_sp500_external_test.ipynb` | BART MNLI ile tek model zero-shot classification | Model fine-tune edilmeden, NLI mantığıyla `negative/neutral/positive` hipotezleri üzerinden sınıflandırma yapar. Rastgele değildir. | Evet, zero-shot baseline |
-| `03c_evaluate_zero_shot_model_family_sp500_external_test.ipynb` | BERT, DistilBERT ve RoBERTa ailelerinin NLI/MNLI zero-shot karşılıkları | `03b` deneyini genişletir; farklı genel amaçlı zero-shot model ailelerini aynı S&P 500 dış testinde karşılaştırır. | Evet, zero-shot karşılaştırma |
+**`02_evaluate_finbert_baseline.ipynb`**
 
-Bu nedenle `03a`, `03b` ve `03c` aynı deneyin kopyası değildir. `03a` daha çok “modeli eğitmeden rastgele head ile kullanırsak ne olur?” sorusuna cevap veren uyarı/diagnostic dosyasıdır. `03b` ve `03c` ise gerçek zero-shot baseline deneyleridir. Asıl tez katkısı bundan sonra gelen `04_train_plain_sentiment_models.ipynb` ile başlar; burada modeller hedef plain sentiment veri seti üzerinde fine-tune edilir.
+Hazır `ProsusAI/finbert` modeli test edilir. Finansal sentiment için zaten eğitilmiş bir modelin hedef veri setinde ne kadar uyumlu olduğunu gösterir. Bu dosya ana baseline olarak kullanılabilir.
+
+**`03a_evaluate_unfinetuned_models_diagnostic.ipynb`**
+
+Fine-tune edilmemiş BERT, DistilBERT ve RoBERTa modelleri denenir. Bu modellerin üzerindeki classification head rastgele başladığı için sonuçlar ana başarı sonucu olarak kullanılmaz. Dosyanın amacı şunu göstermektir: modeli göreve eğitmeden doğrudan kullanmak anlamlı bir sentiment sınıflandırması vermez.
+
+**`03b_evaluate_zero_shot_sp500_external_test.ipynb`**
+
+BART MNLI modeliyle gerçek zero-shot classification yapılır. Model fine-tune edilmez; ancak `negative`, `neutral`, `positive` hipotezleri üzerinden NLI mantığıyla karar verir. Bu nedenle rastgele değildir ve zero-shot baseline olarak yorumlanabilir.
+
+**`03c_evaluate_zero_shot_model_family_sp500_external_test.ipynb`**
+
+`03b` deneyinin genişletilmiş halidir. BERT, DistilBERT ve RoBERTa ailelerinin NLI/MNLI sürümleri aynı S&P 500 dış testinde karşılaştırılır. Bu dosya zero-shot modeller arasındaki farkı gösterir.
+
+Kısaca: `03a` uyarı/diagnostic dosyasıdır; `03b` ve `03c` gerçek zero-shot baseline deneyleridir. Asıl tez katkısı `04_train_plain_sentiment_models.ipynb` ile başlar.
 
 ## 7. Train / Validation / Test Bölünmesi
 
 `db/splits/plain_sentiment_v1/` altındaki güncel splitler:
 
-| Bölüm | Toplam | Negative | Neutral | Positive |
-| --- | ---: | ---: | ---: | ---: |
-| Train | 12.950 | 1.820 | 8.137 | 2.993 |
-| Validation | 1.432 | 215 | 929 | 288 |
-| Test | 2.386 | 358 | 1.549 | 479 |
+- Train: 12.950 satır. Negative 1.820, neutral 8.137, positive 2.993.
+- Validation: 1.432 satır. Negative 215, neutral 929, positive 288.
+- Test: 2.386 satır. Negative 358, neutral 1.549, positive 479.
 
 Test seti yalnızca Twitter Financial News Sentiment kaynağından gelir. Financial PhraseBank, FinBERT'in eğitim geçmişiyle çakışma riski nedeniyle final baseline karşılaştırmasında test verisi olarak kullanılmaz.
 
 ## 8. Eğitim ve Test Veri Seti Eşleşmesi
 
-Aşağıdaki tablo, her deney dosyasının hangi veri setini kullandığını açıkça gösterir. Böylece eğitim verisi, iç test verisi ve bağımsız dış test verileri birbirine karıştırılmaz.
+Bu bölümde her deney dosyasının hangi veri setiyle eğitildiği ve hangi veri setiyle test edildiği açıklanır. Amaç, eğitim verisi, iç test verisi ve bağımsız dış test verilerinin karışmasını önlemektir.
 
-| Notebook | Eğitim verisi | Test/değerlendirme verisi | Amaç |
-| --- | --- | --- | --- |
-| `02_evaluate_finbert_baseline.ipynb` | Yeni eğitim yok; hazır `ProsusAI/finbert` kullanılır. | `db/splits/plain_sentiment_v1/test_df.parquet`; Twitter Financial News Sentiment test bölümü, 2.386 satır. | Hazır FinBERT modelinin hedef plain sentiment veri setindeki başlangıç performansını ölçmek. |
-| `03a_evaluate_unfinetuned_models_diagnostic.ipynb` | Yeni eğitim yok; BERT/DistilBERT/RoBERTa taban modellerine rastgele başlayan classification head takılır. | S&P 500 anotasyon batchleri; `db/annotations/sp500_human_review_batches/`. | Fine-tune edilmemiş modellerin doğrudan kullanılamayacağını gösteren diagnostic kontrol. |
-| `03b_evaluate_zero_shot_sp500_external_test.ipynb` | Yeni eğitim yok; BART MNLI zero-shot modeli kullanılır. | S&P 500 anotasyon batchleri; çıktı `outputs/zero_shot_sp500_external_test/` altına kaydedilir. | Tek bir güçlü NLI modelinin zero-shot sentiment başarısını ölçmek. |
-| `03c_evaluate_zero_shot_model_family_sp500_external_test.ipynb` | Yeni eğitim yok; BERT/DistilBERT/RoBERTa ailelerinin NLI/MNLI sürümleri kullanılır. | S&P 500 anotasyon batchleri; `n_eval=1060`, çıktı `outputs/zero_shot_sp500_external_test_model_family/` altına kaydedilir. | Genel amaçlı zero-shot model ailelerini aynı dış testte karşılaştırmak. |
-| `04_train_plain_sentiment_models.ipynb` | `db/processed/training_datasets/plain_sentiment_dataset.parquet`; Twitter Financial News Sentiment + Financial PhraseBank toplam 16.777 satır. | `db/splits/plain_sentiment_v1/val_df.parquet` ve `test_df.parquet`; test bölümü yalnızca Twitter Financial News Sentiment kaynaklıdır. | BERT, DistilBERT ve RoBERTa modellerini hedef plain sentiment görevine fine-tune etmek. |
-| `05_evaluate_sp500_finetuned_models.ipynb` | Bu notebookta yeni eğitim yok; `04` ile üretilen checkpointler kullanılır. | S&P 500 bağımsız anotasyon seti; `db/annotations/sp500_human_review_batches/`. | Fine-tune edilen modellerin eğitimden farklı finans haber başlıklarına genellemesini ölçmek. |
-| `06_evaluate_synthetic_finetuned_models.ipynb` | Yeni eğitim yok; `04` checkpointleri ve hazır FinBERT kullanılır. | `db/evaluation/synthetic_financial_news/`; her sınıftan 1.000 örnek, toplam 3.000 sentetik haber. | Açık sentiment sinyallerinde modellerin davranışını dengeli veriyle kontrol etmek. |
-| `07_evaluate_reuters_finetuned_models.ipynb` | Yeni eğitim yok; `04` checkpointleri ve dosyadaki FinBERT label baselineı kullanılır. | `db/annotations/reuters_5000/REUTERS_annotation_all_clean.csv`; 5.000 Reuters başlığı. | Modellerin Reuters haber diline ve farklı etiket dağılımına genellemesini ölçmek. |
-| `09_search_new_dataset.ipynb` | Eğitim yapmaz. | Yeni aday veri setlerinden örnekler ve karşılaştırma tabloları. | Hocanın istediği ek veri setini belirlemek ve ileride dış teste sokulabilecek adayı seçmek. |
+**`02_evaluate_finbert_baseline.ipynb`**
+
+- Eğitim: Bu notebookta yeni eğitim yoktur. Hazır `ProsusAI/finbert` modeli kullanılır.
+- Test: `db/splits/plain_sentiment_v1/test_df.parquet`.
+- Veri kaynağı: Twitter Financial News Sentiment test bölümü, 2.386 satır.
+- Amaç: Hazır FinBERT modelinin hedef plain sentiment veri setindeki başlangıç performansını ölçmek.
+
+**`03a_evaluate_unfinetuned_models_diagnostic.ipynb`**
+
+- Eğitim: Yeni eğitim yoktur. BERT, DistilBERT ve RoBERTa taban modellerine rastgele başlayan classification head takılır.
+- Test: `db/annotations/sp500_human_review_batches/`.
+- Veri kaynağı: S&P 500 anotasyon batchleri.
+- Amaç: Fine-tune edilmemiş modellerin doğrudan kullanılamayacağını gösteren diagnostic kontrol.
+
+**`03b_evaluate_zero_shot_sp500_external_test.ipynb`**
+
+- Eğitim: Yeni eğitim yoktur. BART MNLI zero-shot modeli kullanılır.
+- Test: `db/annotations/sp500_human_review_batches/`.
+- Çıktı: `outputs/zero_shot_sp500_external_test/`.
+- Amaç: Tek bir güçlü NLI modelinin zero-shot sentiment başarısını ölçmek.
+
+**`03c_evaluate_zero_shot_model_family_sp500_external_test.ipynb`**
+
+- Eğitim: Yeni eğitim yoktur. BERT, DistilBERT ve RoBERTa ailelerinin NLI/MNLI sürümleri kullanılır.
+- Test: S&P 500 anotasyon batchleri, `n_eval=1060`.
+- Çıktı: `outputs/zero_shot_sp500_external_test_model_family/`.
+- Amaç: Genel amaçlı zero-shot model ailelerini aynı dış testte karşılaştırmak.
+
+**`04_train_plain_sentiment_models.ipynb`**
+
+- Eğitim: `db/processed/training_datasets/plain_sentiment_dataset.parquet`.
+- Eğitim kaynakları: Twitter Financial News Sentiment + Financial PhraseBank, toplam 16.777 satır.
+- Validation/Test: `db/splits/plain_sentiment_v1/val_df.parquet` ve `test_df.parquet`.
+- Not: Test bölümü yalnızca Twitter Financial News Sentiment kaynaklıdır.
+- Amaç: BERT, DistilBERT ve RoBERTa modellerini hedef plain sentiment görevine fine-tune etmek.
+
+**`05_evaluate_sp500_finetuned_models.ipynb`**
+
+- Eğitim: Bu notebookta yeni eğitim yoktur. `04` ile üretilen checkpointler kullanılır.
+- Test: `db/annotations/sp500_human_review_batches/`.
+- Veri kaynağı: Bağımsız S&P 500 haber başlığı anotasyonları.
+- Amaç: Fine-tune edilen modellerin eğitimden farklı finans haber başlıklarına genellemesini ölçmek.
+
+**`06_evaluate_synthetic_finetuned_models.ipynb`**
+
+- Eğitim: Yeni eğitim yoktur. `04` checkpointleri ve hazır FinBERT kullanılır.
+- Test: `db/evaluation/synthetic_financial_news/`.
+- Veri kaynağı: Her sınıftan 1.000 örnek, toplam 3.000 sentetik finans haberi.
+- Amaç: Açık sentiment sinyallerinde modellerin davranışını dengeli veriyle kontrol etmek.
+
+**`07_evaluate_reuters_finetuned_models.ipynb`**
+
+- Eğitim: Yeni eğitim yoktur. `04` checkpointleri ve dosyadaki FinBERT label baselineı kullanılır.
+- Test: `db/annotations/reuters_5000/REUTERS_annotation_all_clean.csv`.
+- Veri kaynağı: 5.000 Reuters haber başlığı.
+- Amaç: Modellerin Reuters haber diline ve farklı etiket dağılımına genellemesini ölçmek.
+
+**`09_search_new_dataset.ipynb`**
+
+- Eğitim: Eğitim yapmaz.
+- Test: Henüz final test değildir; yeni aday veri setlerinden örnekler ve karşılaştırma tabloları hazırlar.
+- Amaç: Hocanın istediği ek veri setini belirlemek ve ileride dış teste sokulabilecek adayı seçmek.
 
 ### 8.1. Ana Eğitim Verisi
 
 Ana fine-tuning verisi `plain_sentiment_dataset.parquet` dosyasıdır. Bu dosya iki kaynaktan oluşur:
 
-| Kaynak | Satır | Kullanım |
-| --- | ---: | --- |
-| Twitter Financial News Sentiment | 11.931 | Kısa finansal/piyasa metinleri ve hedef görev mantığı |
-| Financial PhraseBank | 4.846 | Finans haber cümleleriyle eğitim havuzunu zenginleştirme |
-| **Toplam** | **16.777** | Plain sentiment fine-tuning |
+- Twitter Financial News Sentiment: 11.931 satır. Kısa finansal/piyasa metinleri ve hedef görev mantığı için kullanılır.
+- Financial PhraseBank: 4.846 satır. Finans haber cümleleriyle eğitim havuzunu zenginleştirir.
+- Toplam: 16.777 satır plain sentiment fine-tuning verisi.
 
-`test_df.parquet` yalnızca Twitter Financial News Sentiment kaynağından ayrılmıştır. Bunun nedeni, hazır FinBERT modelinin Financial PhraseBank ile önceden ilişkili olma ihtimalidir; bu nedenle final baseline karşılaştırmasında daha temiz bir test alanı sağlanır.
+`test_df.parquet` yalnızca Twitter Financial News Sentiment kaynağından ayrılmıştır. Bunun nedeni, hazır FinBERT modelinin Financial PhraseBank ile önceden ilişkili olma ihtimalidir. Bu seçim final baseline karşılaştırmasında daha temiz bir test alanı sağlar.
 
 ### 8.2. Dış Test Verileri
 
 Dış testler modelin sadece eğitim verisini ezberleyip ezberlemediğini değil, farklı haber kaynaklarına genelleyip genelleyemediğini göstermek için kullanılır.
 
-| Dış test | Dosya/klasör | Rol |
-| --- | --- | --- |
-| S&P 500 anotasyon seti | `db/annotations/sp500_human_review_batches/` | Finans haber başlıklarında bağımsız dış test |
-| Reuters 5.000 | `db/annotations/reuters_5000/REUTERS_annotation_all_clean.csv` | Farklı haber kaynağı ve farklı etiket dağılımıyla dış test |
-| Sentetik finans haberleri | `db/evaluation/synthetic_financial_news/` | Dengeli ve açık sentiment sinyalli kontrol testi |
+- S&P 500 anotasyon seti: `db/annotations/sp500_human_review_batches/`. Finans haber başlıklarında bağımsız dış testtir.
+- Reuters 5.000: `db/annotations/reuters_5000/REUTERS_annotation_all_clean.csv`. Farklı haber kaynağı ve farklı etiket dağılımıyla dış testtir.
+- Sentetik finans haberleri: `db/evaluation/synthetic_financial_news/`. Dengeli ve açık sentiment sinyalli kontrol testidir.
 
 ## 9. Raporlanan Fine-Tuned Model Sonuçları
 
