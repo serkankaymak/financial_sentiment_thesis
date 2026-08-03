@@ -37,13 +37,6 @@ PLAIN_SENTIMENT_DATASET_CSV_PATH = (
 PLAIN_SENTIMENT_DATASET_PARQUET_PATH = (
     TRAINING_DATASETS_DIR / "plain_sentiment_dataset.parquet"
 )
-TARGET_LEVEL_SENTIMENT_DATASET_CSV_PATH = (
-    TRAINING_DATASETS_DIR / "target_level_sentiment_dataset.csv"
-)
-TARGET_LEVEL_SENTIMENT_DATASET_PARQUET_PATH = (
-    TRAINING_DATASETS_DIR / "target_level_sentiment_dataset.parquet"
-)
-
 SP500_RAW_HEADLINES_PATH = RAW_DATA_DIR / "sp500_headlines_2008_2024_raw.csv"
 SP500_FINBERT_LABELED_HEADLINES_PATH = (
     PROCESSED_DATA_DIR / "sp500_headlines_2008_2024_finbert_labeled.csv"

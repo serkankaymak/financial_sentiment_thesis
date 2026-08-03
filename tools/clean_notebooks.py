@@ -33,8 +33,6 @@ PATH_CONSTANTS = (
     "SP500_HUMAN_REVIEW_BATCHES_DIR",
     "SP500_RAW_HEADLINES_PATH",
     "SYNTHETIC_NEWS_DIR",
-    "TARGET_LEVEL_SENTIMENT_DATASET_CSV_PATH",
-    "TARGET_LEVEL_SENTIMENT_DATASET_PARQUET_PATH",
     "TRAINING_DATASETS_DIR",
 )
 
@@ -154,14 +152,6 @@ def normalize_source(source: str) -> str:
     source = source.replace(
         'DATA_DIR / "plain_sentiment_df.csv"',
         "PLAIN_SENTIMENT_DATASET_CSV_PATH",
-    )
-    source = source.replace(
-        'DATA_DIR / "target_level_sentiment_df.parquet"',
-        "TARGET_LEVEL_SENTIMENT_DATASET_PARQUET_PATH",
-    )
-    source = source.replace(
-        'DATA_DIR / "target_level_sentiment_df.csv"',
-        "TARGET_LEVEL_SENTIMENT_DATASET_CSV_PATH",
     )
     source = source.replace(
         'PROJECT_DIR / "app" / "data" / "plain_sentiment_df.csv"',

@@ -60,8 +60,6 @@ MOVES = (
 APP_DATA_MOVES = (
     ("plain_sentiment_df.csv", "plain_sentiment_dataset.csv"),
     ("plain_sentiment_df.parquet", "plain_sentiment_dataset.parquet"),
-    ("target_level_sentiment_df.csv", "target_level_sentiment_dataset.csv"),
-    ("target_level_sentiment_df.parquet", "target_level_sentiment_dataset.parquet"),
 )
 
 

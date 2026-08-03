@@ -22,7 +22,7 @@ yazmak yerine `app/thesis_utils/paths.py` içindeki sabitleri kullanın.
 | `processed/aggregated_financial_news_enriched.csv` | Birleştirilmiş ve zenginleştirilmiş finans haberleri |
 | `processed/market_sentiment_modeling_master.parquet` | Piyasa yönü modellemesi için ana veri seti |
 | `processed/sp500_headlines_2008_2024_finbert_labeled.csv` | FinBERT ile etiketlenmiş SP500 başlıkları |
-| `processed/training_datasets/` | Plain ve target-level sentiment eğitim veri setleri |
+| `processed/training_datasets/` | Plain sentiment eğitim veri setleri |
 | `interim/sp500_headlines_2008_2024_finbert_labeling_progress.parquet` | SP500 FinBERT etiketleme devam kaydı |
 | `interim/pseudo_labeled_news_confidence_090.parquet` | Güven eşiği 0.90 ile pseudo-label üretilmiş haberler |
 
@@ -43,5 +43,6 @@ yazmak yerine `app/thesis_utils/paths.py` içindeki sabitleri kullanın.
 | `splits/plain_sentiment_v1/` | Plain sentiment train, validation ve test splitleri |
 | `evaluation/synthetic_financial_news/` | Sentetik finans haberi model değerlendirme seti |
 
-Değerlendirme metrikleri ve prediction dosyaları kalıcı veri değildir.
-Test notebookları çalıştırıldığında ekranda yeniden üretilir.
+Fine-tuned model değerlendirmelerinde metrikler çoğunlukla notebook ekranında
+üretilir. Zero-shot S&P 500 deneylerinin prediction, confusion matrix ve özet
+CSV çıktıları ise proje kökündeki `outputs/` klasöründe kalıcı olarak tutulur.
