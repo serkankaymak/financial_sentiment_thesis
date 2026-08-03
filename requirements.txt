@@ -1,0 +1,17 @@
+accelerate>=1.1.0
+datasets
+matplotlib
+nbconvert
+nltk
+numpy
+openpyxl
+pandas
+pyarrow
+scikit-learn
+seaborn
+sentence-transformers
+sentencepiece
+torch
+tqdm
+transformers
+yfinance

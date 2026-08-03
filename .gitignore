@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated datasets and trained model artifacts
+app/data/
+checkpoints/
+db/*
+!db/README.md
+
+# Rendered notebook reports
+app/rapor/
+reports/
