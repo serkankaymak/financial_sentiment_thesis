@@ -1,0 +1,3 @@
+﻿comparison_id,reason,key
+Reuters_RoBERTa_vs_FTFinBERT,missing input: reuters_roberta,
+,Reuters RoBERTa external prediction CSV is not present in this repository.,reuters_roberta
