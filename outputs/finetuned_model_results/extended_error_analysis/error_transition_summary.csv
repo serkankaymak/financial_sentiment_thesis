@@ -1,0 +1,7 @@
+﻿dataset_std,model_std,error_transition,error_count,total_errors,share_of_model_errors
+Internal,Fine-tuned FinBERT,neutral → positive,78,282,0.2765957446808511
+Internal,Fine-tuned FinBERT,neutral → negative,75,282,0.26595744680851063
+Internal,Fine-tuned FinBERT,negative → neutral,52,282,0.18439716312056736
+Internal,Fine-tuned FinBERT,positive → neutral,52,282,0.18439716312056736
+Internal,Fine-tuned FinBERT,positive → negative,17,282,0.06028368794326241
+Internal,Fine-tuned FinBERT,negative → positive,8,282,0.028368794326241134

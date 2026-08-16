@@ -1,0 +1,5 @@
+Internal: en yüksek Macro-F1 = RoBERTa (0.8651); en düşük = FinBERT (0.6794).
+S&P 500: en yüksek Macro-F1 = RoBERTa (0.8145); en düşük = DistilBERT (0.7510).
+Synthetic: en yüksek Macro-F1 = RoBERTa (0.9957); en düşük = FinBERT (0.9551).
+Reuters: en yüksek Macro-F1 = FinBERT (0.6866); en düşük = DistilBERT (0.5869).
+Neutral sınıfında bulunan sonuçlar içinde en yüksek F1 = Fine-tuned FinBERT / Internal (0.9157); en düşük = DistilBERT / S&P 500 (0.7378).

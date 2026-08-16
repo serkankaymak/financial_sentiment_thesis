@@ -1,0 +1,61 @@
+﻿dataset_std,model_std,gold_label_std,prediction_std,error_transition,confidence,text_for_review,manual_error_category,manual_note,prob_negative,prob_neutral,prob_positive,source_dataset
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.9935295,Goldman Sachs Says Wealthiest to Back off Stocks,,,0.0023827704,0.9935295,0.004087752,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.98346853,"Hackers have gained access to thousands of Disney+ user accounts, selling them for between $3 and $11, according to… https://t.co/WjNynp7g4w",,,0.016314054,0.98346853,0.00021733285,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.99230766,"Madhya Pradesh Vyapam Scam: Man Gets 10 Years, 30 Others Get 7 Years In Jail",,,0.0074864784,0.99230766,0.0002058379,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.9863295,Why Aurora Cannabis Is Getting Hammered Today,,,0.003292377,0.9863295,0.010378109,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.99042624,Schweizerische Nationalbank : Switzerland Loses Grip on World's Lowest Borrowing Costs -- ...… https://t.co/fuN3T0obd5,,,0.009375057,0.99042624,0.00019875157,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.9927044,Oil prices fall but hold near three-month high on trade deal agreement,,,0.0030545616,0.9927044,0.0042410595,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.6252717,Needham's Martin Defends Her Prediction That Netflix Subscriptions Will Fall,,,0.36880338,0.6252717,0.0059249857,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.9980574,"Forget 'Ides Of March', Washington 'Storms Of December' Loom Over ""The Holidays"" https://t.co/KK7SgNSh1E",,,0.0017836457,0.9980574,0.00015895219,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.99824226,Kodak Is Having a Comeback Moment as Oscars Embrace Film,,,0.00039963017,0.99824226,0.0013580903,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.9994124,Saint-Gobain North America Announces Largest Renewable Energy Deal in Company’s 354-Year History,,,0.00028778586,0.9994124,0.0002997012,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.9968094,Rains bring drought relief and hope to Australian farmers https://t.co/eTC9tqtevp,,,0.0007022806,0.9968094,0.0024882453,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.99907696,"Why Ebix, Inc. (NASDAQ:EBIX) Should Be In Your Dividend Portfolio",,,0.0001720158,0.99907696,0.00075109414,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.7884355,Communications Services Up On Rotation Into Cyclical Sectors -- Communications Services Roundup #economy… https://t.co/N0QkHtxl0d,,,0.0008085938,0.7884355,0.21075587,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.9602863,Why Disney+ is the only service that can rival Netflix,,,0.00023851871,0.9602863,0.039475087,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.9544497,$CAL $TPR $FL - Comeback bid for apparel https://t.co/sLP0UuRWUM,,,0.00190421,0.9544497,0.043646034,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.99807525,Deluxe delivered record FY2019 revenue,,,0.00026175633,0.99807525,0.0016629511,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,positive,neutral → positive,0.6067723,Unemployment Rate Seen Holding at 3.5% -- Data Week Ahead #matprem #MarketScreener https://t.co/uDTdqueEgE https://t.co/woEYOEdDoq,,,0.22753754,0.16569012,0.6067723,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,positive,neutral → positive,0.9979711,$YEXT - Yext: The Crash Is A Buying Opportunity. Read more and get updates on any stock! https://t.co/4mizbyGBTR… https://t.co/B7QRWSRDyq,,,0.00025208545,0.0017768292,0.9979711,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,positive,neutral → positive,0.9981956,"$HP - Helmerich & Payne: Dividend Safety Improving, Although Concerns Remain. Read more: https://t.co/vQv7uA4Vnp… https://t.co/O2CjjBd9Di",,,0.00017515833,0.001629253,0.9981956,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,positive,neutral → positive,0.9986934,$WING - Baird returns to Wingstop bull camp https://t.co/KfPaweOVgo,,,0.0006071264,0.0006995136,0.9986934,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,positive,neutral → positive,0.9836516,"'Jumanji' Sequel With Dwayne Johnson, Kevin Hart Tops Box Office",,,0.00036949367,0.015978929,0.9836516,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,positive,neutral → positive,0.9987406,Trump: 'Exports would zoom' if Fed lowers rates,,,0.0003909254,0.00086851185,0.9987406,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,positive,neutral → positive,0.9987669,Salesforce on watch as DreamForce event ramps up,,,0.00032964538,0.00090345327,0.9987669,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,positive,neutral → positive,0.98573595,"BHP is plans to increase its stake in SolGold, which develops projects in copper hot spot Ecuador https://t.co/JRxd5ww9Sy",,,0.00015804272,0.0141059635,0.98573595,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,negative,neutral → negative,0.9872076,The U.K. reports a decline in the number of coronavirus-related deaths for the second day in a row https://t.co/RD7dWLp3kE,,,0.9872076,0.0054416135,0.007350776,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,negative,neutral → negative,0.9980117,"PG&E to cut power to 150,000 customer for fire risk",,,0.9980117,0.0017910555,0.00019731461,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,negative,neutral → negative,0.99808985,$AAPL - Apple delays theatrical debut of 'The Banker' https://t.co/vAHWmIoXp8,,,0.99808985,0.0017158128,0.0001943291,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,negative,neutral → negative,0.9984799,"PNB Under-Reported Bad Loans By Rs 2,617 Crore In FY19",,,0.9984799,0.0011679108,0.00035219264,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,negative,neutral → negative,0.9930098,Apple has 'deep concerns' Chinese-born ex-employees could flee country with trade secrets https://t.co/lybSDAYibb v… https://t.co/quM3HRynDB,,,0.9930098,0.006788365,0.00020183228,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,negative,neutral → negative,0.97873014,Canadian National Railway on watch amid strike,,,0.97873014,0.02100836,0.00026151142,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,negative,neutral → negative,0.9966708,Apple delaying the theatrical release of “The Banker” after one of the movie’s producers was accused of assault by… https://t.co/rqPyMuLZob,,,0.9966708,0.0031158852,0.00021338237,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,neutral,negative,neutral → negative,0.99579513,"Highlight: ""Uber's vowed to appeal this decision,"" @tom_belger says after $UBER loses its London license over safet… https://t.co/1zo83OP3Ae",,,0.99579513,0.0038911027,0.0003137225,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,negative,positive → negative,0.8239956,Estee Lauder Q2 sales $4.62 bln vs. $4.01 bln; FactSet consensus $4.35 bln,,,0.8239956,0.0047637452,0.17124066,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,negative,positive → negative,0.9983923,$GLD $SLV - Gold & Silver Update: December May Be A Bottom. Read more: https://t.co/c0d06nlqQJ #trading #finance #stocks,,,0.9983923,0.0010537157,0.0005540515,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,negative,positive → negative,0.7791158,Job Openings in U.S. Unexpectedly Rose in October to 7.3 Million,,,0.7791158,0.003460038,0.21742412,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,negative,positive → negative,0.9972504,Lagging MLP upgraded at Goldman as new projects seen lifting cash flows,,,0.9972504,0.0025561068,0.00019349135,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,negative,positive → negative,0.99857855,Gold bars in short supply due to coronavirus disruption https://t.co/EWyq7sdECJ,,,0.99857855,0.0011204345,0.00030109976,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,negative,positive → negative,0.9983783,"$CLR (+4.3% pre) Continental Resources suspends dividend amid coronavirus woes - Reuters
+
+https://t.co/tqpAqQbJR1",,,0.9983783,0.0011045209,0.0005172353,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,negative,positive → negative,0.9935376,"$hdge shorts getting killed today
+
+https://t.co/EeN0kh6baB",,,0.9935376,0.0061869733,0.0002754126,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,negative,positive → negative,0.9954516,"RECAP 12/10 Unusual Calls:
+$QSR Dec 67.5 C
+$OXY Dec13 38.5 C
+$CL Mar 75 C
+$ARQL Apr 20 C
+$LPI Jan 3 C
+$JBLU Jan 20… https://t.co/Kg9YOYBDgF",,,0.9954516,0.0043863636,0.00016196696,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,positive,negative → positive,0.98005956,Kohl's Q3 EPS 78 cents vs. 98 cents,,,0.01892339,0.0010170321,0.98005956,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,positive,negative → positive,0.9941413,EUR/USD Price Forecast – Euro Looks Likely To Break Down,,,0.0020562352,0.0038024648,0.9941413,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,positive,negative → positive,0.9981806,"Bear-Market Bounce Breaks Despite ""Global Money-Printing Orgy""  https://t.co/d5ecBrunow",,,0.00034306108,0.0014762961,0.9981806,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,positive,negative → positive,0.99727577,Jobless claims hits 2.5 months high,,,0.0019654047,0.00075883203,0.99727577,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,positive,negative → positive,0.9986909,"U.S. job openings remained elevated in February, prior to the unprecedented surge in layoffs https://t.co/0XdZbEhmKj https://t.co/qX0INGsJYQ",,,0.0005640976,0.0007449952,0.9986909,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,positive,negative → positive,0.9935003,A Booming Corner of Private Credit Has Some Investors on Edge,,,0.0005009724,0.005998706,0.9935003,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,positive,negative → positive,0.9976629,Samsung Heavy Industries to pay $75 million to resolve foreign bribery case: U.S. #SamsungHeavyIndustries #Stock… https://t.co/XgTBQMro1V,,,0.00084255956,0.0014945582,0.9976629,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,positive,negative → positive,0.6286605,Bank of America sees demand surge for paycheck protection loans https://t.co/6feALqK8zN,,,0.0062122527,0.3651273,0.6286605,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,positive,neutral,positive → neutral,0.9981007,Ford invests more in Michigan,,,0.00020914811,0.9981007,0.0016901752,TwitterFinancialNewsSentiment
+Internal,Fine-tuned FinBERT,negative,neutral,negative → neutral,0.5479658,OPEC+ deal is much weaker than it looks,,,0.45088777,0.5479658,0.0011463608,TwitterFinancialNewsSentiment

@@ -1,0 +1,9 @@
+﻿manual_error_category,short_description
+mixed_information,Aynı metinde olumlu ve olumsuz sinyaller birlikte bulunuyor.
+expectation_comparison,"Sonuç, beklenti/tahmin/önceki dönem ile kıyaslanmadan yorumlanamıyor."
+ambiguous_market_direction,Metin net bir piyasa yönü taşımıyor veya etki belirsiz.
+entity_target_ambiguity,Duygunun hangi şirket/varlık/hedef için olduğu belirsiz.
+negation_or_contrast,Olumsuzlama veya karşıtlık yapıları etkili.
+numeric_financial_context,Yüzeysel kelimeden çok sayısal finansal bağlam belirleyici.
+annotation_semantics_mismatch,Model mantığı ile veri setinin etiket semantiği uyuşmuyor.
+other,Diğer.

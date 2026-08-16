@@ -1,0 +1,16 @@
+﻿model,dataset,class,f1
+Fine-tuned FinBERT,Internal,negative,0.7967914438502673
+Fine-tuned FinBERT,Internal,neutral,0.915710068875041
+Fine-tuned FinBERT,Internal,positive,0.841025641025641
+BERT,S&P 500,negative,0.744828
+BERT,S&P 500,neutral,0.745849
+BERT,S&P 500,positive,0.774108
+DistilBERT,S&P 500,negative,0.739206
+DistilBERT,S&P 500,neutral,0.737789
+DistilBERT,S&P 500,positive,0.775885
+FinBERT,S&P 500,negative,0.766328
+FinBERT,S&P 500,neutral,0.748201
+FinBERT,S&P 500,positive,0.741848
+RoBERTa,S&P 500,negative,0.833058
+RoBERTa,S&P 500,neutral,0.77675
+RoBERTa,S&P 500,positive,0.833773

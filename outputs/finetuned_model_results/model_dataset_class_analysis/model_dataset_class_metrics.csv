@@ -1,0 +1,18 @@
+﻿model,dataset,n,accuracy,f1_macro,f1_weighted,precision_negative,recall_negative,f1_negative,support_negative,precision_neutral,recall_neutral,f1_neutral,support_neutral,precision_positive,recall_positive,f1_positive,support_positive,source,source_path
+BERT,Internal,,0.8722,0.8378,0.8733,,,,,,,,,,,,,thesis_reference,
+DistilBERT,Internal,,0.8583,0.8218,0.8593,,,,,,,,,,,,,thesis_reference,
+FinBERT,Internal,,0.7323,0.6794,0.74,,,,,,,,,,,,,thesis_reference,
+Fine-tuned FinBERT,Internal,2386.0,0.8818105616093881,0.8511757179169832,0.8828740635528569,0.764102564102564,0.8324022346368715,0.7967914438502673,358.0,0.9306666666666666,0.9012265978050356,0.915710068875041,1549.0,0.8266129032258065,0.8559498956158664,0.841025641025641,479.0,prediction_file,D:\serkan.kaymak\financial_sentiment_thesis\financial_sentiment_thesis\checkpoints\financial_sentiment_multi_model\finbert_target_finetuned_seed42\results\test_predictions.csv
+RoBERTa,Internal,,0.8906,0.8651,0.8918,,,,,,,,,,,,,thesis_reference,
+BERT,Reuters,,0.6034,0.6131,0.624,,,,,,,,,,,,,thesis_reference,
+DistilBERT,Reuters,,0.5766,0.5869,0.5953,,,,,,,,,,,,,thesis_reference,
+FinBERT,Reuters,,0.6966,0.6866,0.7016,,,,,,,,,,,,,thesis_reference,
+RoBERTa,Reuters,,0.6268,0.6388,0.6486,,,,,,,,,,,,,thesis_reference,
+BERT,S&P 500,,0.7557,0.7549,0.7561,,,0.744828,323.0,,,0.745849,339.0,,,0.774108,398.0,thesis_reference,
+DistilBERT,S&P 500,,0.7519,0.751,0.7525,,,0.739206,323.0,,,0.737789,339.0,,,0.775885,398.0,thesis_reference,
+FinBERT,S&P 500,,0.7519,0.7521,0.7513,,,0.766328,323.0,,,0.748201,339.0,,,0.741848,398.0,thesis_reference,
+RoBERTa,S&P 500,,0.8132,0.8145,0.8153,,,0.833058,323.0,,,0.77675,339.0,,,0.833773,398.0,thesis_reference,
+BERT,Synthetic,,0.9743,0.9742,0.9742,,,,,,,,,,,,,thesis_reference,
+DistilBERT,Synthetic,,0.9583,0.9581,0.9581,,,,,,,,,,,,,thesis_reference,
+FinBERT,Synthetic,,0.955,0.9551,0.9551,,,,,,,,,,,,,thesis_reference,
+RoBERTa,Synthetic,,0.9957,0.9957,0.9957,,,,,,,,,,,,,thesis_reference,

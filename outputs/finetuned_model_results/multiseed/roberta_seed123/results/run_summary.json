@@ -1,0 +1,12 @@
+{
+  "model_key": "roberta",
+  "model": "RoBERTa-base",
+  "model_name": "roberta-base",
+  "seed": 123,
+  "run_dir": "D:\\serkan.kaymak\\financial_sentiment_thesis\\financial_sentiment_thesis\\checkpoints\\financial_sentiment_multi_model\\multiseed\\roberta_seed123",
+  "val_accuracy": 0.8952513966480447,
+  "val_f1_macro": 0.871446919284212,
+  "test_accuracy": 0.901089689857502,
+  "test_f1_macro": 0.8756918277589879,
+  "test_f1_weighted": 0.9019115856620077
+}

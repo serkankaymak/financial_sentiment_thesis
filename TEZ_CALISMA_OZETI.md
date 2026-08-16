@@ -1,384 +1,546 @@
-# Finansal Sentiment Tezi
+# TEZ ÇALIŞMA ÖZETİ — SON KONTROL 2026
 
-**Güncel Çalışma Özeti**
+## 1. Tez Kimliği
 
-Bu dosya, mevcut proje klasöründeki notebook ve veri yapısına göre
-hazırlanmış kısa ama açıklayıcı çalışma özetidir.
+**Başlık:**  
+FİNANSAL DUYGU ANALİZİNDE MODEL GENELLEMESİ: FİNBERT VE İNCE AYARLI TRANSFORMER MODELLERİNİN KARŞILAŞTIRMALI İNCELENMESİ
 
-> Önemli not: Şirket/hedef bazlı ayrı etiketleme hattı hoca tarafından
-> istenmediği için projeden kaldırılmıştır. Güncel tez akışı
-> plain sentiment sınıflandırması, hazır FinBERT baseline'ı,
-> fine-tune edilen Transformer modelleri ve dış test değerlendirmeleri
-> üzerindedir.
+**Araştırma odağı:**  
+Hazır alan-özgü FinBERT, hedef veri setine ince ayarlı FinBERT ve genel amaçlı BERT / DistilBERT / RoBERTa modellerinin; iç test başarımı, çoklu seed kararlılığı, dış veri genellemesi, hata örüntüleri, kaynak-bileşimi etkisi ve CPU verimliliği açısından karşılaştırılması.
 
 ---
 
-## Kısa Okuma Rehberi
+## 2. Ana Araştırma Sorusu
 
-Bu özeti hızlı okumak için sıra şöyledir:
+Temel soru yalnızca “hangi model daha yüksek F1 alıyor?” değildir.
 
-1. **Amaç**: Tezin neyi ölçtüğünü anlatır.
-2. **Veriler**: Hangi veri seti nerede kullanıldı gösterir.
-3. **Notebook akışı**: Dosyaların hangi sırayla okunacağını verir.
-4. **Baseline / zero-shot**: Hazır modellerin ne yaptığını açıklar.
-5. **Fine-tuning sonuçları**: Bizim eğittiğimiz modellerin sonuçlarını verir.
-6. **Genel sonuç**: Tezde savunulacak ana yorumu özetler.
+Çalışma şu soruları birlikte ele alır:
 
----
-
-## 1. Çalışmanın Amacı
-
-Bu çalışmada finansal haber başlıkları ve kısa piyasa metinleri
-üç sınıfa ayrılır:
-
-- `negative`
-- `neutral`
-- `positive`
-
-Ana karşılaştırma şudur:
-
-- Hazır `ProsusAI/finbert` modeli baseline olarak test edilir.
-- BERT, DistilBERT ve RoBERTa modelleri plain sentiment verisiyle fine-tune edilir.
-- Fine-tune edilen modeller iç test ve bağımsız dış testlerde karşılaştırılır.
-- Zero-shot modeller ayrı bir baseline katmanı olarak incelenir.
+1. Hedef veri setine özgü fine-tuning performansı ne ölçüde artırır?
+2. Alan-özgü ön eğitim, hedefe özgü fine-tuning karşısında tek başına üstünlük sağlar mı?
+3. Model sıralaması farklı finansal veri kaynaklarında sabit kalır mı?
+4. Veri kaynağı ve etiket semantiği özellikle neutral sınıf hatalarını nasıl etkiler?
+5. Sentetik test başarımı gerçek dış-dağılım genellemesini ne ölçüde temsil eder?
+6. Financial PhraseBank gibi yardımcı bir kaynak eklemek RoBERTa performansını otomatik olarak artırır mı?
+7. En yüksek performanslı model aynı zamanda en verimli model midir?
 
 ---
 
-## 2. Proje Yapısı
+## 3. Veri Setleri
 
-**Ana klasörler**
+### Ana veri havuzu
 
-- `app/`: Sıralı deney, eğitim, değerlendirme ve veri arama notebookları.
-- `app/thesis_utils/`: Notebooklar arasında paylaşılan Python yardımcıları.
-- `db/`: Ham, işlenmiş, ara, split ve anotasyon verileri.
-- `checkpoints/`: Fine-tune edilmiş model checkpointleri.
-- `outputs/`: Zero-shot deneylerinden kalıcı CSV çıktıları.
-- `reports/`: Eski HTML notebook dışa aktarımları.
-- `tools/`: Notebook temizleme ve veri klasörü düzenleme araçları.
+Toplam: **16.777 örnek**
 
-**Veri klasörleri**
+- Twitter Financial News Sentiment: **11.931**
+- Financial PhraseBank: **4.846**
 
-- `db/raw/`: Ham veri dosyaları.
-- `db/interim/`: Ara çıktılar ve pseudo-label tabloları.
-- `db/processed/`: İşlenmiş ana veri tabloları.
-- `db/processed/training_datasets/`: Plain sentiment eğitim verisi.
-- `db/splits/plain_sentiment_v1/`: Train, validation ve test bölünmeleri.
-- `db/annotations/`: S&P 500 ve Reuters anotasyon dosyaları.
-- `db/evaluation/synthetic_financial_news/`: Sentetik test haberleri.
+Güncel split:
 
----
+- Train: **12.950**
+- Validation: **1.432**
+- Test: **2.386**
 
-## 3. Kullanılan Veri Setleri
+Ana havuz sınıf dağılımı:
 
-### 3.1. Ana Eğitim Verisi
+- Negative: **2.393 (%14,26)**
+- Neutral: **10.623 (%63,32)**
+- Positive: **3.761 (%22,42)**
 
-Ana fine-tuning dosyası:
+İç test:
 
-`db/processed/training_datasets/plain_sentiment_dataset.parquet`
+- Negative: **358**
+- Neutral: **1.549**
+- Positive: **479**
 
-Bu dosya iki kaynaktan oluşur:
+Önemli metodolojik nokta: iç test yalnızca ana Twitter veri kaynağından ayrılmıştır. Financial PhraseBank test kümesine alınmamış, eğitim havuzunda yardımcı kaynak olarak kullanılmıştır.
 
-**Twitter Financial News Sentiment**
+### Dış testler
 
-- Satır sayısı: 11.931.
-- Rolü: Kısa finansal ve piyasa odaklı metinlerde ana eğitim kaynağı.
-- Etiketler: `negative`, `neutral`, `positive` formatına dönüştürülür.
+- S&P 500: **N=1.060** — ana doğrulanmış dış test
+- Reuters: **N=5.000**
+- Sentetik finansal haber: **N=3.000**
 
-**Financial PhraseBank**
-
-- Satır sayısı: 4.846.
-- Rolü: Finans haber cümleleriyle eğitim havuzunu zenginleştirir.
-- Not: Hazır FinBERT'in Financial PhraseBank ile önceden ilişkili olma
-  ihtimali nedeniyle final test bölümünde ayrıca dikkat edilir.
-
-**Birleştirilmiş veri**
-
-- Toplam satır sayısı: 16.777.
-- Kullanım: BERT, DistilBERT ve RoBERTa fine-tuning.
-
-**Sınıf dağılımı**
-
-- Neutral: 10.623 satır, %63,32.
-- Positive: 3.761 satır, %22,42.
-- Negative: 2.393 satır, %14,26.
-
-> Veri setinde `neutral` sınıfı baskındır. Bu nedenle accuracy tek başına
-> yeterli değildir; macro-F1 metriği ana yorumda mutlaka dikkate alınır.
-
-### 3.2. Dış Test ve Kontrol Verileri
-
-**S&P 500 haber başlıkları**
-
-- Ana dosya: `db/processed/sp500_headlines_2008_2024_finbert_labeled.csv`.
-- Satır sayısı: 17.917.
-- Rolü: S&P 500 haber başlığı havuzu ve FinBERT label üretimi.
-
-**S&P 500 insan değerlendirme batchleri**
-
-- Klasör: `db/annotations/sp500_human_review_batches/`.
-- Durum: 106 batch dosyası; 1.067 satır okunuyor.
-- Rolü: S&P 500 dış test ve anotasyon değerlendirmesi.
-
-**Reuters 5.000 anotasyon seti**
-
-- Dosya: `db/annotations/reuters_5000/REUTERS_annotation_all_clean.csv`.
-- Satır sayısı: 5.000.
-- Rolü: Reuters haber dili üzerinde bağımsız dış test.
-
-**Sentetik finans haberleri**
-
-- Klasör: `db/evaluation/synthetic_financial_news/`.
-- Yapı: Her sınıftan 1.000 örnek, toplam 3.000 haber.
-- Rolü: Açık sentiment sinyallerinde dengeli kontrol testi.
+Kaynak-ablasyonu S&P değerlendirmesi ayrı bir loader nedeniyle **N=1.030** kullanmıştır. Bu sonuç yalnız ablation içindeki iki eğitim koşulunu kendi ortak 1.030 örneğinde karşılaştırmak için kullanılmalıdır; ana N=1.060 S&P sonuçlarıyla doğrudan kıyaslanmamalıdır.
 
 ---
 
-## 4. Notebook Akışı
+## 4. Modeller
 
-Notebooklar hoca karşısında anlatılacak mantıkla numaralandırılmıştır.
+Ana modeller:
 
-### Hazırlık
+1. Original / off-the-shelf ProsusAI/FinBERT
+2. Fine-tuned ProsusAI/FinBERT
+3. BERT-base-uncased
+4. DistilBERT-base-uncased
+5. RoBERTa-base
 
-- `00_setup_requirements.ipynb`
-  - Ortam ve paket hazırlığı.
+Tamamlayıcı sıfır örnekli/NLI modeller:
 
-- `01a_build_reuters_annotation_dataset.ipynb`
-  - Reuters 5.000 dış test anotasyon setinin hazırlanması.
+- BART-large-MNLI
+- RoBERTa-base NLI
+- BERT-base MNLI
+- DistilBERT-base MNLI
 
-- `01b_build_sp500_annotation_dataset.ipynb`
-  - S&P 500 başlıklarının FinBERT ile etiketlenmesi.
-  - Anotasyon batchlerinin hazırlanması.
-
-### Hazır Model ve Zero-Shot Kontrolleri
-
-- `02_evaluate_finbert_baseline.ipynb`
-  - Hazır FinBERT modelinin hedef veri setinde nasıl davrandığını gösterir.
-
-- `03a_evaluate_unfinetuned_models_diagnostic.ipynb`
-  - Fine-tune edilmemiş modellerin doğrudan kullanılamayacağını gösteren diagnostic dosyası.
-
-- `03b_evaluate_zero_shot_sp500_external_test.ipynb`
-  - BART MNLI ile gerçek zero-shot S&P 500 testi.
-
-- `03c_evaluate_zero_shot_model_family_sp500_external_test.ipynb`
-  - BERT, DistilBERT ve RoBERTa ailelerinin NLI/MNLI zero-shot karşılaştırması.
-
-### Tezin Ana Fine-Tuning Akışı
-
-- `04_train_plain_sentiment_models.ipynb`
-  - BERT, DistilBERT ve RoBERTa modellerinin plain sentiment eğitimi.
-
-- `05_evaluate_sp500_finetuned_models.ipynb`
-  - Fine-tune modellerin S&P 500 dış test değerlendirmesi.
-
-- `06_evaluate_synthetic_finetuned_models.ipynb`
-  - Fine-tune modellerin sentetik finans haberleri üzerinde kontrol testi.
-
-- `07_evaluate_reuters_finetuned_models.ipynb`
-  - Fine-tune modellerin Reuters 5.000 dış test değerlendirmesi.
-
-### Ek Veri Seti Arama
-
-- `09_search_new_dataset.ipynb`
-  - Hocanın istediği ek veri seti arama ve dış test adayı seçimi.
+Zero-shot/NLI kolu ana karşılaştırmanın merkezi değil, tamamlayıcı keşifsel analizdir.
 
 ---
 
-## 5. `02`, `03a`, `03b`, `03c` Farkı
+## 5. Temel Eğitim Ayarları
 
-Bu dosyalar aynı şeyi yapmaz. Hepsi bizim fine-tuning deneyinden önceki
-karşılaştırma ve kontrol katmanına aittir.
+Ana fine-tuning protokolü:
 
-**`02`: Hazır FinBERT baseline**
+- Epoch: **4**
+- Learning rate: **2e-5**
+- Train batch size: **16**
+- Eval batch size: **32**
+- Max length: **128**
+- Weight decay: **0,01**
+- Class weights: açık
+- Seedler: **42, 123, 2024**
 
-Hazır `ProsusAI/finbert` modeli test edilir. Finansal sentiment için zaten
-önceden eğitilmiş bir modelin hedef veri setinde ne kadar uyumlu olduğunu
-gösterir. Bu ana baseline olarak kullanılabilir.
+Yazılım / ortam:
 
-**`03a`: Fine-tune edilmemiş model diagnostic dosyası**
+- Python 3.14.2
+- PyTorch 2.11.0+cpu
+- Transformers 5.8.1
+- Datasets 4.5.0
+- scikit-learn 1.8.0
+- Çalışma ortamı: CPU
 
-BERT, DistilBERT ve RoBERTa taban modelleri denenir. Bu modellerin classification
-head kısmı rastgele başladığı için sonuçlar ana başarı sonucu
-olarak kullanılmaz. Amaç şunu göstermektir: modeli göreve eğitmeden
-doğrudan kullanmak sağlıklı bir sentiment sınıflandırması vermez.
+Ana başarı ölçütü: **Macro-F1**
 
-**`03b`: BART MNLI zero-shot baseline**
-
-Model fine-tune edilmez; fakat NLI mantığıyla `negative`, `neutral`,
-`positive` hipotezleri üzerinden karar verir. Bu rastgele değildir ve zero-shot
-baseline olarak yorumlanabilir.
-
-**`03c`: Zero-shot model ailesi karşılaştırması**
-
-`03b` deneyinin genişletilmiş halidir. BERT, DistilBERT ve RoBERTa ailelerinin
-NLI/MNLI sürümleri aynı S&P 500 dış testinde karşılaştırılır.
-
-> Kısaca: `03a` uyarı/diagnostic dosyasıdır. `03b` ve `03c` gerçek
-> zero-shot baseline deneyleridir. Asıl tez katkısı `04_train_plain_sentiment_models.ipynb`
-> ile başlar.
+Macro-F1 seçilmesinin nedeni neutral sınıfının baskın olmasıdır. Accuracy çoğunluk sınıfından fazla etkilenebilir; Macro-F1 üç sınıfa eşit ağırlık verir.
 
 ---
 
-## 6. Eğitim ve Test Eşleşmesi
+## 6. İç Test — Seed 42 Sonuçları
 
-Bu bölüm hangi notebookun hangi veriyle eğitildiğini ve hangi veriyle test
-edildiğini netleştirir.
+| Model | Accuracy | Macro-F1 | Weighted-F1 |
+|---|---:|---:|---:|
+| RoBERTa | 0,8906 | **0,8651** | 0,8918 |
+| Fine-tuned FinBERT | 0,8818 | **0,8512** | 0,8829 |
+| BERT | 0,8722 | **0,8378** | 0,8733 |
+| DistilBERT | 0,8583 | **0,8218** | 0,8593 |
+| Original FinBERT | 0,7323 | **0,6794** | 0,7400 |
 
-### `02_evaluate_finbert_baseline.ipynb`
+Fine-tuned FinBERT sınıf F1 değerleri:
 
-- Eğitim: Yeni eğitim yoktur; hazır `ProsusAI/finbert` kullanılır.
-- Test: `db/splits/plain_sentiment_v1/test_df.parquet`.
-- Veri: Twitter Financial News Sentiment test bölümü, 2.386 satır.
-- Amaç: Hazır FinBERT modelinin başlangıç performansını ölçmek.
+- Negative: **0,7968**
+- Neutral: **0,9157**
+- Positive: **0,8410**
 
-### `03a_evaluate_unfinetuned_models_diagnostic.ipynb`
+Temel çıkarım:
 
-- Eğitim: Yeni eğitim yoktur.
-- Model: Fine-tune edilmemiş BERT, DistilBERT ve RoBERTa taban modelleri.
-- Test: `db/annotations/sp500_human_review_batches/`.
-- Amaç: Rastgele classification head ile doğrudan kullanımın sağlıklı olmadığını göstermek.
-
-### `03b_evaluate_zero_shot_sp500_external_test.ipynb`
-
-- Eğitim: Yeni eğitim yoktur.
-- Model: BART MNLI zero-shot modeli.
-- Test: `db/annotations/sp500_human_review_batches/`.
-- Çıktı: `outputs/zero_shot_sp500_external_test/`.
-
-### `03c_evaluate_zero_shot_model_family_sp500_external_test.ipynb`
-
-- Eğitim: Yeni eğitim yoktur.
-- Model: BERT, DistilBERT ve RoBERTa ailelerinin NLI/MNLI sürümleri.
-- Test: S&P 500 anotasyon batchleri, `n_eval=1060`.
-- Çıktı: `outputs/zero_shot_sp500_external_test_model_family/`.
-
-### `04_train_plain_sentiment_models.ipynb`
-
-- Eğitim: `db/processed/training_datasets/plain_sentiment_dataset.parquet`.
-- Veri: Twitter Financial News Sentiment + Financial PhraseBank.
-- Toplam: 16.777 satır.
-- Validation: `db/splits/plain_sentiment_v1/val_df.parquet`.
-- Test: `db/splits/plain_sentiment_v1/test_df.parquet`.
-- Not: Test bölümü yalnızca Twitter Financial News Sentiment kaynaklıdır.
-
-### `05_evaluate_sp500_finetuned_models.ipynb`
-
-- Eğitim: Yeni eğitim yoktur; `04` checkpointleri kullanılır.
-- Test: `db/annotations/sp500_human_review_batches/`.
-- Amaç: Fine-tune modellerin S&P 500 haber başlıklarına genellemesini ölçmek.
-
-### `06_evaluate_synthetic_finetuned_models.ipynb`
-
-- Eğitim: Yeni eğitim yoktur; `04` checkpointleri ve hazır FinBERT kullanılır.
-- Test: `db/evaluation/synthetic_financial_news/`.
-- Veri: Her sınıftan 1.000 örnek, toplam 3.000 sentetik haber.
-
-### `07_evaluate_reuters_finetuned_models.ipynb`
-
-- Eğitim: Yeni eğitim yoktur; `04` checkpointleri kullanılır.
-- Test: `db/annotations/reuters_5000/REUTERS_annotation_all_clean.csv`.
-- Veri: 5.000 Reuters haber başlığı.
-
-### `09_search_new_dataset.ipynb`
-
-- Eğitim: Eğitim yapmaz.
-- Çıktı: Yeni aday veri setlerinden örnekler ve karşılaştırma tabloları.
-- Amaç: Hocanın istediği ek veri setini belirlemek.
+**Original FinBERT 0,6794 Macro-F1’den hedef veri setine fine-tuning sonrası 0,8512’ye yükselmiştir.** Bu, görev-özel fine-tuning’in çok güçlü etkisini gösterir. Bununla birlikte aynı seed altında RoBERTa **0,8651** ile daha yüksek performans vermiştir.
 
 ---
 
-## 7. Sonuçlar
+## 7. Çoklu Seed Sonuçları
 
-### 7.1. Hazır FinBERT Baseline
+Seedler: 42, 123, 2024.
 
-- Model: `ProsusAI/finbert`.
-- Test: `db/splits/plain_sentiment_v1/test_df.parquet`.
-- Accuracy: `0.7323`.
-- Macro-F1: `0.6794`.
-- Weighted-F1: `0.7400`.
+| Model | Macro-F1 mean ± std | Accuracy mean ± std |
+|---|---:|---:|
+| RoBERTa | **0,8728 ± 0,0068** | 0,8975 ± 0,0059 |
+| Fine-tuned FinBERT | **0,8480 ± 0,0028** | 0,8790 ± 0,0025 |
+| BERT | **0,8396 ± 0,0023** | 0,8736 ± 0,0021 |
+| DistilBERT | **0,8231 ± 0,0028** | 0,8601 ± 0,0028 |
 
-Yorum: Hazır FinBERT makul bir başlangıç noktasıdır; ancak hedef veri
-setindeki kısa piyasa metinlerine tam uyumlu değildir.
+Ana sonuç:
 
-### 7.2. Zero-Shot S&P 500 Sonuçları
-
-Dosya:
-
-`outputs/zero_shot_sp500_external_test_model_family/zero_shot_sp500_external_test_model_family_summary.csv`
-
-Değerlendirme satırı: `n_eval=1060`.
-
-| Model | Accuracy | Macro-F1 |
-| --- | ---: | ---: |
-| Original FinBERT file label | 0.7519 | 0.7521 |
-| RoBERTa-base NLI zero-shot | 0.6085 | 0.4913 |
-| BERT-base-uncased MNLI zero-shot | 0.5057 | 0.4033 |
-| DistilBERT-base-uncased MNLI zero-shot | 0.4679 | 0.3880 |
-
-Yorum: `03a` diagnostic olarak kalır. Ana zero-shot yorum `03b` ve `03c`
-üzerinden yapılmalıdır.
-
-### 7.3. Plain Sentiment İç Test
-
-| Model | Accuracy | Macro-F1 |
-| --- | ---: | ---: |
-| RoBERTa-base | 0.8906 | 0.8651 |
-| BERT-base-uncased | 0.8722 | 0.8378 |
-| DistilBERT-base-uncased | 0.8583 | 0.8218 |
-| Original FinBERT | 0.7323 | 0.6794 |
-
-### 7.4. S&P 500 Fine-Tuned Dış Test
-
-| Model | Accuracy | Macro-F1 |
-| --- | ---: | ---: |
-| RoBERTa-base | 0.8125 | 0.8138 |
-| Original FinBERT | 0.7583 | 0.7585 |
-| DistilBERT-base-uncased | 0.7531 | 0.7523 |
-| BERT-base-uncased | 0.7521 | 0.7511 |
-
-### 7.5. Sentetik Finans Haberleri
-
-| Model | Accuracy | Macro-F1 |
-| --- | ---: | ---: |
-| RoBERTa-base | 0.9957 | 0.9957 |
-| BERT-base-uncased | 0.9743 | 0.9742 |
-| DistilBERT-base-uncased | 0.9583 | 0.9581 |
-| Original FinBERT | 0.9550 | 0.9551 |
-
-### 7.6. Reuters 5.000 Dış Test
-
-| Model | Accuracy | Macro-F1 |
-| --- | ---: | ---: |
-| Original FinBERT file label | 0.6966 | 0.6866 |
-| RoBERTa-base | 0.6268 | 0.6388 |
-| BERT-base-uncased | 0.6034 | 0.6131 |
-| DistilBERT-base-uncased | 0.5766 | 0.5869 |
+**RoBERTa yalnız tek koşuda değil, üç seed ortalamasında da birinci kalmıştır.**
 
 ---
 
-## 8. Genel Sonuç
+## 8. İç Test İstatistiksel Anlamlılık
 
-Bu çalışmada tek bir modelin bütün veri kaynaklarında mutlak üstün
-olduğu iddia edilmemelidir. Daha doğru yorum şudur:
+Seed 123:
 
-- RoBERTa-base, plain sentiment iç testinde en güçlü modeldir.
-- RoBERTa-base, S&P 500 dış testinde de en iyi fine-tuned sonucu verir.
-- Sentetik testte tüm modeller yüksek başarı gösterir; bu test tek başına
-  gerçek dış test yerine geçmez.
-- Reuters testinde Original FinBERT file label öne geçer.
-- Bu fark, veri kaynağı ve etiket tanımının model performansını
-  doğrudan etkilediğini gösterir.
+- RoBERTa − Fine-tuned FinBERT ΔMacro-F1 = **+0,0294**
+- Holm p = **0,000617**
+- %95 paired bootstrap GA = **[0,0138; 0,0446]**
 
-**Tezde kullanılabilecek ana sonuç cümlesi:**
+Seed 2024:
 
-RoBERTa-base, hedef plain sentiment verisine uyum ve S&P 500 genellemesi açısından
-en güçlü fine-tuned modeldir. Reuters tarafında ise hazır FinBERT'in
-alan ve etiket uyumu avantajı devam etmektedir.
+- RoBERTa − Fine-tuned FinBERT ΔMacro-F1 = **+0,0312**
+- Holm p = **0,001410**
+- %95 paired bootstrap GA = **[0,0162; 0,0462]**
+
+Fine-tuned FinBERT vs BERT farkı aynı paired testlerde anlamlı değildir.
+
+Dolayısıyla en güçlü istatistiksel iç-test sonucu:
+
+**RoBERTa’nın fine-tuned FinBERT’e üstünlüğü seed 123 ve 2024’te hem Holm-düzeltilmiş McNemar hem paired bootstrap ile desteklenmiştir.**
 
 ---
 
-## 9. Sonraki Adım
+## 9. Ana Dış Test Sonuçları
 
-`09_search_new_dataset.ipynb` dosyası hocanın istediği ek veri seti arama
-adımı için sonda tutulmuştur. Bu dosyadan seçilecek yeni veri seti,
-ileride bağımsız bir ek dış test olarak projeye dahil edilebilir.
+### S&P 500 — N=1.060
+
+| Model | Macro-F1 |
+|---|---:|
+| RoBERTa | **0,8145** |
+| Fine-tuned FinBERT | **0,7723** |
+| BERT | 0,7549 |
+| Original FinBERT | 0,7521 |
+| DistilBERT | 0,7510 |
+
+Fine-tuned FinBERT ayrıntıları:
+
+- Accuracy: **0,7726**
+- Macro Precision: **0,7945**
+- Macro Recall: **0,7721**
+- Macro-F1: **0,7723**
+- F1 negative: **0,7636**
+- F1 neutral: **0,7538**
+- F1 positive: **0,7995**
+
+Ana yorum:
+
+RoBERTa yakın alan S&P 500 testinde üstünlüğünü korur. Fine-tuned FinBERT Original FinBERT’in sayısal olarak üstüne çıkar fakat bu farkın eşleştirilmiş istatistiksel testi anlamlı değildir.
+
+### Reuters — N=5.000
+
+| Model | Macro-F1 |
+|---|---:|
+| Original FinBERT | **0,6866** |
+| RoBERTa | **0,6388** |
+| BERT | 0,6131 |
+| Fine-tuned FinBERT | **0,6101** |
+| DistilBERT | 0,5869 |
+
+Fine-tuned FinBERT:
+
+- Accuracy: **0,5984**
+- Macro Precision: **0,7207**
+- Macro Recall: **0,6474**
+- Macro-F1: **0,6101**
+- F1 negative: **0,6937**
+- F1 neutral: **0,5277**
+- F1 positive: **0,6090**
+
+Ana yorum:
+
+Reuters’ta model sıralaması değişir ve **Original FinBERT yeniden birinci olur**. Hedef veri setine fine-tuning iç dağılımda güçlü kazanç sağlarken daha uzak editoryal dağılımda Original FinBERT’in alan-genel avantajını azaltabilir.
+
+### Sentetik Finansal Haber — N=3.000
+
+| Model | Macro-F1 |
+|---|---:|
+| RoBERTa | **0,9957** |
+| Fine-tuned FinBERT | **0,9746** |
+| BERT | 0,9742 |
+| DistilBERT | 0,9581 |
+| Original FinBERT | 0,9551 |
+
+Fine-tuned FinBERT:
+
+- Accuracy: **0,9747**
+- Macro Precision: **0,9750**
+- Macro Recall: **0,9747**
+- Macro-F1: **0,9746**
+- F1 negative: **0,9658**
+- F1 neutral: **0,9876**
+- F1 positive: **0,9704**
+
+Sentetik set çok açık ve kolay ayrılabilir örnekler içerdiğinden tek başına gerçek dünya genellemesinin kanıtı olarak görülmemelidir.
+
+---
+
+## 10. Dış Test Eşleştirilmiş İstatistiksel Doğrulama
+
+### S&P 500 — Original FinBERT vs Fine-tuned FinBERT
+
+- Original − FT ΔMacro-F1 = **-0,0201**
+- Holm p = **0,1678**
+- %95 paired bootstrap GA = **[-0,0492; 0,0080]**
+
+**Fark istatistiksel olarak anlamlı değildir.**
+
+### Reuters — Original FinBERT vs Fine-tuned FinBERT
+
+- Original − FT ΔMacro-F1 = **+0,0765**
+- Holm p ≈ **1,37 × 10^-32**
+- %95 paired bootstrap GA = **[0,0610; 0,0923]**
+
+**Original FinBERT’in Reuters üstünlüğü güçlü biçimde desteklenmektedir.**
+
+### Notebook 17 kalite kontrolü
+
+Notebook 17’de S&P RoBERTa vs Fine-tuned FinBERT karşılaştırmasında RoBERTa Macro-F1 değeri **0,4913** görülmüştür. Bu değer ana doğrulanmış S&P RoBERTa sonucu **0,8145** ile uyuşmaz ve zero-shot RoBERTa-NLI sonucuyla aynıdır.
+
+Sonuç:
+
+- Otomatik dosya seçimi yanlış prediction CSV’sini eşleştirmiştir.
+- Bu S&P RoBERTa paired-test satırı **bilimsel sonuçlardan çıkarılmıştır**.
+- Reuters RoBERTa prediction girdisi eşleştirilmiş test için mevcut olmadığından o çift de raporlanmamıştır.
+
+Karıştırılmaması gereken nokta:
+
+**Ana S&P RoBERTa = 0,8145. 0,4913 ana fine-tuned RoBERTa sonucu değildir.**
+
+---
+
+## 11. RoBERTa Kaynak-Bileşimi Ablasyonu — Notebook 12
+
+Kontrollü seed-42 karşılaştırması:
+
+- Koşul A: Twitter-only
+- Koşul B: Twitter + Financial PhraseBank
+
+### İç test — N=2.386
+
+| Koşul | Macro-F1 |
+|---|---:|
+| Twitter-only | **0,8810** |
+| Twitter + PhraseBank | **0,8679** |
+
+PhraseBank farkı: **-0,0132**
+
+### Reuters — N=5.000
+
+| Koşul | Macro-F1 |
+|---|---:|
+| Twitter-only | **0,6465** |
+| Twitter + PhraseBank | **0,6305** |
+
+PhraseBank farkı: **-0,0160**
+
+### S&P Ablasyon — N=1.030
+
+| Koşul | Macro-F1 |
+|---|---:|
+| Twitter-only | **0,7989** |
+| Twitter + PhraseBank | **0,7968** |
+
+PhraseBank farkı: **-0,0021**
+
+Ana yorum:
+
+**Daha fazla etiketli veri otomatik olarak daha iyi değildir.** Aynı üç sınıf adı kullanılsa bile Twitter ve Financial PhraseBank’ın dil yapısı ve etiket semantiği farklı olabilir. Heterojen yardımcı veri hedef dağılımının karar sınırını bulanıklaştırabilir.
+
+Sınırlılık:
+
+Bu ablation yalnız **seed 42** ile yapılmıştır. Ana model kararlılığı ayrı üç-seed deneyinde değerlendirilmiştir. Ablation multi-seed tekrarı gelecekte yapılabilir.
+
+---
+
+## 12. Fine-Tuned FinBERT Hata Analizi
+
+Fine-tuned FinBERT iç testte:
+
+- Toplam hata: **282**
+
+En büyük hata geçişleri:
+
+- neutral → positive: **78**
+- neutral → negative: **75**
+- negative → neutral: **52**
+- positive → neutral: **52**
+- positive → negative: **17**
+- negative → positive: **8**
+
+Neutral → positive ve neutral → negative birlikte:
+
+**153 / 282 = %54,3**
+
+Yüksek güvenli hatalar:
+
+- confidence ≥ 0,90: **217 hata (%77,0)**
+- confidence ≥ 0,95: **196 hata (%69,5)**
+- confidence ≥ 0,99: **137 hata (%48,6)**
+
+Ana çıkarım:
+
+Hataların önemli kısmı yalnızca düşük güvenli belirsizlikten kaynaklanmamaktadır. Model bazı yanlış kararları çok yüksek güvenle üretmektedir. Bu durum modelin öğrendiği karar sınırı ile veri setinin etiket politikasının / etiket semantiğinin her örnekte tam örtüşmeyebileceğini düşündürmektedir.
+
+Manuel hata kategorileri için 50 örneklik inceleme şablonu hazırlanmıştır; ancak tamamlanmış bağımsız insan kodlaması olmadığı için tezde nitel kategori oranları ölçülmüş sonuç gibi sunulmamaktadır.
+
+---
+
+## 13. Neutral Sınıfı ve Etiket Semantiği
+
+Fine-tuned FinBERT neutral F1:
+
+- Internal: **0,9157**
+- S&P 500: **0,7538**
+- Reuters: **0,5277**
+- Sentetik: **0,9876**
+
+Bu değişim tezdeki ana genelleme savını güçlendirir:
+
+**Neutral karar sınırı veri kaynağı ve etiket semantiğine çok duyarlıdır.**
+
+Finansal metinde “olumsuz kelime” ile “piyasa açısından negative etiket” aynı şey olmayabilir. Özellikle geleneksel finans haber tonu ile bullish/bearish/neutral piyasa-yönelimli etiketleme arasında semantik fark bulunabilir.
+
+---
+
+## 14. Zero-Shot / NLI Sonuçları — S&P 500
+
+| Model | Macro-F1 |
+|---|---:|
+| BART-large-MNLI | **0,5580** |
+| RoBERTa-base NLI | **0,4913** |
+| BERT-base MNLI | **0,4033** |
+| DistilBERT-base MNLI | **0,3880** |
+
+Neutral F1:
+
+- BART: **0,1199**
+- RoBERTa-NLI: **0,0233**
+- BERT-MNLI: **0,0058**
+- DistilBERT-MNLI: **0,0776**
+
+Ana yorum:
+
+Genel NLI tabanlı zero-shot yaklaşım özellikle neutral sınıfında zayıftır. Bu kol tezde tamamlayıcıdır; ana fine-tuned karşılaştırmanın yerine geçmez.
+
+---
+
+## 15. CPU Verimliliği
+
+| Model | Parametre (M) | Örnek/s | ms/örnek | Internal Macro-F1 |
+|---|---:|---:|---:|---:|
+| Original FinBERT | 109,48 | 30,81 | 32,46 | 0,6794 |
+| Fine-tuned FinBERT | 109,48 | 28,84 | 34,68 | 0,8512 |
+| BERT | 109,48 | 31,37 | 31,88 | 0,8378 |
+| DistilBERT | **66,96** | **70,30** | **14,23** | 0,8218 |
+| RoBERTa | 124,65 | 35,91 | 27,85 | **0,8651** |
+
+DistilBERT, BERT’e göre yaklaşık **2,24× throughput** sağlar.
+
+Ana çıkarım:
+
+- En yüksek F1: RoBERTa
+- En iyi hız/model boyutu: DistilBERT
+
+Dolayısıyla gerçek deployment kararı yalnız Macro-F1 ile değil, **performans + genelleme + latency + model boyutu** dengesiyle verilmelidir.
+
+---
+
+## 16. Araştırmanın Ana Bulguları
+
+1. **Target fine-tuning çok güçlüdür.**  
+   Original FinBERT 0,6794 → Fine-tuned FinBERT 0,8512.
+
+2. **Domain-specific pretraining tek başına mutlak üstünlük sağlamaz.**  
+   İç testte ve üç-seed ortalamasında RoBERTa en iyi modeldir.
+
+3. **Model sıralaması kaynak değişince değişir.**  
+   S&P’de RoBERTa, Reuters’ta Original FinBERT birincidir.
+
+4. **Target fine-tuning dış dağılıma otomatik taşınmaz.**  
+   Fine-tuned FinBERT Reuters’ta Original FinBERT’in gerisine düşer.
+
+5. **Daha fazla eğitim verisi otomatik kazanç sağlamaz.**  
+   RoBERTa source-ablation’da Twitter-only, Twitter + PhraseBank koşulundan daha iyi sonuç verir.
+
+6. **Neutral sınıfı kritik kırılma noktasıdır.**  
+   Hata yönleri ve dış testlerdeki F1 düşüşleri özellikle neutral karar sınırına işaret eder.
+
+7. **Sentetik başarı gerçek genellemenin eşdeğeri değildir.**  
+   Sentetik sette tüm modeller çok yüksek performans verir.
+
+8. **Performans ve verimlilik aynı modelde birleşmez.**  
+   RoBERTa en güçlü performansı, DistilBERT en iyi hız/model-boyutu profilini verir.
+
+---
+
+## 17. Tezin Tek Cümlelik Ana Sonucu
+
+**Hedef veri setine özgü fine-tuning finansal duygu sınıflandırmasında güçlü bir etkendir; ancak alan-özgü ön eğitim, daha fazla heterojen eğitim verisi veya tek bir model mimarisi evrensel üstünlük sağlamaz; model başarısı veri kaynağı, etiket semantiği, görev uyumu ve hesaplama maliyetinin birlikte etkisiyle belirlenir.**
+
+---
+
+## 18. Danışmana / Jüriye Söylenecek Kısa Sonuç
+
+“Hazır FinBERT iç testte 0,6794 Macro-F1 üretirken hedef veri setine fine-tuning sonrası 0,8512’ye çıktı. Buna rağmen RoBERTa üç seed ortalamasında 0,8728 ± 0,0068 ile en güçlü model olarak kaldı. S&P 500’de RoBERTa 0,8145 ile birinci olurken Reuters’ta Original FinBERT 0,6866 ile yeniden öne çıktı ve Original FinBERT’in fine-tuned FinBERT’e Reuters üstünlüğü eşleştirilmiş testlerle desteklendi. Ayrıca kaynak-ablasyonunda Twitter-only RoBERTa’nın Twitter + PhraseBank koşulundan daha iyi sonuç vermesi, veri miktarından çok kaynak ve etiket semantiği uyumunun kritik olduğunu gösterdi.”
+
+---
+
+## 19. Karıştırılmaması Gereken Sonuçlar
+
+- Ana S&P RoBERTa: **0,8145**
+- **0,4913 = zero-shot RoBERTa-NLI / Notebook 17’de yanlış seçilen prediction girdisi**
+- Fine-tuned FinBERT S&P: **0,7723**
+- Fine-tuned FinBERT Reuters: **0,6101**
+- Fine-tuned FinBERT sentetik: **0,9746**
+- RoBERTa seed 42 internal: **0,8651**
+- RoBERTa üç-seed ortalama: **0,8728 ± 0,0068**
+- Ablation Twitter-only internal: **0,8810**
+- Ablation Twitter + PhraseBank internal: **0,8679**
+- Ablation S&P: **N=1.030**
+- Ana doğrulanmış S&P: **N=1.060**
+- Original FinBERT tarihsel internal baseline: **N=2.387**
+- Güncel kaydedilmiş internal split: **N=2.386**
+
+---
+
+## 20. Önemli Sınırlılıklar
+
+- Çalışma İngilizce ve üç sınıflı finansal sentiment ile sınırlıdır.
+- Original FinBERT tarihsel baseline N=2.387, güncel saved split N=2.386’dır.
+- Source-ablation tek seed (42) ile yapılmıştır.
+- Ablation S&P N=1.030, ana S&P N=1.060’dır.
+- Notebook 17’de yanlış prediction dosyası seçimi nedeniyle S&P RoBERTa paired karşılaştırması geçersiz sayılmıştır.
+- Reuters RoBERTa için uygun paired prediction girdisi bulunmadığından ilgili eşleştirilmiş test raporlanmamıştır.
+- Bağımsız anotatörler arası Cohen kappa / Krippendorff alpha ölçümü bulunmamaktadır.
+- Manuel hata inceleme şablonu hazırlanmıştır fakat tamamlanmış bağımsız insan kodlamasına dayalı kategori oranı yoktur.
+- CPU hız sonuçları kullanılan donanım ortamına özgüdür.
+- Sentetik veri gerçek dünya OOD başarısının yerine geçmez.
+
+---
+
+## 21. Gelecek Çalışmalar
+
+- Ablation deneyinin 42/123/2024 gibi çoklu seed ile tekrarlanması.
+- Bağımsız anotatörler arası uyum ölçümü.
+- Calibration / ECE / reliability analizi.
+- Daha geniş zamansal ve kaynak-temelli domain-shift testleri.
+- Türkçe / çok dilli finansal sentiment.
+- Daha geniş ekonomik geçerlik değerlendirmesi.
+- Parameter-efficient fine-tuning / quantization / distillation gibi verimlilik odaklı uzantılar.
+
+---
+
+## 22. Notebook Akışı — Güncel Durum
+
+- 00: ortam / gereksinimler
+- 01a: Reuters veri hazırlama
+- 01b: S&P veri hazırlama
+- 02: Original FinBERT baseline
+- 03a: tanısal ince-ayarsız deney
+- 03b / 03c: zero-shot NLI
+- 04: BERT / DistilBERT / RoBERTa fine-tuning
+- 05: S&P dış test
+- 06: sentetik dış test
+- 07: Reuters dış test
+- 08: Fine-tuned FinBERT
+- 10: multi-seed eğitim
+- 11: internal statistical significance
+- 12: **RoBERTa source-ablation — tamamlandı**
+- 13: model × veri × sınıf analizi
+- 14: genişletilmiş hata analizi
+- 15: model verimliliği
+- 16: **Fine-tuned FinBERT external evaluation — tamamlandı, S&P N=1.060 doğrulandı**
+- 17: external paired significance — **yalnız doğrulanmış girdiler bilimsel sonuca alındı**
+
+---
+
+## 23. Nihai Referans
+
+Tez ve raporlar için esas alınacak güncel dosya:
+
+**finansal_duygu_analizi_tez_FINAL_KONTROL_2026.docx**
+
+Eski notebook markdownları veya tarihsel özetlerde farklı değer görünürse doğrudan kullanılmamalıdır. Öncelik sırası:
+
+1. Güncel doğrulanmış prediction / metric CSV çıktıları
+2. FINAL_KONTROL tez
+3. Nihai danışman özeti
+4. Nihai savunma hazırlık raporu
+5. Eski notebook markdownları / tarihsel özetler yalnız geçmiş kayıt olarak değerlendirilir.
+
+**Son güncelleme:** 16 Ağustos 2026

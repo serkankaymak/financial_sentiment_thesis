@@ -1,0 +1,12 @@
+{
+  "model_key": "finbert",
+  "model": "Fine-tuned FinBERT",
+  "model_name": "ProsusAI/finbert",
+  "seed": 123,
+  "run_dir": "D:\\serkan.kaymak\\financial_sentiment_thesis\\financial_sentiment_thesis\\checkpoints\\financial_sentiment_multi_model\\multiseed\\finbert_seed123",
+  "val_accuracy": 0.888268156424581,
+  "val_f1_macro": 0.8586021630258283,
+  "test_accuracy": 0.877200335289187,
+  "test_f1_macro": 0.8462845834410797,
+  "test_f1_weighted": 0.8782661150303198
+}

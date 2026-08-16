@@ -1,0 +1,16 @@
+{
+  "dataset": "reuters_external",
+  "model": "fine_tuned_finbert_seed42",
+  "n": 5000,
+  "accuracy": 0.5984,
+  "precision_macro": 0.7207322672735622,
+  "recall_macro": 0.6473521797292227,
+  "f1_macro": 0.6100978727723463,
+  "f1_weighted": 0.6170798219166298,
+  "f1_negative": 0.6936551187232386,
+  "f1_neutral": 0.5276659959758552,
+  "f1_positive": 0.608972503617945,
+  "support_negative": 1579,
+  "support_neutral": 1146,
+  "support_positive": 2275
+}

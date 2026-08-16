@@ -1,0 +1,12 @@
+{
+  "model_key": "bert",
+  "model": "BERT-base-uncased",
+  "model_name": "bert-base-uncased",
+  "seed": 123,
+  "run_dir": "D:\\serkan.kaymak\\financial_sentiment_thesis\\financial_sentiment_thesis\\checkpoints\\financial_sentiment_multi_model\\multiseed\\bert_seed123",
+  "val_accuracy": 0.8896648044692738,
+  "val_f1_macro": 0.8589190140737166,
+  "test_accuracy": 0.875943000838223,
+  "test_f1_macro": 0.8422230563401859,
+  "test_f1_weighted": 0.8763246407332705
+}

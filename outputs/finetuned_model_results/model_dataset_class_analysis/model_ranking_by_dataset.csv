@@ -1,0 +1,18 @@
+﻿dataset,rank,model,f1_macro,accuracy
+Internal,1,RoBERTa,0.8651,0.8906
+Internal,2,Fine-tuned FinBERT,0.8511757179169832,0.8818105616093881
+Internal,3,BERT,0.8378,0.8722
+Internal,4,DistilBERT,0.8218,0.8583
+Internal,5,FinBERT,0.6794,0.7323
+Reuters,1,FinBERT,0.6866,0.6966
+Reuters,2,RoBERTa,0.6388,0.6268
+Reuters,3,BERT,0.6131,0.6034
+Reuters,4,DistilBERT,0.5869,0.5766
+S&P 500,1,RoBERTa,0.8145,0.8132
+S&P 500,2,BERT,0.7549,0.7557
+S&P 500,3,FinBERT,0.7521,0.7519
+S&P 500,4,DistilBERT,0.751,0.7519
+Synthetic,1,RoBERTa,0.9957,0.9957
+Synthetic,2,BERT,0.9742,0.9743
+Synthetic,3,DistilBERT,0.9581,0.9583
+Synthetic,4,FinBERT,0.9551,0.955

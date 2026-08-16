@@ -1,0 +1,6 @@
+﻿model,dataset,f1_neutral
+Fine-tuned FinBERT,Internal,0.915710068875041
+RoBERTa,S&P 500,0.77675
+FinBERT,S&P 500,0.748201
+BERT,S&P 500,0.745849
+DistilBERT,S&P 500,0.737789

@@ -1,0 +1,16 @@
+{
+  "dataset": "synthetic_external",
+  "model": "fine_tuned_finbert_seed42",
+  "n": 3000,
+  "accuracy": 0.9746666666666667,
+  "precision_macro": 0.9749849417097506,
+  "recall_macro": 0.9746666666666667,
+  "f1_macro": 0.9745903925555517,
+  "f1_weighted": 0.9745903925555517,
+  "f1_negative": 0.9657639243740419,
+  "f1_neutral": 0.9875930521091811,
+  "f1_positive": 0.9704142011834319,
+  "support_negative": 1000,
+  "support_neutral": 1000,
+  "support_positive": 1000
+}

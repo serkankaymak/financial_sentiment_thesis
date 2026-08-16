@@ -12,6 +12,10 @@ PROJECT_ROOT = APP_ROOT.parent
 
 DATA_ROOT = PROJECT_ROOT / "db"
 CHECKPOINT_ROOT = PROJECT_ROOT / "checkpoints"
+OUTPUTS_ROOT = PROJECT_ROOT / "outputs"
+RESULTS_ROOT = OUTPUTS_ROOT
+MODEL_CHECKPOINT_ROOT = CHECKPOINT_ROOT / "financial_sentiment_multi_model"
+MODEL_RESULTS_ROOT = OUTPUTS_ROOT / "finetuned_model_results"
 APP_DATA_ROOT = APP_ROOT / "data"
 
 RAW_DATA_DIR = DATA_ROOT / "raw"
@@ -88,5 +92,8 @@ def ensure_data_directories() -> None:
         REUTERS_ANNOTATION_BATCHES_DIR,
         SYNTHETIC_NEWS_DIR,
         PLAIN_SENTIMENT_SPLIT_V1_DIR,
+        RESULTS_ROOT,
+        OUTPUTS_ROOT,
+        MODEL_RESULTS_ROOT,
     ):
         path.mkdir(parents=True, exist_ok=True)

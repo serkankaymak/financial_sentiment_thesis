@@ -1,0 +1,12 @@
+{
+  "model_key": "distilbert",
+  "model": "DistilBERT-base-uncased",
+  "model_name": "distilbert-base-uncased",
+  "seed": 2024,
+  "run_dir": "D:\\serkan.kaymak\\financial_sentiment_thesis\\financial_sentiment_thesis\\checkpoints\\financial_sentiment_multi_model\\multiseed\\distilbert_seed2024",
+  "val_accuracy": 0.8687150837988827,
+  "val_f1_macro": 0.8269943856900378,
+  "test_accuracy": 0.8633696563285834,
+  "test_f1_macro": 0.8263677217718871,
+  "test_f1_weighted": 0.8643269794316528
+}

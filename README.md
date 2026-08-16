@@ -9,9 +9,9 @@ Bu çalışma alanı notebook tabanlı deneyleri ve üretilen veri setlerini iç
 | `app/` | Sıralı deney ve analiz notebookları |
 | `app/thesis_utils/` | Notebooklar arasında paylaşılan Python yardımcıları |
 | `db/` | Yaşam döngüsüne göre düzenlenmiş ana veri alanı |
-| `checkpoints/` | Eğitilmiş model checkpointleri ve raporları |
+| `checkpoints/` | Eğitilmiş model checkpointleri ve final model dosyaları |
 | `reports/` | Geçmiş notebook HTML dışa aktarımları |
-| `outputs/` | Kalıcı saklanan zero-shot değerlendirme CSV çıktıları |
+| `outputs/` | Tezde kullanılan kalıcı sonuç, analiz, istatistik ve tablo çıktıları |
 | `tools/` | Notebook bakım araçları |
 
 `db/` içindeki ayrıntılı veri sözlüğü için [db/README.md](db/README.md)
@@ -63,14 +63,19 @@ Bu taşıma aracı tekrar çalıştırılabilir; veri içeriğini değiştirmez.
 
 ## Değerlendirme Sonuçları
 
-Fine-tuned model test notebookları metrikleri ve örnek tahminleri çoğunlukla
-ekranda gösterir. Zero-shot S&P 500 deneyleri ise kalıcı CSV çıktıları üretir:
+Tezde kullanılan sonuç dosyalarının tamamı `outputs/` altında gruplanır:
 
+- `outputs/finetuned_model_results/`
+- `outputs/external_statistical_significance/`
+- `outputs/thesis_tables/`
 - `outputs/zero_shot_sp500_external_test/`
 - `outputs/zero_shot_sp500_external_test_model_family/`
 
 Eğitim notebookları tekrar üretimi pahalı olan checkpointleri, final modelleri,
-splitleri ve `run_config.json` dosyalarını korur.
+splitleri ve `run_config.json` dosyalarını `checkpoints/` altında korur.
+
+Arşiv alırken ağır veya tekrar üretilebilir dosyaları dışarıda bırakmak için
+kök dizindeki `checkpoints/` ve `db/` klasörlerini hariç tutabilirsiniz.
 
 Notebooklarda ortak yollar için:
 

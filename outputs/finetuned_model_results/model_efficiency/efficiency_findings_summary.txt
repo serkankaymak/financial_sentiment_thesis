@@ -1,0 +1,3 @@
+En hızlı CPU inference modeli: DistilBERT (70.30 örnek/s).
+En az parametreli model: DistilBERT (66.96 milyon parametre).
+DistilBERT'in BERT'e göre throughput oranı: 2.24x; parametre oranı: 0.61x.

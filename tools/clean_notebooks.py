@@ -59,6 +59,99 @@ def normalize_source(source: str) -> str:
     source = source.replace(DATA_PATH, "DATA_ROOT")
     source = source.replace(PROJECT_PATH, "PROJECT_ROOT")
     source = source.replace('PROJECT_DIR / "db"', "DATA_ROOT")
+    source = source.replace(
+        'PROJECT_DIR / "checkpoints" / "financial_sentiment_multi_model"',
+        "paths.MODEL_CHECKPOINT_ROOT",
+    )
+    source = source.replace(
+        'PROJECT_ROOT / "checkpoints" / "financial_sentiment_multi_model"',
+        "paths.MODEL_CHECKPOINT_ROOT",
+    )
+    source = source.replace(
+        'BASE_CHECKPOINT_ROOT / "statistical_significance"',
+        'paths.MODEL_RESULTS_ROOT / "statistical_significance"',
+    )
+    source = source.replace(
+        'CHECKPOINT_ROOT / "model_dataset_class_analysis"',
+        'paths.MODEL_RESULTS_ROOT / "model_dataset_class_analysis"',
+    )
+    source = source.replace(
+        'CHECKPOINT_ROOT / "extended_error_analysis"',
+        'paths.MODEL_RESULTS_ROOT / "extended_error_analysis"',
+    )
+    source = source.replace(
+        'CHECKPOINT_ROOT / "model_efficiency"',
+        'paths.MODEL_RESULTS_ROOT / "model_efficiency"',
+    )
+    source = source.replace(
+        'CHECKPOINT_ROOT / "results"',
+        'paths.MODEL_RESULTS_ROOT / "training_evaluation"',
+    )
+    source = source.replace(
+        'RUN_DIR / "results"',
+        'paths.MODEL_RESULTS_ROOT / RUN_NAME / "training_evaluation"',
+    )
+    source = source.replace(
+        'RUN_DIR / "external_evaluation"',
+        'paths.MODEL_RESULTS_ROOT / "finbert_target_finetuned_seed42" / "external_evaluation"',
+    )
+    source = source.replace(
+        'MULTISEED_ROOT = BASE_CHECKPOINT_ROOT / "multiseed"\n'
+        'MULTISEED_ROOT.mkdir(parents=True, exist_ok=True)',
+        'MULTISEED_ROOT = BASE_CHECKPOINT_ROOT / "multiseed"\n'
+        'MULTISEED_RESULTS_ROOT = paths.MODEL_RESULTS_ROOT / "multiseed"\n'
+        'MULTISEED_ROOT.mkdir(parents=True, exist_ok=True)\n'
+        'MULTISEED_RESULTS_ROOT.mkdir(parents=True, exist_ok=True)',
+    )
+    source = source.replace(
+        'ABLATION_ROOT = CHECKPOINT_ROOT / "dataset_ablation_roberta"\n'
+        'ABLATION_ROOT.mkdir(parents=True, exist_ok=True)',
+        'ABLATION_ROOT = CHECKPOINT_ROOT / "dataset_ablation_roberta"\n'
+        'ABLATION_RESULTS_ROOT = paths.MODEL_RESULTS_ROOT / "dataset_ablation_roberta"\n'
+        'ABLATION_ROOT.mkdir(parents=True, exist_ok=True)\n'
+        'ABLATION_RESULTS_ROOT.mkdir(parents=True, exist_ok=True)',
+    )
+    source = source.replace(
+        '    results_dir = run_dir / "results"',
+        '    results_dir = MULTISEED_RESULTS_ROOT / f"{model_cfg[\'model_key\']}_seed{seed}" / "results"',
+    )
+    if "ABLATION_RESULTS_ROOT" in source:
+        source = source.replace(
+            '    results_dir = MULTISEED_RESULTS_ROOT / f"{model_cfg[\'model_key\']}_seed{seed}" / "results"',
+            '    results_dir = ABLATION_RESULTS_ROOT / exp_name / "results"',
+        )
+    source = source.replace(
+        'AGGREGATE_RESULTS_PATH = MULTISEED_ROOT / "multiseed_results_new_seeds.csv"',
+        'AGGREGATE_RESULTS_PATH = MULTISEED_RESULTS_ROOT / "multiseed_results_new_seeds.csv"',
+    )
+    source = source.replace(
+        'all_seed_results_path = MULTISEED_ROOT / "multiseed_results_with_seed42.csv"',
+        'all_seed_results_path = MULTISEED_RESULTS_ROOT / "multiseed_results_with_seed42.csv"',
+    )
+    source = source.replace(
+        'summary_path = MULTISEED_ROOT / "multiseed_mean_std_summary.csv"',
+        'summary_path = MULTISEED_RESULTS_ROOT / "multiseed_mean_std_summary.csv"',
+    )
+    source = source.replace(
+        'result_path = ABLATION_ROOT / "roberta_dataset_ablation_results.csv"',
+        'result_path = ABLATION_RESULTS_ROOT / "roberta_dataset_ablation_results.csv"',
+    )
+    source = source.replace(
+        'difference_path = ABLATION_ROOT / "roberta_dataset_ablation_differences.csv"',
+        'difference_path = ABLATION_RESULTS_ROOT / "roberta_dataset_ablation_differences.csv"',
+    )
+    source = source.replace(
+        'CHECKPOINT_ROOT\n    / "finbert_target_finetuned_seed42"\n    / "results"\n    / "finbert_target_finetune_summary.csv"',
+        'paths.MODEL_RESULTS_ROOT\n    / "finbert_target_finetuned_seed42"\n    / "training_evaluation"\n    / "finbert_target_finetune_summary.csv"',
+    )
+    source = source.replace(
+        'PROJECT_ROOT / "outputs"',
+        "paths.OUTPUTS_ROOT",
+    )
+    source = source.replace(
+        'PROJECT_DIR / "results"',
+        "paths.OUTPUTS_ROOT",
+    )
     source = source.replace('currentDir / "data"', "APP_DATA_ROOT")
     source = source.replace("currentDir = Path().resolve()", "currentDir = APP_ROOT")
     source = source.replace(

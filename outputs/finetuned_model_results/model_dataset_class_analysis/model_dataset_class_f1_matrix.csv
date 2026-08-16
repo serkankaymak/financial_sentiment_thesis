@@ -1,0 +1,6 @@
+﻿model,Internal | negative,Internal | neutral,Internal | positive,S&P 500 | negative,S&P 500 | neutral,S&P 500 | positive
+FinBERT,,,,0.766328,0.748201,0.741848
+DistilBERT,,,,0.739206,0.737789,0.775885
+BERT,,,,0.744828,0.745849,0.774108
+RoBERTa,,,,0.833058,0.77675,0.833773
+Fine-tuned FinBERT,0.7967914438502673,0.915710068875041,0.841025641025641,,,
