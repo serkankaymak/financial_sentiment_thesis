@@ -1,6 +1,25 @@
 """Shared utilities for the financial sentiment thesis notebooks."""
 
 from . import paths
+from .data_io import (
+    clean_label_series,
+    clean_string_series,
+    extract_annotation_number,
+    extract_batch_number,
+    find_header_row,
+    make_unique_columns,
+    natural_sort_key,
+    normalize_column_name,
+)
+from .evaluation import (
+    ID2LABEL,
+    LABEL2ID,
+    VALID_LABELS,
+    chunked,
+    compute_classification_metrics,
+    make_report_and_confusion_matrices,
+    softmax_numpy,
+)
 from .notebook import PREVIEW_ROWS, preview
 from .paths import (
     AGGREGATED_FINANCIAL_NEWS_PATH,
@@ -39,11 +58,25 @@ __all__ = [
     "APP_DATA_ROOT",
     "APP_ROOT",
     "CHECKPOINT_ROOT",
+    "ID2LABEL",
+    "LABEL2ID",
     "DATA_ROOT",
+    "VALID_LABELS",
+    "chunked",
+    "clean_label_series",
+    "clean_string_series",
+    "compute_classification_metrics",
     "ensure_data_directories",
+    "extract_annotation_number",
+    "extract_batch_number",
+    "find_header_row",
     "MARKET_SENTIMENT_MODELING_MASTER_PATH",
+    "make_report_and_confusion_matrices",
+    "make_unique_columns",
     "MODEL_CHECKPOINT_ROOT",
     "MODEL_RESULTS_ROOT",
+    "natural_sort_key",
+    "normalize_column_name",
     "OUTPUTS_ROOT",
     "PLAIN_SENTIMENT_DATASET_CSV_PATH",
     "PLAIN_SENTIMENT_DATASET_PARQUET_PATH",
@@ -67,4 +100,5 @@ __all__ = [
     "TRAINING_DATASETS_DIR",
     "preview",
     "paths",
+    "softmax_numpy",
 ]

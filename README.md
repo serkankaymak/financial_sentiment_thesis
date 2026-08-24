@@ -41,7 +41,16 @@ Notebooklar hocaya anlatılacak akışa göre numaralandırılmıştır:
 | 05 | `app/05_evaluate_sp500_finetuned_models.ipynb` | S&P 500 dış test |
 | 06 | `app/06_evaluate_synthetic_finetuned_models.ipynb` | Sentetik haber testi |
 | 07 | `app/07_evaluate_reuters_finetuned_models.ipynb` | Reuters dış test |
+| 08 | `app/08_finetune_finbert_target_dataset.ipynb` | FinBERT'i hedef veri setinde fine-tune etme |
 | 09 | `app/09_search_new_dataset.ipynb` | Ek veri seti arama ve dış test adayı |
+| 10 | `app/10_multiseed_training.ipynb` | Ek random seedlerle eğitim tekrarı |
+| 11 | `app/11_statistical_significance_tests.ipynb` | İç test için istatistiksel anlamlılık |
+| 12 | `app/12_roberta_dataset_ablation_analysis.ipynb` | RoBERTa veri seti ablation analizi |
+| 13 | `app/13_model_dataset_class_analysis.ipynb` | Model × veri seti × sınıf analizi |
+| 14 | `app/14_extended_error_analysis.ipynb` | Genişletilmiş hata analizi |
+| 15 | `app/15_model_efficiency_analysis.ipynb` | Model verimlilik analizi |
+| 16 | `app/16_finetuned_finbert_external_evaluation_v2.ipynb` | Fine-tuned FinBERT dış testleri |
+| 17 | `app/17_external_statistical_significance_tests_v3.ipynb` | Dış test için istatistiksel anlamlılık |
 
 ## Notebook Bakımı
 
@@ -71,6 +80,11 @@ Tezde kullanılan sonuç dosyalarının tamamı `outputs/` altında gruplanır:
 - `outputs/zero_shot_sp500_external_test/`
 - `outputs/zero_shot_sp500_external_test_model_family/`
 
+Bu klasörlerdeki kalıcı sonuç dosyaları tez çıktısı kabul edilir. Bakım ve
+refaktör sırasında bu dosyalar elle düzenlenmemeli, silinmemeli veya yeniden
+adlandırılmamalıdır. Yeni sonuç gerekiyorsa ilgili notebook sırasıyla
+çalıştırılmalı ve mevcut sonuçlarla farkı ayrıca kontrol edilmelidir.
+
 Eğitim notebookları tekrar üretimi pahalı olan checkpointleri, final modelleri,
 splitleri ve `run_config.json` dosyalarını `checkpoints/` altında korur.
 
@@ -89,4 +103,12 @@ Tablo okumak için:
 
 ```python
 from thesis_utils.data_io import read_first_existing, read_table
+```
+
+Tekrarlayan notebook yardımcıları için:
+
+```python
+from thesis_utils.data_io import clean_label_series, extract_batch_number
+from thesis_utils.evaluation import compute_classification_metrics
+from thesis_utils.statistics import holm_adjust, mcnemar_test
 ```
