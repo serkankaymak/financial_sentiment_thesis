@@ -8,7 +8,7 @@ FİNANSAL DUYGU ANALİZİNDE MODEL GENELLEMESİ: FİNBERT VE İNCE AYARLI TRANSF
 **Araştırma odağı:**  
 Hazır alan-özgü FinBERT, hedef veri setine ince ayarlı FinBERT ve genel amaçlı BERT / DistilBERT / RoBERTa modellerinin; iç test başarımı, çoklu seed kararlılığı, dış veri genellemesi, hata örüntüleri, kaynak-bileşimi etkisi ve CPU verimliliği açısından karşılaştırılması.
 
----
+----
 
 ## 2. Ana Araştırma Sorusu
 
