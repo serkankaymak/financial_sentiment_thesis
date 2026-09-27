@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 040
+Rows: 390 - 399
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0391
+sample_id: SP500_HEAD_010096
+date: 2021-12-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9304720163345337
+TEXT:
+8 Charts That Tell The Stock Market Story Of 2021
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0392
+sample_id: SP500_HEAD_007067
+date: 2019-09-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8154200911521912
+TEXT:
+Look and feel good: How tech could save the fashion industry
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0393
+sample_id: SP500_HEAD_016541
+date: 2023-11-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8972561359405518
+TEXT:
+Corporate America's revenues are roaring back
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0394
+sample_id: SP500_HEAD_016641
+date: 2023-11-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9167500138282776
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for November 29
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0395
+sample_id: SP500_HEAD_017564
+date: 2024-02-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6105260848999023
+TEXT:
+S&P 500 closes above 5,000 for first time as US inflation cools
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0396
+sample_id: SP500_HEAD_017124
+date: 2024-01-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9350822567939758
+TEXT:
+Investing in S&P 500 from the UK – What to Know
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0397
+sample_id: SP500_HEAD_017469
+date: 2024-01-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9354808330535889
+TEXT:
+10-Year Treasury Yield Dives On Government Funding Plan, ADP Jobs Data; S&P 500 Falls
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0398
+sample_id: SP500_HEAD_010564
+date: 2022-03-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9177748560905457
+TEXT:
+Best Mutual Funds 2022 Topping Their Categories And Beat Benchmarks Over 1, 3, 5 & 10 Years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0399
+sample_id: SP500_HEAD_012875
+date: 2023-02-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.49100348353385925
+TEXT:
+CalPERS Equity Portfolio Edges Out S&P 500 Returns in Q4 2022 | Chief Investment Officer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0400
+sample_id: SP500_HEAD_015020
+date: 2023-08-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7972708344459534
+TEXT:
+S&P 500 Earnings Season Update: August 4, 2023
+

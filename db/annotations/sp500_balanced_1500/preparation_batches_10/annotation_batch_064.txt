@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 064
+Rows: 630 - 639
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0631
+sample_id: SP500_HEAD_006125
+date: 2018-08-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9261265397071838
+TEXT:
+Starting with Futures: S&P 500 E-minis | Market Insights
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0632
+sample_id: SP500_HEAD_002799
+date: 2014-05-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9312763810157776
+TEXT:
+Mothers reveal all: The secrets to raising a successful child
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0633
+sample_id: SP500_HEAD_002018
+date: 2013-06-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9560099840164185
+TEXT:
+Dickerson: Etsy is disrupting global supply chains
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0634
+sample_id: SP500_HEAD_013445
+date: 2023-04-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.937204897403717
+TEXT:
+10 Stocks Consistently Shower Investors With Big Gains In April
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0635
+sample_id: SP500_HEAD_000611
+date: 2011-06-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.898574709892273
+TEXT:
+Two New Elements Added to Chemistry's Periodic Table
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0636
+sample_id: SP500_HEAD_013568
+date: 2023-04-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9209741950035095
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for April 12
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0637
+sample_id: SP500_HEAD_003598
+date: 2015-05-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8593387603759766
+TEXT:
+‘Incredible shrinking car’ drives sideways to park in tiny spaces
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0638
+sample_id: SP500_HEAD_004740
+date: 2016-10-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9293646812438965
+TEXT:
+Salespeople Need a Strategy for Selling to CEOs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0639
+sample_id: SP500_HEAD_012921
+date: 2023-02-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8542153239250183
+TEXT:
+Stock market books worst day of 2023 as rising yields contribute to 'perfect storm'
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0640
+sample_id: SP500_HEAD_002287
+date: 2013-10-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8964245915412903
+TEXT:
+Stocks spike 2%, log 2nd best gains of 2013 amid debt deal hopes; Dow skyrockets 300 points
+

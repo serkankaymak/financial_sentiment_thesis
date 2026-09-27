@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 102
+Rows: 1010 - 1019
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1011
+sample_id: SP500_HEAD_017406
+date: 2024-01-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8429661989212036
+TEXT:
+Stock Market Extends Record Highs, S&P 500 Hits 4900 On Tech Rally, Microsoft's $3 Trillion Mark: What's Driving ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1012
+sample_id: SP500_HEAD_005699
+date: 2018-02-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.494548499584198
+TEXT:
+Stock market sell-off day two, February 5
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1013
+sample_id: SP500_HEAD_015957
+date: 2023-10-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9714581370353699
+TEXT:
+S&P 500 Gains and Losses Today: Index Falls as Consumer Prices Top Estimates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1014
+sample_id: SP500_HEAD_010839
+date: 2022-05-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6177412271499634
+TEXT:
+Cathie Wood’s Ark Gives Up All The Outperformance It Once Enjoyed Against SPX
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1015
+sample_id: SP500_HEAD_010540
+date: 2022-03-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9277879595756531
+TEXT:
+S&P 500 History Shows Gains After Multiple Fed Rate Hikes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1016
+sample_id: SP500_HEAD_014850
+date: 2023-07-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7559884190559387
+TEXT:
+As tech stocks skyrocket, here are the S&P 500's best and worst sectors for profit margins
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1017
+sample_id: SP500_HEAD_011604
+date: 2022-09-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6888005137443542
+TEXT:
+Solar Stocks Lead The Market This Year As Energy Crisis Heats Up
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1018
+sample_id: SP500_HEAD_013601
+date: 2023-04-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9332833886146545
+TEXT:
+Should I invest in the FTSE 100 or the S&P 500?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1019
+sample_id: SP500_HEAD_013259
+date: 2023-03-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5908815264701843
+TEXT:
+Is Vanguard Total Stock Market Index Institutional (VITSX) a Strong Mutual Fund Pick Right Now?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1020
+sample_id: SP500_HEAD_011218
+date: 2022-06-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7782227993011475
+TEXT:
+SPDR S&P 500 ETF Trust (SPY) Forecast: Equities rally in reponse to record low Michigan sentiment reading
+

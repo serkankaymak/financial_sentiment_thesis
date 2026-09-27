@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 021
+Rows: 200 - 209
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0201
+sample_id: SP500_HEAD_001453
+date: 2012-08-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8422350287437439
+TEXT:
+Stocks for the Long Run: Honeywell vs. the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0202
+sample_id: SP500_HEAD_013604
+date: 2023-04-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9336037635803223
+TEXT:
+What Is The VIX Volatility Index? – Forbes Advisor Australia
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0203
+sample_id: SP500_HEAD_006131
+date: 2018-08-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9420419931411743
+TEXT:
+Why a trend divergence in the S&P 500 and the VIX may spell trouble for stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0204
+sample_id: SP500_HEAD_017899
+date: 2024-03-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9314368963241577
+TEXT:
+S&P 500's P/E Is Actually Lower Than Official Number, BofA Says | Chief Investment Officer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0205
+sample_id: SP500_HEAD_006106
+date: 2018-08-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8707250952720642
+TEXT:
+U.S. stocks reach new high ahead of record bull market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0206
+sample_id: SP500_HEAD_003335
+date: 2015-01-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8380045890808105
+TEXT:
+Oil tycoon’s ex accepts $975 million after all
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0207
+sample_id: SP500_HEAD_013512
+date: 2023-04-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9661501049995422
+TEXT:
+Nasdaq 100, Dow Jones, S&P 500: Weaker-Than-Expected Private Payrolls Data Raises Recession Concerns
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0208
+sample_id: SP500_HEAD_009079
+date: 2021-03-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9155550003051758
+TEXT:
+Why Exxon Mobil Stock Is Not A Good Energy Sector Pick
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0209
+sample_id: SP500_HEAD_012381
+date: 2022-12-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7282121777534485
+TEXT:
+Wall Street's dirty secret: It's terrible at forecasting stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0210
+sample_id: SP500_HEAD_004716
+date: 2016-09-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8918625116348267
+TEXT:
+Stock Market News for September 30, 2016
+

@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 024
+Rows: 1150 - 1199
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01151
+date: 2007-01-10 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8917829394340515
+TEXT:
+venezuelas chavez seeks control of gas
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01152
+date: 2007-04-22 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8545256853103638
+TEXT:
+barclays deal for abn looms lasalle set for sale
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01153
+date: 2006-12-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9434423446655272
+TEXT:
+oracle ups bid for indias i-flex
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01154
+date: 2007-01-15 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8295183777809143
+TEXT:
+google, yahoo gain share in u.s. web search market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01155
+date: 2006-11-25 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8505539894104004
+TEXT:
+shoppers go online for t.m.x. elmo, ps3
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01156
+date: 2006-12-07 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7612114548683167
+TEXT:
+reckson shareholders ok sl greens $4 bln takeover
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01157
+date: 2007-01-14 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9600321054458618
+TEXT:
+kimberly clark may be buyout target barrons
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01158
+date: 2007-04-25 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9507097005844116
+TEXT:
+general dynamics profit rises on higher sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01159
+date: 2007-05-01 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9504658579826356
+TEXT:
+nymex quarterly profit rises
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01160
+date: 2007-02-21 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9042383432388306
+TEXT:
+medical costs push up consumer prices
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01161
+date: 2006-11-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9528719186782836
+TEXT:
+yell says reiterates full-year guidance
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01162
+date: 2006-11-28 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6832958459854126
+TEXT:
+sberbank postpones decision on $8.7 billion share issue
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01163
+date: 2007-02-20 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6629776358604431
+TEXT:
+dell to pay $5 million to former ceo kevin rollins
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01164
+date: 2006-11-10 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9248000383377076
+TEXT:
+novartis says will not pay more asthma royalties
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01165
+date: 2007-05-04 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9421184659004213
+TEXT:
+emi shares up 8 pct on takeover approaches
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01166
+date: 2007-02-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.796237051486969
+TEXT:
+scor buys converium stake, has full bid rebuffed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01167
+date: 2007-01-04 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9243925213813782
+TEXT:
+time warner cable seen public this month analysts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01168
+date: 2007-05-08 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9133529663085938
+TEXT:
+ibm selling up to $85 mln in lenovo shares
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01169
+date: 2006-10-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6570122838020325
+TEXT:
+daimlerchrysler talks to 2 firms on small car paper
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01170
+date: 2007-05-02 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9468461275100708
+TEXT:
+clorox quarterly profit rises
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01171
+date: 2007-05-04 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.4993928372859955
+TEXT:
+u.s. homeowners see steady home values survey
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01172
+date: 2007-01-26 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8377993106842041
+TEXT:
+nyse ceo sees tokyo link announcement next week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01173
+date: 2006-10-24 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9647782444953918
+TEXT:
+sony says may lose some battery business on recall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01174
+date: 2007-04-02 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6660124063491821
+TEXT:
+xerox to buy global imaging systems for $1.5 bln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01175
+date: 2007-03-23 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.924311339855194
+TEXT:
+blue chips rise sp logs best week since 03
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01176
+date: 2007-02-14 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.917105197906494
+TEXT:
+global investors eye bernanke, stocks keep gaining
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01177
+date: 2006-11-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9304553866386414
+TEXT:
+blackstone has takeover plan for equity office -wsj
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01178
+date: 2007-03-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9761240482330322
+TEXT:
+gap 4th-quarter net income drops 35 percent
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01179
+date: 2006-11-16 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.4897843599319458
+TEXT:
+intel names yahoo cfo to board
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01180
+date: 2006-11-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9449496269226074
+TEXT:
+wynn 3rd-qtr profit up on macau rights sale
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01181
+date: 2007-04-20 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.615490734577179
+TEXT:
+house approves say on pay for shareholders
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01182
+date: 2006-11-15 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9349037408828736
+TEXT:
+ny fed nov manufacturing index rises unexpectedly
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01183
+date: 2007-05-02 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9030911922454834
+TEXT:
+murdochs dow deal may up asia clout, but not china
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01184
+date: 2007-04-23 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9301276206970216
+TEXT:
+icahn company sells 4 nevada casinos to goldman
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01185
+date: 2006-12-18 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9414467811584472
+TEXT:
+warner music buying majority stake in roadrunner
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01186
+date: 2007-04-11 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8771026730537415
+TEXT:
+google talking to directv on tv advertising report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01187
+date: 2006-11-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.4986215829849243
+TEXT:
+att names suspected pretexters
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01188
+date: 2007-03-22 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6030363440513611
+TEXT:
+subprime lenders, regulators face u.s. senate panel
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01189
+date: 2007-03-29 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8842212557792664
+TEXT:
+feds stern subprime woes wont derail economy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01190
+date: 2007-01-23 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.947516918182373
+TEXT:
+sun microsystems swings to profit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01191
+date: 2007-01-24 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9640066027641296
+TEXT:
+wellpoint profit jumps 23 percent
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01192
+date: 2007-04-10 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9184688329696656
+TEXT:
+altadis rebuffs improved imperial approach
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01193
+date: 2007-03-29 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9216123819351196
+TEXT:
+focus for future amgen growth shifts to bone drug
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01194
+date: 2007-02-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6487334966659546
+TEXT:
+jj psoriasis drug posts mixed results in trial
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01195
+date: 2006-12-14 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8527958393096924
+TEXT:
+adobe to launch creative suite at end of q2 -ceo
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01196
+date: 2007-02-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6905562281608582
+TEXT:
+kodak to cut more jobs, complete overhaul in 2007
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01197
+date: 2006-12-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.932181715965271
+TEXT:
+existing home sales edge up
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01198
+date: 2006-11-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9761770963668824
+TEXT:
+u.s. sept pending home sales index falls 1.1 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01199
+date: 2007-04-22 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8232354521751404
+TEXT:
+dow 13,000 in focus with earnings on tap
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01200
+date: 2007-01-29 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5634149312973022
+TEXT:
+house bill would ban wal-mart, retailers banks
+

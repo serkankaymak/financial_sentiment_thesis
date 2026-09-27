@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 020
+Rows: 190 - 199
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0191
+sample_id: SP500_HEAD_010991
+date: 2022-05-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9445042610168457
+TEXT:
+Strategy Webinar: DXY, EUR/USD, USD/CAD, S&P 500 & Gold Technicals
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0192
+sample_id: SP500_HEAD_017240
+date: 2024-01-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5075650215148926
+TEXT:
+Wells Fargo Investment Institute bets on rate cuts, lifts 2024 S&P 500 target
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0193
+sample_id: SP500_HEAD_009529
+date: 2021-08-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5540848970413208
+TEXT:
+S&P 500 doubles from its pandemic bottom, marking the fastest bull market rally since WWII
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0194
+sample_id: SP500_HEAD_014541
+date: 2023-07-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8693586587905884
+TEXT:
+Fundstrat's Tom Lee raises S&P 500 target, sees all-time high before year-end
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0195
+sample_id: SP500_HEAD_011683
+date: 2022-09-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7587243914604187
+TEXT:
+High Shareholder Opposition to Pay in 2022: Major Reasons and Examples
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0196
+sample_id: SP500_HEAD_016433
+date: 2023-11-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7737680077552795
+TEXT:
+Dow soars nearly 500 points as new data shows inflation continues to cool
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0197
+sample_id: SP500_HEAD_000954
+date: 2011-12-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9365363121032715
+TEXT:
+Facebook, Google refer suicidal people to help lines
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0198
+sample_id: SP500_HEAD_002122
+date: 2013-07-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.683485746383667
+TEXT:
+Where Have All The 'Low Priced' Stocks Gone?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0199
+sample_id: SP500_HEAD_010909
+date: 2022-05-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8782420754432678
+TEXT:
+$300 a Month in These 3 Stocks Could Make You a Millionaire by Retirement
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0200
+sample_id: SP500_HEAD_010665
+date: 2022-04-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9013645648956299
+TEXT:
+Dow gains, S&P 500 ends lower as market weighs Fed rate hikes
+

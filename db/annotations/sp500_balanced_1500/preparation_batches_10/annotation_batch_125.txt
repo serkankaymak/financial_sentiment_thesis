@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 125
+Rows: 1240 - 1249
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1241
+sample_id: SP500_HEAD_014093
+date: 2023-05-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9304609298706055
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500: Futures Rise as Debt Ceiling Agreement Boosts Market Confidence
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1242
+sample_id: SP500_HEAD_013178
+date: 2023-03-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6642075181007385
+TEXT:
+Stock valuations climb, defying Fed's interest rate push
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1243
+sample_id: SP500_HEAD_011511
+date: 2022-08-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.594867467880249
+TEXT:
+Why the stock market slumped and what comes next, according to experts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1244
+sample_id: SP500_HEAD_007661
+date: 2020-03-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.862596333026886
+TEXT:
+Shale Driller Cabot (COG) Stock Week's Biggest S&P 500 Gainer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1245
+sample_id: SP500_HEAD_016568
+date: 2023-11-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8706890940666199
+TEXT:
+AI Boosts Stock Market, S&P 500 Growth Prevails
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1246
+sample_id: SP500_HEAD_015511
+date: 2023-09-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9186404943466187
+TEXT:
+Nasdaq, S&P 500 Gap Lower as Apple Leads Tech Sector Rout
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1247
+sample_id: SP500_HEAD_014874
+date: 2023-07-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9367449283599854
+TEXT:
+S&P 500 Gains and Losses Today: Stocks Mixed After Fed Lifts Rates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1248
+sample_id: SP500_HEAD_011632
+date: 2022-09-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9198091626167297
+TEXT:
+S&P 500 Economic Earnings: WACC Is Still A Drag In 2Q22
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1249
+sample_id: SP500_HEAD_011512
+date: 2022-08-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7844669818878174
+TEXT:
+Growth stocks lift Wall Street, all eyes on Jackson Hole; Tesla rises
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1250
+sample_id: SP500_HEAD_005012
+date: 2017-02-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5233368873596191
+TEXT:
+Active fund managers rarely beat their benchmarks year after year
+

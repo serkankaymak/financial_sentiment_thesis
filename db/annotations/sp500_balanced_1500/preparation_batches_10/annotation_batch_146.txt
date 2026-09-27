@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 146
+Rows: 1450 - 1459
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1451
+sample_id: SP500_HEAD_006970
+date: 2019-08-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9131330251693726
+TEXT:
+Machine Learning Answers: If S&P500 Drops 5% One Week, What's The Chance It'll Rise Next Week/Month?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1452
+sample_id: SP500_HEAD_009968
+date: 2021-12-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6681942939758301
+TEXT:
+E-mini S&P 500 ESG futures – Answering the liquidity question
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1453
+sample_id: SP500_HEAD_011159
+date: 2022-06-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8897039294242859
+TEXT:
+A stock market drop doesn't predict a recession - The Washington Post
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1454
+sample_id: SP500_HEAD_003004
+date: 2014-08-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.91764897108078
+TEXT:
+Shenan Chuang: Is this China’s $50 billion woman?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1455
+sample_id: SP500_HEAD_017083
+date: 2023-12-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.880025327205658
+TEXT:
+Markets News, Dec. 28, 2023: S&P 500 Edges Toward All-Time High, Dow Hits Another Record as Year-End Rally ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1456
+sample_id: SP500_HEAD_013555
+date: 2023-04-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.37268388271331787
+TEXT:
+S&P 500 ends Monday slightly higher as investors anticipate key inflation data: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1457
+sample_id: SP500_HEAD_008400
+date: 2020-09-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4520353078842163
+TEXT:
+S&P 500 (SPX) Insider Selling Hits a Peak, and Insiders Are Not Ready to Buy Yet...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1458
+sample_id: SP500_HEAD_009369
+date: 2021-06-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9341793060302734
+TEXT:
+Apple Stock: What Are The Next Catalysts?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1459
+sample_id: SP500_HEAD_004702
+date: 2016-09-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.853586733341217
+TEXT:
+Wall Street builds on Fed-fuelled rally; Nasdaq hits new high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1460
+sample_id: SP500_HEAD_002032
+date: 2013-06-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6594628095626831
+TEXT:
+Companies keep salary outgo in check to protect margins
+

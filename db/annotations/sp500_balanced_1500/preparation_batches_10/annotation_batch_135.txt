@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 135
+Rows: 1340 - 1349
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1341
+sample_id: SP500_HEAD_008317
+date: 2020-08-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8561215996742249
+TEXT:
+U.S. Tech Stocks Are Now Worth More Than $9 Trillion, Eclipsing The Entire European Stock Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1342
+sample_id: SP500_HEAD_005103
+date: 2017-04-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7392513751983643
+TEXT:
+Gold Bugs breakout, very bullish says Joe Friday
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1343
+sample_id: SP500_HEAD_001065
+date: 2012-02-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9204539656639099
+TEXT:
+Thanks To Sports Illustrated And Kate Upton, The Economy Will Be Strong In 2012
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1344
+sample_id: SP500_HEAD_014892
+date: 2023-07-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6307859420776367
+TEXT:
+Dow Jones index set to end 13 day winning streak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1345
+sample_id: SP500_HEAD_015708
+date: 2023-09-25 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.415618896484375
+TEXT:
+S&P 500 Bears Pause As Bulls Stand Firm – 4200 Marks A Critical Battle Line
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1346
+sample_id: SP500_HEAD_011935
+date: 2022-10-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9001656770706177
+TEXT:
+Stock market news live updates: Nasdaq powers rally, stocks rise for third straight session on key earnings day
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1347
+sample_id: SP500_HEAD_010198
+date: 2022-01-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.651016116142273
+TEXT:
+What happens to the stock market when interest rates rise?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1348
+sample_id: SP500_HEAD_007208
+date: 2019-11-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7692342400550842
+TEXT:
+Bulls Keep On Running To Set A New Record
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1349
+sample_id: SP500_HEAD_002800
+date: 2014-05-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8687747120857239
+TEXT:
+Can eco-city plans bring Cypriot ghost town back to life?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1350
+sample_id: SP500_HEAD_008929
+date: 2021-02-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8345000147819519
+TEXT:
+3 Safe TSX Stocks That Beat the S&P500 in the Last Decade
+

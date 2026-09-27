@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 098
+Rows: 970 - 979
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0971
+sample_id: SP500_HEAD_016140
+date: 2023-10-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.934173583984375
+TEXT:
+Stock-Market Selloff: S&P 500 Logs Longest Losing Streak of 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0972
+sample_id: SP500_HEAD_005887
+date: 2018-05-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8381818532943726
+TEXT:
+Have stocks been volatile this earnings season? Yes and no
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0973
+sample_id: SP500_HEAD_012683
+date: 2023-01-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7167416214942932
+TEXT:
+Stock Market Today: S&P 500 posts highest close of 2023 as stocks book big weekly gains
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0974
+sample_id: SP500_HEAD_003632
+date: 2015-05-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9277511239051819
+TEXT:
+Stocks dip, bonds fall as CPI keeps Fed on course
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0975
+sample_id: SP500_HEAD_016521
+date: 2023-11-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7462071776390076
+TEXT:
+Nasdaq leads Wall Street gains as Microsoft hits record
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0976
+sample_id: SP500_HEAD_017665
+date: 2024-02-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7549774050712585
+TEXT:
+Stock Market Today: S&P 500 snaps 5-week win run as hotter inflation cools bulls By Investing.com
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0977
+sample_id: SP500_HEAD_012306
+date: 2022-12-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9408599138259888
+TEXT:
+Wall Street falls fourth straight day as recession worries nag
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0978
+sample_id: SP500_HEAD_004485
+date: 2016-06-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7223424911499023
+TEXT:
+Chanel Handbags Skyrocket in Value - Investment Value of Chanel Purses
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0979
+sample_id: SP500_HEAD_003558
+date: 2015-04-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8177777528762817
+TEXT:
+How the S&P 500 (SPY) Reacts to Unemployment Reports
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0980
+sample_id: SP500_HEAD_003579
+date: 2015-04-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9517900347709656
+TEXT:
+Wall Street opens lower as Apple, Celgene weigh
+

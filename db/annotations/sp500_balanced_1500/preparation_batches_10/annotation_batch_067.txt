@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 067
+Rows: 660 - 669
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0661
+sample_id: SP500_HEAD_010723
+date: 2022-04-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.942997395992279
+TEXT:
+Dow plunges more than 900 points for its worst day since 2020, falls for a fourth straight week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0662
+sample_id: SP500_HEAD_007721
+date: 2020-03-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5916693210601807
+TEXT:
+Stock Market News Today: Dow, S&P 500 Rise on Coronavirus Stimulus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0663
+sample_id: SP500_HEAD_003567
+date: 2015-04-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.731256365776062
+TEXT:
+GLOBAL MARKETS-Wall St dips; Greece negotiating team rejig boosts Europe
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0664
+sample_id: SP500_HEAD_009911
+date: 2021-11-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9321775436401367
+TEXT:
+LIVE MARKETS S&P 500 year-end 2022 target 5100 - Goldman
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0665
+sample_id: SP500_HEAD_014034
+date: 2023-05-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7154667973518372
+TEXT:
+The S&P 500 is up 8% this year, but most stocks are down—here's what it means for your money
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0666
+sample_id: SP500_HEAD_013645
+date: 2023-04-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7606230974197388
+TEXT:
+The odds are stacked against stock pickers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0667
+sample_id: SP500_HEAD_007805
+date: 2020-04-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8363940119743347
+TEXT:
+Big Restaurants' Cash May Only Last This Many Months
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0668
+sample_id: SP500_HEAD_007112
+date: 2019-10-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9011355638504028
+TEXT:
+Dow Jones Industrial Average and the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0669
+sample_id: SP500_HEAD_017254
+date: 2024-01-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9446703195571899
+TEXT:
+60% Of This Year's Top Stocks Are In This Sector (It's Not Tech)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0670
+sample_id: SP500_HEAD_012022
+date: 2022-11-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5286399722099304
+TEXT:
+S&P 500, Dow, Nasdaq rise with vote expected to yield split government
+

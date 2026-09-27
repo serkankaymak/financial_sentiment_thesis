@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 047
+Rows: 460 - 469
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0461
+sample_id: SP500_HEAD_013511
+date: 2023-04-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9088032841682434
+TEXT:
+Top 10 Names in S&P 500 Responsible for 90% of Q1 Gains
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0462
+sample_id: SP500_HEAD_006809
+date: 2019-06-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9517059922218323
+TEXT:
+Facebook gets dumped from an S&P index that tracks socially responsible companies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0463
+sample_id: SP500_HEAD_016344
+date: 2023-11-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5669712424278259
+TEXT:
+S&P 500 Gains and Losses Today: Gen Digital's Customers, Revenue Advance
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0464
+sample_id: SP500_HEAD_006611
+date: 2019-03-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9266917109489441
+TEXT:
+Should You Buy the Vanguard S&P 500 ETF? 3 Pros, 2 Cons
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0465
+sample_id: SP500_HEAD_006414
+date: 2018-12-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5887260437011719
+TEXT:
+Stocks Wobble as a Bumpy Week on Wall St. Comes to a Close (Published 2018)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0466
+sample_id: SP500_HEAD_014031
+date: 2023-05-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9233048558235168
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for May 25
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0467
+sample_id: SP500_HEAD_015288
+date: 2023-08-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8729002475738525
+TEXT:
+The 100 Largest Low-Wage Employers Have Spent $341 Billion on Stock Buybacks Since 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0468
+sample_id: SP500_HEAD_017407
+date: 2024-01-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.819521963596344
+TEXT:
+Tech giants drive fifth day of gains for Nasdaq, S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0469
+sample_id: SP500_HEAD_012483
+date: 2023-01-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5873013734817505
+TEXT:
+Now is an 'ideal' time for young people to start building wealth, says investing expert
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0470
+sample_id: SP500_HEAD_003869
+date: 2015-09-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4968626797199249
+TEXT:
+Stocks gain as European central bank says it's ready to act
+

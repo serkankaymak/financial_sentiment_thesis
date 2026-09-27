@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 142
+Rows: 1410 - 1419
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1411
+sample_id: SP500_HEAD_002047
+date: 2013-06-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9052637815475464
+TEXT:
+Microsoft backtracks on Xbox One sharing policies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1412
+sample_id: SP500_HEAD_004879
+date: 2016-12-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9321942329406738
+TEXT:
+International Stocks and ETFs: Where I'm Focusing For 2024
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1413
+sample_id: SP500_HEAD_017301
+date: 2024-01-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9653280377388
+TEXT:
+US stock market: Wall Street ends down as Apple weighs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1414
+sample_id: SP500_HEAD_017668
+date: 2024-02-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9050191640853882
+TEXT:
+Japan's Nikkei approaches all-time high; Hong Kong leads gains in Asia
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1415
+sample_id: SP500_HEAD_013720
+date: 2023-05-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6921374797821045
+TEXT:
+US STOCKS-S&P, Dow edge higher as JPMorgan gains; Fed meet in focus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1416
+sample_id: SP500_HEAD_006402
+date: 2018-12-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5830253958702087
+TEXT:
+Stock Market News: Disconnect Between S&P 500 and 10-Year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1417
+sample_id: SP500_HEAD_011567
+date: 2022-09-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.45154714584350586
+TEXT:
+Dow, S&P 500 close higher to snap four-day losing streak and begin September
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1418
+sample_id: SP500_HEAD_003877
+date: 2015-09-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8853206634521484
+TEXT:
+John McAfee announces he’s running for President
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1419
+sample_id: SP500_HEAD_017846
+date: 2024-02-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9375762343406677
+TEXT:
+Nasdaq Index, Dow Jones, S&P 500 News: Mixed Earnings Impacting Ahead of PCE Report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1420
+sample_id: SP500_HEAD_014072
+date: 2023-05-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5440695881843567
+TEXT:
+Sector Views – Industrial Bright Spots During Cycle Shift
+

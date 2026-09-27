@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 072
+Rows: 710 - 719
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0711
+sample_id: SP500_HEAD_007655
+date: 2020-03-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.45910507440567017
+TEXT:
+Stocks Rally as Trump and Business Leaders Pledge Support (Published 2020)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0712
+sample_id: SP500_HEAD_003972
+date: 2015-10-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8873543739318848
+TEXT:
+Back to the Future: Marty McFly could have gotten rich off these stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0713
+sample_id: SP500_HEAD_002158
+date: 2013-08-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5687092542648315
+TEXT:
+'Hindenburg Omen' looms over S&P 500 as stocks stall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0714
+sample_id: SP500_HEAD_008730
+date: 2020-12-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8650311231613159
+TEXT:
+Federal Realty Investment Trust Stock Can Still Grow By 40%
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0715
+sample_id: SP500_HEAD_011989
+date: 2022-11-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9722610712051392
+TEXT:
+Facebook parent company Meta is now the worst performer in the S&P 500 this year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0716
+sample_id: SP500_HEAD_010261
+date: 2022-01-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9466539025306702
+TEXT:
+Strategists Predict Trouble for U.S. Stocks After Massive U-Turn
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0717
+sample_id: SP500_HEAD_014232
+date: 2023-06-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4144666790962219
+TEXT:
+Asia markets rise as S&P 500 hits new 2023 high, China's producer price index falls
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0718
+sample_id: SP500_HEAD_007769
+date: 2020-03-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9730097651481628
+TEXT:
+S&P 500 Earnings May See First Double-Digit Drop in Decade
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0719
+sample_id: SP500_HEAD_005101
+date: 2017-04-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9030051231384277
+TEXT:
+NBA says it expects to give 2019 All-Star Game to Charlotte
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0720
+sample_id: SP500_HEAD_016189
+date: 2023-10-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9642689824104309
+TEXT:
+The S&P 500 could fall another 5% and test a critical support level that has previously marked the bottom, Bank of ...
+

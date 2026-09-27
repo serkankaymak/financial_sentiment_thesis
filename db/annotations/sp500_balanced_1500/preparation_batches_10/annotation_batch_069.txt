@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 069
+Rows: 680 - 689
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0681
+sample_id: SP500_HEAD_012707
+date: 2023-01-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8911239504814148
+TEXT:
+February stock market trends | Active Trader Commentary
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0682
+sample_id: SP500_HEAD_013056
+date: 2023-03-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9154316186904907
+TEXT:
+Why the 200-Day Moving Average Matters in Today’s Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0683
+sample_id: SP500_HEAD_013309
+date: 2023-03-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.3850216567516327
+TEXT:
+US Stock Market News: Dow Jones jumps 383 pts, Nasdaq, S&P 500 follow suit as bank contagion fears ease
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0684
+sample_id: SP500_HEAD_013041
+date: 2023-03-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9046377539634705
+TEXT:
+Nvidia Climbs Into The Top Five S&P 500 Weightings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0685
+sample_id: SP500_HEAD_002385
+date: 2013-11-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8294345140457153
+TEXT:
+Side effect of larger smartphones: More data usage
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0686
+sample_id: SP500_HEAD_010406
+date: 2022-02-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.3853231966495514
+TEXT:
+Stocks Hit Correction Territory as the West Announces Russia Sanctions
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0687
+sample_id: SP500_HEAD_010300
+date: 2022-02-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6566455960273743
+TEXT:
+Ether ($ETH USD) Correlation With US Stocks Reaches Record: Chart
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0688
+sample_id: SP500_HEAD_002793
+date: 2014-05-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9409530758857727
+TEXT:
+Forget Godzilla: Facebook rolls out its own dinosaur
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0689
+sample_id: SP500_HEAD_003860
+date: 2015-08-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.648705780506134
+TEXT:
+Red Alert For 2nd Crash Downwave | investing.com
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0690
+sample_id: SP500_HEAD_005496
+date: 2017-10-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.867499053478241
+TEXT:
+Wall St. powered higher by tech, Amazon results
+

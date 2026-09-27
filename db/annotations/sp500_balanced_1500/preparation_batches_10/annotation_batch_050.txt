@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 050
+Rows: 490 - 499
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0491
+sample_id: SP500_HEAD_016565
+date: 2023-11-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9524070620536804
+TEXT:
+Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0492
+sample_id: SP500_HEAD_014301
+date: 2023-06-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7887330055236816
+TEXT:
+Here's How Stocks Performed After The Fed Stopped Hiking Rates In The Past
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0493
+sample_id: SP500_HEAD_006370
+date: 2018-12-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8727518320083618
+TEXT:
+Goldman Sees Bull Market In 2019 Despite Investor Pessimism
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0494
+sample_id: SP500_HEAD_005059
+date: 2017-03-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7315798997879028
+TEXT:
+Health care stocks rebound despite fight over Obamacare
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0495
+sample_id: SP500_HEAD_009546
+date: 2021-08-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5679757595062256
+TEXT:
+Wall Street ignores these 'orphan' stocks, but they've beaten the S&P 500 over 20 years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0496
+sample_id: SP500_HEAD_005954
+date: 2018-06-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9369297027587891
+TEXT:
+Hedgeye Risk Management | S&P Sector Scorecard: Everything You Need to Know About the U.S. Economy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0497
+sample_id: SP500_HEAD_006321
+date: 2018-11-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8200318813323975
+TEXT:
+The stock market usually bounces from Thanksgiving to Christmas
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0498
+sample_id: SP500_HEAD_011931
+date: 2022-10-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7182624936103821
+TEXT:
+'From Bambi to Godzilla.' Strategist David Rosenberg skewers the Federal Reserve as he sees a 30% hit to home prices and the S&P 500 returning to an early 2020 low
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0499
+sample_id: SP500_HEAD_008092
+date: 2020-06-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.658740758895874
+TEXT:
+Prudence pays as cash-rich US companies outperform peers in 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0500
+sample_id: SP500_HEAD_010081
+date: 2021-12-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9097763895988464
+TEXT:
+S&P 500 generates double-digit gains for third consecutive year
+

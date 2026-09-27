@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 008
+Rows: 70 - 79
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0071
+sample_id: SP500_HEAD_012150
+date: 2022-11-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9573081731796265
+TEXT:
+Stock market could plunge another 24% next year, Bank of America warns
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0072
+sample_id: SP500_HEAD_014864
+date: 2023-07-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8734500408172607
+TEXT:
+S&P 500 E-Mini Bears Want Double Top Test of 4,500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0073
+sample_id: SP500_HEAD_000892
+date: 2011-11-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.502299427986145
+TEXT:
+10 S&P Stocks with the Highest PEG Ratios
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0074
+sample_id: SP500_HEAD_011276
+date: 2022-07-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9425598978996277
+TEXT:
+S&P 500 Weekly Price Forecast – The Stock Market Continues to Plummet
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0075
+sample_id: SP500_HEAD_012837
+date: 2023-02-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9211642742156982
+TEXT:
+The new CFO: How being chief financial officer can be the launchpad to the head office
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0076
+sample_id: SP500_HEAD_002478
+date: 2014-01-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5264177918434143
+TEXT:
+Berkshire seen failing Warren Buffett's 5-year test for the first time
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0077
+sample_id: SP500_HEAD_005050
+date: 2017-03-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7793171405792236
+TEXT:
+Why Stocks Are Better Than Leprechaun Gold on St. Patrick's Day
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0078
+sample_id: SP500_HEAD_016797
+date: 2023-12-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8749796748161316
+TEXT:
+Uber Is Riding Into the S&P 500: Here's Why Its Stock Could Soar Higher
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0079
+sample_id: SP500_HEAD_011701
+date: 2022-09-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9088355898857117
+TEXT:
+S&P 500 Circles New 2022 Lows Following Latest Fed Rate Hike: Is A Recession Inevitable? - SPDR S&P 500 (
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0080
+sample_id: SP500_HEAD_013371
+date: 2023-03-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8368372321128845
+TEXT:
+11 stocks in the S&P 500 expected to form an exclusive growth club for investors
+

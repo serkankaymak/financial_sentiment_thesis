@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 138
+Rows: 1370 - 1379
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1371
+sample_id: SP500_HEAD_008419
+date: 2020-09-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7304670810699463
+TEXT:
+Prepare for a Massive Stock Market Meltdown & Explosive Gold Rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1372
+sample_id: SP500_HEAD_005723
+date: 2018-02-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9193557500839233
+TEXT:
+How Unusual Is The Current Stock Vs Bond Correlation? | investing.com
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1373
+sample_id: SP500_HEAD_013763
+date: 2023-05-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9240344166755676
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for May 5
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1374
+sample_id: SP500_HEAD_004381
+date: 2016-04-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9555727243423462
+TEXT:
+Wall Street ends slightly lower on energy, earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1375
+sample_id: SP500_HEAD_000903
+date: 2011-11-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8554551601409912
+TEXT:
+World’s smallest car fuels nanotech advance
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1376
+sample_id: SP500_HEAD_008458
+date: 2020-09-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9059807658195496
+TEXT:
+Dow Jones: Privacy Scandals Led to Facebook's S&P 500 ESG Ouster
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1377
+sample_id: SP500_HEAD_014790
+date: 2023-07-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8347026705741882
+TEXT:
+Incentives Linked to ESG Metrics Among S&P 500 Companies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1378
+sample_id: SP500_HEAD_002816
+date: 2014-06-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.900165319442749
+TEXT:
+CSRWire - The Mosaic Company Announces Greenhouse Gas Reduction Progress and Companywide Sustainability ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1379
+sample_id: SP500_HEAD_013264
+date: 2023-03-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8222196698188782
+TEXT:
+Apple, Microsoft Dominance on Tech-Stock indexes Grows in Benchmark Overhaul
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1380
+sample_id: SP500_HEAD_000974
+date: 2011-12-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8807191848754883
+TEXT:
+The 10 biggest stories of 2011 in mobile tech
+

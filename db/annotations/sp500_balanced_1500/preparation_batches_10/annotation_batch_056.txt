@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 056
+Rows: 550 - 559
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0551
+sample_id: SP500_HEAD_000074
+date: 2008-08-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9283095598220825
+TEXT:
+Indie RIAs say they're taking clients from brokers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0552
+sample_id: SP500_HEAD_016292
+date: 2023-11-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.49303552508354187
+TEXT:
+Dow scores best week since October 2022 as stocks rise after soft jobs report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0553
+sample_id: SP500_HEAD_014333
+date: 2023-06-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6023100018501282
+TEXT:
+Big stock rally could be followed by 'big collapse': Bank of America
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0554
+sample_id: SP500_HEAD_004909
+date: 2016-12-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5663942098617554
+TEXT:
+Five reasons why U.S. stocks soared in 2016
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0555
+sample_id: SP500_HEAD_013444
+date: 2023-04-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7816457152366638
+TEXT:
+International Wide Moat Stocks Ready to Shine
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0556
+sample_id: SP500_HEAD_016107
+date: 2023-10-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.970039427280426
+TEXT:
+S&P 500 Gains and Losses Today: Solar Power Stocks Sink After SolarEdge Warning
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0557
+sample_id: SP500_HEAD_016945
+date: 2023-12-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9411410093307495
+TEXT:
+S&P 500 forms 'doji' pattern, a bearish sign for stock-market investors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0558
+sample_id: SP500_HEAD_012125
+date: 2022-11-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7342637181282043
+TEXT:
+US Stocks are Forecast to Have Less Pain but No Gain in 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0559
+sample_id: SP500_HEAD_014893
+date: 2023-07-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7549479603767395
+TEXT:
+Dow loses more than 200 points Thursday to snap historic 13-day rally: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0560
+sample_id: SP500_HEAD_009534
+date: 2021-08-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9360916018486023
+TEXT:
+It's been a while since the S&P 500 had a big pullback—and that could mean rocky times ahead
+

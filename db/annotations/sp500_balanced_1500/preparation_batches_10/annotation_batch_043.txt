@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 043
+Rows: 420 - 429
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0421
+sample_id: SP500_HEAD_010895
+date: 2022-05-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6847860813140869
+TEXT:
+Tesla (TSLA) Stock Price Forecast Gap Is Widest in S&P500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0422
+sample_id: SP500_HEAD_005305
+date: 2017-07-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8899221420288086
+TEXT:
+Digital Transformation Is Racing Ahead and No Industry Is Immune - SPONSOR CONTENT FROM DXC TECHNOLOGY
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0423
+sample_id: SP500_HEAD_000087
+date: 2008-09-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8921847939491272
+TEXT:
+U.S. Stocks Erase Losses Amid Hopes Of AIG Rescue
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0424
+sample_id: SP500_HEAD_004670
+date: 2016-09-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8153944611549377
+TEXT:
+How Sustainable Is Johnson & Johnson’s Dividend?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0425
+sample_id: SP500_HEAD_009044
+date: 2021-03-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5374186038970947
+TEXT:
+Smart-Beta ETFs That Lived Up to Their Nickname
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0426
+sample_id: SP500_HEAD_017696
+date: 2024-02-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6424009799957275
+TEXT:
+Unstoppable Action: S&P 500 Hits Record High, Dow Soars 350 Points!
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0427
+sample_id: SP500_HEAD_003121
+date: 2014-10-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6144891977310181
+TEXT:
+‘NBA 2K15’ face scans create mutant horrors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0428
+sample_id: SP500_HEAD_011096
+date: 2022-06-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9746934175491333
+TEXT:
+These 19 large-cap stocks have now dropped at least 60% from their 52-week highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0429
+sample_id: SP500_HEAD_010517
+date: 2022-03-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9632366895675659
+TEXT:
+It's Been One Of The Top 5 Worst Starts To A Year For Stocks And Bonds
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0430
+sample_id: SP500_HEAD_016902
+date: 2023-12-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7774996161460876
+TEXT:
+US Stock Market: New Highs For Dow, S&P 500, And Nasdaq After Fed's Decision
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 074
+Rows: 730 - 739
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0731
+sample_id: SP500_HEAD_000037
+date: 2008-04-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.957134485244751
+TEXT:
+U.S. Stocks Fall On Economic Woes; Amazon Outlook Weighs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0732
+sample_id: SP500_HEAD_006221
+date: 2018-10-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7538869976997375
+TEXT:
+S&P 500 Market Outlook: The Good, The Bad, and The Ugly
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0733
+sample_id: SP500_HEAD_015689
+date: 2023-09-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.474526047706604
+TEXT:
+Dow Jones Futures Rise After S&P 500 Undercuts Low; Tesla Forges New Buy Point
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0734
+sample_id: SP500_HEAD_016298
+date: 2023-11-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9220811128616333
+TEXT:
+AI Is Overhyped, S&P 500 at Risk If 'Magnificent 7' Stocks Fall: Smead
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0735
+sample_id: SP500_HEAD_004456
+date: 2016-06-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6388150453567505
+TEXT:
+Wall St lower; cuts losses as oil prices reverse course
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0736
+sample_id: SP500_HEAD_008217
+date: 2020-08-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5527613162994385
+TEXT:
+Stock Market Crash: The Battle Between Retail Traders And Smart Money
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0737
+sample_id: SP500_HEAD_003350
+date: 2015-01-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5377001166343689
+TEXT:
+Stop this Stock Market Ride! I Want to Get Off!
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0738
+sample_id: SP500_HEAD_014844
+date: 2023-07-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8491243124008179
+TEXT:
+Morgan Stanley's Mike Wilson admits he 'was wrong' about the S&P 500 as the index is close to erasing 2022's plunge
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0739
+sample_id: SP500_HEAD_008194
+date: 2020-07-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9086633920669556
+TEXT:
+Analyzing Market Breadth: Kickin’ It With Old-School Indicators
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0740
+sample_id: SP500_HEAD_007535
+date: 2020-02-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9016947746276855
+TEXT:
+S&P 500 (VIX) dips in pre market session for another blood bath ahead
+

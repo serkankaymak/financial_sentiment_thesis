@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 130
+Rows: 1290 - 1299
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1291
+sample_id: SP500_HEAD_002512
+date: 2014-01-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9301527738571167
+TEXT:
+The Hottest Wall Street Movies Seem To Hit Theaters Right Around The Time Of A Big Stock Market Crash
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1292
+sample_id: SP500_HEAD_012947
+date: 2023-02-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9349279403686523
+TEXT:
+Stock market news today: S&P 500, Dow fall after Fed minutes signal continued rate hikes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1293
+sample_id: SP500_HEAD_015614
+date: 2023-09-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9525742530822754
+TEXT:
+U.S. stocks fall, S&P 500 books another weekly loss amid worries over inflation pressure, auto worker strike
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1294
+sample_id: SP500_HEAD_004169
+date: 2016-01-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8667124509811401
+TEXT:
+The Simple DIY Portfolio That Has Beaten The Pros
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1295
+sample_id: SP500_HEAD_016528
+date: 2023-11-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8751820921897888
+TEXT:
+S&P 500 exits correction territory. Thank retreating bond yields.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1296
+sample_id: SP500_HEAD_006389
+date: 2018-12-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6968779563903809
+TEXT:
+A government shutdown typically doesn't hurt the stock market, history shows
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1297
+sample_id: SP500_HEAD_012965
+date: 2023-02-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7476993799209595
+TEXT:
+S&P 500 holds important chart support near 3,970
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1298
+sample_id: SP500_HEAD_009052
+date: 2021-03-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8607301712036133
+TEXT:
+7 Giant Stocks Still Missing From The S&P 500 Run Circles Around It
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1299
+sample_id: SP500_HEAD_000239
+date: 2009-12-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9353825449943542
+TEXT:
+Osiris Partners unveils first hedge fund | News | Futures & Options World
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1300
+sample_id: SP500_HEAD_004213
+date: 2016-02-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7510323524475098
+TEXT:
+Race car driver arrested in alleged $2 billion payday lending empire
+

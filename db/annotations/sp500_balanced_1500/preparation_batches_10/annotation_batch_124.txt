@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 124
+Rows: 1230 - 1239
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1231
+sample_id: SP500_HEAD_012894
+date: 2023-02-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7236069440841675
+TEXT:
+Warren Buffett Just Sent a Subtle but Terrifying Signal to Investors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1232
+sample_id: SP500_HEAD_015669
+date: 2023-09-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6382492184638977
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500 News: Markets Surge as Investors Eye Fed’s Next Move, Powell’s Remarks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1233
+sample_id: SP500_HEAD_014277
+date: 2023-06-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6149846315383911
+TEXT:
+Stocks rise after inflation report, S&P 500 and Nasdaq hit fresh 13-month highs: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1234
+sample_id: SP500_HEAD_012243
+date: 2022-12-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7289947271347046
+TEXT:
+December Down, Not Out: Trends Point to Market Recovery
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1235
+sample_id: SP500_HEAD_001163
+date: 2012-04-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8318347334861755
+TEXT:
+Smithsonian celebrates ‘Art of Video Games’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1236
+sample_id: SP500_HEAD_008992
+date: 2021-02-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.776962399482727
+TEXT:
+New to investing? 3 solid choices for your portfolio
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1237
+sample_id: SP500_HEAD_005342
+date: 2017-08-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9496721625328064
+TEXT:
+Infographic: The Best and Worst Performing Sectors of the Market in 2017 So Far
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1238
+sample_id: SP500_HEAD_017768
+date: 2024-02-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7027896046638489
+TEXT:
+Stock market today: S&P 500, Dow hit fresh records as Wall Street ends Nvidia-fueled rally week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1239
+sample_id: SP500_HEAD_008510
+date: 2020-10-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7777279615402222
+TEXT:
+Big tech and the sp 500 Look beneath the surface
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1240
+sample_id: SP500_HEAD_010510
+date: 2022-03-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6888038516044617
+TEXT:
+S&P 500 Bears Are Ahead Year-to-Date, but Bulls Are Winning the Past Year
+

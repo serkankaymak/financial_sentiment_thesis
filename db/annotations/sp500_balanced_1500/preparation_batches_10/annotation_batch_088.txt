@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 088
+Rows: 870 - 879
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0871
+sample_id: SP500_HEAD_016941
+date: 2023-12-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9107826948165894
+TEXT:
+Markets News, Dec. 18, 2023: Stocks Gain; Oil Rises as Conflict Disrupts Red Sea Shipping
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0872
+sample_id: SP500_HEAD_011946
+date: 2022-10-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9333277344703674
+TEXT:
+Stock Market Falls as Investors Fret About Tech Growth
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0873
+sample_id: SP500_HEAD_010205
+date: 2022-01-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9252889156341553
+TEXT:
+Does the S&P 500 Need to Touch this Line? See the Technical History
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0874
+sample_id: SP500_HEAD_015789
+date: 2023-10-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8751993179321289
+TEXT:
+History Says the S&P 500 Will Move Higher This Year: 1 Remarkable Growth Stock to Buy Now Before the Holiday Rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0875
+sample_id: SP500_HEAD_006589
+date: 2019-03-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9235722422599792
+TEXT:
+Dow slides 206 points, S&P 500 closes back below key 2,800 level
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0876
+sample_id: SP500_HEAD_011129
+date: 2022-06-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7127482295036316
+TEXT:
+Sell-Everything Markets Are Serving Up Healthier Doses of Panic
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0877
+sample_id: SP500_HEAD_007083
+date: 2019-10-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6204454302787781
+TEXT:
+6 Stocks Outperforming the S&P 500 Index
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0878
+sample_id: SP500_HEAD_001802
+date: 2013-02-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6937395334243774
+TEXT:
+Bank of America boosts pay of CEO Brian Moynihan
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0879
+sample_id: SP500_HEAD_009014
+date: 2021-03-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7774885892868042
+TEXT:
+3 Best Performing Securities by Asset Class in the Last Decade
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0880
+sample_id: SP500_HEAD_015566
+date: 2023-09-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9481400847434998
+TEXT:
+S&P 500 & Sectors: Price-To-Economic Book Value Ratio Is Flat In 2Q23
+

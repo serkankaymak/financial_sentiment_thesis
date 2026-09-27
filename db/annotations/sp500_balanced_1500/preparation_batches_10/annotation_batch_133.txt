@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 133
+Rows: 1320 - 1329
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1321
+sample_id: SP500_HEAD_009184
+date: 2021-04-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5108908414840698
+TEXT:
+Pledging to go green doesn't just help corporate brands. It boosts stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1322
+sample_id: SP500_HEAD_016891
+date: 2023-12-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9488469362258911
+TEXT:
+HSBC sees S&P 500 gaining 8% by 2024-end, helped by rate cuts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1323
+sample_id: SP500_HEAD_006807
+date: 2019-06-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8843216300010681
+TEXT:
+Healthcare 3rd-best among S&P 500 sectors in May despite negative returns
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1324
+sample_id: SP500_HEAD_016542
+date: 2023-11-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9313393235206604
+TEXT:
+U.S. stocks end lower Tuesday, S&P 500 snaps 5-session win streak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1325
+sample_id: SP500_HEAD_017694
+date: 2024-02-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8112407326698303
+TEXT:
+Nasdaq, S&P 500, Dow: Bullish Trends as Markets Eye Fed Officials’ Speeches, PPI Data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1326
+sample_id: SP500_HEAD_005946
+date: 2018-06-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6531466245651245
+TEXT:
+How Goldman's Hedge Fund Picks Beat The Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1327
+sample_id: SP500_HEAD_008777
+date: 2020-12-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7647894024848938
+TEXT:
+Gearing Up: Tesla's Path to the S&P 500 Index Has Been a Wild Ride
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1328
+sample_id: SP500_HEAD_004607
+date: 2016-08-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8632458448410034
+TEXT:
+New York Life Sued In First-Ever 'Index-Fund-Only' Fiduciary Breach
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1329
+sample_id: SP500_HEAD_015009
+date: 2023-08-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8420011401176453
+TEXT:
+S&P 500 Technical Analysis - US NFP in focus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1330
+sample_id: SP500_HEAD_009590
+date: 2021-08-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9411523938179016
+TEXT:
+Would You Have Bought Berkshire Hathaway in 1975?
+

@@ -1,0 +1,5 @@
+label,rule
+positive,"Haber, yatırımcı açısından hedef şirket/piyasa için olumlu beklenti veya gerçekleşme ifade eder."
+negative,"Haber, yatırımcı açısından hedef şirket/piyasa için olumsuz beklenti, risk veya kayıp ifade eder."
+neutral,"Haber çoğunlukla olgusal, belirsiz veya sentiment yönü net olmayan bilgi verir."
+conflict,Birden fazla hedef için farklı sentiment varsa target_entity doldurulur; plain sentiment için örnek ayrılır veya final_label boş bırakılır.

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 127
+Rows: 1260 - 1269
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1261
+sample_id: SP500_HEAD_014231
+date: 2023-06-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9164605140686035
+TEXT:
+What is a bull market vs. bear market? What to know as S&P 500 changes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1262
+sample_id: SP500_HEAD_005476
+date: 2017-10-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.637204647064209
+TEXT:
+S&P 500 Shows How the Market Recovered After the Economic Crisis
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1263
+sample_id: SP500_HEAD_006360
+date: 2018-12-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6878673434257507
+TEXT:
+Can This Minimum Volatility ETF Reduce Your Risk?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1264
+sample_id: SP500_HEAD_014821
+date: 2023-07-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7445461750030518
+TEXT:
+Stocks gain despite tech slip | Active Trader Commentary
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1265
+sample_id: SP500_HEAD_008858
+date: 2021-01-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6678217649459839
+TEXT:
+Charted: How the S&P 500 Generated Fantastic Returns in a Tough Year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1266
+sample_id: SP500_HEAD_011133
+date: 2022-06-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.44147032499313354
+TEXT:
+S&P 500 Index Price Tests Bear Market Territory After Crash
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1267
+sample_id: SP500_HEAD_015619
+date: 2023-09-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.95211261510849
+TEXT:
+Dow sheds nearly 300 points Friday, S&P 500 and Nasdaq suffer second straight week of losses: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1268
+sample_id: SP500_HEAD_005127
+date: 2017-04-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7820577025413513
+TEXT:
+Climate change is hurting U.S. corn farmers – and your wallet
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1269
+sample_id: SP500_HEAD_003368
+date: 2015-01-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8105149865150452
+TEXT:
+Transdigm Group Larger Than S&P 500 Component Akamai Technologies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1270
+sample_id: SP500_HEAD_013971
+date: 2023-05-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.46889370679855347
+TEXT:
+Futures Rise; Market Rally Hits 2023 High, But Don't Do This
+

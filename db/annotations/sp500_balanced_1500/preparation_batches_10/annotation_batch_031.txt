@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 031
+Rows: 300 - 309
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0301
+sample_id: SP500_HEAD_012935
+date: 2023-02-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9706546068191528
+TEXT:
+Dow Jones, Nasdaq futures indicate a weak start on Wall Street today after Putins speech
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0302
+sample_id: SP500_HEAD_014411
+date: 2023-06-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9286295771598816
+TEXT:
+How Investors Are Preparing Now For The Coming Tech-Stock Crash
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0303
+sample_id: SP500_HEAD_007429
+date: 2020-01-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8805125951766968
+TEXT:
+Highest Forward 12-Month P/E Ratio for S&P 500 Since 2002
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0304
+sample_id: SP500_HEAD_016766
+date: 2023-12-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9284741282463074
+TEXT:
+Campbell Soup Leads S&P 500 Gains as Higher Prices Help Profit Beat Estimates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0305
+sample_id: SP500_HEAD_004273
+date: 2016-03-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8893621563911438
+TEXT:
+Stocks fall as Wall Street ends a winning streak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0306
+sample_id: SP500_HEAD_009524
+date: 2021-08-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7146493196487427
+TEXT:
+Slow Slog in Stocks Is Now a Steamroller Crushing Every Naysayer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0307
+sample_id: SP500_HEAD_017535
+date: 2024-02-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.44809088110923767
+TEXT:
+S&P 500 hits 5000 in intraday: Stocks that saw record highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0308
+sample_id: SP500_HEAD_006111
+date: 2018-08-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9182446002960205
+TEXT:
+S&P 500 share index notches up record-breaking winning streak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0309
+sample_id: SP500_HEAD_002711
+date: 2014-04-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8828264474868774
+TEXT:
+Keeping a legacy alive: CEO puts her stamp on the family business
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0310
+sample_id: SP500_HEAD_017180
+date: 2024-01-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.963517427444458
+TEXT:
+Stock market news today: Stocks snap 9-week win streak as Dow, S&P 500 have worst start since 2016
+

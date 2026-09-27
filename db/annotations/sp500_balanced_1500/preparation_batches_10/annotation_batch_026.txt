@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 026
+Rows: 250 - 259
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0251
+sample_id: SP500_HEAD_009160
+date: 2021-04-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8045145273208618
+TEXT:
+US STOCKS-S&P 500, Nasdaq up as tech stocks rise after J&J vaccine pause
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0252
+sample_id: SP500_HEAD_009206
+date: 2021-04-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.809920608997345
+TEXT:
+A Conservative ETF That Boycotts Liberal Companies Is Beating the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0253
+sample_id: SP500_HEAD_015467
+date: 2023-09-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5932039618492126
+TEXT:
+BMO says bull case scenario of S&P 500 at 5050 'becoming more likely'
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0254
+sample_id: SP500_HEAD_016773
+date: 2023-12-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9345903396606445
+TEXT:
+Better Buy: Berkshire Hathaway or Vanguard 500 Index Fund?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0255
+sample_id: SP500_HEAD_003329
+date: 2015-01-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9147897958755493
+TEXT:
+Stock Market Returns In Years Ending In 5
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0256
+sample_id: SP500_HEAD_017313
+date: 2024-01-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.48102840781211853
+TEXT:
+S&P 500, Nasdaq climb as chips, megacaps jump
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0257
+sample_id: SP500_HEAD_013025
+date: 2023-03-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8983507752418518
+TEXT:
+ISM Manufacturing PMI Misses Expectations, S&P 500 Tests New Lows
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0258
+sample_id: SP500_HEAD_004734
+date: 2016-10-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9203643798828125
+TEXT:
+Ventas to be major ShelbyHurst office tenant
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0259
+sample_id: SP500_HEAD_001327
+date: 2012-06-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7221771478652954
+TEXT:
+Seagate Added To S&P 500 Stock Index; Shrs Rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0260
+sample_id: SP500_HEAD_009734
+date: 2021-10-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8218059539794922
+TEXT:
+Li Auto Stock Was Up 8% Last Week, Is There More Upside?
+

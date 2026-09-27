@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 011
+Rows: 100 - 109
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0101
+sample_id: SP500_HEAD_001521
+date: 2012-09-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8802254796028137
+TEXT:
+Last-minute giving made easier with Facebook Gifts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0102
+sample_id: SP500_HEAD_004732
+date: 2016-10-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7381815314292908
+TEXT:
+The S&P 500 looks eerily similar to right before the 1987 crash
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0103
+sample_id: SP500_HEAD_002134
+date: 2013-08-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.943369448184967
+TEXT:
+Pfizer Moves Up In Market Cap Rank, Passing IBM
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0104
+sample_id: SP500_HEAD_006028
+date: 2018-07-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9222602248191833
+TEXT:
+Cash gains an edge over S&P 500 dividend yields
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0105
+sample_id: SP500_HEAD_013459
+date: 2023-04-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5157127976417542
+TEXT:
+S&P 500 ends higher as oil stocks rally; Tesla tumbles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0106
+sample_id: SP500_HEAD_000875
+date: 2011-11-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5179033279418945
+TEXT:
+TSX higher as traders doubt Greek referendum
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0107
+sample_id: SP500_HEAD_008456
+date: 2020-09-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.68451327085495
+TEXT:
+The Dow Is Sputtering - But One Core Stock Just Got a Major Upgrade
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0108
+sample_id: SP500_HEAD_014371
+date: 2023-06-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.503674328327179
+TEXT:
+Generac stock charges higher to pace the S&P 500 gainers after reports of widespread power outages
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0109
+sample_id: SP500_HEAD_005934
+date: 2018-05-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7679038643836975
+TEXT:
+US metal tariffs re-ignite trade war fears as global markets tumble
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0110
+sample_id: SP500_HEAD_006439
+date: 2019-01-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8961191177368164
+TEXT:
+S&P 500 Index: Forward P/E Ratio - The Big Picture
+

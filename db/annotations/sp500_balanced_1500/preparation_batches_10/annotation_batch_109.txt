@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 109
+Rows: 1080 - 1089
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1081
+sample_id: SP500_HEAD_005716
+date: 2018-02-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9432469010353088
+TEXT:
+Why the Canadian stock market is performing so poorly compared to the U.S. market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1082
+sample_id: SP500_HEAD_010480
+date: 2022-03-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9576249718666077
+TEXT:
+S&P Dow Jones is removing Russia stocks from indexes, stripping country of emerging market status
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1083
+sample_id: SP500_HEAD_000705
+date: 2011-08-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8655291199684143
+TEXT:
+S&P lowers Fannie, Freddie, others tied to U.S.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1084
+sample_id: SP500_HEAD_001179
+date: 2012-04-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.952082097530365
+TEXT:
+Asian markets slip on new Europe debt fears
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1085
+sample_id: SP500_HEAD_010924
+date: 2022-05-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5654605031013489
+TEXT:
+Why Tesla was kicked out of the S&P 500's ESG index
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1086
+sample_id: SP500_HEAD_014084
+date: 2023-05-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9052096009254456
+TEXT:
+Nasdaq boosted by Nvidia, cautious optimism on temporary debt deal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1087
+sample_id: SP500_HEAD_016549
+date: 2023-11-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7840984463691711
+TEXT:
+S&P 500 to Hit Fresh Record of 5,000 Next Year, Bank of America (BAC) Says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1088
+sample_id: SP500_HEAD_007322
+date: 2019-12-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.49170687794685364
+TEXT:
+Can We Use The 'Google Effect' To Outperform The S&P 500?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1089
+sample_id: SP500_HEAD_005099
+date: 2017-04-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.966305136680603
+TEXT:
+Ventas CEO's pay falls, despite strong company performance
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1090
+sample_id: SP500_HEAD_013656
+date: 2023-04-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.754456102848053
+TEXT:
+S&P 500, Nasdaq open higher as investors digest more bank earnings
+

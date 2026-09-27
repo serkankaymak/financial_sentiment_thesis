@@ -1,0 +1,15 @@
+dataset,path,purpose,exists,rows,columns
+Raw SP500 headlines,db\raw\sp500_headlines_2008_2024_raw.csv,Ham finans haber başlıkları; mevcut SP500 tabanlı ana kaynak.,True,19127,3
+Aggregated financial news enriched,db\processed\aggregated_financial_news_enriched.csv,Birleştirilmiş ve zenginleştirilmiş haber verisi; modelleme öncesi geniş kaynak.,True,943326,12
+SP500 FinBERT labeled headlines,db\processed\sp500_headlines_2008_2024_finbert_labeled.csv,FinBERT ile otomatik etiketlenmiş SP500 başlıkları; pseudo-label karakterini göstermek için.,True,17917,17
+Market sentiment modeling master,db\processed\market_sentiment_modeling_master.parquet,Piyasa yönü/sentiment modellemesi için hazırlanmış ana modelleme tablosu.,True,42178,29
+Plain sentiment training dataset,db\processed\training_datasets\plain_sentiment_dataset.csv,3 sınıflı plain sentiment eğitim veri seti.,True,16777,22
+SP500 human annotation master,db\annotations\sp500_balanced_1500\sp500_balanced_1500_annotation_master.csv,Dengeli seçilmiş SP500 insan anotasyon master seti.,True,1500,17
+Reuters human annotation master,db\annotations\reuters_5000\reuters_annotation_5000_master.csv,Reuters 5000 insan anotasyon master seti.,True,5000,24
+Pseudo-labeled confidence 0.90 news,db\interim\pseudo_labeled_news_confidence_090.parquet,Yüksek güvenli otomatik etiketlenmiş ara veri.,True,88342,21
+Plain sentiment train split,db\splits\plain_sentiment_v1\train_df.parquet,Mevcut plain sentiment model eğitimi için train bölmesi.,True,12950,24
+Plain sentiment validation split,db\splits\plain_sentiment_v1\val_df.parquet,Mevcut plain sentiment model seçimi için validation bölmesi.,True,1432,24
+Plain sentiment test split,db\splits\plain_sentiment_v1\test_df.parquet,Mevcut plain sentiment model değerlendirme bölmesi.,True,2386,24
+Synthetic evaluation negative examples,db\evaluation\synthetic_financial_news\negative_batch_000.xlsx,Sentetik değerlendirme setinin negative sınıfından örnek batch.,True,10,14
+Synthetic evaluation neutral examples,db\evaluation\synthetic_financial_news\neutral_batch_001.xlsx,Sentetik değerlendirme setinin neutral sınıfından örnek batch.,True,10,14
+Synthetic evaluation positive examples,db\evaluation\synthetic_financial_news\positive_batch_000.xlsx,Sentetik değerlendirme setinin positive sınıfından örnek batch.,True,10,14

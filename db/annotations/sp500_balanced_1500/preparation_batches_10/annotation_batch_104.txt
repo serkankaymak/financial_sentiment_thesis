@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 104
+Rows: 1030 - 1039
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1031
+sample_id: SP500_HEAD_014521
+date: 2023-06-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9248671531677246
+TEXT:
+Apple is now worth $3 trillion, boosted by the Nasdaq’s best start in 40 years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1032
+sample_id: SP500_HEAD_003910
+date: 2015-09-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8898364901542664
+TEXT:
+5 Warren Buffett Stocks the Pope Would Love, Too
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1033
+sample_id: SP500_HEAD_001496
+date: 2012-09-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9208118319511414
+TEXT:
+Afghan grandmother, mom and kids addicted to opium
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1034
+sample_id: SP500_HEAD_015291
+date: 2023-08-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9376945495605469
+TEXT:
+Major indexes fall 1%, focus shifts to upcoming Powell speech
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1035
+sample_id: SP500_HEAD_009418
+date: 2021-07-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7220926284790039
+TEXT:
+Equal-Weight ETFs Are Still Smart Beta Winners
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1036
+sample_id: SP500_HEAD_009027
+date: 2021-03-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8846798539161682
+TEXT:
+FTSE 100 firms trailing behind peers on sexual harassment policies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1037
+sample_id: SP500_HEAD_002414
+date: 2013-11-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8721625804901123
+TEXT:
+South Africa since apartheid: Boom or bust?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1038
+sample_id: SP500_HEAD_013761
+date: 2023-05-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.4657024145126343
+TEXT:
+Dow Jones, S&P 500, Nasdaq 100 Sink after Fed, Powell, PacWest Woes Crush Sentiment
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1039
+sample_id: SP500_HEAD_015305
+date: 2023-08-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9155749082565308
+TEXT:
+US Markets: Dow, S&P 500, and Nasdaq End Higher Amid Volatility on Friday
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1040
+sample_id: SP500_HEAD_002453
+date: 2013-12-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9430105686187744
+TEXT:
+Facebook, Zuckerberg Selling 70 Million Shares In Secondary Offering
+

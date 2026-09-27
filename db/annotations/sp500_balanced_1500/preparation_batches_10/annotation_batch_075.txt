@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 075
+Rows: 740 - 749
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0741
+sample_id: SP500_HEAD_001301
+date: 2012-06-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9182401895523071
+TEXT:
+Another rip-off: Leveraged and inverse ETFs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0742
+sample_id: SP500_HEAD_014296
+date: 2023-06-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8685382008552551
+TEXT:
+Morgan Stanley's Slimmon on joining the S&P 500 and Nasdaq rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0743
+sample_id: SP500_HEAD_001583
+date: 2012-10-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7669506072998047
+TEXT:
+Sugru: A gripping tale of struggle and success
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0744
+sample_id: SP500_HEAD_010859
+date: 2022-05-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9231580495834351
+TEXT:
+Skeptical on Buying the S&P 500 Dip? Check Out This ETF
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0745
+sample_id: SP500_HEAD_014600
+date: 2023-07-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5103935599327087
+TEXT:
+25 US Companies With The Highest Profit Margins
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0746
+sample_id: SP500_HEAD_012905
+date: 2023-02-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9719908833503723
+TEXT:
+Fed tightening 'always breaks something': S&P 500 will drop to 3,800 by March, warn Bank of America strategists
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0747
+sample_id: SP500_HEAD_012772
+date: 2023-02-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9667957425117493
+TEXT:
+Women's Gains on S&P 500 Boards Slow, Delaying Parity Progress
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0748
+sample_id: SP500_HEAD_014843
+date: 2023-07-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8367722034454346
+TEXT:
+S&P 500 rises at the start of big week but bearish technicals cast shadow
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0749
+sample_id: SP500_HEAD_017191
+date: 2024-01-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7392418384552002
+TEXT:
+Stock-Market Outlook: UBS Lifts S&P 500 Target, Trumpets Soft Landing
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0750
+sample_id: SP500_HEAD_004290
+date: 2016-03-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8254388570785522
+TEXT:
+Europe higher, Asia mixed ahead of Fed decision
+

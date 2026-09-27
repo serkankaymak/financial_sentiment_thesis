@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 089
+Rows: 880 - 889
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0881
+sample_id: SP500_HEAD_006518
+date: 2019-02-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5506119728088379
+TEXT:
+Stock market highs mask economic inequality in US: Deutsche Bank
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0882
+sample_id: SP500_HEAD_012839
+date: 2023-02-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9547373652458191
+TEXT:
+FIS Shares Plummet on Spinoff Plan, Outlook
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0883
+sample_id: SP500_HEAD_011481
+date: 2022-08-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9254840612411499
+TEXT:
+3 Reasons to Invest in an S&P 500 ETF Right Now
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0884
+sample_id: SP500_HEAD_008412
+date: 2020-09-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8405117392539978
+TEXT:
+10 Best Performing S&P 500 Stocks Since 2000. You'll Never Guess No. 1
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0885
+sample_id: SP500_HEAD_014151
+date: 2023-06-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8547202348709106
+TEXT:
+S&P 500 nears bear-market exit. Will Big Tech's rally finally spread to the broader stock market?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0886
+sample_id: SP500_HEAD_013387
+date: 2023-03-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.763006329536438
+TEXT:
+With the Stock Market Up 3% in 2023, Is It Safe to Invest Right Now?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0887
+sample_id: SP500_HEAD_008895
+date: 2021-01-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6342281103134155
+TEXT:
+Trump leaves office with a good — but not historically great — stock market record
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0888
+sample_id: SP500_HEAD_005364
+date: 2017-08-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7389161586761475
+TEXT:
+Should You Buy Stocks When There is Blood in the Streets?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0889
+sample_id: SP500_HEAD_003470
+date: 2015-03-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6565293669700623
+TEXT:
+Why I've stopped reinvesting dividends: Blodget
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0890
+sample_id: SP500_HEAD_007514
+date: 2020-02-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.970852255821228
+TEXT:
+iShares, ProShares ETFs among the index funds with the worst returns of the decade
+

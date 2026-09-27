@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 007
+Rows: 300 - 349
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00301
+date: 2006-11-24 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9360670447349548
+TEXT:
+scania rebuffs man again, sees new payout prospect
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00302
+date: 2006-10-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9688729047775269
+TEXT:
+fda rejects antibiotic from replidyne, forest
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00303
+date: 2006-12-28 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.830943763256073
+TEXT:
+update 2-alliance data to buy abacus for $435 mln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00304
+date: 2006-11-13 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9561297297477722
+TEXT:
+tyson foods posts another loss, but sees 07 profits
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00305
+date: 2007-02-27 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7766414880752563
+TEXT:
+yum brands says new york rat incident isolated
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00306
+date: 2006-11-14 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9505184888839722
+TEXT:
+internet ad revenue rises to $4.2 billion in 3rd quarter
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00307
+date: 2007-02-26 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9262145757675172
+TEXT:
+u.s. economy moving to sustainable growth nabe
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00308
+date: 2007-01-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.927345335483551
+TEXT:
+chairman outlines double act plan to run hsbc
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00309
+date: 2007-03-02 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6284734606742859
+TEXT:
+oil shocks no excuse for inflation feds poole
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00310
+date: 2007-05-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6507730484008789
+TEXT:
+factbox subprime lenders sold, closed or bankrupt
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00311
+date: 2007-02-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9470446705818176
+TEXT:
+buffetts berkshire buys 1 million shares unitedhealth
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00312
+date: 2007-01-12 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9377264976501464
+TEXT:
+dec retail sales surprisingly strong
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00313
+date: 2006-12-04 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9134297370910645
+TEXT:
+update 2-medtronic to spin off external defibrillator unit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00314
+date: 2007-01-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.951807737350464
+TEXT:
+schlumberger profit tops estimates shares rise
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00315
+date: 2007-01-17 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9513639807701112
+TEXT:
+nasdaq down on intel apple waxes and wanes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00316
+date: 2006-10-24 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9722899198532104
+TEXT:
+level 3 posts smaller quarterly loss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00317
+date: 2007-03-02 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8872167468070984
+TEXT:
+google says in dispute with sec on tax accounting
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00318
+date: 2007-03-04 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6920342445373535
+TEXT:
+citigroup to sell nikko principal finance arm report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00319
+date: 2006-11-13 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5724567174911499
+TEXT:
+illumina to buy solexa for $600 million in stock
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00320
+date: 2006-11-23 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.519014298915863
+TEXT:
+asian shares gain as dell earnings boost techs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00321
+date: 2007-02-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8796288967132568
+TEXT:
+target earnings rise, but shares sink
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00322
+date: 2007-04-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5542192459106445
+TEXT:
+electronic arts to buy stake in the9 report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00323
+date: 2007-03-05 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6405948996543884
+TEXT:
+omi, paulson agree japan, u.s. economies firm
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00324
+date: 2006-12-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.4901312291622162
+TEXT:
+metlife sees $1.10-$1.20 4th-qtr operating earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00325
+date: 2007-02-16 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9622183442115784
+TEXT:
+ford to miss u.s. retail sales goals in feburay and march
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00326
+date: 2007-03-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9729444980621338
+TEXT:
+dell profit down sharply
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00327
+date: 2007-02-10 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9445167183876038
+TEXT:
+paulson tells g7 let markets regulate hedge funds
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00328
+date: 2006-10-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9635515809059144
+TEXT:
+kimberly-clark profit higher, narrows view
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00329
+date: 2007-03-24 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8895421028137207
+TEXT:
+china, venezuela to cement ties with oil deals
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00330
+date: 2007-01-24 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.941272497177124
+TEXT:
+yahoo shares rise, investors eye faster growth
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00331
+date: 2006-12-13 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9233654737472534
+TEXT:
+wrapup 3-u.s. retail sales send strong signal on growth
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00332
+date: 2007-04-03 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9648981094360352
+TEXT:
+boardroom and factory feuds rage at airbus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00333
+date: 2007-04-03 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.915860116481781
+TEXT:
+falling oil, rising home sales spark rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00334
+date: 2007-01-11 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9652559757232666
+TEXT:
+cisco sues apple over iphone name
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00335
+date: 2007-03-08 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9757079482078552
+TEXT:
+gap february same-store sales fall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00336
+date: 2006-12-13 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.946061670780182
+TEXT:
+opec oil cut already tightening world market iea
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00337
+date: 2007-04-27 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8907449841499329
+TEXT:
+menu foods says chemnutra statement wrong
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00338
+date: 2006-11-09 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9601287245750428
+TEXT:
+fiat auto raises 2006 profit goal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00339
+date: 2007-04-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9467016458511353
+TEXT:
+mortgage bond prepayments increase
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00340
+date: 2007-03-21 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9676351547241212
+TEXT:
+motorola warns of q1 loss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00341
+date: 2007-04-30 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5647250413894653
+TEXT:
+yahoo to buy rest of right media for $680 mln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00342
+date: 2007-04-26 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9511613845825196
+TEXT:
+starwood first-quarter profit rises
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00343
+date: 2007-02-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7433944940567017
+TEXT:
+chronology-airbus grapples with restructuring after a380 woes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00344
+date: 2006-11-14 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8712888360023499
+TEXT:
+internet ad potential underestimated yahoo ceo
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00345
+date: 2007-01-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8240138292312622
+TEXT:
+u.s. economy moving upward, greenspan quoted as saying
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00346
+date: 2006-11-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.954133927822113
+TEXT:
+toyota sees higher 2006/07 global sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00347
+date: 2007-02-01 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.946560561656952
+TEXT:
+adm posts record quarterly profit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00348
+date: 2007-03-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7016353607177734
+TEXT:
+ice bid prompts questions on cboe exercise rights
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00349
+date: 2007-03-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6748239398002625
+TEXT:
+abn amro says in exclusive merger talks with barclays
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00350
+date: 2006-12-13 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6746951341629028
+TEXT:
+continental, ual union says would defend rights
+

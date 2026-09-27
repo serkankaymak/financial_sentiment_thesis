@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 144
+Rows: 1430 - 1439
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1431
+sample_id: SP500_HEAD_003287
+date: 2014-12-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8797837495803833
+TEXT:
+The MBA degree and the astronomical rise in CEO pay
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1432
+sample_id: SP500_HEAD_008972
+date: 2021-02-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7960121035575867
+TEXT:
+S&P 500 Forecast: SPY ETF Clocks Outflows Alongside Gold, Treasury Funds
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1433
+sample_id: SP500_HEAD_013194
+date: 2023-03-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8892435431480408
+TEXT:
+US bank stocks tumble and Treasuries rally amid SVB collapse
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1434
+sample_id: SP500_HEAD_009860
+date: 2021-11-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8758638501167297
+TEXT:
+Why is Japan’s Nikkei 225 Underperforming U.S. Stocks?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1435
+sample_id: SP500_HEAD_005138
+date: 2017-04-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9093338847160339
+TEXT:
+What to Make of Today's Twice-in-History S&P 500 Valuations
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1436
+sample_id: SP500_HEAD_001972
+date: 2013-05-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6788417100906372
+TEXT:
+Apple’s App Store hits 50 billion downloads
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1437
+sample_id: SP500_HEAD_000743
+date: 2011-08-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8996940851211548
+TEXT:
+DreamWorks Strikes 'Kung Fu Panda' Distribution Deal With China's Youku
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1438
+sample_id: SP500_HEAD_017214
+date: 2024-01-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9389623403549194
+TEXT:
+Gold has outperformed the S&P 500 in the 21st century
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1439
+sample_id: SP500_HEAD_012966
+date: 2023-02-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7022927403450012
+TEXT:
+S&P 500 Continues Losing Streak, NASDAQ Bucks Trend with Small Gain after Fed Minutes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1440
+sample_id: SP500_HEAD_003813
+date: 2015-08-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5525243282318115
+TEXT:
+S&P 500 stages biggest comeback in about 4 years as stocks erase China fall
+

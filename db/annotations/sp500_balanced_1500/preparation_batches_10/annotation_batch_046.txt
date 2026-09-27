@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 046
+Rows: 450 - 459
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0451
+sample_id: SP500_HEAD_010923
+date: 2022-05-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9286032319068909
+TEXT:
+S&P 500 falls again on Thursday, inching closer to bear market territory
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0452
+sample_id: SP500_HEAD_000485
+date: 2011-02-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9225021600723267
+TEXT:
+Equal-Weight Indexers Didn't Suck Wind For A Decade
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0453
+sample_id: SP500_HEAD_007226
+date: 2019-11-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9500183463096619
+TEXT:
+S&P 500 Weekly Price Forecast – Stock Markets Continue Slow Grind
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0454
+sample_id: SP500_HEAD_002145
+date: 2013-08-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6907503008842468
+TEXT:
+Why people share murder, rape on Facebook
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0455
+sample_id: SP500_HEAD_002958
+date: 2014-07-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8874058127403259
+TEXT:
+Five years on, millions still dig ‘FarmVille’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0456
+sample_id: SP500_HEAD_012766
+date: 2023-02-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9269484281539917
+TEXT:
+TD Ameritrade Investor Movement Index: IMX Score Increases as 2023 Begins
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0457
+sample_id: SP500_HEAD_015542
+date: 2023-09-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.636495053768158
+TEXT:
+SocGen equity strategists upbeat on S&P 500 near-term, cautious into 2024
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0458
+sample_id: SP500_HEAD_014036
+date: 2023-05-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8131563067436218
+TEXT:
+Up Over 32% This Year, Is Ark Innovation ETF a Better Investment in 2023 Than the S&P 500?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0459
+sample_id: SP500_HEAD_001824
+date: 2013-03-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5394067168235779
+TEXT:
+Taco Bell pulls beef from UK outlets after horse meat discovery
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0460
+sample_id: SP500_HEAD_016909
+date: 2023-12-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8993396162986755
+TEXT:
+S&P 500 Gains and Losses Today: Solar Stocks Soar After Fed Signals Rate Cuts Next Year
+

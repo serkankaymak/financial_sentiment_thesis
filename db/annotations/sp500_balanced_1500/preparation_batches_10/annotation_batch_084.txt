@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 084
+Rows: 830 - 839
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0831
+sample_id: SP500_HEAD_007671
+date: 2020-03-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6178554892539978
+TEXT:
+Dow and US stocks plunge again: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0832
+sample_id: SP500_HEAD_013123
+date: 2023-03-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9659351706504822
+TEXT:
+Stock market news today: Stocks finish mixed as Powell wraps up testimony amid continued jobs strength
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0833
+sample_id: SP500_HEAD_000191
+date: 2009-08-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7752184867858887
+TEXT:
+Investor Daily: Deckers finds its footing with Uggs - Aug. 19, 2009
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0834
+sample_id: SP500_HEAD_010636
+date: 2022-04-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8559298515319824
+TEXT:
+S&P 500, Nasdaq Futures Move Higher After Weekly Wins
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0835
+sample_id: SP500_HEAD_016921
+date: 2023-12-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8578807711601257
+TEXT:
+S&P 500 posts longest weekly winning streak since 2017; finishes flat on day
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0836
+sample_id: SP500_HEAD_002192
+date: 2013-08-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9111288189888
+TEXT:
+The ‘czar’ who rates your favorite players on ‘Madden’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0837
+sample_id: SP500_HEAD_010016
+date: 2021-12-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6516973376274109
+TEXT:
+Capped vs. Uncapped Indexed Annuity Strategies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0838
+sample_id: SP500_HEAD_005274
+date: 2017-06-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9316295981407166
+TEXT:
+Why FANG & Biotech Are Not As Expensive As You Think
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0839
+sample_id: SP500_HEAD_017478
+date: 2024-01-31 00:00:00
+finbert_label: positive
+finbert_confidence: 0.536946177482605
+TEXT:
+Dow closes more than 350 points higher, Nasdaq jumps 1% in rebound from Fed Day sell-off: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0840
+sample_id: SP500_HEAD_013858
+date: 2023-05-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8808196783065796
+TEXT:
+AI Frenzy Accounts for All of S&P 500 Gain in 2023, SocGen Says
+

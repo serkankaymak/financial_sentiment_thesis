@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 027
+Rows: 260 - 269
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0261
+sample_id: SP500_HEAD_008584
+date: 2020-11-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8765320181846619
+TEXT:
+Hexcel Corporation Stock Has 25% Upside In The Near Term
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0262
+sample_id: SP500_HEAD_007075
+date: 2019-10-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5715729594230652
+TEXT:
+Dow drops to start Q4, but there's a historical case to remain bullish on stocks in final trading quarter
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0263
+sample_id: SP500_HEAD_013920
+date: 2023-05-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9446594715118408
+TEXT:
+Monthly Covered Call Commentary – Global X ETFs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0264
+sample_id: SP500_HEAD_006605
+date: 2019-03-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9114927053451538
+TEXT:
+SPDJI: The importance of sector selection over stock picking
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0265
+sample_id: SP500_HEAD_009133
+date: 2021-04-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8815928101539612
+TEXT:
+Stock market news live updates: S&P 500 tops 4000 for the first time, Nasdaq gains more than 1%
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0266
+sample_id: SP500_HEAD_017293
+date: 2024-01-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6921454668045044
+TEXT:
+Analysts see over 7% upside in S&P 500 amid small-cap rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0267
+sample_id: SP500_HEAD_014335
+date: 2023-06-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.674214780330658
+TEXT:
+The S&P 493 is finally joining the S&P 500's rally: Morning Brief
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0268
+sample_id: SP500_HEAD_012393
+date: 2022-12-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9711247086524963
+TEXT:
+Just 5 Trading Days Accounted for 94% of the S&P 500's Decline in 2022
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0269
+sample_id: SP500_HEAD_010337
+date: 2022-02-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8937506675720215
+TEXT:
+Fintech-friendly banks lead best-performing US bank stocks in January
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0270
+sample_id: SP500_HEAD_012602
+date: 2023-01-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9106267690658569
+TEXT:
+Getting a Technical Perspective on S&P 500
+

@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 078
+Rows: 3850 - 3899
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03851
+date: 2007-03-24 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9068368077278136
+TEXT:
+monsanto asks court to allow sale of gmo alfalfa
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03852
+date: 2006-11-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9670000076293944
+TEXT:
+corrected web traffic growth slows on black friday
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03853
+date: 2007-04-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6826062798500061
+TEXT:
+doral in private equity talks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03854
+date: 2006-12-07 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9015860557556152
+TEXT:
+update 2-icahn, macklowe bid for parts of reckson-sources
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03855
+date: 2007-04-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7815676927566528
+TEXT:
+banker withdraws from consideration for treasury post
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03856
+date: 2007-02-08 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7129847407341003
+TEXT:
+costco jan same-store sales up 2 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03857
+date: 2007-02-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8756057620048523
+TEXT:
+northwest air unsecured claims may get 66-83 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03858
+date: 2007-02-16 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9366329908370972
+TEXT:
+ba, goldman not planning amr bid sources
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03859
+date: 2006-11-17 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5721336603164673
+TEXT:
+no surprise if euro holdings mount feds fisher
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03860
+date: 2007-01-29 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9755964875221252
+TEXT:
+cnet profit falls on higher costs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03861
+date: 2006-11-20 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9597247838974
+TEXT:
+csk auto quarterly sales rise
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03862
+date: 2006-11-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8771196007728577
+TEXT:
+hp to maintain mercury rd plant after buyout
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03863
+date: 2007-02-03 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8908407092094421
+TEXT:
+bush to project budget surplus for fiscal 2012
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03864
+date: 2007-01-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5262500643730164
+TEXT:
+adelphia says reorganization may take effect january 17
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03865
+date: 2006-12-24 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.809249758720398
+TEXT:
+nine foreign banks get first china registration nod
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03866
+date: 2007-02-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9529289603233336
+TEXT:
+buffett faulted for keeping petrochina stake
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03867
+date: 2007-05-05 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.746399998664856
+TEXT:
+eyes on fomc as stocks seen trending higher
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03868
+date: 2007-01-11 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8092827200889587
+TEXT:
+gm to raise capital spending for 2007 and 2008
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03869
+date: 2007-02-21 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7691729664802551
+TEXT:
+wal-marts asda says to create 8,000 jobs in uk
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03870
+date: 2007-05-01 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9062585234642028
+TEXT:
+bancrofts to vote against news corp bid-dow jones
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03871
+date: 2007-05-02 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7353546619415283
+TEXT:
+when she earns more than he does
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03872
+date: 2007-03-17 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6566042900085449
+TEXT:
+housing may feed stocks angst in a fed week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03873
+date: 2007-01-16 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9089751243591307
+TEXT:
+online, organics back tesco christmas cheer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03874
+date: 2007-03-05 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5664251446723938
+TEXT:
+factboxsales of hybrid cars in europe, u.s.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03875
+date: 2007-02-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.887680172920227
+TEXT:
+tribune considering self-help plan wsj
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03876
+date: 2006-12-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6823423504829407
+TEXT:
+wall street looks to start flat to slightly higher
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03877
+date: 2007-03-06 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.646730363368988
+TEXT:
+business groups urge export control reforms
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03878
+date: 2006-12-28 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8500090837478638
+TEXT:
+nasdaq to close jan 2 to mark president fords death
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03879
+date: 2007-01-22 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9420026540756226
+TEXT:
+venture industry likes health, web, energy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03880
+date: 2007-04-24 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9400728940963744
+TEXT:
+countrywide sees healthy market by 2009
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03881
+date: 2007-03-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7975911498069763
+TEXT:
+iran still a cloud for chastened world markets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03882
+date: 2006-11-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9473573565483092
+TEXT:
+home price rise is lowest since q2 1998
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03883
+date: 2007-03-01 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9348520636558532
+TEXT:
+berkshire says yahoo cfo decker to join board
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03884
+date: 2007-03-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8626530170440674
+TEXT:
+asian marts, jobs on stocks radar
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03885
+date: 2006-12-26 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8454667925834656
+TEXT:
+freeport deal for phelps gets u.s. antitrust nod
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03886
+date: 2007-03-06 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8215911984443665
+TEXT:
+cbs buying back $1.4 bln in stock, shares jump
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03887
+date: 2006-10-31 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8669212460517883
+TEXT:
+travel search site sidestep buys hotel reviewer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03888
+date: 2007-04-05 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7393152713775635
+TEXT:
+kerkorian offers $4.5 billion to buy chrysler
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03889
+date: 2007-03-19 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8154765367507935
+TEXT:
+nokia files claims against qualcomm in europe
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03890
+date: 2007-04-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7309731245040894
+TEXT:
+isuzu buys land for u.s. truck plant in alabama
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03891
+date: 2007-02-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9349570870399476
+TEXT:
+fortress ipo opens up 89 pct in market debut
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03892
+date: 2007-03-07 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6414451003074646
+TEXT:
+rim needs more time to bring filings up to date lawyer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03893
+date: 2006-12-20 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.773728609085083
+TEXT:
+fcc eases way for telephone cos to offer tv
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03894
+date: 2007-04-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8469951152801514
+TEXT:
+wyser-pratte sells valeo stake, sees lbo deal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03895
+date: 2006-11-29 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8305370211601257
+TEXT:
+former aig head buys up n.y. times shares report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03896
+date: 2007-01-22 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9472106099128724
+TEXT:
+gap ceo paul pressler steps down
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03897
+date: 2006-10-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9598191380500792
+TEXT:
+saudi arabia tells japan to cut its nov crude supply
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03898
+date: 2006-11-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8610261082649231
+TEXT:
+swedish staff wont lose jobs in scania deal man
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03899
+date: 2007-01-14 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8619508147239685
+TEXT:
+asean, china agree to cut barriers to services
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03900
+date: 2007-03-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5290107131004333
+TEXT:
+angola to see $50 billion oil investment sonangol
+

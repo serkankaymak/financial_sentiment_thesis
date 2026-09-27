@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 147
+Rows: 1460 - 1469
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1461
+sample_id: SP500_HEAD_011893
+date: 2022-10-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5675368905067444
+TEXT:
+Wall Street's most vocal bull just got a lot more wary of the economy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1462
+sample_id: SP500_HEAD_012615
+date: 2023-01-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9557574987411499
+TEXT:
+Jeremy Grantham Says the Stock Market Could Crash 50% This Year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1463
+sample_id: SP500_HEAD_004521
+date: 2016-06-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9113485813140869
+TEXT:
+Pulse nightclub distributes $28,500 to out of work employees
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1464
+sample_id: SP500_HEAD_004223
+date: 2016-02-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8033950328826904
+TEXT:
+Earthquake app may one day warn you tremors are coming
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1465
+sample_id: SP500_HEAD_002955
+date: 2014-07-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8966255187988281
+TEXT:
+From guns to warships: Inside Europe’s arms trade with Russia
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1466
+sample_id: SP500_HEAD_006614
+date: 2019-03-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8174254298210144
+TEXT:
+S&P 500 Outlook: Index Fights Resistance, US Grounds Boeing 737 Max Models
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1467
+sample_id: SP500_HEAD_016973
+date: 2023-12-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9403632283210754
+TEXT:
+Wall Street tumbles to sharply lower close as abrupt sell-off snaps rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1468
+sample_id: SP500_HEAD_001318
+date: 2012-06-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9151535034179688
+TEXT:
+Will your Internet data still be there in 100 years?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1469
+sample_id: SP500_HEAD_016693
+date: 2023-12-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8832839131355286
+TEXT:
+Uber, Jabil and Builders FirstSource Set to Join S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1470
+sample_id: SP500_HEAD_000198
+date: 2009-09-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9314658045768738
+TEXT:
+Asia stocks’ 6-month rally may be ending | Mint
+

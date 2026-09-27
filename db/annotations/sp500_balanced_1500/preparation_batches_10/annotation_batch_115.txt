@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 115
+Rows: 1140 - 1149
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1141
+sample_id: SP500_HEAD_015401
+date: 2023-09-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9268493056297302
+TEXT:
+August was another month to forget as bearish investors drive down stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1142
+sample_id: SP500_HEAD_016044
+date: 2023-10-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6217054128646851
+TEXT:
+S&P 500, NAS 100 Experience Choppy Price Action as Treasuries Rise, More Earnings Ahead
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1143
+sample_id: SP500_HEAD_009766
+date: 2021-10-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9268637299537659
+TEXT:
+Facebook is planning to change its name, report says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1144
+sample_id: SP500_HEAD_004006
+date: 2015-11-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5836149454116821
+TEXT:
+Trade has turned China and Taiwan into ‘frenemies’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1145
+sample_id: SP500_HEAD_015980
+date: 2023-10-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.920687735080719
+TEXT:
+Nasdaq Index, Dow Jones, S&P 500 News: Wall Street Eyes Strong Bank Earnings Amid Market Volatility
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1146
+sample_id: SP500_HEAD_016788
+date: 2023-12-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5944117307662964
+TEXT:
+S&P 500 Gains and Losses Today: AI Excitement Powers AMD, Alphabet
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1147
+sample_id: SP500_HEAD_003094
+date: 2014-09-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6091240644454956
+TEXT:
+Apparently This Matters: Amputated leg lamp
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1148
+sample_id: SP500_HEAD_012273
+date: 2022-12-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7033365368843079
+TEXT:
+S&P 500 snaps 2-day winning streak after Fed raises rates and signals more hikes next year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1149
+sample_id: SP500_HEAD_015900
+date: 2023-10-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.913349986076355
+TEXT:
+Stocks are bottoming and the market is approaching the perfect buying opportunity for investors, Fundstrat says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1150
+sample_id: SP500_HEAD_012616
+date: 2023-01-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9172649383544922
+TEXT:
+Justin Bieber just sold his entire music catalog. Here’s why companies are eager to strike these massive deals
+

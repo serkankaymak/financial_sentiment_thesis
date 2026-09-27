@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 108
+Rows: 1070 - 1079
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1071
+sample_id: SP500_HEAD_001276
+date: 2012-05-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8015455007553101
+TEXT:
+Stocks for the Long Run: Johnson & Johnson vs. the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1072
+sample_id: SP500_HEAD_003537
+date: 2015-04-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.922989010810852
+TEXT:
+U.S. stocks make gains as earnings roll in
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1073
+sample_id: SP500_HEAD_005589
+date: 2017-12-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8214368224143982
+TEXT:
+Trump: Stock market winners and losers since the president took office
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1074
+sample_id: SP500_HEAD_017683
+date: 2024-02-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5813709497451782
+TEXT:
+Pharma, ride-share providers among most overbought S&P 500 stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1075
+sample_id: SP500_HEAD_011808
+date: 2022-10-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8592187762260437
+TEXT:
+Why Michael 'Big Short' Burry Is Feeling Greedy About a S&P 500 Rebound
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1076
+sample_id: SP500_HEAD_015609
+date: 2023-09-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6309139728546143
+TEXT:
+Warren Buffett's S&P 500 Housing Market Play Just Surprised Wall Street
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1077
+sample_id: SP500_HEAD_012957
+date: 2023-02-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8810190558433533
+TEXT:
+Bitcoin [BTC] and S&P 500 part ways, where now for the king coin?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1078
+sample_id: SP500_HEAD_013083
+date: 2023-03-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9078578948974609
+TEXT:
+Best And Worst S&P Sectors Over The Last 12 Months
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1079
+sample_id: SP500_HEAD_013680
+date: 2023-04-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5652214288711548
+TEXT:
+US Stock Bulls Ignore 100 Years of Recessions at Their Peril
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1080
+sample_id: SP500_HEAD_017885
+date: 2024-03-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5536473393440247
+TEXT:
+News updates from March 1: Nvidia closes above $2tn valuation, Gunvor to plead guilty to US bribery charges
+

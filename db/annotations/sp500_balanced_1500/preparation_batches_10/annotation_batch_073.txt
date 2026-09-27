@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 073
+Rows: 720 - 729
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0721
+sample_id: SP500_HEAD_009255
+date: 2021-05-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9079009294509888
+TEXT:
+The Battle of the Indices (NDX vs. SPX) for Options Traders
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0722
+sample_id: SP500_HEAD_016218
+date: 2023-10-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.946574866771698
+TEXT:
+S&P 500 Forecast: Index gains 1.2% as positive earnings usher in buyers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0723
+sample_id: SP500_HEAD_010350
+date: 2022-02-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9370530843734741
+TEXT:
+S&P Global (SPGI) Q4 Earnings & Revenues Beat Mark, Rise Y/Y
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0724
+sample_id: SP500_HEAD_009460
+date: 2021-07-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9183257222175598
+TEXT:
+Dow ends up more than 500 points, recovers from slump Monday
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0725
+sample_id: SP500_HEAD_011778
+date: 2022-10-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9176543951034546
+TEXT:
+Is It Safer to Pull Your Money Out of the Stock Market or Keep Investing for Now?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0726
+sample_id: SP500_HEAD_013015
+date: 2023-03-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.969404399394989
+TEXT:
+Morgan Stanley's Wilson: S&P 500 Could Fall About 20%
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0727
+sample_id: SP500_HEAD_009173
+date: 2021-04-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8900387287139893
+TEXT:
+Biden's Stock Market Is Crushing Trump's
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0728
+sample_id: SP500_HEAD_009378
+date: 2021-06-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6849050521850586
+TEXT:
+Stocks Gain Ground As PCE Price Index Reports Show That Inflation Is Under Control
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0729
+sample_id: SP500_HEAD_011772
+date: 2022-09-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9422203898429871
+TEXT:
+Microsoft, Google parent Alphabet, and nearly a fifth of S&P 500 hits 52-week lows
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0730
+sample_id: SP500_HEAD_005267
+date: 2017-06-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8790468573570251
+TEXT:
+Queen Elizabeth II is getting a 78% raise from the government
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 052
+Rows: 510 - 519
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0511
+sample_id: SP500_HEAD_010935
+date: 2022-05-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9241944551467896
+TEXT:
+Cathie Wood slams Tesla's removal from S&P 500 ESG index: 'Ridiculous'
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0512
+sample_id: SP500_HEAD_010391
+date: 2022-02-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9404217600822449
+TEXT:
+20 Percent of TSP C Fund Invested in FAANG Stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0513
+sample_id: SP500_HEAD_011965
+date: 2022-10-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5010669231414795
+TEXT:
+Twitter Caps Nine Years of Largely Unfulfilled Promise on NYSE
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0514
+sample_id: SP500_HEAD_004859
+date: 2016-12-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.778766930103302
+TEXT:
+S&P 500 on Track to Hit Fresh Record Highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0515
+sample_id: SP500_HEAD_007644
+date: 2020-03-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8555529713630676
+TEXT:
+Dow Jones, S&P 500 Forecast – Approaching Long-term Support as Panic Sets In
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0516
+sample_id: SP500_HEAD_010769
+date: 2022-04-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9429400563240051
+TEXT:
+As Stocks Fall, Economic Fears Rise, Along With Inflation
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0517
+sample_id: SP500_HEAD_004731
+date: 2016-10-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5443260669708252
+TEXT:
+Analyst sounds the alarm on the 'most crowded trade in investing history'
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0518
+sample_id: SP500_HEAD_015021
+date: 2023-08-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9648195505142212
+TEXT:
+S&P 500 Gains and Losses Today: Stocks Lose Ground as Hiring Slows
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0519
+sample_id: SP500_HEAD_003755
+date: 2015-07-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9409578442573547
+TEXT:
+US stocks end higher as Citi, others report strong earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0520
+sample_id: SP500_HEAD_004937
+date: 2017-01-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9063278436660767
+TEXT:
+S&P 500 ends up slightly with boost from financials; Netflix up late
+

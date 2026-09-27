@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 007
+Rows: 60 - 69
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0061
+sample_id: SP500_HEAD_004579
+date: 2016-07-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8343200087547302
+TEXT:
+Democrats Vs. Republicans: Who Is Better For The Stock Market?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0062
+sample_id: SP500_HEAD_007029
+date: 2019-09-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8639121651649475
+TEXT:
+Two Stocks Dominate The Market More Than IBM Did In The '80s
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0063
+sample_id: SP500_HEAD_000086
+date: 2008-09-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8202482461929321
+TEXT:
+U.S. Stocks Snap Back Amid Hopes Of AIG Rescue
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0064
+sample_id: SP500_HEAD_010887
+date: 2022-05-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6881100535392761
+TEXT:
+Stocks Return to Earth, With the S&P 500 Nearing a Bear Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0065
+sample_id: SP500_HEAD_014896
+date: 2023-07-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9223076105117798
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for July 28
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0066
+sample_id: SP500_HEAD_016379
+date: 2023-11-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9185652732849121
+TEXT:
+News updates from November 9: S&P 500 snaps win streak, Ransomware attack disrupts Chinese lender ICBC
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0067
+sample_id: SP500_HEAD_012775
+date: 2023-02-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8879837989807129
+TEXT:
+Goldman Sachs ups its near-term S&P 500 target due to brighter economic picture. But here's what the bank's strategists say could knock 25% off stocks.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0068
+sample_id: SP500_HEAD_006825
+date: 2019-06-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6346505880355835
+TEXT:
+S&P 500 closes at historic peak after Fed adopts easy-money posture
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0069
+sample_id: SP500_HEAD_017793
+date: 2024-02-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8070535063743591
+TEXT:
+S&P 500 Notches Another Record Closing High
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0070
+sample_id: SP500_HEAD_014605
+date: 2023-07-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9655989408493042
+TEXT:
+SPX: S&P 500 Drops 0.8% After Data Shows US Labor Market is Still Hot
+

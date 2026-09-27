@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 057
+Rows: 560 - 569
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0561
+sample_id: SP500_HEAD_012647
+date: 2023-01-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9550535678863525
+TEXT:
+S&P 500 closes slightly red as weak corporate guidance fuels recession fears
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0562
+sample_id: SP500_HEAD_014915
+date: 2023-07-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9636093974113464
+TEXT:
+Global markets update: US stocks dip despite GDP growth | Mint
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0563
+sample_id: SP500_HEAD_007387
+date: 2020-01-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8344547748565674
+TEXT:
+Is Macy's, Inc. (M) a Profitable Pick for Value Investors?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0564
+sample_id: SP500_HEAD_016895
+date: 2023-12-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8159017562866211
+TEXT:
+S&P 500 ends higher as investors bet on lower rates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0565
+sample_id: SP500_HEAD_007871
+date: 2020-04-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9265758395195007
+TEXT:
+Dollar-Cost Averaging: How It Works and When It Pays Off – 2020 Analysis
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0566
+sample_id: SP500_HEAD_015424
+date: 2023-09-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9051565527915955
+TEXT:
+US healthcare stocks roiled by investor tug of war over economy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0567
+sample_id: SP500_HEAD_012815
+date: 2023-02-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9398503303527832
+TEXT:
+We Asked ChatGPT For Stock Picks — Here's What It Said
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0568
+sample_id: SP500_HEAD_003266
+date: 2014-12-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8065586686134338
+TEXT:
+YouTube’s most popular video of 2014 was…
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0569
+sample_id: SP500_HEAD_008550
+date: 2020-10-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9051400423049927
+TEXT:
+4 Reasons Why Inverse ETFs Are Broken & Here's A Better Solution
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0570
+sample_id: SP500_HEAD_002136
+date: 2013-08-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9024379253387451
+TEXT:
+Why more Amber alerts will be waking you up
+

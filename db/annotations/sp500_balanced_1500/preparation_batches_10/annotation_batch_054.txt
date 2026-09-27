@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 054
+Rows: 530 - 539
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0531
+sample_id: SP500_HEAD_013972
+date: 2023-05-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8855850696563721
+TEXT:
+Stock Market (SPX) Keep Rallying, Defying Doom Scenarios
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0532
+sample_id: SP500_HEAD_017823
+date: 2024-02-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9729135036468506
+TEXT:
+S&P 500 Gains and Losses Today: Index Slips After Downward Revision to GDP Growth
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0533
+sample_id: SP500_HEAD_016126
+date: 2023-10-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.42289799451828003
+TEXT:
+Nasdaq 100 & S&P 500 Hold Support, while Nikkei 225 Remains Above the 200-day Moving Average
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0534
+sample_id: SP500_HEAD_017756
+date: 2024-02-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9047744274139404
+TEXT:
+AI-darling Nvidia's bumper results push S&P 500 to record high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0535
+sample_id: SP500_HEAD_002106
+date: 2013-07-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9256488084793091
+TEXT:
+The Lernstift smartpen checks your spelling as you write
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0536
+sample_id: SP500_HEAD_005264
+date: 2017-06-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9305305480957031
+TEXT:
+The Best and Worst Ways to Trade SPY Options Each Week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0537
+sample_id: SP500_HEAD_011399
+date: 2022-08-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9270800948143005
+TEXT:
+Oppenheimer Says S&P 500 Could Rise Another 12% by Year-End — and These Stocks Could Follow
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0538
+sample_id: SP500_HEAD_017310
+date: 2024-01-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6115705966949463
+TEXT:
+Nelson Peltz: Disney board has underperformed the S&P 500 'on every measure'
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0539
+sample_id: SP500_HEAD_009228
+date: 2021-05-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.913494884967804
+TEXT:
+This Chart Shows the Secret to Never Losing Money in the Stock Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0540
+sample_id: SP500_HEAD_005304
+date: 2017-07-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9697766900062561
+TEXT:
+Barclays predicts shares of AMD, one of the market's hottest stocks, will plunge 35%
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 016
+Rows: 150 - 159
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0151
+sample_id: SP500_HEAD_014329
+date: 2023-06-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8330070376396179
+TEXT:
+Enthusiasm for Tech Stocks and Optimism About Fed Rate Hikes Lift Markets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0152
+sample_id: SP500_HEAD_009196
+date: 2021-04-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8046401143074036
+TEXT:
+YSU investment fund club outperforms S&P 500 index, Youngstown -
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0153
+sample_id: SP500_HEAD_002474
+date: 2014-01-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9083268046379089
+TEXT:
+Regression to Trend: A Perspective on Long-Term Market Performance
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0154
+sample_id: SP500_HEAD_013280
+date: 2023-03-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8673213720321655
+TEXT:
+Sector Views March 2023: GICS Change Adds Growth to Financials
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0155
+sample_id: SP500_HEAD_002530
+date: 2014-01-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9248632788658142
+TEXT:
+Your smartphone could replace hotel keys
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0156
+sample_id: SP500_HEAD_011408
+date: 2022-08-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5359451174736023
+TEXT:
+Can the S&P 500 Maintain Its July Momentum?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0157
+sample_id: SP500_HEAD_009364
+date: 2021-06-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5146894454956055
+TEXT:
+Aerospace-Defense Outperforms S&P 500 YTD: 4 Stocks to Buy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0158
+sample_id: SP500_HEAD_001867
+date: 2013-03-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7266176342964172
+TEXT:
+Salesforce breaks ranks with 4-1 stock split
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0159
+sample_id: SP500_HEAD_017706
+date: 2024-02-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.964352011680603
+TEXT:
+SPX: S&P 500 Futures Dip Ahead of Shortened Week, Nvidia Earnings on Deck
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0160
+sample_id: SP500_HEAD_012817
+date: 2023-02-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8148509860038757
+TEXT:
+Wall St dips as Treasury yields rise after auction
+

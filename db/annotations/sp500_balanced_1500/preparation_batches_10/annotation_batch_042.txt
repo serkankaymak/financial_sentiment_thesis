@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 042
+Rows: 410 - 419
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0411
+sample_id: SP500_HEAD_000512
+date: 2011-03-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9497683048248291
+TEXT:
+Report: Profits for Media and Entertainment Sector Remain High Despite Downturn
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0412
+sample_id: SP500_HEAD_003145
+date: 2014-10-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5203770995140076
+TEXT:
+Market 'freak out': Stocks rebound from scary plunge
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0413
+sample_id: SP500_HEAD_004310
+date: 2016-03-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8832100629806519
+TEXT:
+Are European Stocks Cheap or is the U.S. Expensive?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0414
+sample_id: SP500_HEAD_013115
+date: 2023-03-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9566546678543091
+TEXT:
+Stocks close sharply down after Powell says rates will rise more than expected
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0415
+sample_id: SP500_HEAD_008372
+date: 2020-09-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9120451211929321
+TEXT:
+How Stocks Behave After S&P 500, VIX Returns Are Positive
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0416
+sample_id: SP500_HEAD_001871
+date: 2013-03-25 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9138628840446472
+TEXT:
+Meet Elizabeth: The heart and soul of ‘BioShock Infinite’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0417
+sample_id: SP500_HEAD_001119
+date: 2012-03-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8680700659751892
+TEXT:
+China protests at India cotton export ban
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0418
+sample_id: SP500_HEAD_015687
+date: 2023-09-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.809107780456543
+TEXT:
+4 Insurance Stocks That Have Outperformed S&P 500 in a Year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0419
+sample_id: SP500_HEAD_011134
+date: 2022-06-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.911317765712738
+TEXT:
+Limit Your Downside Risk During a Bear Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0420
+sample_id: SP500_HEAD_005649
+date: 2018-01-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6134446859359741
+TEXT:
+Junk Bonds Are Sending An Important Message To The Markets (JNK)
+

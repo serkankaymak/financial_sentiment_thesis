@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 004
+Rows: 30 - 39
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0031
+sample_id: SP500_HEAD_007911
+date: 2020-05-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9316849708557129
+TEXT:
+S&P 500 Forward P/E Ratio Rises Above 20.0 as EPS Estimates Continue to Fall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0032
+sample_id: SP500_HEAD_011378
+date: 2022-07-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8423014283180237
+TEXT:
+Investors shown to be actively pursuing passive funds
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0033
+sample_id: SP500_HEAD_009476
+date: 2021-07-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7595097422599792
+TEXT:
+Wall Street rallies to record-breaking end of turbulent week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0034
+sample_id: SP500_HEAD_009773
+date: 2021-10-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.891899585723877
+TEXT:
+Stocks Hit a Record as Investors See Progress Toward a Spending Deal (Published 2021)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0035
+sample_id: SP500_HEAD_017400
+date: 2024-01-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9702270030975342
+TEXT:
+S&P 500 Gains and Losses Today: 3M Shares Tumble Following Weak 2024 Outlook
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0036
+sample_id: SP500_HEAD_005411
+date: 2017-09-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8663128614425659
+TEXT:
+Down $20 Billion, Boeing Stuffs Pension Fund With Its Own Shares
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0037
+sample_id: SP500_HEAD_011710
+date: 2022-09-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8626172542572021
+TEXT:
+Rampaging Stock Bears Slowed at Key S&P 500 Technical Level
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0038
+sample_id: SP500_HEAD_011412
+date: 2022-08-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9433523416519165
+TEXT:
+Where's the Fear? VIX Keeps Sliding as Big Events Fail to Lift Volatility | Market Insights
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0039
+sample_id: SP500_HEAD_017363
+date: 2024-01-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8731276392936707
+TEXT:
+World markets today: US stocks gain, S&P 500 hits record high | Mint
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0040
+sample_id: SP500_HEAD_009856
+date: 2021-11-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7814549803733826
+TEXT:
+S&P 500 Loser: GE Tries To Put Investors Out Of Their Misery
+

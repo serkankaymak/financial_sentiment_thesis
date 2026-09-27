@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 107
+Rows: 1060 - 1069
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1061
+sample_id: SP500_HEAD_005824
+date: 2018-04-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9447038173675537
+TEXT:
+Miami Business School's Florida 50 Stock Index Posts Gains During First Quarter of 2018
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1062
+sample_id: SP500_HEAD_006119
+date: 2018-08-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8496522903442383
+TEXT:
+Celebrating longest ever bull run may be doing it wrong
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1063
+sample_id: SP500_HEAD_000503
+date: 2011-03-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9065721035003662
+TEXT:
+Starbucks hits 40 and stock is a tall bargain - The Buzz - Mar. 8, 2011
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1064
+sample_id: SP500_HEAD_001129
+date: 2012-03-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6431790590286255
+TEXT:
+Stocks close mixed at the end of a strong week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1065
+sample_id: SP500_HEAD_014877
+date: 2023-07-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8886613845825195
+TEXT:
+When Performance Matters: Nasdaq-100 vs. S&P 500 Q2, 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1066
+sample_id: SP500_HEAD_008904
+date: 2021-01-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8501628041267395
+TEXT:
+S&P 500 slips from all-time high, Nasdaq ends week up 4% at a record
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1067
+sample_id: SP500_HEAD_005491
+date: 2017-10-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.44461768865585327
+TEXT:
+A Foolish Take: The best-performing S&P 500 stock this year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1068
+sample_id: SP500_HEAD_008511
+date: 2020-10-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9761191606521606
+TEXT:
+Q3 Earnings: Analysts Expect Second-Largest Earnings Decline Since 2009
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1069
+sample_id: SP500_HEAD_004912
+date: 2016-12-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7222718596458435
+TEXT:
+S&P 500 records biggest recovery since post-Great Recession
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1070
+sample_id: SP500_HEAD_017020
+date: 2023-12-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8405365943908691
+TEXT:
+Stock Market Today: S&P 500 rises to clinch longest weekly win streak since 2017 By Investing.com
+

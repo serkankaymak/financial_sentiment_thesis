@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 092
+Rows: 910 - 919
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0911
+sample_id: SP500_HEAD_006075
+date: 2018-08-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8902342319488525
+TEXT:
+Why the S&P 500 could gain another 10% from its previous high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0912
+sample_id: SP500_HEAD_012316
+date: 2022-12-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9357001781463623
+TEXT:
+Survey: Pros Expect Modest Rally In Stocks Despite Growing Recession Fears
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0913
+sample_id: SP500_HEAD_008844
+date: 2021-01-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8063115477561951
+TEXT:
+Valero Energy Stock To Remain Below Its Pre-Covid Peak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0914
+sample_id: SP500_HEAD_008188
+date: 2020-07-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9202208518981934
+TEXT:
+Executive Paywatch: 1,000-to-1 Pay Ratio CEOs Furlough Workers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0915
+sample_id: SP500_HEAD_001964
+date: 2013-05-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6267449855804443
+TEXT:
+Reclusive Huawei CEO breaks media silence
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0916
+sample_id: SP500_HEAD_014190
+date: 2023-06-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8641304969787598
+TEXT:
+S&P 500 ticks up on Tuesday to close at highest level in 2023: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0917
+sample_id: SP500_HEAD_007508
+date: 2020-02-25 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.929833710193634
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for February 26, 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0918
+sample_id: SP500_HEAD_005466
+date: 2017-10-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8979504108428955
+TEXT:
+Marriott Opens StateView Hotel, Adds to Autograph Collection
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0919
+sample_id: SP500_HEAD_008875
+date: 2021-01-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8570075035095215
+TEXT:
+CEO Succession Practices in the Russell 3000 and S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0920
+sample_id: SP500_HEAD_011173
+date: 2022-06-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9553714990615845
+TEXT:
+Wall St ends up but still down on week as volatility rules
+

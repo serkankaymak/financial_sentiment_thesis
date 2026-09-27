@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 149
+Rows: 1480 - 1489
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1481
+sample_id: SP500_HEAD_013593
+date: 2023-04-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9531449675559998
+TEXT:
+Morgan Stanley's US Stock Chief Sees Over 20% Downside for the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1482
+sample_id: SP500_HEAD_012579
+date: 2023-01-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9416658282279968
+TEXT:
+Should I add the VUSA ETF to my Stocks and Shares ISA?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1483
+sample_id: SP500_HEAD_015389
+date: 2023-08-31 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8852676153182983
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500 News: Looking to End Month on Positive Note Ahead of NFP Report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1484
+sample_id: SP500_HEAD_010713
+date: 2022-04-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5250859260559082
+TEXT:
+Netflix just lost $50 billion in market cap
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1485
+sample_id: SP500_HEAD_003786
+date: 2015-07-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8879165053367615
+TEXT:
+Saudi's RCJY to manage, operate Jazan Economic City
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1486
+sample_id: SP500_HEAD_004363
+date: 2016-04-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8476446270942688
+TEXT:
+S&P 500, Dow edge up as oil holds on to gains
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1487
+sample_id: SP500_HEAD_010591
+date: 2022-03-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5653820633888245
+TEXT:
+The SPY ETF Is an Attractive Long-Term Option to Buy in April
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1488
+sample_id: SP500_HEAD_016257
+date: 2023-11-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7656710147857666
+TEXT:
+Nike stock outperforms S&P 500, Dow and Nasdaq
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1489
+sample_id: SP500_HEAD_013960
+date: 2023-05-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9187893271446228
+TEXT:
+AI Will Send Profits Skyward Over the Next 10 Years, Goldman Says | Chief Investment Officer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1490
+sample_id: SP500_HEAD_000362
+date: 2010-09-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5477799773216248
+TEXT:
+The painful year of Bill Weldon, Johnson & Johnson CEO - Sep. 6, 2010
+

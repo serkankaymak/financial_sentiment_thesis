@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 025
+Rows: 240 - 249
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0241
+sample_id: SP500_HEAD_002114
+date: 2013-07-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8646382689476013
+TEXT:
+What's Powering the Strongest Bull Market Since WWII?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0242
+sample_id: SP500_HEAD_000504
+date: 2011-03-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.48940950632095337
+TEXT:
+Biggest Gainers: The S&P 1500's Biggest Gainers Since The March 2009 Low
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0243
+sample_id: SP500_HEAD_009113
+date: 2021-03-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9031456112861633
+TEXT:
+50-year gold price vs stocks chart shows bullion fair value above $2,500 - MINING.COM
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0244
+sample_id: SP500_HEAD_007690
+date: 2020-03-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9434887170791626
+TEXT:
+S&P 500 Records Worst One Day Decline Since 1987 | Market Insights
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0245
+sample_id: SP500_HEAD_013664
+date: 2023-04-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8746929168701172
+TEXT:
+S&P 500 ends Tuesday little changed as earnings season picks up steam: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0246
+sample_id: SP500_HEAD_010018
+date: 2021-12-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9109981656074524
+TEXT:
+Grab a Slice of the Discounted Small-Cap Pie
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0247
+sample_id: SP500_HEAD_015595
+date: 2023-09-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9148754477500916
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500 News: Inflation Fears Ease, Retail Sales Surge
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0248
+sample_id: SP500_HEAD_017486
+date: 2024-02-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.777764081954956
+TEXT:
+S&P 500 closes at a record, rises for a fourth-straight week on strong tech earnings: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0249
+sample_id: SP500_HEAD_014015
+date: 2023-05-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6389879584312439
+TEXT:
+B Of A Upped Its Forecast For Stocks — Just Not The Ones You Think
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0250
+sample_id: SP500_HEAD_017130
+date: 2024-01-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9365224838256836
+TEXT:
+2024 Outlook: 9 Views on What to Watch Across S&P 500 Earnings, AI, Banks, and More
+

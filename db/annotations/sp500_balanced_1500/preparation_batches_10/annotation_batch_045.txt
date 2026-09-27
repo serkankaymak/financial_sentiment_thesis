@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 045
+Rows: 440 - 449
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0441
+sample_id: SP500_HEAD_001348
+date: 2012-07-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.685452401638031
+TEXT:
+‘Capital Factory’ spurs startups in Austin
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0442
+sample_id: SP500_HEAD_003779
+date: 2015-07-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8381536602973938
+TEXT:
+CBOE Introduces 10 Options-Based Strategy Performance Benchmark Indexes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0443
+sample_id: SP500_HEAD_011344
+date: 2022-07-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9171336889266968
+TEXT:
+S&P 500 Price Forecast – S&P 500 Continues to Threaten a Breakout
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0444
+sample_id: SP500_HEAD_010144
+date: 2022-01-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4712408185005188
+TEXT:
+LIVE MARKETS 2021 saw a lot less volatility in the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0445
+sample_id: SP500_HEAD_004256
+date: 2016-03-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9392538070678711
+TEXT:
+University Of California's Hedge Fund Investments Plagued By High Fees
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0446
+sample_id: SP500_HEAD_016874
+date: 2023-12-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6544841527938843
+TEXT:
+Dow flips higher as S&P 500, Nasdaq remain at fresh 2023 high ahead of Fed policy decision
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0447
+sample_id: SP500_HEAD_007625
+date: 2020-03-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.933610200881958
+TEXT:
+What you need to know about the stock market's circuit breakers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0448
+sample_id: SP500_HEAD_003360
+date: 2015-01-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.929503858089447
+TEXT:
+Warren Buffett's Advice: Forget Get-Rich-Quick. Here's How to Get Rich Slowly
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0449
+sample_id: SP500_HEAD_007504
+date: 2020-02-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7060297727584839
+TEXT:
+Dow Futures Higher After Monday's Trillion Dollar Wipeout As Coronavirus Concerns Linger
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0450
+sample_id: SP500_HEAD_017122
+date: 2024-01-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.876069188117981
+TEXT:
+Stock Market Gains Could Be Supercharged in 2024 If 'January Trifecta'
+

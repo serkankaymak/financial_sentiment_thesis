@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 038
+Rows: 370 - 379
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0371
+sample_id: SP500_HEAD_000020
+date: 2008-02-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8541066646575928
+TEXT:
+U.S. Stocks Cut Losses In The Wake Of AIG Disclosure
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0372
+sample_id: SP500_HEAD_014591
+date: 2023-07-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8621176481246948
+TEXT:
+The Bull Market in Stocks Is on Track to Push S&P 500 to 5,000 by 2024
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0373
+sample_id: SP500_HEAD_012052
+date: 2022-11-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7226896286010742
+TEXT:
+Wall Street ends sharply higher on sign of cooling inflation
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0374
+sample_id: SP500_HEAD_007277
+date: 2019-12-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9180758595466614
+TEXT:
+Where will the S&P 500 go in 2020? Here are the most bullish and bearish strategists
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0375
+sample_id: SP500_HEAD_017557
+date: 2024-02-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.90642911195755
+TEXT:
+Markets News, Feb. 9, 2024: S&P 500 Tops 5K, Nasdaq Approaches 16K Amid Tech Rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0376
+sample_id: SP500_HEAD_007994
+date: 2020-06-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9102470874786377
+TEXT:
+The Stock Market Doesn't Care About Violence. Here's How It's Performed During Major U.S. Protests And Tragedies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0377
+sample_id: SP500_HEAD_013910
+date: 2023-05-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6686980128288269
+TEXT:
+Japan stock index hits 33-year high as investors warm to Tokyo story
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0378
+sample_id: SP500_HEAD_008700
+date: 2020-11-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9431615471839905
+TEXT:
+Tesla's stock market value accelerates past $500 billion
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0379
+sample_id: SP500_HEAD_011509
+date: 2022-08-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.684923529624939
+TEXT:
+Warren Buffett Boldly Loads Up On 4 Of His Best Stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0380
+sample_id: SP500_HEAD_003829
+date: 2015-08-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9712584614753723
+TEXT:
+Stock pain: 15% of S&P 500 down 20% in 2015
+

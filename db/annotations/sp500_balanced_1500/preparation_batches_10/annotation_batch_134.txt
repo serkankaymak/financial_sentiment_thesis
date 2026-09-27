@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 134
+Rows: 1330 - 1339
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1331
+sample_id: SP500_HEAD_014603
+date: 2023-07-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7632113695144653
+TEXT:
+Cruise Line Stocks Have Become Top Performers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1332
+sample_id: SP500_HEAD_007309
+date: 2019-12-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9228970408439636
+TEXT:
+A lot has changed since the market panic last Christmas Eve with the S&P 500 up nearly 40% since
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1333
+sample_id: SP500_HEAD_009062
+date: 2021-03-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9365983009338379
+TEXT:
+Nvidia Stock Could Jump 15% To Regain Early-2021 High
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1334
+sample_id: SP500_HEAD_000306
+date: 2010-05-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7482588887214661
+TEXT:
+Apple Passes Microsoft as World's Largest Tech Company
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1335
+sample_id: SP500_HEAD_009569
+date: 2021-08-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9473123550415039
+TEXT:
+S&P 500 index up 100% from March 2020 low
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1336
+sample_id: SP500_HEAD_000309
+date: 2010-06-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8668060898780823
+TEXT:
+Ex-Tudor Pallotta Raising Money for New Fund
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1337
+sample_id: SP500_HEAD_007522
+date: 2020-02-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.4683685004711151
+TEXT:
+We Just Witnessed The Fastest Stock Market Correction on Record
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1338
+sample_id: SP500_HEAD_005857
+date: 2018-04-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7298858761787415
+TEXT:
+S&P 500 rallies slightly during the trading session on Wednesday as buyers continue to return
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1339
+sample_id: SP500_HEAD_001090
+date: 2012-02-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6741300225257874
+TEXT:
+Mega-powerful camera phone, super-fast gadgets dazzle at mobile show
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1340
+sample_id: SP500_HEAD_010565
+date: 2022-03-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9203989505767822
+TEXT:
+Odds are, you’re better off buying an index fund. Here’s why
+

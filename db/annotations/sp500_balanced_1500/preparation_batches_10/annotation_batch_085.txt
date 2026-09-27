@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 085
+Rows: 840 - 849
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0841
+sample_id: SP500_HEAD_002068
+date: 2013-06-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9224644899368286
+TEXT:
+Buttercup the duck gets a 3-D printed foot
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0842
+sample_id: SP500_HEAD_005582
+date: 2017-12-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9171303510665894
+TEXT:
+US stocks retreat from records ahead of tax bill vote
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0843
+sample_id: SP500_HEAD_014916
+date: 2023-07-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7940614223480225
+TEXT:
+Citigroup raises S&P 500 target for 2023 on increased chances of ‘soft landing’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0844
+sample_id: SP500_HEAD_011561
+date: 2022-09-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9208440184593201
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for Sept. 2
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0845
+sample_id: SP500_HEAD_001323
+date: 2012-06-25 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5317846536636353
+TEXT:
+Survey: 70% of teens hide online behavior from parents
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0846
+sample_id: SP500_HEAD_004556
+date: 2016-07-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7704528570175171
+TEXT:
+Dow Rebounds 90 Points After Yesterday's Plunge
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0847
+sample_id: SP500_HEAD_013086
+date: 2023-03-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9053332805633545
+TEXT:
+How Does Inflation Affect The Stock Market? – Forbes Advisor
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0848
+sample_id: SP500_HEAD_011346
+date: 2022-07-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8499724864959717
+TEXT:
+America's CEOs made 324 times more than you last year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0849
+sample_id: SP500_HEAD_005610
+date: 2018-01-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8731027841567993
+TEXT:
+2018 Stock Market Cycles Outlook: New Highs... After A Dip
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0850
+sample_id: SP500_HEAD_008214
+date: 2020-08-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9138355255126953
+TEXT:
+Goldman Sachs Says Investors Are Underestimating the Chance of a COVID-19 Vaccine in 2020
+

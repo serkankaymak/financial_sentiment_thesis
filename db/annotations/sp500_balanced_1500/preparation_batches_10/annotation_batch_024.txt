@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 024
+Rows: 230 - 239
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0231
+sample_id: SP500_HEAD_015419
+date: 2023-09-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5785879492759705
+TEXT:
+S&P 500 ends higher as jobs data fuels rate-hike optimism
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0232
+sample_id: SP500_HEAD_015523
+date: 2023-09-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5896193981170654
+TEXT:
+Markets Gain at Midday Amid Expectations Fed Might Not Hike Rates at Next Meeting
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0233
+sample_id: SP500_HEAD_001378
+date: 2012-07-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.578324556350708
+TEXT:
+‘Pay up or die’: Thousands of Australians receive death threat text message
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0234
+sample_id: SP500_HEAD_014766
+date: 2023-07-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.85820472240448
+TEXT:
+Stocks advance as earnings pick up; Dow notches 8th day of gains
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0235
+sample_id: SP500_HEAD_017161
+date: 2024-01-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5074812173843384
+TEXT:
+Stocks With the Highest Dividend Yields in the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0236
+sample_id: SP500_HEAD_008999
+date: 2021-03-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7541270852088928
+TEXT:
+5 Stocks Routinely Outperform During 'Wild' Month Of March
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0237
+sample_id: SP500_HEAD_005368
+date: 2017-08-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9453365206718445
+TEXT:
+SPDR S&P 500 ETF Trust (SPY) Bounces Back, Halving Last Week's Losses
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0238
+sample_id: SP500_HEAD_017343
+date: 2024-01-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.824639618396759
+TEXT:
+Wall St inches higher, Treasury yields gain as S&P 500 inches closer to record high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0239
+sample_id: SP500_HEAD_010048
+date: 2021-12-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9294394254684448
+TEXT:
+VIX and Biotech ETFs Invigorated Amid Pfizer COVID Pill News
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0240
+sample_id: SP500_HEAD_017428
+date: 2024-01-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.855604350566864
+TEXT:
+S&P 500 Gains and Losses Today: Index Advances as GDP Growth Beats Expectations
+

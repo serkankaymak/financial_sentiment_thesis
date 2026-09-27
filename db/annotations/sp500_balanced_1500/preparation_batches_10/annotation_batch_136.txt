@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 136
+Rows: 1350 - 1359
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1351
+sample_id: SP500_HEAD_009279
+date: 2021-05-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.854395866394043
+TEXT:
+Pandemic Blues To Weigh On Transocean Stock
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1352
+sample_id: SP500_HEAD_003574
+date: 2015-04-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5805236101150513
+TEXT:
+Large Caps vs Small Caps: May Seasonality Insights
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1353
+sample_id: SP500_HEAD_015760
+date: 2023-09-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5357446074485779
+TEXT:
+Wall St Week Ahead US stock market's powerhouses tested by soaring bond yields
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1354
+sample_id: SP500_HEAD_011401
+date: 2022-08-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9113433957099915
+TEXT:
+7 Ways to Invest in the S&P 500 Using ETFs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1355
+sample_id: SP500_HEAD_004107
+date: 2015-12-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9174913763999939
+TEXT:
+China stock market outperforms S&P despite wild swings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1356
+sample_id: SP500_HEAD_000458
+date: 2011-01-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9183201193809509
+TEXT:
+Inside Wall Street: Goldman's New Pro-Cyclical Stock Picks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1357
+sample_id: SP500_HEAD_001768
+date: 2013-02-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8663674592971802
+TEXT:
+Fake Amazon resume proves the power of personal branding
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1358
+sample_id: SP500_HEAD_003196
+date: 2014-11-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9122427105903625
+TEXT:
+Alibaba: Bigger than 494 of the S&P 500 companies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1359
+sample_id: SP500_HEAD_002048
+date: 2013-06-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7257788777351379
+TEXT:
+Resorts World Manila Starts Testing Investor Appetite for $500 Million IPO
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1360
+sample_id: SP500_HEAD_007249
+date: 2019-12-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7085810303688049
+TEXT:
+The stock market's biggest winners and losers of the past decade
+

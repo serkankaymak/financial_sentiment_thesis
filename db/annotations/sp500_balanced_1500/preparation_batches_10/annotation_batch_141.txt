@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 141
+Rows: 1400 - 1409
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1401
+sample_id: SP500_HEAD_012621
+date: 2023-01-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7670605778694153
+TEXT:
+S&P 500 rises again as tech shines on latest earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1402
+sample_id: SP500_HEAD_006044
+date: 2018-07-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7865545749664307
+TEXT:
+These four fund managers and 30 analysts figured out how to consistently beat the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1403
+sample_id: SP500_HEAD_004629
+date: 2016-08-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9497532248497009
+TEXT:
+Billionaire Soros' namesake fund doubled down against the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1404
+sample_id: SP500_HEAD_015806
+date: 2023-10-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9460967183113098
+TEXT:
+Dow sinks by more than 400 points as spiking yields weigh on stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1405
+sample_id: SP500_HEAD_003763
+date: 2015-07-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.668521523475647
+TEXT:
+New York fast food workers’ $15 wage vote on Wednesday
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1406
+sample_id: SP500_HEAD_001368
+date: 2012-07-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9131298661231995
+TEXT:
+Marissa Mayer: Six life lessons from Yahoo CEO
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1407
+sample_id: SP500_HEAD_005331
+date: 2017-08-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.4810803532600403
+TEXT:
+After hitting record highs, markets enter sleep mode
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1408
+sample_id: SP500_HEAD_017916
+date: 2024-03-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8269034624099731
+TEXT:
+Bank of America boosts S&P 500 target to 5,400. Here’s how it got there.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1409
+sample_id: SP500_HEAD_016588
+date: 2023-11-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8545598387718201
+TEXT:
+Nasdaq 100, Dow Jones, S&P 500 News: Modest Gains as Investors Digest Nvidia Earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1410
+sample_id: SP500_HEAD_012767
+date: 2023-02-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7784900665283203
+TEXT:
+Stock market is basically going nowhere for the rest of the year: Goldman Sachs
+

@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 099
+Rows: 4900 - 4949
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04901
+date: 2006-12-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.60296630859375
+TEXT:
+wanxiang in talks with ford over parts arm ft
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04902
+date: 2006-11-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9105397462844848
+TEXT:
+accounting firms want company accounts revamp, paper says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04903
+date: 2006-12-11 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8727577328681946
+TEXT:
+brazils csn bids $9.6 bln for corus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04904
+date: 2006-11-09 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9022651314735411
+TEXT:
+update 2-swedens meda buys 3m european pharma unit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04905
+date: 2007-03-29 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8170166611671448
+TEXT:
+luxury retailer saks sees strong spring season
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04906
+date: 2006-12-14 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9302386045455932
+TEXT:
+jobless claims drop suggests solid economy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04907
+date: 2007-01-09 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8741881251335144
+TEXT:
+apple says iphone models to cost $499 and $599
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04908
+date: 2006-12-07 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5804854035377502
+TEXT:
+delta to sell 38 boeing planes, orders 10 more
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04909
+date: 2007-04-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8057776093482971
+TEXT:
+goodyear posts loss, raises cost-cutting targets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04910
+date: 2006-11-28 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6451606154441833
+TEXT:
+ibm to buy privately held software maker vallent
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04911
+date: 2007-04-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.950033962726593
+TEXT:
+gauge of u.s. economy rose in latest week ecri
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04912
+date: 2006-11-24 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9735172986984252
+TEXT:
+dollar slides to 1-1/2-year low vs euro
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04913
+date: 2007-04-06 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.485560655593872
+TEXT:
+longs, rite aid agree to store swap
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04914
+date: 2006-12-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5790802836418152
+TEXT:
+airline industry needs consolidation, ual chief says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04915
+date: 2006-12-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5410886406898499
+TEXT:
+sabre deal with texas pacific, silver lake seen
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04916
+date: 2006-12-01 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7856855988502502
+TEXT:
+gm contemplates the living, breathing hummer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04917
+date: 2006-11-14 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9709497690200806
+TEXT:
+wrapup 1-u.s. oct producer prices, retail sales down
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04918
+date: 2006-11-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.94768089056015
+TEXT:
+cisco shares rise after strong results, broker upgrades
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04919
+date: 2007-01-22 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6656532883644104
+TEXT:
+sun micro confirms will use some intel chips
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04920
+date: 2007-03-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.913292109966278
+TEXT:
+victorias secret president joins lord and taylor
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04921
+date: 2006-11-22 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9611422419548036
+TEXT:
+work shift causes minor delays at northwest air
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04922
+date: 2007-02-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7732591032981873
+TEXT:
+pepsico profit up on frito-lay gatorade sales down
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04923
+date: 2007-04-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8532696962356567
+TEXT:
+indexes flat though dow ekes out record high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04924
+date: 2006-12-05 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9083860516548156
+TEXT:
+service sector stronger than expected
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04925
+date: 2007-01-08 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.942818820476532
+TEXT:
+strong jobs growth deepens productivity mystery
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04926
+date: 2006-12-19 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9560992121696472
+TEXT:
+november housing starts up
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04927
+date: 2006-11-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9749085903167723
+TEXT:
+poor french mobile, music sales dent vivendi q3
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04928
+date: 2007-01-27 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9451823830604552
+TEXT:
+for stocks, earnings may trump fed and jobs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04929
+date: 2007-01-15 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.683029294013977
+TEXT:
+nigerian oil minister says no decision on opec meeting
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04930
+date: 2006-10-26 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.948629915714264
+TEXT:
+kellogg earnings beat street on strong sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04931
+date: 2007-01-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9476723670959472
+TEXT:
+january consumer sentiment jumps to 3-year high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04932
+date: 2007-04-17 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9418060183525084
+TEXT:
+super-rich population surges in 2006 survey
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04933
+date: 2006-12-06 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9341874122619628
+TEXT:
+jobs data raise hopes for payrolls boost
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04934
+date: 2007-04-18 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.890118420124054
+TEXT:
+rim says most blackberry service restored
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04935
+date: 2007-01-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6154777407646179
+TEXT:
+bp ceo browne to retire earlier than planned
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04936
+date: 2006-12-26 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.930981695652008
+TEXT:
+chinas economy seen growing in 07
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04937
+date: 2006-12-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9665570855140686
+TEXT:
+slowdown ahead for u.s. manufacturers study
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04938
+date: 2007-03-15 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8205401301383972
+TEXT:
+u.s. private equity firms invest in uk biofuels
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04939
+date: 2007-03-13 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5312447547912598
+TEXT:
+uaw not ready to concede chrysler will be sold
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04940
+date: 2006-12-18 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.934216856956482
+TEXT:
+gazprom, gdf to sign major deal on tuesday
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04941
+date: 2006-12-02 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5785195231437683
+TEXT:
+small brokers hope to block nyse-nasd linkup
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04942
+date: 2006-11-28 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8379086852073669
+TEXT:
+feds bernanke inflation risks to the upside
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04943
+date: 2007-04-02 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9691850543022156
+TEXT:
+march manufacturing growth weaker than feb ism
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04944
+date: 2007-04-25 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8035788536071777
+TEXT:
+jarden set to buy k2 for $1.2 bln wsj
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04945
+date: 2007-04-16 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5987431406974792
+TEXT:
+education finance in $2.5 mln new york settlement
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04946
+date: 2007-01-26 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.911598801612854
+TEXT:
+ford cash in focus as clock ticks on turnaround
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04947
+date: 2007-04-04 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6265361905097961
+TEXT:
+blackstone in talks to buy china plastics firm
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04948
+date: 2006-10-27 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7498605847358704
+TEXT:
+rim gets inquiry from sec over options review
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04949
+date: 2007-04-19 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8682499527931213
+TEXT:
+bank of america profit up 5 pct, card losses rise
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04950
+date: 2007-04-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9013063907623292
+TEXT:
+alltel 1st-qtr net off subscribers beat estimates
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 100
+Rows: 990 - 999
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0991
+sample_id: SP500_HEAD_013851
+date: 2023-05-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5674159526824951
+TEXT:
+Nasdaq closes 1% higher Wednesday after inflation data is cooler than anticipated: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0992
+sample_id: SP500_HEAD_008989
+date: 2021-02-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.72507244348526
+TEXT:
+Stocks just got some new competition from bonds as 10-year rate tops dividend yield
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0993
+sample_id: SP500_HEAD_008008
+date: 2020-06-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9550298452377319
+TEXT:
+Coty sinks to bottom of S&P 500 index in May
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0994
+sample_id: SP500_HEAD_008676
+date: 2020-11-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9316725134849548
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for Nov. 24, 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0995
+sample_id: SP500_HEAD_014659
+date: 2023-07-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9083212018013
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500: Futures Edge Higher Ahead of Inflation Data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0996
+sample_id: SP500_HEAD_008293
+date: 2020-08-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.4116446375846863
+TEXT:
+Stock market live Tuesday: S&P 500 hits another record, Apple drags down Dow, oil jumps to 5-month high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0997
+sample_id: SP500_HEAD_003852
+date: 2015-08-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5349326133728027
+TEXT:
+Wall Street Rally Goes up in Smoke, Indexes End Lower
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0998
+sample_id: SP500_HEAD_002251
+date: 2013-09-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8851504325866699
+TEXT:
+RICHARD RUSSELL: Here Are 2 Reasons Why I'm Not Buying The Latest 'Dow Theory' Buy-Signal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0999
+sample_id: SP500_HEAD_005155
+date: 2017-05-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8702567219734192
+TEXT:
+Earnings Season: Beating the Snot Out of Expectations
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1000
+sample_id: SP500_HEAD_005784
+date: 2018-03-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8918525576591492
+TEXT:
+Worst of Midterm Year 2018 Could Already Be Over
+

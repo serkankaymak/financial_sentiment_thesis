@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 111
+Rows: 1100 - 1109
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1101
+sample_id: SP500_HEAD_000901
+date: 2011-11-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8908408284187317
+TEXT:
+Iconic Yahoo billboard coming down after 12 years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1102
+sample_id: SP500_HEAD_001653
+date: 2012-12-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8989741206169128
+TEXT:
+What city has world’s best quality of life?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1103
+sample_id: SP500_HEAD_002549
+date: 2014-02-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.500099241733551
+TEXT:
+HealthMedica Inc., launches nationwide network of 75 Longevity Medical Centers across 15 states and 25 major US ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1104
+sample_id: SP500_HEAD_006408
+date: 2018-12-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8157650232315063
+TEXT:
+Dow soars 1,086 points in a miraculous comeback
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1105
+sample_id: SP500_HEAD_000256
+date: 2010-01-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9347084164619446
+TEXT:
+The Financial Scene: Cortland and Associates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1106
+sample_id: SP500_HEAD_008782
+date: 2020-12-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9056726098060608
+TEXT:
+S&P 500 CY 2021 Earnings Preview: Largest YoY Earnings Growth Since 2010
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1107
+sample_id: SP500_HEAD_006336
+date: 2018-12-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5420397520065308
+TEXT:
+George HW Bush presided over the third-best S&P stock market return for a GOP president since 1923
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1108
+sample_id: SP500_HEAD_005222
+date: 2017-06-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8622651100158691
+TEXT:
+Energy and healthcare dominate the list of top companies ranked by revenue per employee
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1109
+sample_id: SP500_HEAD_002138
+date: 2013-08-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9232118725776672
+TEXT:
+Wall St slips for third day on Fed uncertainty
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1110
+sample_id: SP500_HEAD_011828
+date: 2022-10-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7442814111709595
+TEXT:
+Are We Heading Into Another ‘Lost Decade’ Of Investing?
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 080
+Rows: 790 - 799
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0791
+sample_id: SP500_HEAD_004945
+date: 2017-01-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8563321232795715
+TEXT:
+President Obama made one of history's greatest stock market calls in March 2009
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0792
+sample_id: SP500_HEAD_014327
+date: 2023-06-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7680532932281494
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500: Dow Jones Surges Over 350 Points, S&P 500 Hits 13-Month High
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0793
+sample_id: SP500_HEAD_014705
+date: 2023-07-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9381036162376404
+TEXT:
+S&P 500 (SPY) ETF: What's on the Horizon? - TipRanks.com
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0794
+sample_id: SP500_HEAD_017556
+date: 2024-02-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8344355225563049
+TEXT:
+Wall Street marks a milestone as the S&P 500 closes above 5,000 for the first time
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0795
+sample_id: SP500_HEAD_014801
+date: 2023-07-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5927760601043701
+TEXT:
+Wall St Week Ahead Relentless U.S. stock rally faces Fed test
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0796
+sample_id: SP500_HEAD_017125
+date: 2024-01-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8427782654762268
+TEXT:
+5 Dividend ETFs That Beat S&P 500 in 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0797
+sample_id: SP500_HEAD_016380
+date: 2023-11-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9066852927207947
+TEXT:
+Rare stock-market event? Here's how many times the S&P 500 has seen a 9-day winning streak in the last 95 years.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0798
+sample_id: SP500_HEAD_008292
+date: 2020-08-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5723100900650024
+TEXT:
+US stocks join global rally amid COVID treatment hopes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0799
+sample_id: SP500_HEAD_007498
+date: 2020-02-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9500007033348083
+TEXT:
+U.S. Stocks Plunge as Coronavirus Crisis Spreads
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0800
+sample_id: SP500_HEAD_000944
+date: 2011-12-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8777713775634766
+TEXT:
+Spotify founder: I’m not music industry’s savior
+

@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 066
+Rows: 3250 - 3299
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03251
+date: 2007-02-26 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.723691999912262
+TEXT:
+wellpoint names general counsel as next ceo
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03252
+date: 2006-12-13 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5300095081329346
+TEXT:
+google to form private market for employee options
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03253
+date: 2006-11-17 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8475311398506165
+TEXT:
+aig says two subsidiaries receive subpoenas
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03254
+date: 2007-03-13 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9066817760467528
+TEXT:
+activity heats up in possible chrysler sale report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03255
+date: 2006-11-11 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8408859968185425
+TEXT:
+new fantasy soap league presents drama as sport
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03256
+date: 2007-02-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9147982001304626
+TEXT:
+volvo says to take over nissan diesel for $1.1 billion
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03257
+date: 2007-01-09 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6246511340141296
+TEXT:
+cisco expects apple agreement on iphone trademark
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03258
+date: 2007-01-26 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7859362959861755
+TEXT:
+lifting the lid-research firm hunts for clues in insider sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03259
+date: 2007-01-18 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.884324848651886
+TEXT:
+consumer prices climb in december
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03260
+date: 2007-01-23 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9327871203422546
+TEXT:
+disney not interested in endemol stake source
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03261
+date: 2007-01-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5582398772239685
+TEXT:
+amr raises $503 mln with share issue, stock tumbles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03262
+date: 2007-02-13 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9378357529640198
+TEXT:
+marshmclennan earnings soar, stock stumbles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03263
+date: 2007-03-05 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.4580358564853668
+TEXT:
+russia denies foot-dragging in wto entry talks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03264
+date: 2007-04-17 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.840781033039093
+TEXT:
+fannie, freddie to offer subprime aid prepared text
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03265
+date: 2007-02-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5441797375679016
+TEXT:
+chronology-south koreas major financial scandals
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03266
+date: 2007-03-26 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.955312728881836
+TEXT:
+walgreen net up on prescription, holiday sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03267
+date: 2007-02-23 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5932253003120422
+TEXT:
+bp says settles more lawsuits over texas blast
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03268
+date: 2007-04-20 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9325183629989624
+TEXT:
+dollar edges higher as stocks rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03269
+date: 2007-03-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.97395122051239
+TEXT:
+durable goods weaker than expected
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03270
+date: 2006-11-02 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8813502788543701
+TEXT:
+smith nephew in early tie-up talks with biomet
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03271
+date: 2006-10-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.900390625
+TEXT:
+max re says ceo quits, to downgrade past profit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03272
+date: 2007-02-12 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9721160531044006
+TEXT:
+oil prices tumble on saudi comments
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03273
+date: 2007-02-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9134097695350648
+TEXT:
+feds plosser says more tightening may be needed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03274
+date: 2007-05-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6485601663589478
+TEXT:
+buffett stays on message, and shareholders like it
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03275
+date: 2007-01-30 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9524957537651062
+TEXT:
+pg quarterly profit jumps, year view raised
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03276
+date: 2007-01-29 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9518222808837892
+TEXT:
+phelps dodge profit soars on strong copper prices
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03277
+date: 2006-11-27 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.95340758562088
+TEXT:
+acs says ceo, cfo resign after options probe
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03278
+date: 2006-12-04 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5429115891456604
+TEXT:
+bank of new york to buy mellon for $16.5 billion
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03279
+date: 2007-02-13 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.848835825920105
+TEXT:
+chrysler to close 2 plants in q3 2008 magazine
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03280
+date: 2006-12-12 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.750971257686615
+TEXT:
+u.s. trade gap in oct narrows most in 5 years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03281
+date: 2007-03-13 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5796899795532227
+TEXT:
+judge halts sales of monsanto gmo alfalfa
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03282
+date: 2007-03-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9213655591011048
+TEXT:
+household wealth rises in 4th quarter
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03283
+date: 2007-03-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9020398259162904
+TEXT:
+private equity firms meet chrysler execs report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03284
+date: 2007-02-14 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6271501779556274
+TEXT:
+florida farmworkers take aim at mcdonalds
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03285
+date: 2006-11-02 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5221031904220581
+TEXT:
+ahold q3 sales edge up, u.s. asset sales expected
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03286
+date: 2006-12-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7485744953155518
+TEXT:
+verizon, partners to build us-china optical cable
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03287
+date: 2006-12-11 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9366544485092164
+TEXT:
+honeywell raises annual dividend by 10 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03288
+date: 2006-12-08 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6636048555374146
+TEXT:
+panel mixed over drug-coated stent label change
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03289
+date: 2007-01-02 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7328910827636719
+TEXT:
+florida tribe sued over hard rock takeover
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03290
+date: 2007-04-02 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.874108612537384
+TEXT:
+south korea, u.s. seal trade deal at last minute
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03291
+date: 2007-03-12 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9218804836273192
+TEXT:
+kkr buying dollar general for $6.9 bln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03292
+date: 2007-04-25 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.941906213760376
+TEXT:
+dow closes over 13,000
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03293
+date: 2007-02-14 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.936499297618866
+TEXT:
+coca-cola posts higher-than-expected profit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03294
+date: 2007-05-04 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5721322894096375
+TEXT:
+mutual funds becoming shareholder activists
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03295
+date: 2007-03-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9736081957817078
+TEXT:
+starbucks memo stirs unwarranted fears analysts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03296
+date: 2007-05-03 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.63135826587677
+TEXT:
+factbox key past and future dates in the battle for abn
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03297
+date: 2006-11-29 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8532764911651611
+TEXT:
+revlon sets equity offer, refinancing credit deal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03298
+date: 2006-11-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9710785746574402
+TEXT:
+stocks fall on weak data, tech shares lead slide
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03299
+date: 2006-12-21 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9746145606040956
+TEXT:
+gdp growth revised down on housing slump
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03300
+date: 2007-01-13 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8791962265968323
+TEXT:
+opec consulting on emergency meeting-algeria
+

@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 062
+Rows: 3050 - 3099
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03051
+date: 2007-01-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5771844387054443
+TEXT:
+tyco split could be lucrative for investors report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03052
+date: 2007-01-18 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9727495908737184
+TEXT:
+housing slump spurs u.s. building-products layoffs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03053
+date: 2006-11-09 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9391477704048156
+TEXT:
+genentech plans to buy tanox for about $919 mln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03054
+date: 2007-03-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9043352007865906
+TEXT:
+ford to pay bonus to all u.s., canadian employees
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03055
+date: 2006-10-24 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9620985984802246
+TEXT:
+jetblue posts narrow loss, reduces expansion
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03056
+date: 2007-01-17 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9481847882270812
+TEXT:
+jp morgan net surges 68 pct on investment banking
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03057
+date: 2007-02-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9753672480583192
+TEXT:
+sara lee posts quarterly loss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03058
+date: 2006-11-28 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6121479272842407
+TEXT:
+comcast starts offering wireless phone service
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03059
+date: 2006-11-17 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8641456365585327
+TEXT:
+sony playstation 3 debuts amid shopper frenzy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03060
+date: 2006-11-09 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.799075186252594
+TEXT:
+sony ps3 to launch gaming battle, profit elusive
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03061
+date: 2007-01-29 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6731367111206055
+TEXT:
+thailand approves copycat heart, hiv/aids drugs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03062
+date: 2007-03-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6834144592285156
+TEXT:
+cvs holders approve deal, caremark vote friday
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03063
+date: 2006-11-06 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8792291283607483
+TEXT:
+wyeth signs deal for drugs from llamas
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03064
+date: 2007-02-27 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5896608829498291
+TEXT:
+china rout may signal end to global risk-taking
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03065
+date: 2006-12-05 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8333997130393982
+TEXT:
+emc sees more investments in israel
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03066
+date: 2007-02-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9713653326034546
+TEXT:
+home depot sees lower 07 profit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03067
+date: 2006-11-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.941113531589508
+TEXT:
+canada stuns market with pledge to tax income trusts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03068
+date: 2007-02-22 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.949685275554657
+TEXT:
+coeur dalene quarterly profit more than doubles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03069
+date: 2007-03-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9151566028594972
+TEXT:
+corrected yahoo ceo granted 800,000 options for 2006 bonus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03070
+date: 2007-04-12 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8654869794845581
+TEXT:
+vonages ceo snyder steps down
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03071
+date: 2007-03-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.969253957271576
+TEXT:
+qantas bid in disarray as shareholder rejects offer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03072
+date: 2007-02-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9274792075157166
+TEXT:
+xm says sirius break-up fee $175 million
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03073
+date: 2006-12-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5975682139396667
+TEXT:
+toyota tops customer retention survey
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03074
+date: 2006-11-05 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8607320189476013
+TEXT:
+starwood capital building whitbread stake report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03075
+date: 2006-12-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8066340684890747
+TEXT:
+fidelitys own gifts probe seen softening sec blow
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03076
+date: 2006-11-22 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6672202944755554
+TEXT:
+citadel, walt disney modify abc radio merger deal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03077
+date: 2007-03-20 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7186461091041565
+TEXT:
+peoples choice home loan files for chapter 11
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03078
+date: 2007-04-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9396926164627076
+TEXT:
+top russian minister defends oil, gas decisions ft
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03079
+date: 2007-04-16 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.749737024307251
+TEXT:
+sallie mae to sell itself in $25 billion lbo
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03080
+date: 2006-11-06 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6358559131622314
+TEXT:
+att identifies suspected pretexters of records
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03081
+date: 2006-11-06 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9251315593719482
+TEXT:
+lakshmi mittal takes over as ceo of arcelor mittal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03082
+date: 2006-12-06 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9370824098587036
+TEXT:
+rosneft to invest $20 billion to take on oil giants
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03083
+date: 2007-01-11 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8374236822128296
+TEXT:
+u.s. airways raises offer for delta to $10.3 bln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03084
+date: 2007-01-18 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9727871417999268
+TEXT:
+oil breaks below $50 on rising u.s. stockpiles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03085
+date: 2007-02-20 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7376275658607483
+TEXT:
+kraft hopes to hit its stride by 2009 shares fall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03086
+date: 2006-10-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.940514087677002
+TEXT:
+icbc shares rise in hk, shanghai after record ipo
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03087
+date: 2007-04-13 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7640804648399353
+TEXT:
+bonuses aplenty for ceos study
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03088
+date: 2006-12-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7465829253196716
+TEXT:
+airline chiefs press congress on usair merger bid
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03089
+date: 2007-02-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.949461042881012
+TEXT:
+disney profit more than doubles on dvds, e stake sale
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03090
+date: 2007-01-29 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5149906277656555
+TEXT:
+atheros enters bluetooth chip market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03091
+date: 2006-11-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5322023034095764
+TEXT:
+bid-target itv poaches bbc boss michael grade
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03092
+date: 2006-11-09 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5972816944122314
+TEXT:
+3m sells drug unit for $2.1 billion in 3-part deal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03093
+date: 2007-01-27 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7143355011940002
+TEXT:
+lamy trade ministers agree to resume wto talks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03094
+date: 2007-02-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.967944085597992
+TEXT:
+bush seeks sallie mae, other student lender cuts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03095
+date: 2006-11-17 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9563485980033876
+TEXT:
+oil bull run intact after rout, opec takes stock
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03096
+date: 2007-01-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5429874062538147
+TEXT:
+feds lacker inflation is main risk to u.s. economy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03097
+date: 2007-04-18 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.692598283290863
+TEXT:
+u.s. lawmakers launch move to overhaul patent system
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03098
+date: 2006-11-01 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8900632858276367
+TEXT:
+flaherty doubts bce, telus to go ahead as trusts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03099
+date: 2007-02-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.975819170475006
+TEXT:
+u.s. manufacturing slows unexpectedly in jan ism
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_03100
+date: 2007-02-02 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6598563194274902
+TEXT:
+apple says u.s. govt sought options info-filing
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 112
+Rows: 1110 - 1119
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1111
+sample_id: SP500_HEAD_013360
+date: 2023-03-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8609777092933655
+TEXT:
+U.S. stocks end higher, S&P 500 books back-to-back weekly gains despite bank jitters spurred by Deutsche Bank
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1112
+sample_id: SP500_HEAD_003945
+date: 2015-10-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8439005017280579
+TEXT:
+Is It Time To Short The S&P 500 (SPY) For A Trade?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1113
+sample_id: SP500_HEAD_010283
+date: 2022-01-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.965573251247406
+TEXT:
+We still expect a 20% correction in the S&P 500, says Dan Niles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1114
+sample_id: SP500_HEAD_015122
+date: 2023-08-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5636640191078186
+TEXT:
+U.S. stock futures pause ahead of PPI, sentiment data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1115
+sample_id: SP500_HEAD_001270
+date: 2012-05-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8007581830024719
+TEXT:
+Stocks for the Long Run: ExxonMobil vs. the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1116
+sample_id: SP500_HEAD_001538
+date: 2012-10-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8200137615203857
+TEXT:
+S&P 500 VIX Predicts Australian Dollar Could Turn Lower
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1117
+sample_id: SP500_HEAD_006423
+date: 2018-12-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5248807072639465
+TEXT:
+A reason for hope: Back-to-back down years for the stock market are rare
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1118
+sample_id: SP500_HEAD_008618
+date: 2020-11-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8985666632652283
+TEXT:
+Stocks Versus Gold: Which Is A Better Investment? The Answer May Surprise You
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1119
+sample_id: SP500_HEAD_006406
+date: 2018-12-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6195099353790283
+TEXT:
+6 factors that fueled the stock market dive in 2018
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1120
+sample_id: SP500_HEAD_011192
+date: 2022-06-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9304167032241821
+TEXT:
+Reasons To Include International Investments In Your Portfolio
+

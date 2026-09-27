@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 036
+Rows: 350 - 359
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0351
+sample_id: SP500_HEAD_000863
+date: 2011-10-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7303845882415771
+TEXT:
+Olympus Chairman to step down amid public row
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0352
+sample_id: SP500_HEAD_007007
+date: 2019-09-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7904393076896667
+TEXT:
+Index Fund Investment Strategy: Michael Burry Warns of Bubble
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0353
+sample_id: SP500_HEAD_001147
+date: 2012-03-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9041361808776855
+TEXT:
+Energy giant struggles to contain offshore gas leak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0354
+sample_id: SP500_HEAD_017336
+date: 2024-01-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8254979848861694
+TEXT:
+Nvidia and Big Tech are still the driving forces for the market, bringing S&P 500 back to record levels
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0355
+sample_id: SP500_HEAD_014851
+date: 2023-07-25 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9218969941139221
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for July 26
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0356
+sample_id: SP500_HEAD_013955
+date: 2023-05-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9217588901519775
+TEXT:
+Investing Club mailbag: How to use Jim Cramer's trusted S&P Oscillator to interpret market swings before investing
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0357
+sample_id: SP500_HEAD_005969
+date: 2018-06-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9114787578582764
+TEXT:
+Friday Fun Fact: The Birth of Stock Index Futures
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0358
+sample_id: SP500_HEAD_008283
+date: 2020-08-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6159999966621399
+TEXT:
+A strategy to outsmart the S&P 500 ‘bubble’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0359
+sample_id: SP500_HEAD_000869
+date: 2011-10-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9335281252861023
+TEXT:
+Market Report - Oct. 31, 2011 - CNNMoney
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0360
+sample_id: SP500_HEAD_000292
+date: 2010-04-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8745566010475159
+TEXT:
+TSX drops as worries deepen about EU debt crisis
+

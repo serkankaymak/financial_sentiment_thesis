@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 066
+Rows: 650 - 659
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0651
+sample_id: SP500_HEAD_000174
+date: 2009-06-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.942864179611206
+TEXT:
+Stocks mostly fall on bank ratings, FedEx warning
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0652
+sample_id: SP500_HEAD_002824
+date: 2014-06-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9249229431152344
+TEXT:
+10 years to extinction: S&P 500 companies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0653
+sample_id: SP500_HEAD_014436
+date: 2023-06-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8780902028083801
+TEXT:
+Stocks tumble on Friday, Nasdaq snaps eight-week winning streak: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0654
+sample_id: SP500_HEAD_013023
+date: 2023-03-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7250944972038269
+TEXT:
+The Recession Debate Pits CEOs and Economists Against Equity Analysts and Investors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0655
+sample_id: SP500_HEAD_005085
+date: 2017-04-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8487780094146729
+TEXT:
+Facing criticism, PBMs may be downplaying profit margins
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0656
+sample_id: SP500_HEAD_008082
+date: 2020-06-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8760684728622437
+TEXT:
+Stock market live Monday: Market finishes at session high, Dow up 580, S&P 500 goes positive for June
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0657
+sample_id: SP500_HEAD_005051
+date: 2017-03-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8493817448616028
+TEXT:
+The S&P 500's hidden $828 billion annual expenses
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0658
+sample_id: SP500_HEAD_016432
+date: 2023-11-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7904273867607117
+TEXT:
+Surge in real-estate stocks propels sector to best-performing in S&P 500 as bond yields fall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0659
+sample_id: SP500_HEAD_016448
+date: 2023-11-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6775251030921936
+TEXT:
+Markets News, Nov. 14, 2023: Nasdaq Surges to 3-Month High, Bond Yields Sink on Easing Inflation
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0660
+sample_id: SP500_HEAD_010645
+date: 2022-04-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5274586081504822
+TEXT:
+Utilities, energy outperform other S&P 500 sectors in March
+

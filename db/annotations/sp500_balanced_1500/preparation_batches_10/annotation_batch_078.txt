@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 078
+Rows: 770 - 779
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0771
+sample_id: SP500_HEAD_008323
+date: 2020-08-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9384522438049316
+TEXT:
+Record Performance vs. EPS Estimates by S&P 500 Companies in Q2
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0772
+sample_id: SP500_HEAD_007889
+date: 2020-05-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8704964518547058
+TEXT:
+S&P 500 Technical Analysis: US Stocks Resuming Down Move?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0773
+sample_id: SP500_HEAD_012178
+date: 2022-12-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9274846315383911
+TEXT:
+Stock Market Will Get Worse In 2023 Before It Gets Better, JPMorgan Says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0774
+sample_id: SP500_HEAD_007886
+date: 2020-05-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9441630244255066
+TEXT:
+How to Buy the SPDR S&P 500 ETF on eToro? eToro Trading Guide
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0775
+sample_id: SP500_HEAD_011254
+date: 2022-06-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9112557172775269
+TEXT:
+Wells Fargo: Here's The Best Asset To Own When Inflation Strikes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0776
+sample_id: SP500_HEAD_000831
+date: 2011-10-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.4806612730026245
+TEXT:
+David Buik: Let Europe’s weak banks be swept up – or fail
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0777
+sample_id: SP500_HEAD_016061
+date: 2023-10-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9315339922904968
+TEXT:
+Bond yields hit new highs, pressuring S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0778
+sample_id: SP500_HEAD_016411
+date: 2023-11-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5801994800567627
+TEXT:
+Active vs passive: concentrated markets swing the pendulum back in favour of active
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0779
+sample_id: SP500_HEAD_009891
+date: 2021-11-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.858331561088562
+TEXT:
+Wall St Week Ahead Investors bet on second wind for lagging U.S. small caps
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0780
+sample_id: SP500_HEAD_000641
+date: 2011-06-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9173229336738586
+TEXT:
+Worst-performing stocks of 2011 - #7 RadioShack (4) - CNNMoney
+

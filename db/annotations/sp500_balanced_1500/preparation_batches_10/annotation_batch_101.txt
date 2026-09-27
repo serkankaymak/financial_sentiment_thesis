@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 101
+Rows: 1000 - 1009
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1001
+sample_id: SP500_HEAD_005400
+date: 2017-09-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7749385833740234
+TEXT:
+The growth imperative for medical-device companies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1002
+sample_id: SP500_HEAD_002527
+date: 2014-01-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8997675776481628
+TEXT:
+LNG Stock Chart: 3 Stocks Crushing the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1003
+sample_id: SP500_HEAD_002514
+date: 2014-01-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7241875529289246
+TEXT:
+South Korea spending $1.5 billion for ‘5G’ network
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1004
+sample_id: SP500_HEAD_009619
+date: 2021-09-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.4767763018608093
+TEXT:
+Dow closes more than 200 points higher, S&P 500 rebounds to stave off September slide
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1005
+sample_id: SP500_HEAD_007448
+date: 2020-02-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.608377993106842
+TEXT:
+Dow jumps 480 points, S&P 500 closes at record as market shakes off coronavirus fears
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1006
+sample_id: SP500_HEAD_002185
+date: 2013-08-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7271952033042908
+TEXT:
+Threat of military strike sends ripples through global oil market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1007
+sample_id: SP500_HEAD_005075
+date: 2017-03-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.870053231716156
+TEXT:
+Computer Sciences To Join S&P 500, Stock Jumps
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1008
+sample_id: SP500_HEAD_006431
+date: 2018-12-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9227126836776733
+TEXT:
+Stocks are down after a volatile year, but that's not the whole picture
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1009
+sample_id: SP500_HEAD_008399
+date: 2020-09-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9612590670585632
+TEXT:
+Stock picking has a terrible track record, and it’s getting worse
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1010
+sample_id: SP500_HEAD_017109
+date: 2023-12-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9673068523406982
+TEXT:
+Stock Market Today: S&P 500 ends slightly lower but posts 24% 2023 gain
+

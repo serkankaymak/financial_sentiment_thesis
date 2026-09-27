@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 076
+Rows: 750 - 759
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0751
+sample_id: SP500_HEAD_015846
+date: 2023-10-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.758895754814148
+TEXT:
+Finding Balance in US Equities as Macro Threats Mount
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0752
+sample_id: SP500_HEAD_007425
+date: 2020-01-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7007477879524231
+TEXT:
+Market reactions to past virus scares show stocks may have more to lose
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0753
+sample_id: SP500_HEAD_009787
+date: 2021-10-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9074528813362122
+TEXT:
+Nasdaq and S&P 500 close at record highs, Ford jumps 8% as strong earnings boost stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0754
+sample_id: SP500_HEAD_014675
+date: 2023-07-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.92518550157547
+TEXT:
+US stocks: Wall Street returns to highest level in more than a year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0755
+sample_id: SP500_HEAD_006989
+date: 2019-08-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9378494024276733
+TEXT:
+Profiting From Trash: 3 Waste Management Stocks to Consider
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0756
+sample_id: SP500_HEAD_004905
+date: 2016-12-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.506766676902771
+TEXT:
+Here Are the Best and Worst Performing Assets of 2016
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0757
+sample_id: SP500_HEAD_008852
+date: 2021-01-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.4441263675689697
+TEXT:
+Not Even A Riot At The Capitol Can Keep Stocks Down As Dow, S&P 500 And NASDAQ Hit Record Highs—Again
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0758
+sample_id: SP500_HEAD_013417
+date: 2023-03-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8712342977523804
+TEXT:
+US stock market today: Dow Jones, S&P 500 hold on to the green; Nasdaq boosted by Intel, Microsoft, App...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0759
+sample_id: SP500_HEAD_005976
+date: 2018-06-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7220759987831116
+TEXT:
+This Day In Market History: Robert Brennan Fined For Securities Fraud
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0760
+sample_id: SP500_HEAD_014773
+date: 2023-07-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9598046541213989
+TEXT:
+US STOCKS-S&P 500, Nasdaq to open lower as Tesla, Netflix slump
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 035
+Rows: 340 - 349
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0341
+sample_id: SP500_HEAD_002647
+date: 2014-03-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7660328149795532
+TEXT:
+Historical Fact: March Triple Witching Sends S&P 500 Lower
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0342
+sample_id: SP500_HEAD_008267
+date: 2020-08-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8786433339118958
+TEXT:
+The S&P 500 finally hit a new record after multiple tries this month. Here's what could happen next
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0343
+sample_id: SP500_HEAD_002579
+date: 2014-02-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7420914769172668
+TEXT:
+Bank of America CEO gets 17% bump to $14 million
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0344
+sample_id: SP500_HEAD_017799
+date: 2024-02-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.940916895866394
+TEXT:
+State Street S&P 500 ETF doubles to $10bn since fee cut
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0345
+sample_id: SP500_HEAD_002436
+date: 2013-12-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.540012001991272
+TEXT:
+Africa’s super telescopes ‘will inspire science boom’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0346
+sample_id: SP500_HEAD_002732
+date: 2014-04-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8948593735694885
+TEXT:
+Google: Self-driving cars are mastering city streets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0347
+sample_id: SP500_HEAD_002129
+date: 2013-08-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5828118920326233
+TEXT:
+Rush Limbaugh: Tech bloggers ‘hate’ Apple
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0348
+sample_id: SP500_HEAD_002564
+date: 2014-02-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8687416911125183
+TEXT:
+McDonald’s breakthrough: Weird places to find the golden arches
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0349
+sample_id: SP500_HEAD_007647
+date: 2020-03-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9329557418823242
+TEXT:
+Stock market live Thursday: Dow tanks 2,300 in worst day since Black Monday, S&P 500 bear market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0350
+sample_id: SP500_HEAD_014987
+date: 2023-08-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.931157112121582
+TEXT:
+Stock Market Outlook: S&P 500 on Track for 28% Gain This Year
+

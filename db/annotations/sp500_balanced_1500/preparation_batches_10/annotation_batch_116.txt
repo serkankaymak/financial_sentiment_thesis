@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 116
+Rows: 1150 - 1159
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1151
+sample_id: SP500_HEAD_007961
+date: 2020-05-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.803607165813446
+TEXT:
+Top CEOs' pay tops $12.3 million. Can that continue after the coronavirus?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1152
+sample_id: SP500_HEAD_010442
+date: 2022-02-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9469271302223206
+TEXT:
+S&P 500 Plunges to Nine-Month Low as Russia Invades Ukraine
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1153
+sample_id: SP500_HEAD_013155
+date: 2023-03-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5705571174621582
+TEXT:
+Preowned Rolex, AP, Patek watch investments top S&P return over past 5 years, report says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1154
+sample_id: SP500_HEAD_017492
+date: 2024-02-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.43483418226242065
+TEXT:
+S&P 500: Buying Monday's Breakout Was a Mistake
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1155
+sample_id: SP500_HEAD_000390
+date: 2010-10-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.88813316822052
+TEXT:
+Trading software sparked flash crash, report says - Oct. 1, 2010
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1156
+sample_id: SP500_HEAD_013274
+date: 2023-03-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5759779810905457
+TEXT:
+Big changes in the S&P 500 Friday highlight the power of index providers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1157
+sample_id: SP500_HEAD_016429
+date: 2023-11-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5980211496353149
+TEXT:
+Stock Market Rallies After CPI Inflation Report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1158
+sample_id: SP500_HEAD_008395
+date: 2020-09-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5959312915802002
+TEXT:
+Unbeatable Overnight Gains Fuel Theories on Who's Driving Them
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1159
+sample_id: SP500_HEAD_014315
+date: 2023-06-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.932959794998169
+TEXT:
+The 7 companies driving the U.S. stock market rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1160
+sample_id: SP500_HEAD_014083
+date: 2023-05-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6478618383407593
+TEXT:
+Just 5 stocks including Nvidia account for 96% of the S&P 500's gains this year
+

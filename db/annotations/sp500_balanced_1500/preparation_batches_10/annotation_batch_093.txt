@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 093
+Rows: 920 - 929
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0921
+sample_id: SP500_HEAD_015571
+date: 2023-09-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8751972317695618
+TEXT:
+Markets News, Sept. 13, 2023: Dow Slips, Nasdaq Gains After Core Inflation Accelerated in August
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0922
+sample_id: SP500_HEAD_007601
+date: 2020-03-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5859588384628296
+TEXT:
+Economy Faces 'Tornado-Like Headwind' as Financial Markets Spiral (Published 2020)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0923
+sample_id: SP500_HEAD_008962
+date: 2021-02-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6944701671600342
+TEXT:
+5 Reasons S&P 500 Index Funds Are Perfect for New Investors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0924
+sample_id: SP500_HEAD_017766
+date: 2024-02-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6816057562828064
+TEXT:
+Nvidia earnings toss S&P 500 to new high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0925
+sample_id: SP500_HEAD_011723
+date: 2022-09-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7833107709884644
+TEXT:
+US Stocks Approach Crucial Test of How Far Bear Market Will Go
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0926
+sample_id: SP500_HEAD_015300
+date: 2023-08-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7312440872192383
+TEXT:
+US Indices’ Upside Could be Capped: S&P 500, Nasdaq Price Setups
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0927
+sample_id: SP500_HEAD_015715
+date: 2023-09-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5313510298728943
+TEXT:
+Stock market outlook: Why Nobel winner Robert Shiller's CAPE metric sees S&P 500 heading below 3,000
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0928
+sample_id: SP500_HEAD_007368
+date: 2020-01-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8001990914344788
+TEXT:
+IEEFA update: Oil and gas stocks place dead last in 2019, again, despite 30% price rise
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0929
+sample_id: SP500_HEAD_005456
+date: 2017-10-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6753715872764587
+TEXT:
+Nobel Prize winner Thaler helps run a fund that’s nearly doubled the S&P since the bull market began
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0930
+sample_id: SP500_HEAD_012203
+date: 2022-12-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9660167098045349
+TEXT:
+Equity Predictions for 2023 Look Negative, and Are Probably Correct
+

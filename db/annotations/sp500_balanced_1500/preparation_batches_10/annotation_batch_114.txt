@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 114
+Rows: 1130 - 1139
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1131
+sample_id: SP500_HEAD_001224
+date: 2012-05-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9704013466835022
+TEXT:
+The Greek Stock Market Has Now Fallen Over 88%
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1132
+sample_id: SP500_HEAD_016581
+date: 2023-11-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9447874426841736
+TEXT:
+Nasdaq-100 outperforms S&P 500 with robust returns
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1133
+sample_id: SP500_HEAD_001601
+date: 2012-11-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7150671482086182
+TEXT:
+Samsung Galaxy S III dethrones iPhone as world’s top seller
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1134
+sample_id: SP500_HEAD_007183
+date: 2019-11-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9749431610107422
+TEXT:
+S&P 500 Consumer Staples index inches down in October
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1135
+sample_id: SP500_HEAD_016371
+date: 2023-11-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.895211398601532
+TEXT:
+Stock Market News Today: S&P 500 Looks to Notch 9-Day Win Streak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1136
+sample_id: SP500_HEAD_009527
+date: 2021-08-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7150014042854309
+TEXT:
+Women's Gains Push Majority of S&P 500 Boards Into the 30% Club
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1137
+sample_id: SP500_HEAD_012868
+date: 2023-02-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.914644181728363
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for Feb. 16
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1138
+sample_id: SP500_HEAD_016067
+date: 2023-10-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8298872113227844
+TEXT:
+Tom Lee highlights top picks in his winning portfolio beating S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1139
+sample_id: SP500_HEAD_014428
+date: 2023-06-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9532485008239746
+TEXT:
+BofA Says Investors Are Fleeing Tech Stocks After 'Baby Bubble'
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1140
+sample_id: SP500_HEAD_009096
+date: 2021-03-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.47793227434158325
+TEXT:
+S&P 500 closes at a record, Dow jumps 450 points as stocks rally in the final minutes of trading
+

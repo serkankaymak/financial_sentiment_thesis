@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 083
+Rows: 820 - 829
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0821
+sample_id: SP500_HEAD_011478
+date: 2022-08-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8151721358299255
+TEXT:
+BofA Quants Say a Winning Stock Signal Is Bad Omen for Bulls
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0822
+sample_id: SP500_HEAD_013887
+date: 2023-05-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.907360315322876
+TEXT:
+Sell in May and Go Away? Sure. Just Not These Stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0823
+sample_id: SP500_HEAD_005253
+date: 2017-06-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7768710851669312
+TEXT:
+S&P 500; 6-months divergence continues here!
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0824
+sample_id: SP500_HEAD_012774
+date: 2023-02-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9076197147369385
+TEXT:
+S&P 500 Poised for Short-Term Gains but Long-Term Challenges Loom
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0825
+sample_id: SP500_HEAD_009903
+date: 2021-11-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8887073993682861
+TEXT:
+How to avoid the world's second biggest economy in your portfolio
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0826
+sample_id: SP500_HEAD_017551
+date: 2024-02-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6667227149009705
+TEXT:
+S&P 500 hovers near 5,000-mark with earnings, jobs data in focus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0827
+sample_id: SP500_HEAD_016202
+date: 2023-10-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8633708357810974
+TEXT:
+Markets News, Oct. 30, 2023: Stocks Rise; Dow Notches Best Day Since June To Kick Off Earnings, Fed Week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0828
+sample_id: SP500_HEAD_009835
+date: 2021-11-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9331499934196472
+TEXT:
+Fundstrat's Tom Lee predicts S&P 500 rising to 5000 next year in first look at 2022
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0829
+sample_id: SP500_HEAD_017532
+date: 2024-02-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5968430638313293
+TEXT:
+Stock Market Outlook: Why the S&P 500 Keeps Crushing Record Highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0830
+sample_id: SP500_HEAD_016805
+date: 2023-12-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.619857132434845
+TEXT:
+Citi strategists upbeat on US stocks in 2024, fueled by earnings
+

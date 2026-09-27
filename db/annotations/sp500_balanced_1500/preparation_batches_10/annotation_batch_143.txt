@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 143
+Rows: 1420 - 1429
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1421
+sample_id: SP500_HEAD_009869
+date: 2021-11-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.938631534576416
+TEXT:
+Morgan Stanley's Wilson Was 'Wrong' But Still Sees Lower S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1422
+sample_id: SP500_HEAD_016919
+date: 2023-12-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.749581515789032
+TEXT:
+S&P 500 posts longest weekly winning streak since 2017; ends flat on day
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1423
+sample_id: SP500_HEAD_011597
+date: 2022-09-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9169279336929321
+TEXT:
+S&P 500: 10 Companies Raise Their Juicy Dividends Like Crazy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1424
+sample_id: SP500_HEAD_008278
+date: 2020-08-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5849288702011108
+TEXT:
+Investors Shouldn't Abandon Stocks After S&P 500's Record High, UBS Says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1425
+sample_id: SP500_HEAD_001950
+date: 2013-05-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8799779415130615
+TEXT:
+Denise Scott Brown: Architecture favors ‘lone male genius’ over women
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1426
+sample_id: SP500_HEAD_016629
+date: 2023-11-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9410699605941772
+TEXT:
+Deutsche Bank sees 12% upside to S&P 500 through 2024-end
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1427
+sample_id: SP500_HEAD_013827
+date: 2023-05-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.885033369064331
+TEXT:
+F5, Linde and S&P Global Top the Second-Annual Fortune Modern Board 25 Ranking
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1428
+sample_id: SP500_HEAD_012906
+date: 2023-02-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8155000805854797
+TEXT:
+Luxury Swiss watches still beat stocks and crypto despite Rolex, Patek drop
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1429
+sample_id: SP500_HEAD_011076
+date: 2022-06-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6294933557510376
+TEXT:
+Despite Steady Gains, Procter & Gamble Stock Has Underperformed The S&P 500 Since 2018
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1430
+sample_id: SP500_HEAD_015755
+date: 2023-09-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9247742891311646
+TEXT:
+5 Global ETFs Beating S&P 500 in the First Nine Months of 2023
+

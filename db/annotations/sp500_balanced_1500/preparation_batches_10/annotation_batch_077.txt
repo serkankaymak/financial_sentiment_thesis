@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 077
+Rows: 760 - 769
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0761
+sample_id: SP500_HEAD_013732
+date: 2023-05-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.932266116142273
+TEXT:
+US stock market: Dow Jones, Nasdaq slip after First Republic Bank takeover
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0762
+sample_id: SP500_HEAD_002909
+date: 2014-07-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6366525888442993
+TEXT:
+Introducing the world’s next tallest building – which also cleans the air
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0763
+sample_id: SP500_HEAD_015674
+date: 2023-09-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9199728965759277
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for September 22
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0764
+sample_id: SP500_HEAD_016149
+date: 2023-10-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8848230242729187
+TEXT:
+S&P 500 (SPX), Dow Jones (DJI), Nasdaq Composite (IXIC) Daily Technical Outlook: Tech Woes Stir Markets, Industrial Average Teeters
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0765
+sample_id: SP500_HEAD_017348
+date: 2024-01-19 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5410948395729065
+TEXT:
+S&P 500 hits record as technology rally pushes stocks higher
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0766
+sample_id: SP500_HEAD_005983
+date: 2018-06-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8256461024284363
+TEXT:
+Bristol-Myers Stock May Rebound 9% Short Term
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0767
+sample_id: SP500_HEAD_017568
+date: 2024-02-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5480949282646179
+TEXT:
+S&P 500 Cracks 5,000 Points, but Stellar Returns May Not Continue
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0768
+sample_id: SP500_HEAD_004376
+date: 2016-04-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9218000173568726
+TEXT:
+Wall Street flat as earnings fail to excite investors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0769
+sample_id: SP500_HEAD_011152
+date: 2022-06-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7176153659820557
+TEXT:
+For Signs Of Relief Rally, Watch the S&P 500 versus Retail Stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0770
+sample_id: SP500_HEAD_012246
+date: 2022-12-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.4759843945503235
+TEXT:
+VIX Fell Into a Death Cross. That's Usually Good for the S&P 500
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 087
+Rows: 860 - 869
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0861
+sample_id: SP500_HEAD_014957
+date: 2023-08-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9649709463119507
+TEXT:
+Wall St falls after mixed earnings, downbeat manufacturing data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0862
+sample_id: SP500_HEAD_004046
+date: 2015-11-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9328540563583374
+TEXT:
+US Dollar Likely to Strengthen versus Canadian Dollar
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0863
+sample_id: SP500_HEAD_010827
+date: 2022-05-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8106223940849304
+TEXT:
+This Wall Street legend has lived through every bear market since the 1950s. He says the one coming could hit the S&P 500 with a 30% loss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0864
+sample_id: SP500_HEAD_014885
+date: 2023-07-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8882201910018921
+TEXT:
+Wall Street Says the S&P 500 Is Headed Higher: 2 Unique Growth Stocks to Buy Now and Hold
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0865
+sample_id: SP500_HEAD_001197
+date: 2012-04-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9359684586524963
+TEXT:
+This week on ‘The Next List’: Jad Abumrad, the certifiable ‘genius’ from Radiolab
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0866
+sample_id: SP500_HEAD_013776
+date: 2023-05-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5139756202697754
+TEXT:
+Dow Jumps 500 Points As Apple Surges And Bank Stocks Rally—But Risk Of Market Accident Lingers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0867
+sample_id: SP500_HEAD_016357
+date: 2023-11-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8288112878799438
+TEXT:
+Analyst who forecast the S&P 500 correction has a new price target
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0868
+sample_id: SP500_HEAD_011584
+date: 2022-09-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8299561738967896
+TEXT:
+Jeremy Grantham Bets 10 Stocks Will Protect Him From 'Superbubble'
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0869
+sample_id: SP500_HEAD_014313
+date: 2023-06-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8843798041343689
+TEXT:
+Lennar Stock Leads S&P 500 On Earnings Beat As Homebuyers Accept 'New Normal'
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0870
+sample_id: SP500_HEAD_002993
+date: 2014-08-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5516294836997986
+TEXT:
+Wall Street ends higher after Ukraine concerns ease
+

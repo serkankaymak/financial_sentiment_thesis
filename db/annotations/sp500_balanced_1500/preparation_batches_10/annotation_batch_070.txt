@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 070
+Rows: 690 - 699
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0691
+sample_id: SP500_HEAD_017095
+date: 2023-12-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9427483677864075
+TEXT:
+Stocks close out 2023 with a 24% gain, buoyed by a resilient economy
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0692
+sample_id: SP500_HEAD_013883
+date: 2023-05-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8875570893287659
+TEXT:
+7 Safe ETFs to Shield Your Portfolio From Market Turmoil
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0693
+sample_id: SP500_HEAD_003837
+date: 2015-08-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9452775120735168
+TEXT:
+Read This Before You Buy the SPDR S&P 500 ETF
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0694
+sample_id: SP500_HEAD_003460
+date: 2015-03-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9489603042602539
+TEXT:
+These stocks have gained 1,000%+ during bull run
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0695
+sample_id: SP500_HEAD_011848
+date: 2022-10-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6755746603012085
+TEXT:
+Cathie Wood Warns Against Extreme Fear Of Innovation Gripping The Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0696
+sample_id: SP500_HEAD_014771
+date: 2023-07-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.830583393573761
+TEXT:
+'Night effect' ETFs to shut down with overnight stock returns elusive
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0697
+sample_id: SP500_HEAD_013476
+date: 2023-04-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8686012625694275
+TEXT:
+Britain’s pound is beating every other major currency this year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0698
+sample_id: SP500_HEAD_014727
+date: 2023-07-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7019546031951904
+TEXT:
+Markets Week Ahead: Gold, EUR/USD, S&P 500 Break Out as USD Tanks; Tesla Earnings Eyed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0699
+sample_id: SP500_HEAD_008746
+date: 2020-12-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6537961363792419
+TEXT:
+Only Two S&P 500 Sectors Have A Rising ROIC Through 3Q20
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0700
+sample_id: SP500_HEAD_011834
+date: 2022-10-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8795055747032166
+TEXT:
+The stock market rarely produces average returns: Morning Brief
+

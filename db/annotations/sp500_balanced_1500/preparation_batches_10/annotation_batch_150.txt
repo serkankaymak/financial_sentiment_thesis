@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 150
+Rows: 1490 - 1499
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1491
+sample_id: SP500_HEAD_010078
+date: 2021-12-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8842861652374268
+TEXT:
+Stock Market Today: Dow Up 6 Straight Days, S&P Sets Another Record
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1492
+sample_id: SP500_HEAD_015953
+date: 2023-10-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9534873366355896
+TEXT:
+Nasdaq Index, Dow Jones, S&P 500 News: US Stocks Wobble as Inflation Data Stuns Markets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1493
+sample_id: SP500_HEAD_003161
+date: 2014-10-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9028429388999939
+TEXT:
+Global stocks jump on U.S. corporate results, bonds fall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1494
+sample_id: SP500_HEAD_006903
+date: 2019-07-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5475549697875977
+TEXT:
+After Fueling 195% Rally, Chipotle’s Mr. Fix-It Faces Test
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1495
+sample_id: SP500_HEAD_014943
+date: 2023-08-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8323779106140137
+TEXT:
+US stocks broadly rise in July; S&P 500 up 3.1%
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1496
+sample_id: SP500_HEAD_000356
+date: 2010-08-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.946452260017395
+TEXT:
+Classic car prices continue to rise, beat S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1497
+sample_id: SP500_HEAD_009004
+date: 2021-03-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9204023480415344
+TEXT:
+The sneaker market that is outperforming the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1498
+sample_id: SP500_HEAD_015469
+date: 2023-09-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6271058917045593
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500 News: A Cautious Pulse Reverberates Across Wall Street.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1499
+sample_id: SP500_HEAD_012548
+date: 2023-01-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.46442264318466187
+TEXT:
+The stock market is on the verge of a rare bullish trifecta that suggests big upside ahead
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1500
+sample_id: SP500_HEAD_003377
+date: 2015-01-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8708738684654236
+TEXT:
+Average 401(k) balance hits record $91,300
+

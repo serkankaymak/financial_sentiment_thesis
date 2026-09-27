@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 081
+Rows: 800 - 809
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0801
+sample_id: SP500_HEAD_016430
+date: 2023-11-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5015774965286255
+TEXT:
+Tame CPI Inflation In October Puts Rally Back In Gear
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0802
+sample_id: SP500_HEAD_009880
+date: 2021-11-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.46718502044677734
+TEXT:
+S&P 500 Is Almost At New Record High, Will The Uptrend Continue?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0803
+sample_id: SP500_HEAD_014390
+date: 2023-06-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6975916624069214
+TEXT:
+What Is The Great Recession? – Forbes Advisor
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0804
+sample_id: SP500_HEAD_004386
+date: 2016-04-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9220466613769531
+TEXT:
+Financial firm with 500 workers in metro Denver rebrands as S&P Global
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0805
+sample_id: SP500_HEAD_006596
+date: 2019-03-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9715530872344971
+TEXT:
+These seven stocks have done the worst in the 10-year bull market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0806
+sample_id: SP500_HEAD_014447
+date: 2023-06-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7186136245727539
+TEXT:
+Are investors ignoring the Federal Reserve’s warning?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0807
+sample_id: SP500_HEAD_010979
+date: 2022-05-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.886376678943634
+TEXT:
+Here's How Long It Takes For Stocks To Recover From Bear Markets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0808
+sample_id: SP500_HEAD_004980
+date: 2017-02-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.47806060314178467
+TEXT:
+Trump Tax Plan Seen More Wash Than Windfall for S&P 500 Earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0809
+sample_id: SP500_HEAD_013993
+date: 2023-05-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5374504923820496
+TEXT:
+S&P 500 has bottomed says indicator with a perfect track record
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0810
+sample_id: SP500_HEAD_003547
+date: 2015-04-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8698347210884094
+TEXT:
+Gold Prices May Be Topping, SPX 500 Locked in Trading Range
+

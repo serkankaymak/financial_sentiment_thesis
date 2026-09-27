@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 068
+Rows: 670 - 679
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0671
+sample_id: SP500_HEAD_014634
+date: 2023-07-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9603607654571533
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500: Futures Slide as Investors Brace for Inflation Data, Earnings Season
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0672
+sample_id: SP500_HEAD_016930
+date: 2023-12-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6807237267494202
+TEXT:
+Dow Jones at All-Time Highs; S&P 500, Nasdaq Bears Fail to Reverse Bull Trend
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0673
+sample_id: SP500_HEAD_013342
+date: 2023-03-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9270253777503967
+TEXT:
+NFO Alert: Axis Mutual Fund launches Axis S&P 500 ETF Fund of Fund; all you need to know | Mint
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0674
+sample_id: SP500_HEAD_005014
+date: 2017-02-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7266321778297424
+TEXT:
+Warren Buffett blasts hedge funds and high fees in annual letter
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0675
+sample_id: SP500_HEAD_000899
+date: 2011-11-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5538268685340881
+TEXT:
+Bill Miller to step down as fund manager - Nov. 17, 2011
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0676
+sample_id: SP500_HEAD_015015
+date: 2023-08-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7388052344322205
+TEXT:
+Dow Jones, S&P 500 Pullback May Accelerate as Retail Traders Become Bullish
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0677
+sample_id: SP500_HEAD_003974
+date: 2015-10-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6702768802642822
+TEXT:
+Insider trading charges dismissed against Michael Steinberg, 6 others
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0678
+sample_id: SP500_HEAD_011348
+date: 2022-07-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.630500853061676
+TEXT:
+When Performance Matters: Nasdaq-100® vs. S&P 500, Second Quarter '22
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0679
+sample_id: SP500_HEAD_007681
+date: 2020-03-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9582316279411316
+TEXT:
+Stock market news live: Coronavirus jitters send Dow swooning to worst-ever point loss, closes at near 3-year low
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0680
+sample_id: SP500_HEAD_017410
+date: 2024-01-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9577963352203369
+TEXT:
+SHARE BAZAR LIVE: Axis Bank results weaker than expected, S&P 500 closes at new record high
+

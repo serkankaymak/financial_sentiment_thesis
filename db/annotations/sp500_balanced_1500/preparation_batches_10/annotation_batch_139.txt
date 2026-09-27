@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 139
+Rows: 1380 - 1389
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1381
+sample_id: SP500_HEAD_000680
+date: 2011-07-25 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9333037734031677
+TEXT:
+Market Report - Jul. 25, 2011 - CNNMoney
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1382
+sample_id: SP500_HEAD_008942
+date: 2021-02-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8292325735092163
+TEXT:
+Are the S&P 500's Worst-Performing Stocks Ready to Surge in 2021?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1383
+sample_id: SP500_HEAD_010526
+date: 2022-03-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.962971568107605
+TEXT:
+Tech Giants Risk Losing Top S&P 500 Spots After $2 Trillion Wipeout
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1384
+sample_id: SP500_HEAD_013889
+date: 2023-05-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9343315362930298
+TEXT:
+Japanese Stocks Rallied Five Weeks In A Row After Warren Buffett's Bet, Outperforming A Nearly Flat S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1385
+sample_id: SP500_HEAD_014298
+date: 2023-06-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7016213536262512
+TEXT:
+Humana leads S&P 500 decliners after UnitedHealth says seniors are catching up on pandemic-delayed surgeries
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1386
+sample_id: SP500_HEAD_001543
+date: 2012-10-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8794991374015808
+TEXT:
+Inverse relationship between the VIX and S&P 500 grows even higher after financial crisis
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1387
+sample_id: SP500_HEAD_002166
+date: 2013-08-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.782272219657898
+TEXT:
+Zuckerberg’s Facebook page hacked to prove security flaw
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1388
+sample_id: SP500_HEAD_004121
+date: 2015-12-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9538626670837402
+TEXT:
+Wall Street suffers feeble end to turbulent 2015
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1389
+sample_id: SP500_HEAD_014206
+date: 2023-06-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9335180521011353
+TEXT:
+Goldman: S&P 500 is undervalued because of the AI boom
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1390
+sample_id: SP500_HEAD_006921
+date: 2019-07-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6159468293190002
+TEXT:
+How Weakness In The British Pound Could Impact S&P 500 Earnings
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 037
+Rows: 360 - 369
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0361
+sample_id: SP500_HEAD_004016
+date: 2015-11-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9085196256637573
+TEXT:
+Brooklyn Brewery: How a journalist became the king of beer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0362
+sample_id: SP500_HEAD_003117
+date: 2014-10-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8180258274078369
+TEXT:
+What's the Difference Between the Dow, S&P 500, and Nasdaq?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0363
+sample_id: SP500_HEAD_017078
+date: 2023-12-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7781693339347839
+TEXT:
+Wall Street ekes out modest gains as S&P 500 hovers near all-time closing high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0364
+sample_id: SP500_HEAD_005265
+date: 2017-06-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8987869024276733
+TEXT:
+Wall Street ends higher on technology, energy boost
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0365
+sample_id: SP500_HEAD_005990
+date: 2018-07-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8475595712661743
+TEXT:
+Tech sector contributed all of the stock market gains so far in 2018
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0366
+sample_id: SP500_HEAD_010543
+date: 2022-03-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9299895167350769
+TEXT:
+Explained: Can market concentration determine future returns? Take a look at S&P 500's past
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0367
+sample_id: SP500_HEAD_015750
+date: 2023-09-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9131389856338501
+TEXT:
+Warning signs suggest this year’s stock market rally is on shaky legs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0368
+sample_id: SP500_HEAD_000996
+date: 2012-01-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.71821528673172
+TEXT:
+‘Fear Rick’s Vest’: Santorum’s sweaters go viral
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0369
+sample_id: SP500_HEAD_013921
+date: 2023-05-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6939321756362915
+TEXT:
+Aggressive demand falters in S&P 500: Will a shakeout follow? [Video]
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0370
+sample_id: SP500_HEAD_014894
+date: 2023-07-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.846508264541626
+TEXT:
+S&P 500 and Nasdaq 100 Make Gains, While CAC40 Struggles
+

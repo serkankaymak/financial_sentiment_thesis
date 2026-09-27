@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 099
+Rows: 980 - 989
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0981
+sample_id: SP500_HEAD_010588
+date: 2022-03-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9515778422355652
+TEXT:
+Highest Number of S&P 500 Companies Issuing Negative EPS Guidance Since Q4 2019
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0982
+sample_id: SP500_HEAD_005999
+date: 2018-07-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9309489727020264
+TEXT:
+Vanguard: You'll make a lot less money in the stock market in the next 10 years—here's what you can do
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0983
+sample_id: SP500_HEAD_007014
+date: 2019-09-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.621249794960022
+TEXT:
+Leveraging a Growing Segment of Nasdaq-100 Funds
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0984
+sample_id: SP500_HEAD_012955
+date: 2023-02-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8457362055778503
+TEXT:
+The Stock Market Will Soar to Record Highs in 2024, Mike Wilson Says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0985
+sample_id: SP500_HEAD_017883
+date: 2024-03-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.846015453338623
+TEXT:
+S&P 500, Nasdaq close first March session with record highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0986
+sample_id: SP500_HEAD_017528
+date: 2024-02-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9501631855964661
+TEXT:
+S&P 500 closes at record as yields rise, dollar retreats
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0987
+sample_id: SP500_HEAD_014973
+date: 2023-08-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9686816930770874
+TEXT:
+S&P 500 books biggest drop since April after U.S. loses AAA ratings for a second time
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0988
+sample_id: SP500_HEAD_005883
+date: 2018-05-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8881875276565552
+TEXT:
+'Buy-and-hold' strategy beats 'sell in May and go away' trading slogan, report claims
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0989
+sample_id: SP500_HEAD_016786
+date: 2023-12-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.48248788714408875
+TEXT:
+S&P 500 notches new high for 2023 Friday, on six-week hot streak after solid economic data: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0990
+sample_id: SP500_HEAD_005281
+date: 2017-07-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6403123736381531
+TEXT:
+How Have The Best And Worst Stocks Of 2016 Performed In 2017?
+

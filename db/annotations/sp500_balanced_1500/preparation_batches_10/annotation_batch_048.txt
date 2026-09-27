@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 048
+Rows: 470 - 479
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0471
+sample_id: SP500_HEAD_010968
+date: 2022-05-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6430041790008545
+TEXT:
+Wall Street ends mixed after punishing week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0472
+sample_id: SP500_HEAD_008898
+date: 2021-01-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6262105107307434
+TEXT:
+US stocks close at new all-time highs on Biden’s inauguration day
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0473
+sample_id: SP500_HEAD_016477
+date: 2023-11-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9685922265052795
+TEXT:
+S&P 500 Gains and Losses Today: Cisco Systems Sinks as Orders Slow
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0474
+sample_id: SP500_HEAD_013398
+date: 2023-03-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9084665775299072
+TEXT:
+US stock market today: Dow Jones jumps over 100 pts, S&P 500, Nasdaq fail to keep up amid volatile day...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0475
+sample_id: SP500_HEAD_002645
+date: 2014-03-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6608154773712158
+TEXT:
+Virtual reality gets a new player with Sony’s ‘Project Morpheus’
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0476
+sample_id: SP500_HEAD_013167
+date: 2023-03-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9238330125808716
+TEXT:
+London fears for its future as companies defect to Wall Street
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0477
+sample_id: SP500_HEAD_011983
+date: 2022-11-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9087783694267273
+TEXT:
+Q3 Earnings Roundup & Sector Views – Global X ETFs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0478
+sample_id: SP500_HEAD_008506
+date: 2020-10-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9614808559417725
+TEXT:
+BlackRock S&P 500 fund is Europe's biggest equity ETF loser in third quarter
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0479
+sample_id: SP500_HEAD_008926
+date: 2021-01-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5310949683189392
+TEXT:
+Tesla Mutual Funds: Understanding TSLA's Addition to the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0480
+sample_id: SP500_HEAD_009023
+date: 2021-03-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9190307259559631
+TEXT:
+Should I Invest When The Market Is High? Dispelling The Buy Low, Sell High Myth
+

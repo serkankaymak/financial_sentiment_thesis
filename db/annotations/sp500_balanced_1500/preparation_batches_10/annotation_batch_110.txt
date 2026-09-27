@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 110
+Rows: 1090 - 1099
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1091
+sample_id: SP500_HEAD_005647
+date: 2018-01-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8397203087806702
+TEXT:
+US stock rally lifts Dow to first close above 26000 points
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1092
+sample_id: SP500_HEAD_010470
+date: 2022-03-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9193404316902161
+TEXT:
+UBS: How the S&P 500 will react to three Russia-Ukraine scenarios
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1093
+sample_id: SP500_HEAD_014760
+date: 2023-07-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7199702858924866
+TEXT:
+Short sellers avoid mega-cap stocks that drive market rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1094
+sample_id: SP500_HEAD_015812
+date: 2023-10-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8399091958999634
+TEXT:
+Dow loses more than 400 points and goes negative for 2023 as interest rates spike: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1095
+sample_id: SP500_HEAD_010145
+date: 2022-01-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.946994423866272
+TEXT:
+Gold will outperform the S&P 500 and bitcoin in 2022, Gareth Soloway predicts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1096
+sample_id: SP500_HEAD_017404
+date: 2024-01-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8996155261993408
+TEXT:
+Tech gains push S&P 500 to another record high this week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1097
+sample_id: SP500_HEAD_011288
+date: 2022-07-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8781934976577759
+TEXT:
+VOO vs. SPY vs. IVV: What’s The Best S&P 500 ETF In Singapore?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1098
+sample_id: SP500_HEAD_004152
+date: 2016-01-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8462054133415222
+TEXT:
+Buying this fashion status symbol is 'historically safer' than investing in the stock market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1099
+sample_id: SP500_HEAD_004939
+date: 2017-01-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7616607546806335
+TEXT:
+Multiple Seasonal Patterns Converge at 6-8% Full Year Gains
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1100
+sample_id: SP500_HEAD_007129
+date: 2019-10-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9098665118217468
+TEXT:
+Small cans lead to big sales for Coca-Cola
+

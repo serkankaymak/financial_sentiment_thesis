@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 053
+Rows: 520 - 529
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0521
+sample_id: SP500_HEAD_011451
+date: 2022-08-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8318885564804077
+TEXT:
+Out of the Woods? The S&P 500 Recovers 50% of Year's Drawdown
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0522
+sample_id: SP500_HEAD_015912
+date: 2023-10-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8138307332992554
+TEXT:
+S&P 500 & Nasdaq Rebound from Key Support; How Much More Upside?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0523
+sample_id: SP500_HEAD_011059
+date: 2022-06-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9322459101676941
+TEXT:
+11 Stocks Hold Up Best During Corrections (And 2 Even Gain)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0524
+sample_id: SP500_HEAD_006513
+date: 2019-01-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7223962545394897
+TEXT:
+‘Fatal Attraction’ was in theaters the last time the S&P 500 did this well in January
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0525
+sample_id: SP500_HEAD_014919
+date: 2023-07-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7399561405181885
+TEXT:
+Women Hold a Third of S&P 500 Boards Seats With Gains in June
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0526
+sample_id: SP500_HEAD_016420
+date: 2023-11-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8412839770317078
+TEXT:
+S&P 500 takes a pause ahead of U.S inflation data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0527
+sample_id: SP500_HEAD_013698
+date: 2023-04-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9203197956085205
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for April 21
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0528
+sample_id: SP500_HEAD_013808
+date: 2023-05-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8386000990867615
+TEXT:
+4 Magnificent ETFs to Buy Now That Are Proven Moneymakers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0529
+sample_id: SP500_HEAD_003622
+date: 2015-05-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8561752438545227
+TEXT:
+12 of the worst predictions about the global economy that intelligent people have ever made
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0530
+sample_id: SP500_HEAD_011731
+date: 2022-09-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8998632431030273
+TEXT:
+SPDR S&P 500 ETF Trust (SPY) News and Forecast: Turnaround Tuesday or pump and dump?
+

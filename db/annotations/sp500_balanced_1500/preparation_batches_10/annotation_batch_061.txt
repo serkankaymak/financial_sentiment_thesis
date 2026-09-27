@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 061
+Rows: 600 - 609
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0601
+sample_id: SP500_HEAD_004960
+date: 2017-01-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8240550756454468
+TEXT:
+Why Wall Street analysts almost never put 'sell' ratings on stocks they cover
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0602
+sample_id: SP500_HEAD_002665
+date: 2014-03-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.88155597448349
+TEXT:
+Discovery CEO David Zaslav Earned $33.3 Million In 2013
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0603
+sample_id: SP500_HEAD_009863
+date: 2021-11-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8447582125663757
+TEXT:
+The Best American Funds for 401(k) Retirement Savers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0604
+sample_id: SP500_HEAD_016911
+date: 2023-12-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.734439492225647
+TEXT:
+Why It's a Surprise the S&P 500 Is 8% Higher Now Than Before Fed Hikes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0605
+sample_id: SP500_HEAD_009772
+date: 2021-10-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7622718811035156
+TEXT:
+Stock Market News Today: S&P 500 on Track to End Six-Session Win Streak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0606
+sample_id: SP500_HEAD_002976
+date: 2014-08-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8824456930160522
+TEXT:
+How Turkey turned from emerging star to economic mess
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0607
+sample_id: SP500_HEAD_013432
+date: 2023-03-31 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8266713619232178
+TEXT:
+Stocks close higher Friday, Nasdaq notches best quarter since 2020: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0608
+sample_id: SP500_HEAD_008414
+date: 2020-09-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8217781782150269
+TEXT:
+As Crazy as It Sounds, the Stock Market Will Hit New Record Highs This Year: Analyst
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0609
+sample_id: SP500_HEAD_013234
+date: 2023-03-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.49226388335227966
+TEXT:
+NASDAQ Composite Outperforms Dow and S&P 500 as Markets Rally on Credit Suisse Assurance
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0610
+sample_id: SP500_HEAD_014858
+date: 2023-07-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6161237955093384
+TEXT:
+S&P 500 rally is showing signs of a bubble, selloff is coming - JPM
+

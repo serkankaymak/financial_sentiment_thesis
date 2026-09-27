@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 060
+Rows: 590 - 599
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0591
+sample_id: SP500_HEAD_002395
+date: 2013-11-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.957310676574707
+TEXT:
+Sprint falls to last in Consumer Reports rankings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0592
+sample_id: SP500_HEAD_006348
+date: 2018-12-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.805846095085144
+TEXT:
+A death cross for the S&P 500 highlights a stock market in tatters
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0593
+sample_id: SP500_HEAD_012673
+date: 2023-01-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9625990390777588
+TEXT:
+Looming Debt Crisis Might Turbocharge VXX
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0594
+sample_id: SP500_HEAD_016894
+date: 2023-12-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5644068717956543
+TEXT:
+Why this ‘anti-momentum’ ETF is back in favor with investors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0595
+sample_id: SP500_HEAD_010075
+date: 2021-12-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9182597994804382
+TEXT:
+Macro Asset: Bitcoin Trounces Gold, S&P 500, & More In 2021 | Bitcoinist.com
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0596
+sample_id: SP500_HEAD_012694
+date: 2023-01-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5837526917457581
+TEXT:
+Charts suggest the S&P 500 is nearing a ‘decisive’ moment, Jim Cramer says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0597
+sample_id: SP500_HEAD_010489
+date: 2022-03-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9696211814880371
+TEXT:
+S&P 500 Bearish Triangle May Lead To Additional 8% Decline!
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0598
+sample_id: SP500_HEAD_008688
+date: 2020-11-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8700492978096008
+TEXT:
+Markets Throw a Welcome Party of Sorts for Biden (Published 2020)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0599
+sample_id: SP500_HEAD_008874
+date: 2021-01-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9428934454917908
+TEXT:
+Most-shorted S&P 500 stock of 2020 surges, putting squeeze on short sellers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0600
+sample_id: SP500_HEAD_002701
+date: 2014-04-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9369287490844727
+TEXT:
+World stocks slide on weaker U.S. earnings outlook
+

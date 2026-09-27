@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 017
+Rows: 160 - 169
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0161
+sample_id: SP500_HEAD_013026
+date: 2023-03-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9700339436531067
+TEXT:
+S&P 500 sheds 2.6% in February as inflation, interest rate worries persist
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0162
+sample_id: SP500_HEAD_014171
+date: 2023-06-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.4941457211971283
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500: Mixed Trade Following Last Week’s Surge as Oil Prices Jump
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0163
+sample_id: SP500_HEAD_006051
+date: 2018-07-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8727625608444214
+TEXT:
+4 Vanguard Funds With a Record of Beating the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0164
+sample_id: SP500_HEAD_008848
+date: 2021-01-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6296380758285522
+TEXT:
+Stocks rally to record highs, Nasdaq closes above 13,000 for the first time
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0165
+sample_id: SP500_HEAD_015961
+date: 2023-10-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9241960644721985
+TEXT:
+Markets News, Oct. 13, 2023: Dow Gains, Nasdaq Sinks as Investors Flock to Safe Havens
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0166
+sample_id: SP500_HEAD_017477
+date: 2024-01-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9683646559715271
+TEXT:
+S&P 500 Gains and Losses Today: Index Falls as Fed Holds Interest Rates Steady
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0167
+sample_id: SP500_HEAD_011122
+date: 2022-06-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8043516278266907
+TEXT:
+S&P 500 Enters Bear Market With Help From the Fed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0168
+sample_id: SP500_HEAD_000885
+date: 2011-11-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.45772528648376465
+TEXT:
+Increased market volatility seems to be a myth
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0169
+sample_id: SP500_HEAD_011468
+date: 2022-08-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8176588416099548
+TEXT:
+Why stock market bulls are applauding the S&P 500's close above 4,231
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0170
+sample_id: SP500_HEAD_008873
+date: 2021-01-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9715879559516907
+TEXT:
+Stock market news live updates: Stocks fall for back-to-back sessions, S&P 500 posts weekly loss of more than 1%
+

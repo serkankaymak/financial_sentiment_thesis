@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 018
+Rows: 170 - 179
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0171
+sample_id: SP500_HEAD_011330
+date: 2022-07-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5916687250137329
+TEXT:
+Why GameStop Stock Is Outperforming the S&P 500 In 2022
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0172
+sample_id: SP500_HEAD_017847
+date: 2024-02-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8091813325881958
+TEXT:
+Nasdaq notches first record high close since 2021
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0173
+sample_id: SP500_HEAD_008337
+date: 2020-09-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.924262285232544
+TEXT:
+Want Stock Market Gains but Hate Risk? Buffer Annuities May Be for You
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0174
+sample_id: SP500_HEAD_008362
+date: 2020-09-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.775972843170166
+TEXT:
+Biggest ESG Funds Are Outpacing the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0175
+sample_id: SP500_HEAD_016322
+date: 2023-11-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9728399515151978
+TEXT:
+Stock Market Outlook: Dismal October Points to 6-Month Rally in S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0176
+sample_id: SP500_HEAD_012431
+date: 2023-01-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9610106348991394
+TEXT:
+Tesla shares suffer New Year's hangover on demand worries, delivery issues
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0177
+sample_id: SP500_HEAD_014838
+date: 2023-07-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6437426805496216
+TEXT:
+Stocks Rise To Kick Off Big Week of Earnings, Fed Decision
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0178
+sample_id: SP500_HEAD_006084
+date: 2018-08-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9135022759437561
+TEXT:
+Two Factors That Actually Predict S&P 500 Performance, And What They Show Today
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0179
+sample_id: SP500_HEAD_015807
+date: 2023-10-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9448456764221191
+TEXT:
+Utilities stocks 'decimated' by rising rates fall into uncommon trading territory, Bespoke chart shows
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0180
+sample_id: SP500_HEAD_008682
+date: 2020-11-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9303939938545227
+TEXT:
+Tesla hits $500 billion mark after soaring 547% this year
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 001
+Rows: 0 - 9
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0001
+sample_id: SP500_HEAD_000004
+date: 2008-01-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8616266846656799
+TEXT:
+U.S. Stocks Higher After Economic Data, Monsanto Outlook
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0002
+sample_id: SP500_HEAD_016918
+date: 2023-12-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8810731172561646
+TEXT:
+Stock Market Outlook 2024: Rare Bullish Signal Says S&P 500 Will Soar 20%
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0003
+sample_id: SP500_HEAD_013289
+date: 2023-03-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6254335641860962
+TEXT:
+Federal Reserve Rate Hike Odds Grow As Bank-Crisis Fears Ebb; S&P 500 Rises
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0004
+sample_id: SP500_HEAD_017167
+date: 2024-01-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9493247866630554
+TEXT:
+US Stock Market Closing: Dow Jones, S&P 500 Retreat As Traders Assess Fed Meeting Minutes, Nasdaq Plunges 1.2
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0005
+sample_id: SP500_HEAD_007040
+date: 2019-09-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9478024244308472
+TEXT:
+Deutsche Bank: S&P 500 13% Overvalued, Recession Coming
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0006
+sample_id: SP500_HEAD_017097
+date: 2023-12-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8902925848960876
+TEXT:
+Wall Street strategists’ bull and bear scenarios for 2024.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0007
+sample_id: SP500_HEAD_000654
+date: 2011-07-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.375736266374588
+TEXT:
+European stocks stable before US jobs data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0008
+sample_id: SP500_HEAD_005743
+date: 2018-02-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9330571293830872
+TEXT:
+Business News, Strategy, Finance and Corporate Insight
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0009
+sample_id: SP500_HEAD_014540
+date: 2023-07-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.809818685054779
+TEXT:
+S&P 500 to Finish Year Modestly Higher: Invesco's Hooper
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0010
+sample_id: SP500_HEAD_009121
+date: 2021-03-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6620614528656006
+TEXT:
+Low Oil Demand Weighing On Helmerich & Payne Stock
+

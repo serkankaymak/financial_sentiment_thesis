@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 044
+Rows: 430 - 439
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0431
+sample_id: SP500_HEAD_000523
+date: 2011-04-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7958304286003113
+TEXT:
+Stocks Edge Higher On Deals, Commodities Prices - CBS Los Angeles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0432
+sample_id: SP500_HEAD_016167
+date: 2023-10-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9210180044174194
+TEXT:
+US Indices Beginning to Look Vulnerable; S&P 500, Nasdaq, Dow Price Setups
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0433
+sample_id: SP500_HEAD_006820
+date: 2019-06-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7007293105125427
+TEXT:
+8 Beaten Down Blue Chips with Upside as S&P 500 Nears Record
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0434
+sample_id: SP500_HEAD_014026
+date: 2023-05-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9600166082382202
+TEXT:
+Stock market drop over debt ceiling could begin within days, experts said
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0435
+sample_id: SP500_HEAD_009067
+date: 2021-03-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8247835040092468
+TEXT:
+What Happens to Stocks Added to the Nasdaq-100?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0436
+sample_id: SP500_HEAD_010438
+date: 2022-02-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6069612503051758
+TEXT:
+LIVE MARKETS S&P 500 valuations starting to look not half bad
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0437
+sample_id: SP500_HEAD_005833
+date: 2018-04-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8149251341819763
+TEXT:
+Research suggests female CEOs outearn their male peers—but it's not that simple
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0438
+sample_id: SP500_HEAD_015602
+date: 2023-09-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9605628848075867
+TEXT:
+Wall Street ends sharply lower as chipmakers and megacaps slide
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0439
+sample_id: SP500_HEAD_015946
+date: 2023-10-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5904164910316467
+TEXT:
+U.S. stocks snap 4-day winning streak as Treasury yields climb after inflation data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0440
+sample_id: SP500_HEAD_009175
+date: 2021-04-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9006284475326538
+TEXT:
+All Correlations Go to 1 in a Crisis: Cattle Crush Spread during COVID-19 - PAER Report
+

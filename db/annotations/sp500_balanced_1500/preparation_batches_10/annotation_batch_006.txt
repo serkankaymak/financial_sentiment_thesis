@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 006
+Rows: 50 - 59
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0051
+sample_id: SP500_HEAD_004207
+date: 2016-02-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8610389828681946
+TEXT:
+Gold vs. S&P 500 Comes Full Circle | Gold News
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0052
+sample_id: SP500_HEAD_017346
+date: 2024-01-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8572098016738892
+TEXT:
+S&P 500: Don't Let Valuations, New Record Worry You
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0053
+sample_id: SP500_HEAD_003452
+date: 2015-03-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9469296336174011
+TEXT:
+Women-led companies perform three times better than the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0054
+sample_id: SP500_HEAD_012993
+date: 2023-02-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8886421918869019
+TEXT:
+US Markets Open the Week Higher on Corporate Headlines
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0055
+sample_id: SP500_HEAD_017614
+date: 2024-02-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5465019345283508
+TEXT:
+1 Magnificent S&P 500 Dividend Stock Returning 1,280% Since 2002 to Buy Right Now
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0056
+sample_id: SP500_HEAD_016955
+date: 2023-12-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9163628220558167
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for December 20
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0057
+sample_id: SP500_HEAD_004904
+date: 2016-12-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6240609288215637
+TEXT:
+These Are the 7 Biggest Hedge Fund Disasters of 2016
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0058
+sample_id: SP500_HEAD_015323
+date: 2023-08-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5115499496459961
+TEXT:
+After 374-point tumble in the Dow, U.S. stock futures rise before Powell talk
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0059
+sample_id: SP500_HEAD_004144
+date: 2016-01-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.947155237197876
+TEXT:
+Wall Street faces profit recession as earnings season begins – EMTV Online
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0060
+sample_id: SP500_HEAD_008277
+date: 2020-08-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9212759137153625
+TEXT:
+S&P 500 and the U.S. Presidential Election
+

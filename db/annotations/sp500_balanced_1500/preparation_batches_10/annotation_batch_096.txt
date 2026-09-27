@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 096
+Rows: 950 - 959
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0951
+sample_id: SP500_HEAD_014191
+date: 2023-06-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4915083944797516
+TEXT:
+The 20% up rule — bull market vs bear rally
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0952
+sample_id: SP500_HEAD_002037
+date: 2013-06-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6368885636329651
+TEXT:
+News Corp CEO Rupert Murdoch files for divorce
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0953
+sample_id: SP500_HEAD_004614
+date: 2016-08-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8288795948028564
+TEXT:
+S&P 500 companies led by founders outperform their peers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0954
+sample_id: SP500_HEAD_004270
+date: 2016-03-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9303792119026184
+TEXT:
+27 giant profitable companies paid no taxes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0955
+sample_id: SP500_HEAD_014462
+date: 2023-06-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9236082434654236
+TEXT:
+Wall Street slips as investors eye Russia, Fed hikes, quarter-end
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0956
+sample_id: SP500_HEAD_015825
+date: 2023-10-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.48881015181541443
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500 News: Investors Brace for Turbulence Amid Yield Surge
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0957
+sample_id: SP500_HEAD_008290
+date: 2020-08-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9225316643714905
+TEXT:
+US Stocks Finish Higher as Tech Stock Gains Offset Weak Economic Data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0958
+sample_id: SP500_HEAD_009704
+date: 2021-10-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8971741795539856
+TEXT:
+Gold Finds Support as Key Inflation Rate Hits a 30-Year High
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0959
+sample_id: SP500_HEAD_000686
+date: 2011-07-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9189944267272949
+TEXT:
+House of the Day: A Private Pool in a Hong Kong High Rise
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0960
+sample_id: SP500_HEAD_015583
+date: 2023-09-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5993788838386536
+TEXT:
+Hotel Stocks Decline, but News of Hersha Deal Softened Impact
+

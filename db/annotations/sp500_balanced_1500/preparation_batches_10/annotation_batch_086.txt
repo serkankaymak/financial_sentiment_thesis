@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 086
+Rows: 850 - 859
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0851
+sample_id: SP500_HEAD_012960
+date: 2023-02-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.897560179233551
+TEXT:
+Should Invesco S&P 500 High Dividend Low Volatility ETF (SPHD) Be on Your Investing Radar?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0852
+sample_id: SP500_HEAD_010920
+date: 2022-05-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8429583311080933
+TEXT:
+Tesla got booted from S&P 500 ESG index and Musk is mad
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0853
+sample_id: SP500_HEAD_004111
+date: 2015-12-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8632863759994507
+TEXT:
+S&P 500 ends holiday-shortened week up nearly 3 percent
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0854
+sample_id: SP500_HEAD_009171
+date: 2021-04-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6820558309555054
+TEXT:
+VIX ETFs Surge Over 6% as Stocks Fall and Volatility Expands
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0855
+sample_id: SP500_HEAD_009884
+date: 2021-11-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.902119517326355
+TEXT:
+Motilal Oswal MSCI EAFE Top 100 Select Index Fund Review
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0856
+sample_id: SP500_HEAD_008313
+date: 2020-08-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9047549962997437
+TEXT:
+CBOE launches S&P 500 ESG Index Options - PA Future
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0857
+sample_id: SP500_HEAD_008387
+date: 2020-09-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7376124858856201
+TEXT:
+S&P 500 Price Forecast – Stock Markets Run Into Brick Wall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0858
+sample_id: SP500_HEAD_016836
+date: 2023-12-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8487994074821472
+TEXT:
+Oppenheimer’s Stoltzfus Sees Record High for S&P 500 in 2024
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0859
+sample_id: SP500_HEAD_005820
+date: 2018-04-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.746200442314148
+TEXT:
+Stocks Poised for Bull Run in April Despite Monday Sell-Off
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0860
+sample_id: SP500_HEAD_016778
+date: 2023-12-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8399596214294434
+TEXT:
+Nasdaq ends sharply higher as Alphabet and AMD fuel AI surge
+

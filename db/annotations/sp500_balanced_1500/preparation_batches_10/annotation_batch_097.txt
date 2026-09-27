@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 097
+Rows: 960 - 969
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0961
+sample_id: SP500_HEAD_011818
+date: 2022-10-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7512620091438293
+TEXT:
+Tired of 'Mad Money' Picks? This ETF Shorts Jim Cramer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0962
+sample_id: SP500_HEAD_007801
+date: 2020-04-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7199265360832214
+TEXT:
+Weekly Charts for the Dow, S&P 500 and Nasdaq Show Signs of a Bottom
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0963
+sample_id: SP500_HEAD_011602
+date: 2022-09-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.921338677406311
+TEXT:
+Ukraine's surprising comeback could be giving markets a boost
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0964
+sample_id: SP500_HEAD_005539
+date: 2017-11-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7394669055938721
+TEXT:
+The Message in the S&P 500's 12-Month Winning Streak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0965
+sample_id: SP500_HEAD_011215
+date: 2022-06-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8940095901489258
+TEXT:
+Which U.S. Companies are Most Exposed to Europe?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0966
+sample_id: SP500_HEAD_012118
+date: 2022-11-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8883891105651855
+TEXT:
+7 Index Funds to Buy to Retire a Millionaire
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0967
+sample_id: SP500_HEAD_008689
+date: 2020-11-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9303038120269775
+TEXT:
+BlackRock and the $15 trillion fund industry should be broken up, antimonopoly group says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0968
+sample_id: SP500_HEAD_008417
+date: 2020-09-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.75497967004776
+TEXT:
+History Says A September Stock Market Crash is Overdue, Even in 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0969
+sample_id: SP500_HEAD_003074
+date: 2014-09-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9120081663131714
+TEXT:
+Mean Reversion to the Rescue | Gold News
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0970
+sample_id: SP500_HEAD_010760
+date: 2022-04-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.919014573097229
+TEXT:
+Barclays Suspends Sales For 30 iPath ETNs
+

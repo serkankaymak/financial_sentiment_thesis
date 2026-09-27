@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 030
+Rows: 1450 - 1499
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01451
+date: 2006-11-29 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9002565741539001
+TEXT:
+fed beige book-moderate growth in most areas
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01452
+date: 2007-05-01 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6829856038093567
+TEXT:
+disney unveils social networking for preteens
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01453
+date: 2006-11-01 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9501436352729796
+TEXT:
+cvs net income rises 12.5 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01454
+date: 2006-12-21 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7971146106719971
+TEXT:
+exiting pfizer ceo to get $198 mln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01455
+date: 2006-10-24 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9542014002799988
+TEXT:
+lockheed martin ups forecast
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01456
+date: 2007-04-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5171211361885071
+TEXT:
+delta exits bankruptcy after 19-month restructuring
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01457
+date: 2007-04-12 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8859977126121521
+TEXT:
+xm gets doj request for sirius merger information
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01458
+date: 2006-10-25 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.920695424079895
+TEXT:
+bt buys u.s. anti-hacking specialist counterpane
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01459
+date: 2007-02-23 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6638959050178528
+TEXT:
+auto group expects higher fuels standards
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01460
+date: 2007-05-07 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9275096654891968
+TEXT:
+news corp sells 7.5 pct stake in fairfax
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01461
+date: 2007-02-10 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6797812581062317
+TEXT:
+anti-globalization protesters march at essen g7
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01462
+date: 2007-04-16 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5535469055175781
+TEXT:
+global growth to cushion u.s. econ bloomberg
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01463
+date: 2006-12-15 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8887079954147339
+TEXT:
+nintendo exchanges wii straps, recalls ds adapters
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01464
+date: 2006-11-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.913899064064026
+TEXT:
+november retail sales rise, but growth slows
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01465
+date: 2007-04-17 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8889409899711609
+TEXT:
+actavis, torrent seen top merck unit bidders paper
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01466
+date: 2006-12-29 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.866188108921051
+TEXT:
+exchanges mark fords death with january 2 close
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01467
+date: 2007-03-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7947378754615784
+TEXT:
+fbi to warn borrowers, lenders on mortgage fraud
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01468
+date: 2007-03-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9505134224891664
+TEXT:
+vivendi 2006 net adjusted profit meets target
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01469
+date: 2007-02-22 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.975418984889984
+TEXT:
+gold miner newmonts quarterly profit soars
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01470
+date: 2007-04-03 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9571934342384338
+TEXT:
+eu says record firms force itunes to limit access
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01471
+date: 2007-03-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9532243609428406
+TEXT:
+accenture beats profit estimates, raises forecast
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01472
+date: 2007-04-25 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9331251978874208
+TEXT:
+boeing, defense firms raise profit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01473
+date: 2007-04-17 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6138911843299866
+TEXT:
+u.s. urges lenders to help distressed homeowners
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01474
+date: 2007-01-09 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9768582582473756
+TEXT:
+home builders horton, meritage post lower sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01475
+date: 2006-11-10 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.4921736717224121
+TEXT:
+feds bernanke money supply unstable forecaster
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01476
+date: 2007-02-06 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6937752962112427
+TEXT:
+former westar ceo sentenced in bank fraud case
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01477
+date: 2007-04-02 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6036406755447388
+TEXT:
+new century somber as fired employees head home
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01478
+date: 2006-11-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6376960277557373
+TEXT:
+apple pushes oricon to quit pc music downloads
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01479
+date: 2006-12-22 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8916008472442627
+TEXT:
+so cal ed signs biggest u.s. wind contract
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01480
+date: 2006-12-20 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.73112553358078
+TEXT:
+australia regulator approves suncorp-promina merger
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01481
+date: 2006-11-21 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8993197083473206
+TEXT:
+microsoft to face challenge over linux licenses
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01482
+date: 2006-11-02 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5759499669075012
+TEXT:
+jobless claims rise 18,000 in latest week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01483
+date: 2007-05-02 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8090508580207825
+TEXT:
+home depot, wal-mart roll out smaller stores
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01484
+date: 2006-11-03 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7093296647071838
+TEXT:
+update 4-mediaset eyes multibillion-euro prosiebensat.1 bid
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01485
+date: 2006-11-19 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9401820302009584
+TEXT:
+opec may cut again at december meeting algeria
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01486
+date: 2006-10-25 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9730525016784668
+TEXT:
+boeing profit tops views, but forecast disappoints
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01487
+date: 2007-03-05 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7200693488121033
+TEXT:
+alltel steps up efforts to sell itself paper
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01488
+date: 2007-02-16 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.927489459514618
+TEXT:
+dell hires motorola executive for consumer unit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01489
+date: 2007-02-14 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.677678644657135
+TEXT:
+fed chairman bernankes testimony to congress
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01490
+date: 2007-04-26 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9663640260696412
+TEXT:
+wal-mart cutting managers at sams club
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01491
+date: 2007-02-09 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8527957201004028
+TEXT:
+yukos receiver says chevron eyes bankrupt firm
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01492
+date: 2006-11-10 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8486018776893616
+TEXT:
+three year sentence asked for indonesia newmont boss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01493
+date: 2006-10-25 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9394283890724182
+TEXT:
+amazon profit beats forecasts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01494
+date: 2007-04-29 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7818518280982971
+TEXT:
+wealthy housing markets shrug off subprime woes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01495
+date: 2007-01-18 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.968914270401001
+TEXT:
+global markets-oil drops below $50, stocks fall on apples view
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01496
+date: 2007-04-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9532757997512816
+TEXT:
+hercules preliminary q1 earnings, revenue rise
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01497
+date: 2007-05-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.54934161901474
+TEXT:
+dow jones options trading jumps before murdoch bid
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01498
+date: 2007-02-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9121289253234864
+TEXT:
+thomas cook to buy rival mytravel
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01499
+date: 2006-11-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9177892804145812
+TEXT:
+murdoch says may offer myspace on japan cellphones
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01500
+date: 2007-02-05 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8964005708694458
+TEXT:
+mills to weigh offer from simon, farallon
+

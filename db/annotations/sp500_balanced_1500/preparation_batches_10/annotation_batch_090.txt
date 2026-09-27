@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 090
+Rows: 890 - 899
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0891
+sample_id: SP500_HEAD_017605
+date: 2024-02-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9395695924758911
+TEXT:
+S&P 500 Forward P/E Ratio Rises Above 20.0 For First Time in 2 Years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0892
+sample_id: SP500_HEAD_000120
+date: 2008-11-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5765056610107422
+TEXT:
+U.S. Stocks Revisit Negative Territory; Energy Has The Gains
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0893
+sample_id: SP500_HEAD_012199
+date: 2022-12-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9650107622146606
+TEXT:
+Stock market outlook: S&P 500 could crash 20% as recession hits in 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0894
+sample_id: SP500_HEAD_016711
+date: 2023-12-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9646995067596436
+TEXT:
+Stifel strategists see S&P 500 struggling to gain much ground by mid 2024
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0895
+sample_id: SP500_HEAD_013693
+date: 2023-04-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9068953394889832
+TEXT:
+Investing For Kids: Give The Gift Of Stock
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0896
+sample_id: SP500_HEAD_005435
+date: 2017-09-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9138677716255188
+TEXT:
+S&P ekes out record on healthcare gains, tax plan hopes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0897
+sample_id: SP500_HEAD_001680
+date: 2012-12-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8948120474815369
+TEXT:
+Review: Google Maps puts Apple Maps to shame
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0898
+sample_id: SP500_HEAD_006844
+date: 2019-06-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.908115029335022
+TEXT:
+Research: Women Score Higher Than Men in Most Leadership Skills
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0899
+sample_id: SP500_HEAD_011390
+date: 2022-08-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.49438172578811646
+TEXT:
+After S&P 500's best month since 2020, analysts look for bear market's end
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0900
+sample_id: SP500_HEAD_004292
+date: 2016-03-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.971947431564331
+TEXT:
+Lowest Net Profit Margin Projected for S&P 500 since Q4 2012
+

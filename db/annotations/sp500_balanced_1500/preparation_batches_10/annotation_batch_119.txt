@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 119
+Rows: 1180 - 1189
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1181
+sample_id: SP500_HEAD_013640
+date: 2023-04-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.871556282043457
+TEXT:
+Indian Women CEOs React As Female-led Companies In The S&P 500 List Have Outperformed Male-led Ones
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1182
+sample_id: SP500_HEAD_003318
+date: 2015-01-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8995133638381958
+TEXT:
+Stocks close first day of 2015 mixed: Dow up, S&P dips
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1183
+sample_id: SP500_HEAD_007987
+date: 2020-06-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9175305366516113
+TEXT:
+Why Hasbro's Outperformance Over 2008 Recession Bodes Well For Its Outlook
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1184
+sample_id: SP500_HEAD_001571
+date: 2012-10-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6028275489807129
+TEXT:
+25 Years Later: In the Crash of 1987, the Seeds of the Great Recession
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1185
+sample_id: SP500_HEAD_016276
+date: 2023-11-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.698651134967804
+TEXT:
+Dow surges over 560 points as S&P 500 scores biggest gain since April
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1186
+sample_id: SP500_HEAD_011591
+date: 2022-09-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9412290453910828
+TEXT:
+S&P 500 & Sectors: ROIC Climbs Higher Again In 2Q22
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1187
+sample_id: SP500_HEAD_012322
+date: 2022-12-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9233592748641968
+TEXT:
+Here are the 3 big bets Warren Buffett is taking into 2023 — if you're worried about the new year, it might be time to ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1188
+sample_id: SP500_HEAD_008570
+date: 2020-10-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9640978574752808
+TEXT:
+Dow closes more than 150 points lower as Wall Street posts its worst one-week sell-off since March
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1189
+sample_id: SP500_HEAD_008908
+date: 2021-01-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9347532987594604
+TEXT:
+Goldman Sachs warns of a dangerous bubble in these 39 stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1190
+sample_id: SP500_HEAD_003833
+date: 2015-08-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.80731201171875
+TEXT:
+Dow Plunges into Correction Territory: Here's How Bad Friday's Market Bloodbath Was
+

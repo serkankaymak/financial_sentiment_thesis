@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 034
+Rows: 1650 - 1699
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01651
+date: 2007-03-22 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9737055897712708
+TEXT:
+barnes noble forecasts loss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01652
+date: 2006-11-08 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9724598526954652
+TEXT:
+airbus a380 woes push eads to q3 loss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01653
+date: 2007-02-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9583492279052734
+TEXT:
+circuit city cfo leaving to join petco
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01654
+date: 2006-12-08 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9659206867218018
+TEXT:
+volkswagen recalls just over 300,000 passats
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01655
+date: 2007-03-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.971458911895752
+TEXT:
+friedman billings to cut jobs at subprime unit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01656
+date: 2007-03-09 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6153370141983032
+TEXT:
+vonage says wont go out of business despite verdict
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01657
+date: 2006-11-06 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9157220125198364
+TEXT:
+el paso posts profit, but warns on gas output
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01658
+date: 2007-01-18 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.976435124874115
+TEXT:
+jobless claims post surprising drop last week
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01659
+date: 2007-03-20 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8394586443901062
+TEXT:
+continental, american balk at pilot rest rules report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01660
+date: 2007-03-13 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9374290108680724
+TEXT:
+citigroup raises offer for japans nikko by 26 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01661
+date: 2007-03-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.3901042640209198
+TEXT:
+forbes list shows rich getting richer
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01662
+date: 2007-04-27 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.972679316997528
+TEXT:
+april consumer sentiment at 7-month low umich
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01663
+date: 2007-01-12 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8555945754051208
+TEXT:
+oil rises on opec jitters after 15 pct slide
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01664
+date: 2006-11-30 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7572776675224304
+TEXT:
+ford chief marketing officer to retire
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01665
+date: 2006-11-10 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6669807434082031
+TEXT:
+bank of america could buy in midwest analyst
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01666
+date: 2006-11-11 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.914026379585266
+TEXT:
+ntl set to bid mostly in cash for itv source
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01667
+date: 2007-03-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.870987057685852
+TEXT:
+merrill lynch eyes bid for canwest ten stake source
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01668
+date: 2007-05-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.962158501148224
+TEXT:
+drugmakers face $140 bln patent loss report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01669
+date: 2007-03-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7701269388198853
+TEXT:
+airbus a380 superjumbo jet lands in u.s.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01670
+date: 2007-04-30 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9471377730369568
+TEXT:
+kellogg earnings up on strong sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01671
+date: 2007-05-03 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9547277092933656
+TEXT:
+martha stewart loss widens on charge
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01672
+date: 2007-05-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9273728728294371
+TEXT:
+goldman to buy s.korea asset manager from macquarie
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01673
+date: 2007-02-22 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9372082352638244
+TEXT:
+coke ceo sees strong growth despite n. america lag
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01674
+date: 2007-04-10 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8885258436203003
+TEXT:
+yahoo to provide search on viacom web sites
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01675
+date: 2007-03-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5532026290893555
+TEXT:
+cisco to buy web conference co. webex for $2.9 bln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01676
+date: 2007-01-29 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9734593629837036
+TEXT:
+verizon earnings fall but wireless beats forecasts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01677
+date: 2006-12-15 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6672140955924988
+TEXT:
+merck wins vioxx trial in alabama state court
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01678
+date: 2007-04-25 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.589480459690094
+TEXT:
+mexican companies agree to cap tortilla prices
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01679
+date: 2007-05-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.831948459148407
+TEXT:
+jana asks alcoa to call off alcan bid, ponder sale
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01680
+date: 2007-04-03 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5728422999382019
+TEXT:
+google enters tv ad sales market with echostar
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01681
+date: 2006-12-29 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7408862113952637
+TEXT:
+goodyear workers ratify three-year contract
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01682
+date: 2007-04-19 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9753363132476808
+TEXT:
+logitech shares fall after 2007/8 sales miss target
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01683
+date: 2006-10-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.506020724773407
+TEXT:
+microsoft profit rises 11 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01684
+date: 2006-10-30 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.658875584602356
+TEXT:
+update 6-schneider to buy apc for $6.1 billion
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01685
+date: 2006-10-24 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9500208497047424
+TEXT:
+dupont flips to profit on strong pricing
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01686
+date: 2007-05-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9745502471923828
+TEXT:
+u.s. april auto sales stall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01687
+date: 2007-01-18 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8481743335723877
+TEXT:
+ibm profit rises 11 percent but shares drop
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01688
+date: 2006-11-27 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9729605317115784
+TEXT:
+wal-mart faces must-win december after weak november
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01689
+date: 2006-12-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6566985249519348
+TEXT:
+secs cox defends compensation disclosure change
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01690
+date: 2007-01-31 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.667958676815033
+TEXT:
+honda q3 up but disappoints amid tough competition
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01691
+date: 2007-04-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.956800639629364
+TEXT:
+socal grocery workers walk out of contract talks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01692
+date: 2007-01-13 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.541865885257721
+TEXT:
+gm says strong euro bad for opel sales in u.s.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01693
+date: 2007-02-26 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8486735820770264
+TEXT:
+rj reynolds says no added nicotine in its cigarettes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01694
+date: 2007-01-10 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8005205988883972
+TEXT:
+us airways raises offer for delta air lines
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01695
+date: 2006-11-30 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7786471843719482
+TEXT:
+sterling at 14-yr high vs weak dollar, stocks up
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01696
+date: 2007-01-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9258900284767152
+TEXT:
+williams-sonoma affirms forecast, cautious on 2007
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01697
+date: 2007-04-13 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5551096200942993
+TEXT:
+texas house bill avoids more scrutiny of txu sale
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01698
+date: 2007-03-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9088926911354064
+TEXT:
+take-two investors plan board takeover
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01699
+date: 2007-01-18 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8924009203910828
+TEXT:
+bernanke budget action needed before storm
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01700
+date: 2007-04-25 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7905867099761963
+TEXT:
+tci urges abn amro to back rbs group bid proposal
+

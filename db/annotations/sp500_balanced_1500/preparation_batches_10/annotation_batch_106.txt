@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 106
+Rows: 1050 - 1059
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1051
+sample_id: SP500_HEAD_017595
+date: 2024-02-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9143499135971069
+TEXT:
+Analyst who forecast the S&P 500's rally unveils new Nasdaq 100 outlook
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1052
+sample_id: SP500_HEAD_002637
+date: 2014-03-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6760817170143127
+TEXT:
+Wall Street climbs as Ukraine worries ease, data improves
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1053
+sample_id: SP500_HEAD_008624
+date: 2020-11-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.46462008357048035
+TEXT:
+Goldman Sachs raises its S&P 500 target on vaccine hopes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1054
+sample_id: SP500_HEAD_008864
+date: 2021-01-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8837097883224487
+TEXT:
+Charting a bull flag: S&P 500 digests two standard deviation breakout
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1055
+sample_id: SP500_HEAD_017917
+date: 2024-03-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9710977077484131
+TEXT:
+S&P 500 Gains and Losses Today: Tesla Shares Tumble Amid Slowing China Sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1056
+sample_id: SP500_HEAD_014650
+date: 2023-07-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8280246257781982
+TEXT:
+S&P 500 is most likely going to correct back to 4,100, Mizuho warns market bulls
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1057
+sample_id: SP500_HEAD_015925
+date: 2023-10-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7620136141777039
+TEXT:
+Wall Street advances as bond yields fall, investors digest Fed minutes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1058
+sample_id: SP500_HEAD_001266
+date: 2012-05-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9575518369674683
+TEXT:
+Australian stocks fall on Greece and China
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1059
+sample_id: SP500_HEAD_002924
+date: 2014-07-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7152481079101562
+TEXT:
+Space weather: Fine, with a chance of solar flares
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1060
+sample_id: SP500_HEAD_010501
+date: 2022-03-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.83351731300354
+TEXT:
+Ethereum Shows Even Closer Correlation with the S&P 500 Index than Bitcoin
+

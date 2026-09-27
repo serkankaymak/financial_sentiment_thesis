@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 033
+Rows: 320 - 329
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0321
+sample_id: SP500_HEAD_005585
+date: 2017-12-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9259047508239746
+TEXT:
+Minimize Risk by Hedging With Derivatives
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0322
+sample_id: SP500_HEAD_015197
+date: 2023-08-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.933085024356842
+TEXT:
+S&P 500 Q2 2023 earnings beat Wall Street expectations
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0323
+sample_id: SP500_HEAD_009644
+date: 2021-09-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7237480878829956
+TEXT:
+Will 50DMA Support Stocks for the 10th Time in 2021 - ALPHA PROFIT
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0324
+sample_id: SP500_HEAD_000919
+date: 2011-11-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9134266376495361
+TEXT:
+Like Steve Jobs, Apple’s Tim Cook replies to fans’ e-mails
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0325
+sample_id: SP500_HEAD_011232
+date: 2022-06-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6781418323516846
+TEXT:
+The Equity Bear Market Won't Be Over Before Recession Begins
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0326
+sample_id: SP500_HEAD_017472
+date: 2024-01-31 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9042738080024719
+TEXT:
+U.S. stocks can climb a lot higher in 2024
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0327
+sample_id: SP500_HEAD_016141
+date: 2023-10-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9613229632377625
+TEXT:
+Nasdaq enters a correction as tech shares lead U.S. stocks lower
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0328
+sample_id: SP500_HEAD_014933
+date: 2023-07-31 00:00:00
+finbert_label: positive
+finbert_confidence: 0.527738630771637
+TEXT:
+Stocks end slightly higher as S&P 500, Nasdaq book 5th straight monthly gain
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0329
+sample_id: SP500_HEAD_001379
+date: 2012-07-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8396314382553101
+TEXT:
+Court bans Samsung tablet from sale in Europe
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0330
+sample_id: SP500_HEAD_008154
+date: 2020-07-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9716550707817078
+TEXT:
+S&P 500 Reporting Lowest Net Profit Margin Since 2009
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 140
+Rows: 1390 - 1399
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1391
+sample_id: SP500_HEAD_013072
+date: 2023-03-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6196850538253784
+TEXT:
+This S&P 500 Stock has Outperformed Tesla in 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1392
+sample_id: SP500_HEAD_001898
+date: 2013-04-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9327991604804993
+TEXT:
+Key dates and milestones in the S&P 500's history
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1393
+sample_id: SP500_HEAD_013897
+date: 2023-05-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5840531587600708
+TEXT:
+This stock from S&P 500 pack has gained 22% in two days; should you bet on it?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1394
+sample_id: SP500_HEAD_002003
+date: 2013-05-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4956458508968353
+TEXT:
+NJ prisoners received more than $23 million in benefits
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1395
+sample_id: SP500_HEAD_009738
+date: 2021-10-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9223005175590515
+TEXT:
+Here's how much money 30-year-olds need to invest every month to become a millionaire
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1396
+sample_id: SP500_HEAD_006864
+date: 2019-07-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9264681935310364
+TEXT:
+Two healthcare companies lead gains in S&P 500 during June
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1397
+sample_id: SP500_HEAD_009063
+date: 2021-03-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.48777562379837036
+TEXT:
+Reddit Frenzy Stabilizes as Meme Stocks' Moves Sync With S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1398
+sample_id: SP500_HEAD_012172
+date: 2022-12-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7148978114128113
+TEXT:
+Tesla delivers its first electric Semi trucks promising 500 miles of range
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1399
+sample_id: SP500_HEAD_000826
+date: 2011-10-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6136486530303955
+TEXT:
+Steve Jobs died of respiratory arrest, health official says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1400
+sample_id: SP500_HEAD_016443
+date: 2023-11-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8564318418502808
+TEXT:
+S&P 500 Gains and Losses Today: Enphase, Other Solar Stocks Jump After CPI Report
+

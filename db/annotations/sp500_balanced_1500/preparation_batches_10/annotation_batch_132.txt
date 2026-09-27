@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 132
+Rows: 1310 - 1319
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1311
+sample_id: SP500_HEAD_010905
+date: 2022-05-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9440622925758362
+TEXT:
+Trading Curb: What It is, Levels, History
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1312
+sample_id: SP500_HEAD_017777
+date: 2024-02-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6906101703643799
+TEXT:
+U.S. stocks end mostly up as Dow and S&P 500 score fresh record highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1313
+sample_id: SP500_HEAD_004854
+date: 2016-12-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7689220309257507
+TEXT:
+Consumer Confidence Surging! Can the Trump Rally Continue?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1314
+sample_id: SP500_HEAD_010843
+date: 2022-05-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5108315944671631
+TEXT:
+S&P 500 Price Forecast – Stock Markets Continue to Show Hesitation
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1315
+sample_id: SP500_HEAD_013305
+date: 2023-03-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8178514838218689
+TEXT:
+Stocks close higher Tuesday, S&P 500 adds more than 1% as regional banks pop: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1316
+sample_id: SP500_HEAD_015836
+date: 2023-10-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9431933760643005
+TEXT:
+S&P Dow Jones Indices Reports U.S. Common Indicated Dividend Payments Increase $8.8 Billion in Q3 2023, as the ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1317
+sample_id: SP500_HEAD_000702
+date: 2011-08-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9495939016342163
+TEXT:
+Stock market plummets on first day of trading after downgrade of U.S. credit rating
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1318
+sample_id: SP500_HEAD_005557
+date: 2017-11-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9017981886863708
+TEXT:
+Why Bank of America's Stock Is Climbing Again on Wednesday
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1319
+sample_id: SP500_HEAD_013410
+date: 2023-03-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6446508169174194
+TEXT:
+US Stock Market HIGHLIGHTS: Dow Jones jumps over 300 pts, US tech stocks-heavy Nasdaq crosses 11,900
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1320
+sample_id: SP500_HEAD_003120
+date: 2014-10-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9296868443489075
+TEXT:
+What it was like to cover the ‘Umbrella Revolution’
+

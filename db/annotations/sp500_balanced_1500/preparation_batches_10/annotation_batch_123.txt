@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 123
+Rows: 1220 - 1229
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1221
+sample_id: SP500_HEAD_002806
+date: 2014-05-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8255199790000916
+TEXT:
+At Harvard, swarming robots that mimic termites
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1222
+sample_id: SP500_HEAD_001106
+date: 2012-03-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8354511857032776
+TEXT:
+Bank Of America's Savita Subramanian Raised Her S&P 500 Target To 1,400
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1223
+sample_id: SP500_HEAD_012072
+date: 2022-11-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9026306867599487
+TEXT:
+Two Copper ETFs Offer Exposure as the Metal Rebounds
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1224
+sample_id: SP500_HEAD_017550
+date: 2024-02-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.823710024356842
+TEXT:
+S&P 500 closes at record high; earnings, rate outlook in focus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1225
+sample_id: SP500_HEAD_017072
+date: 2023-12-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7933523058891296
+TEXT:
+S&P 500 Could Hit Record This Year, Morgan Stanley Says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1226
+sample_id: SP500_HEAD_017100
+date: 2023-12-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9240866303443909
+TEXT:
+Stocks fool nearly everyone in 2023 with the S&P soaring 24% and Nasdaq rising an even more formidable 43%
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1227
+sample_id: SP500_HEAD_002182
+date: 2013-08-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7235291600227356
+TEXT:
+How to Turn the Lagging S&P/Case-Shiller Home Index into a Leading Indicator
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1228
+sample_id: SP500_HEAD_015118
+date: 2023-08-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.706122875213623
+TEXT:
+Apple's $500 Billion Buyback Spree Exceeds Visa, Exxon's Market Value
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1229
+sample_id: SP500_HEAD_005790
+date: 2018-03-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7812359929084778
+TEXT:
+Equal Weight Works Across Market Cap Segments
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1230
+sample_id: SP500_HEAD_015297
+date: 2023-08-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.909889280796051
+TEXT:
+If the S&P 500 breaks this key support level, bulls will be in trouble
+

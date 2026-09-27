@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 028
+Rows: 270 - 279
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0271
+sample_id: SP500_HEAD_003793
+date: 2015-08-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7713022828102112
+TEXT:
+Libor scandal trader Tom Hayes jailed for 14 years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0272
+sample_id: SP500_HEAD_000491
+date: 2011-02-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9521814584732056
+TEXT:
+It's Official: Hedge Fund DE Shaw Is Losing Its Luster
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0273
+sample_id: SP500_HEAD_012851
+date: 2023-02-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9112180471420288
+TEXT:
+Live updates: Stocks sink after inflation rose more than expected in January
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0274
+sample_id: SP500_HEAD_004063
+date: 2015-12-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8236855268478394
+TEXT:
+Beaten-Down UniFirst Looks Like a Turnaround Candidate
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0275
+sample_id: SP500_HEAD_014344
+date: 2023-06-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8901333808898926
+TEXT:
+Why 2023 Is Shaping Up To Be A Historic Bull Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0276
+sample_id: SP500_HEAD_014041
+date: 2023-05-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8851692080497742
+TEXT:
+Global stock buybacks hit record high in 2022; North America drives activity
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0277
+sample_id: SP500_HEAD_006495
+date: 2019-01-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4667753279209137
+TEXT:
+Dow Creeps Higher, Bitcoin Price Avoids ETF-Fueled Collapse
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0278
+sample_id: SP500_HEAD_005545
+date: 2017-11-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8028855919837952
+TEXT:
+S&P 500 Chart Spotlight: Higher Prices Into 2018
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0279
+sample_id: SP500_HEAD_002435
+date: 2013-12-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9159945845603943
+TEXT:
+Wall Street dips on taper uncertainty, Facebook rallies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0280
+sample_id: SP500_HEAD_000346
+date: 2010-08-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.875262439250946
+TEXT:
+Record Spread Between 10-Year and 30-Year Treasury Bonds Crossing Wall Street
+

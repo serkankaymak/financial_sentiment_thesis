@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 131
+Rows: 1300 - 1309
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1301
+sample_id: SP500_HEAD_012552
+date: 2023-01-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7021433711051941
+TEXT:
+Recession Could Tank The S&P Another 22%—But Tesla And These Other Stocks Could Withstand The Downturn
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1302
+sample_id: SP500_HEAD_015623
+date: 2023-09-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7592467665672302
+TEXT:
+Strategists revising, raising 2023 targets for S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1303
+sample_id: SP500_HEAD_016335
+date: 2023-11-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.920313835144043
+TEXT:
+S&P 500 and Nasdaq Composite notch longest streak of gains in two years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1304
+sample_id: SP500_HEAD_011538
+date: 2022-08-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9557153582572937
+TEXT:
+S&P 500 slumps as "new bull market" fizzles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1305
+sample_id: SP500_HEAD_005932
+date: 2018-05-29 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7089605927467346
+TEXT:
+Profits Near Record Highs for Corporate America's Big Companies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1306
+sample_id: SP500_HEAD_009542
+date: 2021-08-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.900352418422699
+TEXT:
+10 Dividend Stocks with Over 20 Years of Dividend Increases
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1307
+sample_id: SP500_HEAD_012056
+date: 2022-11-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.47945237159729004
+TEXT:
+S&P 500 has its best day in 2 years on cooling inflation
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1308
+sample_id: SP500_HEAD_009913
+date: 2021-11-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9444777965545654
+TEXT:
+SPX Gamma Levels EOD for TVC:SPX by GammaLab
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1309
+sample_id: SP500_HEAD_008140
+date: 2020-07-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.885339081287384
+TEXT:
+Stocks End Mixed After S&P 500 Briefly Goes Positive for Year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1310
+sample_id: SP500_HEAD_014991
+date: 2023-08-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8423931002616882
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500: Rising Rates, Mixed Earnings Stir Market Turbulence
+

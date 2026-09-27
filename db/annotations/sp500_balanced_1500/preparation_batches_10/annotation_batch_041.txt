@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 041
+Rows: 400 - 409
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0401
+sample_id: SP500_HEAD_001011
+date: 2012-01-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8982149362564087
+TEXT:
+‘Augmented-reality’ windshields and the future of driving
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0402
+sample_id: SP500_HEAD_009853
+date: 2021-11-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.79377281665802
+TEXT:
+Inflation Data Eats Into the Stock Market's Bull Run
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0403
+sample_id: SP500_HEAD_008155
+date: 2020-07-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9143932461738586
+TEXT:
+Nasdaq grabs new record, S&P turns positive for 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0404
+sample_id: SP500_HEAD_015888
+date: 2023-10-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6360292434692383
+TEXT:
+Stocks shake off Israel-Gaza war fears to end higher after remarks by Fed officials
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0405
+sample_id: SP500_HEAD_008167
+date: 2020-07-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9597725868225098
+TEXT:
+Rise of the US mega-caps creates shaky 'top-heavy' market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0406
+sample_id: SP500_HEAD_004228
+date: 2016-02-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9385248422622681
+TEXT:
+High-Frequency Cross-Market Trading and Market Volatility - Liberty Street Economics
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0407
+sample_id: SP500_HEAD_010080
+date: 2021-12-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8130340576171875
+TEXT:
+3 Charts That Show Why the Dow Could Keep Underperforming the S&P 500 and Nasdaq in 2022
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0408
+sample_id: SP500_HEAD_004281
+date: 2016-03-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8671523332595825
+TEXT:
+Wall Street sheds gains as oil slide weighs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0409
+sample_id: SP500_HEAD_017021
+date: 2023-12-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7960027456283569
+TEXT:
+Tesla getting trounced by S&P 500 after three years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0410
+sample_id: SP500_HEAD_006405
+date: 2018-12-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8096155524253845
+TEXT:
+Dow surges 1,086 points for biggest point gain in history
+

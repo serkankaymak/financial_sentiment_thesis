@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 062
+Rows: 610 - 619
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0611
+sample_id: SP500_HEAD_001698
+date: 2012-12-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8819515705108643
+TEXT:
+Steve Jobs’ yacht impounded over pay dispute
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0612
+sample_id: SP500_HEAD_010069
+date: 2021-12-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9101082682609558
+TEXT:
+Nasdaq is poised to underperform S&P 500 for first time since 2016 as investors shun tech stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0613
+sample_id: SP500_HEAD_012204
+date: 2022-12-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8677209615707397
+TEXT:
+Bitcoin Underperforms S&P 500 as Stocks Have Overshot Fundamentals, Crypto Trading Firm QCP Says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0614
+sample_id: SP500_HEAD_014321
+date: 2023-06-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9450910091400146
+TEXT:
+S&P 500 may need better breadth to tackle all-time high as six stocks deliver 88% of market cap gains in 2023 ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0615
+sample_id: SP500_HEAD_009232
+date: 2021-05-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9047883152961731
+TEXT:
+A Look Inside Bill Gates' Stock Portfolio Reveals His Big Winners
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0616
+sample_id: SP500_HEAD_000132
+date: 2008-12-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5792558789253235
+TEXT:
+STOCKS NEWS US-Symantec option volume swells. calls active
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0617
+sample_id: SP500_HEAD_002904
+date: 2014-07-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9630873203277588
+TEXT:
+Why Has Trading Volume On The S&P Dropped?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0618
+sample_id: SP500_HEAD_000473
+date: 2011-01-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.84126216173172
+TEXT:
+Dillons to add cash-related financial services
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0619
+sample_id: SP500_HEAD_002854
+date: 2014-06-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9179665446281433
+TEXT:
+How dependent is Europe on Russia for gas?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0620
+sample_id: SP500_HEAD_013377
+date: 2023-03-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8938204050064087
+TEXT:
+Investing in Champagne: 8 Expensive Bottles Worth Splurging On
+

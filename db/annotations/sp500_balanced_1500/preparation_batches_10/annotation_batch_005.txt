@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 005
+Rows: 40 - 49
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0041
+sample_id: SP500_HEAD_008476
+date: 2020-09-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8567466735839844
+TEXT:
+The Volume of Short Positions in the Shanghai Composite Index (SHA:000001) Hits All-Time High at ¥80 Billion Following the S&P 500 (SPX)...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0042
+sample_id: SP500_HEAD_011729
+date: 2022-09-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9533758163452148
+TEXT:
+Wall Street ends lower, Dow confirms bear market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0043
+sample_id: SP500_HEAD_005106
+date: 2017-04-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5126691460609436
+TEXT:
+Consumer confidence versus SP500 from BlackRock Larry Fink
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0044
+sample_id: SP500_HEAD_003307
+date: 2014-12-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9058191180229187
+TEXT:
+Guess What Statistic Has The Highest Correlation With The S&P 500?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0045
+sample_id: SP500_HEAD_016543
+date: 2023-11-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6753764152526855
+TEXT:
+Bank of America: S&P 500 will soar to 5000 in 2024
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0046
+sample_id: SP500_HEAD_010782
+date: 2022-05-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9598417282104492
+TEXT:
+Stock Market Outlook: 17% Downside As Stocks' Inflation Hedge Fades
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0047
+sample_id: SP500_HEAD_013008
+date: 2023-02-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9186128377914429
+TEXT:
+Dow closes more than 200 points lower Tuesday, major averages end February with losses: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0048
+sample_id: SP500_HEAD_014039
+date: 2023-05-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.42521029710769653
+TEXT:
+Strong corporate earnings are helping the US avoid a recession - but there are 2 big risks facing markets and the ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0049
+sample_id: SP500_HEAD_006171
+date: 2018-09-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8990310430526733
+TEXT:
+Why Trump's Stock Market Cheering Is Dangerous
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0050
+sample_id: SP500_HEAD_007325
+date: 2019-12-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8819208741188049
+TEXT:
+Cramer explains the magic of compounding
+

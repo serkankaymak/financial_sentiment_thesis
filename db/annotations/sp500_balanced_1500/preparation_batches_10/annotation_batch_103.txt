@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 103
+Rows: 1020 - 1029
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1021
+sample_id: SP500_HEAD_009218
+date: 2021-05-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9203990697860718
+TEXT:
+S&P 500 Forecast 2021: Long-Term Looks Positive
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1022
+sample_id: SP500_HEAD_016737
+date: 2023-12-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9683141112327576
+TEXT:
+Dow Jones posts back-to-back losses after U.S. job openings fall to 28-month low
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1023
+sample_id: SP500_HEAD_007864
+date: 2020-04-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8315426707267761
+TEXT:
+Stocks jump 2%, putting the S&P 500 on track for its best month since 1974
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1024
+sample_id: SP500_HEAD_006883
+date: 2019-07-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6066043972969055
+TEXT:
+Is iShares S&P 500 Index K (WFSPX) a Strong Mutual Fund Pick Right Now?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1025
+sample_id: SP500_HEAD_016396
+date: 2023-11-10 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6123865842819214
+TEXT:
+Wall Street soars, fueled by tech as Treasury yields calm
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1026
+sample_id: SP500_HEAD_014734
+date: 2023-07-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.671894907951355
+TEXT:
+First ETF to Offer Protection Against 100% of Stock Losses Launches
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1027
+sample_id: SP500_HEAD_012151
+date: 2022-11-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9558039903640747
+TEXT:
+'Wild ride': Morgan Stanley's Mike Wilson predicts double-digit percentage drop will hit stocks in early 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1028
+sample_id: SP500_HEAD_007706
+date: 2020-03-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6440446376800537
+TEXT:
+Dow Jones: When will the stock market stop going down?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1029
+sample_id: SP500_HEAD_003876
+date: 2015-09-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9227976202964783
+TEXT:
+The crazy stocks that correlate with Apple
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1030
+sample_id: SP500_HEAD_007817
+date: 2020-04-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5521684885025024
+TEXT:
+S&P 500 rallies to fresh bull territory; oil rises
+

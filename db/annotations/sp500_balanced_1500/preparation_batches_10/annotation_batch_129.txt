@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 129
+Rows: 1280 - 1289
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1281
+sample_id: SP500_HEAD_006520
+date: 2019-02-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9356887936592102
+TEXT:
+E-mini S&P 500 Index (ES) Futures Technical Analysis – February 5, 2019 Forecast
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1282
+sample_id: SP500_HEAD_016767
+date: 2023-12-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9363825917243958
+TEXT:
+Dow Jones, S&P 500 end lower for third day as investors await more labor-market data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1283
+sample_id: SP500_HEAD_011234
+date: 2022-06-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9670193791389465
+TEXT:
+US Share Market Today: US market falls as economic concerns weigh; check top gainers and losers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1284
+sample_id: SP500_HEAD_016771
+date: 2023-12-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7061567306518555
+TEXT:
+S&P 500 Gains and Losses Today: Campbell Soup Profit Heats Up From Higher Prices
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1285
+sample_id: SP500_HEAD_014657
+date: 2023-07-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7094950675964355
+TEXT:
+US stocks hit 15-month high after inflation falls more than forecast
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1286
+sample_id: SP500_HEAD_003896
+date: 2015-09-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8808944225311279
+TEXT:
+Is a Quadruple-Witching Walloping a Good Thing?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1287
+sample_id: SP500_HEAD_016954
+date: 2023-12-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8440225124359131
+TEXT:
+S&P 500 Gains and Losses Today: Enphase's Cost Cutting Charges Up Solar Stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1288
+sample_id: SP500_HEAD_012818
+date: 2023-02-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9177592992782593
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for Feb. 10
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1289
+sample_id: SP500_HEAD_004133
+date: 2016-01-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7602701783180237
+TEXT:
+Gun control battle lines now spread through statehouses
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1290
+sample_id: SP500_HEAD_017817
+date: 2024-02-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8933303952217102
+TEXT:
+JPMorgan says the S&P 500 rally is at risk from a narrative shift
+

@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 006
+Rows: 250 - 299
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00251
+date: 2006-12-12 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9057769775390624
+TEXT:
+goldman profit almost doubles, but investors wary
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00252
+date: 2007-02-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9507898688316344
+TEXT:
+morgan stanley upgrades china mobile to overweight
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00253
+date: 2007-02-02 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6212666630744934
+TEXT:
+ex-coke aide found guilty in trade secrets case
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00254
+date: 2006-11-16 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8284701108932495
+TEXT:
+consumer prices fall, industrial output soft
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00255
+date: 2007-02-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8940185904502869
+TEXT:
+nyse euronext bids for outstanding euronext shares
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00256
+date: 2006-12-12 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.957706868648529
+TEXT:
+slight softening in 1st-qtr job outlook manpower
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00257
+date: 2007-03-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5039392709732056
+TEXT:
+boeing, st engineering in $136 million conversion deal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00258
+date: 2006-11-27 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.887564480304718
+TEXT:
+execs face tough digital transition, diller says
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00259
+date: 2006-11-09 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9741379618644714
+TEXT:
+stocks drop on drug worry, oil up aig up late
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00260
+date: 2007-05-06 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9095231890678406
+TEXT:
+australias asic rejects qantas bidder application
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00261
+date: 2007-04-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9553518295288086
+TEXT:
+indexes slip as investors sell off aprils stars
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00262
+date: 2006-12-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7334262728691101
+TEXT:
+qantas board rejects $8.6 billion takeover bid
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00263
+date: 2007-02-02 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8685401082038879
+TEXT:
+fed debates setting soft inflation target wsj
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00264
+date: 2006-12-20 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8819646239280701
+TEXT:
+stocks rally on thai turnaround, euro strong
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00265
+date: 2007-03-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9705743193626404
+TEXT:
+private sector adds 57,000 jobs in feb survey
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00266
+date: 2006-11-17 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9747672080993652
+TEXT:
+gap quarterly profit down, cuts full-year view
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00267
+date: 2006-11-07 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7440922856330872
+TEXT:
+microsoft to pay novell $348 million under linux pact
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00268
+date: 2006-12-28 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7761369347572327
+TEXT:
+goldman raises $6.5 bln for infrastructure fund
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00269
+date: 2006-11-16 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8829692006111145
+TEXT:
+milton friedman championed free-enterprise economics
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00270
+date: 2006-11-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9650546312332152
+TEXT:
+kerkorian to cut gm stake to 4.95 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00271
+date: 2006-12-21 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8454412817955017
+TEXT:
+ford to slip to no. 3 spot in 2007 report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00272
+date: 2007-04-29 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.565525233745575
+TEXT:
+factbox key facts about t.italia and telefonica
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00273
+date: 2007-02-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7463517189025879
+TEXT:
+china c.bank to control money, credit growth paper
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00274
+date: 2007-03-14 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.6427497267723083
+TEXT:
+hp investors meet, spy case against dunn dismissed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00275
+date: 2006-11-17 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7795928716659546
+TEXT:
+video gamers in full tilt ahead of console debuts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00276
+date: 2007-03-28 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5015093684196472
+TEXT:
+ambev to invest $2.4 billion in brazil over 5 years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00277
+date: 2007-05-09 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9629127383232116
+TEXT:
+fda seeks more data on cancer vaccine
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00278
+date: 2006-11-28 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6353188753128052
+TEXT:
+exxon says no decision on appeal of alaska ruling
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00279
+date: 2007-03-21 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9302974939346312
+TEXT:
+stocks end up on fed view
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00280
+date: 2007-02-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9432697296142578
+TEXT:
+factbox-biggest falls in the dow jones industrial average
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00281
+date: 2007-03-06 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6339453458786011
+TEXT:
+bp reaches tentative settlement on ohio violations
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00282
+date: 2006-10-24 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.618030309677124
+TEXT:
+wal-mart ceo sees holiday season sales improvement
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00283
+date: 2007-04-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8809066414833069
+TEXT:
+monster ex-general counsel settles sec case
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00284
+date: 2007-04-11 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8224284052848816
+TEXT:
+ford recalls 527,000 suvs after engine fires
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00285
+date: 2006-12-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9757760167121888
+TEXT:
+bankruptcies fall to 10-year low
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00286
+date: 2007-03-29 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6730337738990784
+TEXT:
+hitachi shores up u.s. unit with $1 bln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00287
+date: 2007-03-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9699944257736206
+TEXT:
+fed spies signs of slower growth
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00288
+date: 2007-02-14 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9249178171157836
+TEXT:
+dow ends at record on fed chiefs view and earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00289
+date: 2007-01-27 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8746799230575562
+TEXT:
+rocker gabriel wants youtube for human rights
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00290
+date: 2007-04-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7981226444244385
+TEXT:
+take-two says sec launches formal options probe
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00291
+date: 2007-01-03 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9337206482887268
+TEXT:
+morgan stanley sued by former exec for age bias
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00292
+date: 2006-10-30 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6959530711174011
+TEXT:
+cemex says offer fully values australias rinker
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00293
+date: 2006-12-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7183077931404114
+TEXT:
+some delta creditors form separate group
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00294
+date: 2006-11-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9332646131515504
+TEXT:
+now online retailers black friday secrets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00295
+date: 2007-05-03 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6129177808761597
+TEXT:
+rbs still plans lasalle bid by deadline -sources
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00296
+date: 2007-01-29 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9686781167984008
+TEXT:
+sara lee to cut nearly 1,700 jobs, 3 pct of staff
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00297
+date: 2007-01-25 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.917816996574402
+TEXT:
+gap not for sale, chief tells employees report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00298
+date: 2007-05-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8756129145622253
+TEXT:
+buffett wants to buy huge business
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00299
+date: 2007-04-10 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6717403531074524
+TEXT:
+bertelsmann buys rest of bookspan from time inc
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_00300
+date: 2007-01-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.973859429359436
+TEXT:
+lg elec posts loss on screens, outlook tough
+

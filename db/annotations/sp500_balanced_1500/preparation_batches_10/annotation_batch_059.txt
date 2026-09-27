@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 059
+Rows: 580 - 589
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0581
+sample_id: SP500_HEAD_017726
+date: 2024-02-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6944353580474854
+TEXT:
+S&P 500 to rise 30% over next two years: Strategist
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0582
+sample_id: SP500_HEAD_011236
+date: 2022-06-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.866945207118988
+TEXT:
+Two More Reasons This Bear Market Isn't Over
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0583
+sample_id: SP500_HEAD_015276
+date: 2023-08-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4574950039386749
+TEXT:
+S&P 500 to end 2023 up 17% but little gains seen between now and year end: Reuters poll
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0584
+sample_id: SP500_HEAD_006566
+date: 2019-02-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7752558588981628
+TEXT:
+Wabtec to replace Goodyear Tire on S&P 500 Feb. 27
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0585
+sample_id: SP500_HEAD_017711
+date: 2024-02-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9114986062049866
+TEXT:
+Wall Street thinks stocks have room to run even higher than originally thought
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0586
+sample_id: SP500_HEAD_015539
+date: 2023-09-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9161421656608582
+TEXT:
+All else being equal: Making the case for equal-weight ETFs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0587
+sample_id: SP500_HEAD_003156
+date: 2014-10-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9257222414016724
+TEXT:
+Oscar de la Renta: The man who could sell a $12,000 dress
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0588
+sample_id: SP500_HEAD_004915
+date: 2017-01-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5657448768615723
+TEXT:
+Stocks rise but pare gains in first trading day of 2017
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0589
+sample_id: SP500_HEAD_016409
+date: 2023-11-13 00:00:00
+finbert_label: negative
+finbert_confidence: 0.4325183033943176
+TEXT:
+S&P 500, Nasdaq 100 Break Series of Lower Highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0590
+sample_id: SP500_HEAD_016333
+date: 2023-11-07 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8952581286430359
+TEXT:
+Nasdaq, S&P 500 aim for longest winning streaks in roughly 2 years as QQQs challenge important trend line
+

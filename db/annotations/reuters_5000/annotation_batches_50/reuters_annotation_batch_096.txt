@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 096
+Rows: 4750 - 4799
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04751
+date: 2007-01-03 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7692492008209229
+TEXT:
+kodak says in license agreement with sony
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04752
+date: 2007-04-24 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7551692724227905
+TEXT:
+apple ex-cfo links jobs to backdated options
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04753
+date: 2006-12-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6029167771339417
+TEXT:
+valassis to buy advo at lower price suits dropped
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04754
+date: 2007-04-19 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8572944402694702
+TEXT:
+blackberry e-mail outage upsets white house, wall st
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04755
+date: 2007-02-23 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9537085890769958
+TEXT:
+clear channel outdoor posts higher profit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04756
+date: 2007-01-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.4926492571830749
+TEXT:
+job growth surprisingly strong in december
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04757
+date: 2007-02-28 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.8563982248306274
+TEXT:
+stocks rebound on bernanke assurance
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04758
+date: 2007-02-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9261529445648192
+TEXT:
+karstadt sees mytravel integrated in 24 months
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04759
+date: 2007-01-25 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.926336407661438
+TEXT:
+time warner to sell magazines to bonnier report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04760
+date: 2007-02-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.941098153591156
+TEXT:
+gm, ford shares rise on brokerage upgrade
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04761
+date: 2006-12-27 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7078886032104492
+TEXT:
+cenveo to buy cadmus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04762
+date: 2006-11-28 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8791662454605103
+TEXT:
+microsoft hires ex-apprentice star as judge
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04763
+date: 2007-03-12 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9034615755081176
+TEXT:
+anadarko sells part of k2 gulf of mexico field
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04764
+date: 2007-03-02 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7400476932525635
+TEXT:
+googles youtube signing smaller partnerships paper
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04765
+date: 2006-12-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.4930320978164673
+TEXT:
+court rejects class action against banks ny times
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04766
+date: 2007-05-01 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8227682709693909
+TEXT:
+news corp. makes $5 billion bid for dow jones
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04767
+date: 2007-01-29 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5016644597053528
+TEXT:
+canon profit to rise for another record year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04768
+date: 2007-04-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9287577867507936
+TEXT:
+chinas economy surges, more tightening seen
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04769
+date: 2007-02-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.939387023448944
+TEXT:
+corrected official toyota q3 beats expectations
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04770
+date: 2006-10-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.948079228401184
+TEXT:
+wall street seen down before key economic data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04771
+date: 2007-01-11 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9247483015060424
+TEXT:
+home depot investors try to halt ex-ceo exit pay
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04772
+date: 2006-11-01 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9246261715888976
+TEXT:
+gm u.s. october sales up 22 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04773
+date: 2007-03-15 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9438771605491638
+TEXT:
+banks shares push stocks up, easing mortgage woes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04774
+date: 2006-12-14 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5813583731651306
+TEXT:
+man ceo plays down chance of raised bid report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04775
+date: 2007-01-31 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5393400192260742
+TEXT:
+instant view 3-michael dell returns as dell inc. ceo
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04776
+date: 2006-11-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6216897964477539
+TEXT:
+south korea picks boeing for surveillance planes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04777
+date: 2007-04-13 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6940475702285767
+TEXT:
+nasdaq, omx talked, but deal not imminent report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04778
+date: 2007-01-04 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9585777521133424
+TEXT:
+monsanto beats expectations with results
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04779
+date: 2006-11-09 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6395934224128723
+TEXT:
+nissan will consider us automakers assets, plants
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04780
+date: 2007-01-26 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.95345938205719
+TEXT:
+dow jones to cut field office jobs, add others
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04781
+date: 2007-02-19 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8529531359672546
+TEXT:
+big oil firms expand in unconventional oil sector
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04782
+date: 2007-03-18 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7207910418510437
+TEXT:
+abn receives approaches from several banks sources
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04783
+date: 2007-04-25 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.5353997945785522
+TEXT:
+factbox abn amro gets rival approach that tops agreed bid
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04784
+date: 2007-02-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8852655291557312
+TEXT:
+singapore oil storage caverns delayed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04785
+date: 2007-01-09 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9187250137329102
+TEXT:
+goodrich to sell $10 bln in components to airbus
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04786
+date: 2006-12-05 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6541813611984253
+TEXT:
+oil field delays mean higher 2010 crude price eia
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04787
+date: 2007-03-02 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.852439284324646
+TEXT:
+txu bidders pledge no sale for 5 years wsj
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04788
+date: 2006-11-15 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7825492024421692
+TEXT:
+boeing poised to receive $10 billion in orders wsj
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04789
+date: 2007-02-07 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9484818577766418
+TEXT:
+cisco profit and outlook beat expectations
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04790
+date: 2007-05-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9731351733207704
+TEXT:
+jj new stent device fails in study
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04791
+date: 2007-04-06 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7081156373023987
+TEXT:
+china firm denies role in pet deaths food scare
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04792
+date: 2006-12-13 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7473961114883423
+TEXT:
+home depot says buys chinas the home way
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04793
+date: 2007-01-08 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7970673441886902
+TEXT:
+gap hires goldman sachs shares surge
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04794
+date: 2007-01-27 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8279812932014465
+TEXT:
+research firm hunts for clues in insider sales
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04795
+date: 2006-11-14 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9296062588691713
+TEXT:
+japan july-september gdp growth tops forecasts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04796
+date: 2006-11-15 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9190983772277832
+TEXT:
+nintendo shares hit record high ahead of wii debut
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04797
+date: 2007-04-02 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5119433999061584
+TEXT:
+u.s.-based airtran raises offer for midwest air
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04798
+date: 2007-02-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.4789866507053375
+TEXT:
+northwest airlines details reorganization plan
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04799
+date: 2007-04-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8911452889442444
+TEXT:
+wal-mart makes two executive appointments in u.s
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_04800
+date: 2007-05-02 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8984870910644531
+TEXT:
+hedge fund risks worst since 98 crisis, fed says
+

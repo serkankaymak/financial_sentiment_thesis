@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 095
+Rows: 940 - 949
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0941
+sample_id: SP500_HEAD_015320
+date: 2023-08-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7824727892875671
+TEXT:
+S&P 500 Gains and Losses Today: Index Advances, Shaking Off Rate Hike Concerns
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0942
+sample_id: SP500_HEAD_016105
+date: 2023-10-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7733814716339111
+TEXT:
+S&P 500 Won't Hit New High for Years, House Prices Will Fall: Cooperman
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0943
+sample_id: SP500_HEAD_009354
+date: 2021-06-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5469302535057068
+TEXT:
+Companies Buying Back Their Stock At Pre-Pandemic Levels—A Sign Of Economic Optimism
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0944
+sample_id: SP500_HEAD_004076
+date: 2015-12-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9224089980125427
+TEXT:
+U.S. freezes assets of top Japanese mafia boss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0945
+sample_id: SP500_HEAD_000956
+date: 2011-12-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8610166311264038
+TEXT:
+A social-media addict tries to disconnect
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0946
+sample_id: SP500_HEAD_001568
+date: 2012-10-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9042796492576599
+TEXT:
+Peter Gabriel crowdsources new ‘Sledgehammer’ on Facebook
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0947
+sample_id: SP500_HEAD_009417
+date: 2021-07-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9614285230636597
+TEXT:
+Debt To Capital: Unscrubbed Data Creates Misleading Credit Ratings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0948
+sample_id: SP500_HEAD_010823
+date: 2022-05-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7528822422027588
+TEXT:
+This Income ETF Is Good for These Turbulent Times
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0949
+sample_id: SP500_HEAD_002413
+date: 2013-11-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.697093665599823
+TEXT:
+US STOCKS-Nasdaq climbs as tech shares rally after HP results
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0950
+sample_id: SP500_HEAD_010579
+date: 2022-03-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8303378224372864
+TEXT:
+S&P 500, Nasdaq 100 Clear Fibonacci Resistance and Break Out Higher. What’s Next?
+

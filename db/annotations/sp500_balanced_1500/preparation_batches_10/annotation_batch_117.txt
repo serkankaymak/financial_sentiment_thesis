@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 117
+Rows: 1160 - 1169
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1161
+sample_id: SP500_HEAD_013244
+date: 2023-03-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7572351694107056
+TEXT:
+The Dangerous Assumption Fueling S&P 500's P/E Ratios
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1162
+sample_id: SP500_HEAD_008626
+date: 2020-11-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9494190216064453
+TEXT:
+Abstract is In: Intangible Assets Currently Make Up 90% of the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1163
+sample_id: SP500_HEAD_010754
+date: 2022-04-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7426296472549438
+TEXT:
+Strategies to Trade Volatility Effectively With VIX
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1164
+sample_id: SP500_HEAD_002763
+date: 2014-05-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.820633053779602
+TEXT:
+Poll: Hillary Clinton, Barbara Bush Most Admired First Ladies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1165
+sample_id: SP500_HEAD_007474
+date: 2020-02-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8173600435256958
+TEXT:
+Corporate Earnings Anemic Growth: S&P 500 Gains Due to Multiple Expansion
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1166
+sample_id: SP500_HEAD_009035
+date: 2021-03-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9414423108100891
+TEXT:
+This Day In Market History: S&P 500's Lowest Closing Price Of The Great Recession
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1167
+sample_id: SP500_HEAD_002103
+date: 2013-07-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.53133225440979
+TEXT:
+‘I’m living my dream’ says Fortune 500 CEO Ilene Gordon
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1168
+sample_id: SP500_HEAD_017479
+date: 2024-01-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8501238226890564
+TEXT:
+What An S&P 500 All-Time High Could Mean For Your Investments
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1169
+sample_id: SP500_HEAD_006629
+date: 2019-03-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9478448629379272
+TEXT:
+S&P 500 Patterns Point to an Eventual December Low Retest
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1170
+sample_id: SP500_HEAD_005745
+date: 2018-02-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6090776324272156
+TEXT:
+Stock market volatility wiped out investors betting against the VIX. That should make you nervous.
+

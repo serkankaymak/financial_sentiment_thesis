@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 014
+Rows: 130 - 139
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0131
+sample_id: SP500_HEAD_016150
+date: 2023-10-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8337241411209106
+TEXT:
+The S&P 500 Rallies 10% When It Goes a Year Without Record High
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0132
+sample_id: SP500_HEAD_006796
+date: 2019-06-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8175439834594727
+TEXT:
+The Market May Be Hitting the Dreaded 'Triple Top'—a Red Flag to Investors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0133
+sample_id: SP500_HEAD_003305
+date: 2014-12-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5364407896995544
+TEXT:
+Shares rise in thin post-holiday trade; oil, natural gas slip
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0134
+sample_id: SP500_HEAD_004799
+date: 2016-11-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7398930788040161
+TEXT:
+Dow closes up 250 points; financials surge after Trump election upset
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0135
+sample_id: SP500_HEAD_005688
+date: 2018-02-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8525952696800232
+TEXT:
+How the Unemployment Rate Predicts Stock Market Crashes | DailyWealth
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0136
+sample_id: SP500_HEAD_004861
+date: 2016-12-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7219796776771545
+TEXT:
+AP Explains: What resignation of New Zealand's leader means
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0137
+sample_id: SP500_HEAD_011733
+date: 2022-09-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9682979583740234
+TEXT:
+S&P 500 ends Tuesday down after notching a fresh bear market low, Dow slips more than 100 points
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0138
+sample_id: SP500_HEAD_006243
+date: 2018-10-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7207323908805847
+TEXT:
+Why a 15% Sell-Off Could Prolong the Bull Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0139
+sample_id: SP500_HEAD_000773
+date: 2011-09-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9331330060958862
+TEXT:
+Market Report - Sep. 15, 2011 - CNNMoney
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0140
+sample_id: SP500_HEAD_010580
+date: 2022-03-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.858000636100769
+TEXT:
+Stifel Stock Chief Warns of 0% Returns Over the Next Decade
+

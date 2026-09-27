@@ -1,0 +1,1031 @@
+﻿source_dataset,source_row_index,annotation_id,text,chatgpt_label,gemini_label
+sp500_human_review,0,SP500_ANN_0001,"U.S. Stocks Higher After Economic Data, Monsanto Outlook",positive,positive
+sp500_human_review,1,SP500_ANN_0002,Stock Market Outlook 2024: Rare Bullish Signal Says S&P 500 Will Soar 20%,positive,positive
+sp500_human_review,2,SP500_ANN_0003,Federal Reserve Rate Hike Odds Grow As Bank-Crisis Fears Ebb; S&P 500 Rises,positive,positive
+sp500_human_review,3,SP500_ANN_0004,"US Stock Market Closing: Dow Jones, S&P 500 Retreat As Traders Assess Fed Meeting Minutes, Nasdaq Plunges 1.2",negative,negative
+sp500_human_review,4,SP500_ANN_0005,"Deutsche Bank: S&P 500 13% Overvalued, Recession Coming",negative,negative
+sp500_human_review,5,SP500_ANN_0006,Wall Street strategists’ bull and bear scenarios for 2024.,neutral,neutral
+sp500_human_review,6,SP500_ANN_0007,European stocks stable before US jobs data,neutral,neutral
+sp500_human_review,7,SP500_ANN_0008,"Business News, Strategy, Finance and Corporate Insight",neutral,neutral
+sp500_human_review,8,SP500_ANN_0009,S&P 500 to Finish Year Modestly Higher: Invesco's Hooper,positive,positive
+sp500_human_review,9,SP500_ANN_0010,Low Oil Demand Weighing On Helmerich & Payne Stock,negative,negative
+sp500_human_review,10,SP500_ANN_0011,Wall Street's 'Magnificent Seven' face moment of truth as earnings season arrives,neutral,neutral
+sp500_human_review,11,SP500_ANN_0012,S&P 500 valuations rise on hopes of fairy tale end to inflation fight,positive,positive
+sp500_human_review,12,SP500_ANN_0013,"Stock Market Today: Dow, S&P Live Updates for July 4",neutral,neutral
+sp500_human_review,13,SP500_ANN_0014,"Wall St ends higher as bank contagion fears ease, Fed eyed",positive,positive
+sp500_human_review,14,SP500_ANN_0015,S&P 500 Gains and Losses Today: NetApp and GM Rise; Hormel and Las Vegas Sands Fall,neutral,neutral
+sp500_human_review,15,SP500_ANN_0016,The S&P 500 is up almost 8% in the first 100 trading days of the year. That bodes well for the rest of 2023,positive,positive
+sp500_human_review,16,SP500_ANN_0017,SDOG Maintains Significant Lead Over S&P 500,positive,positive
+sp500_human_review,17,SP500_ANN_0018,Happiness at work: Why money isn’t the only thing that matters,neutral,neutral
+sp500_human_review,18,SP500_ANN_0019,These S&P 500 Stocks Got Cut in Half in 2017,negative,negative
+sp500_human_review,19,SP500_ANN_0020,"US Market Opening: Dow Jones, S&P 500 fall as investors await inflation results",negative,negative
+sp500_human_review,20,SP500_ANN_0031,S&P 500 Forward P/E Ratio Rises Above 20.0 as EPS Estimates Continue to Fall,negative,neutral
+sp500_human_review,21,SP500_ANN_0032,Investors shown to be actively pursuing passive funds,neutral,neutral
+sp500_human_review,22,SP500_ANN_0033,Wall Street rallies to record-breaking end of turbulent week,positive,positive
+sp500_human_review,23,SP500_ANN_0034,Stocks Hit a Record as Investors See Progress Toward a Spending Deal (Published 2021),positive,positive
+sp500_human_review,24,SP500_ANN_0035,S&P 500 Gains and Losses Today: 3M Shares Tumble Following Weak 2024 Outlook,negative,negative
+sp500_human_review,25,SP500_ANN_0036,"Down $20 Billion, Boeing Stuffs Pension Fund With Its Own Shares",negative,negative
+sp500_human_review,26,SP500_ANN_0037,Rampaging Stock Bears Slowed at Key S&P 500 Technical Level,neutral,neutral
+sp500_human_review,27,SP500_ANN_0038,Where's the Fear? VIX Keeps Sliding as Big Events Fail to Lift Volatility | Market Insights,positive,neutral
+sp500_human_review,28,SP500_ANN_0039,"World markets today: US stocks gain, S&P 500 hits record high | Mint",positive,positive
+sp500_human_review,29,SP500_ANN_0040,S&P 500 Loser: GE Tries To Put Investors Out Of Their Misery,negative,negative
+sp500_human_review,30,SP500_ANN_0041,The Volume of Short Positions in the Shanghai Composite Index (SHA:000001) Hits All-Time High at ¥80 Billion Following the S&P 500 (SPX)...,negative,negative
+sp500_human_review,31,SP500_ANN_0042,"Wall Street ends lower, Dow confirms bear market",negative,negative
+sp500_human_review,32,SP500_ANN_0043,Consumer confidence versus SP500 from BlackRock Larry Fink,neutral,neutral
+sp500_human_review,33,SP500_ANN_0044,Guess What Statistic Has The Highest Correlation With The S&P 500?,neutral,neutral
+sp500_human_review,34,SP500_ANN_0045,Bank of America: S&P 500 will soar to 5000 in 2024,positive,positive
+sp500_human_review,35,SP500_ANN_0046,Stock Market Outlook: 17% Downside As Stocks' Inflation Hedge Fades,negative,negative
+sp500_human_review,36,SP500_ANN_0047,"Dow closes more than 200 points lower Tuesday, major averages end February with losses: Live updates",negative,negative
+sp500_human_review,37,SP500_ANN_0048,Strong corporate earnings are helping the US avoid a recession - but there are 2 big risks facing markets and the ...,neutral,neutral
+sp500_human_review,38,SP500_ANN_0049,Why Trump's Stock Market Cheering Is Dangerous,negative,neutral
+sp500_human_review,39,SP500_ANN_0050,Cramer explains the magic of compounding,neutral,neutral
+sp500_human_review,40,SP500_ANN_0051,Gold vs. S&P 500 Comes Full Circle | Gold News,neutral,neutral
+sp500_human_review,41,SP500_ANN_0052,"S&P 500: Don't Let Valuations, New Record Worry You",positive,neutral
+sp500_human_review,42,SP500_ANN_0053,Women-led companies perform three times better than the S&P 500,positive,positive
+sp500_human_review,43,SP500_ANN_0054,US Markets Open the Week Higher on Corporate Headlines,positive,positive
+sp500_human_review,44,SP500_ANN_0055,"1 Magnificent S&P 500 Dividend Stock Returning 1,280% Since 2002 to Buy Right Now",positive,positive
+sp500_human_review,45,SP500_ANN_0056,"Stock Market Today: Dow, S&P Live Updates for December 20",neutral,neutral
+sp500_human_review,46,SP500_ANN_0057,These Are the 7 Biggest Hedge Fund Disasters of 2016,negative,negative
+sp500_human_review,47,SP500_ANN_0058,"After 374-point tumble in the Dow, U.S. stock futures rise before Powell talk",positive,neutral
+sp500_human_review,48,SP500_ANN_0059,Wall Street faces profit recession as earnings season begins – EMTV Online,negative,negative
+sp500_human_review,49,SP500_ANN_0060,S&P 500 and the U.S. Presidential Election,neutral,neutral
+sp500_human_review,50,SP500_ANN_0061,Democrats Vs. Republicans: Who Is Better For The Stock Market?,neutral,neutral
+sp500_human_review,51,SP500_ANN_0062,Two Stocks Dominate The Market More Than IBM Did In The '80s,neutral,neutral
+sp500_human_review,52,SP500_ANN_0063,U.S. Stocks Snap Back Amid Hopes Of AIG Rescue,positive,positive
+sp500_human_review,53,SP500_ANN_0064,"Stocks Return to Earth, With the S&P 500 Nearing a Bear Market",negative,negative
+sp500_human_review,54,SP500_ANN_0065,"Stock Market Today: Dow, S&P Live Updates for July 28",neutral,neutral
+sp500_human_review,55,SP500_ANN_0066,"News updates from November 9: S&P 500 snaps win streak, Ransomware attack disrupts Chinese lender ICBC",negative,negative
+sp500_human_review,56,SP500_ANN_0067,Goldman Sachs ups its near-term S&P 500 target due to brighter economic picture. But here's what the bank's strategists say could knock 25% off stocks.,negative,neutral
+sp500_human_review,57,SP500_ANN_0068,S&P 500 closes at historic peak after Fed adopts easy-money posture,positive,positive
+sp500_human_review,58,SP500_ANN_0069,S&P 500 Notches Another Record Closing High,positive,positive
+sp500_human_review,59,SP500_ANN_0070,SPX: S&P 500 Drops 0.8% After Data Shows US Labor Market is Still Hot,negative,negative
+sp500_human_review,60,SP500_ANN_0071,"Stock market could plunge another 24% next year, Bank of America warns",negative,negative
+sp500_human_review,61,SP500_ANN_0072,"S&P 500 E-Mini Bears Want Double Top Test of 4,500",negative,neutral
+sp500_human_review,62,SP500_ANN_0073,10 S&P Stocks with the Highest PEG Ratios,neutral,neutral
+sp500_human_review,63,SP500_ANN_0074,S&P 500 Weekly Price Forecast – The Stock Market Continues to Plummet,negative,negative
+sp500_human_review,64,SP500_ANN_0075,The new CFO: How being chief financial officer can be the launchpad to the head office,neutral,neutral
+sp500_human_review,65,SP500_ANN_0076,Berkshire seen failing Warren Buffett's 5-year test for the first time,negative,negative
+sp500_human_review,66,SP500_ANN_0077,Why Stocks Are Better Than Leprechaun Gold on St. Patrick's Day,positive,neutral
+sp500_human_review,67,SP500_ANN_0078,Uber Is Riding Into the S&P 500: Here's Why Its Stock Could Soar Higher,positive,positive
+sp500_human_review,68,SP500_ANN_0079,S&P 500 Circles New 2022 Lows Following Latest Fed Rate Hike: Is A Recession Inevitable? - SPDR S&P 500 (,negative,negative
+sp500_human_review,69,SP500_ANN_0080,11 stocks in the S&P 500 expected to form an exclusive growth club for investors,positive,positive
+sp500_human_review,70,SP500_ANN_0081,New Push to Protect Au Pairs as U.S. Program Is Reviewed,neutral,neutral
+sp500_human_review,71,SP500_ANN_0082,Record dollar strength ravages stocks with most overseas exposure,negative,negative
+sp500_human_review,72,SP500_ANN_0083,Wall Street’s worst day since before Trump’s election,negative,negative
+sp500_human_review,73,SP500_ANN_0084,This Legal Way To Dodge Taxes Is Working Again This Year,neutral,positive
+sp500_human_review,74,SP500_ANN_0085,How Frequently Do New S&P 500 Highs Stick?,neutral,neutral
+sp500_human_review,75,SP500_ANN_0086,Why the Stock Market Makes You Feel Bad All the Time,negative,neutral
+sp500_human_review,76,SP500_ANN_0087,This Day In Market History: American Market Speculator Jesse Livermore Is Born,neutral,neutral
+sp500_human_review,77,SP500_ANN_0088,Here's How This Stock Sets Up Wyckoff Accumulation For The Next Big Move,positive,neutral
+sp500_human_review,78,SP500_ANN_0089,3 Questions to Ask About the 200-day Moving Average,neutral,neutral
+sp500_human_review,79,SP500_ANN_0090,How to Read the S&P 500's Key Technical Signals,neutral,neutral
+sp500_human_review,80,SP500_ANN_0091,"Wyoming Ranch Asks $175 Million, Believed to Be Highest for U.S. Ranch | Private Properties",neutral,neutral
+sp500_human_review,81,SP500_ANN_0092,The S&P 500 will tumble another 9% in 2022 even as the bear-market rally propelled a rebound in sentiment on Wall ...,negative,negative
+sp500_human_review,82,SP500_ANN_0093,Power failure: Why did SolarEdge’s value plummet by $11 billion in a year?,negative,negative
+sp500_human_review,83,SP500_ANN_0094,Analysts Making Larger Cuts Than Average to EPS Estimates for S&P 500 Companies for Q1,negative,negative
+sp500_human_review,84,SP500_ANN_0095,U.S. Stocks Little Changed Amid Global Rally as Commodities Drop,neutral,neutral
+sp500_human_review,85,SP500_ANN_0096,Markets Plunge as a Global Recession Appears Almost Inevitable (Published 2020),negative,negative
+sp500_human_review,86,SP500_ANN_0097,"S&P 500 rallies, closes just shy of its record closing high",positive,positive
+sp500_human_review,87,SP500_ANN_0098,S&P 500 Weekly Price Forecast – Stock Market Has a Tough Week Again,negative,negative
+sp500_human_review,88,SP500_ANN_0099,"Monster Beverage (MNST) Stock Up 107,060% Over 20 Years; Top Performer in SPX",positive,positive
+sp500_human_review,89,SP500_ANN_0100,"NightDragon, Diligent Report Finds Gap in Cyber Experience in S&P500 Board Rooms",negative,neutral
+sp500_human_review,90,SP500_ANN_0101,Last-minute giving made easier with Facebook Gifts,neutral,neutral
+sp500_human_review,91,SP500_ANN_0102,The S&P 500 looks eerily similar to right before the 1987 crash,negative,negative
+sp500_human_review,92,SP500_ANN_0103,"Pfizer Moves Up In Market Cap Rank, Passing IBM",positive,positive
+sp500_human_review,93,SP500_ANN_0104,Cash gains an edge over S&P 500 dividend yields,negative,neutral
+sp500_human_review,94,SP500_ANN_0105,S&P 500 ends higher as oil stocks rally; Tesla tumbles,positive,neutral
+sp500_human_review,95,SP500_ANN_0106,TSX higher as traders doubt Greek referendum,positive,positive
+sp500_human_review,96,SP500_ANN_0107,The Dow Is Sputtering - But One Core Stock Just Got a Major Upgrade,neutral,neutral
+sp500_human_review,97,SP500_ANN_0108,Generac stock charges higher to pace the S&P 500 gainers after reports of widespread power outages,positive,positive
+sp500_human_review,98,SP500_ANN_0109,US metal tariffs re-ignite trade war fears as global markets tumble,negative,negative
+sp500_human_review,99,SP500_ANN_0110,S&P 500 Index: Forward P/E Ratio - The Big Picture,neutral,neutral
+sp500_human_review,100,SP500_ANN_0111,U.S. stocks open lower as S&P 500’s winning streak threatened ahead of Fed minutes,negative,negative
+sp500_human_review,101,SP500_ANN_0112,5 Restaurants That Outperformed the S&P 500 in the Past 6 Months,positive,positive
+sp500_human_review,102,SP500_ANN_0113,Investor Bill Miller takes on S&P 500 with new ETF,neutral,neutral
+sp500_human_review,103,SP500_ANN_0114,Warren Buffett's Egregious Hypocrisy On Index Funds,negative,neutral
+sp500_human_review,104,SP500_ANN_0115,US Election 2016: Markets meltdown fails to materialise,positive,positive
+sp500_human_review,105,SP500_ANN_0116,Why Do Many Once-great Companies Ultimately Stumble?,negative,neutral
+sp500_human_review,106,SP500_ANN_0117,VOO vs VTI: Vanguard's S&P 500 and Total Stock Market ETFs Compared,neutral,neutral
+sp500_human_review,107,SP500_ANN_0118,S&P 500 hits record high as Nvidia's blowout earnings keeps bulls marching on,positive,positive
+sp500_human_review,108,SP500_ANN_0119,BofA's Savita Subramanian: Stocks Are in for a Volatile Year,negative,negative
+sp500_human_review,109,SP500_ANN_0120,Fund of Women-Run Firms Is Beating the S&P 500 Since Launching,positive,positive
+sp500_human_review,110,SP500_ANN_0121,Google And Microsoft Top The Most Popular Mutual Fund Stocks,neutral,neutral
+sp500_human_review,111,SP500_ANN_0122,"S&P closes at more than two-month high on retail, energy lift",positive,positive
+sp500_human_review,112,SP500_ANN_0123,Growth and momentum strategies led S&P 500 gains in July,positive,positive
+sp500_human_review,113,SP500_ANN_0124,The Stock Market Hasn't Had a Selloff Like This One in Over 75 Years,negative,negative
+sp500_human_review,114,SP500_ANN_0125,Stock Screen Finds These Growth Stocks Outperforming The S&P 500,positive,positive
+sp500_human_review,115,SP500_ANN_0126,"NASDAQ 100, Dow Jones, S&P 500: Optimism Surrounds U.S. Debt Ceiling Talks as Stocks Rise",positive,positive
+sp500_human_review,116,SP500_ANN_0127,Stocks: Stellar year ends on a high note,positive,positive
+sp500_human_review,117,SP500_ANN_0128,"S&P 500, NAS 100 Runs into Resistance, Can the Rally Continue?",neutral,neutral
+sp500_human_review,118,SP500_ANN_0129,2020 Could See Slower But Continued Stock Gains Say Analysts,positive,positive
+sp500_human_review,119,SP500_ANN_0130,"'Few are priced for an upcrash.' The S&P 500 could reach 4,600 this year, thanks to pessimism, says RBC.",positive,positive
+sp500_human_review,120,SP500_ANN_0131,The S&P 500 Rallies 10% When It Goes a Year Without Record High,positive,neutral
+sp500_human_review,121,SP500_ANN_0132,The Market May Be Hitting the Dreaded 'Triple Top'—a Red Flag to Investors,negative,negative
+sp500_human_review,122,SP500_ANN_0133,"Shares rise in thin post-holiday trade; oil, natural gas slip",positive,neutral
+sp500_human_review,123,SP500_ANN_0134,Dow closes up 250 points; financials surge after Trump election upset,positive,positive
+sp500_human_review,124,SP500_ANN_0135,How the Unemployment Rate Predicts Stock Market Crashes | DailyWealth,negative,neutral
+sp500_human_review,125,SP500_ANN_0136,AP Explains: What resignation of New Zealand's leader means,neutral,neutral
+sp500_human_review,126,SP500_ANN_0137,"S&P 500 ends Tuesday down after notching a fresh bear market low, Dow slips more than 100 points",negative,negative
+sp500_human_review,127,SP500_ANN_0138,Why a 15% Sell-Off Could Prolong the Bull Market,neutral,positive
+sp500_human_review,128,SP500_ANN_0139,"Market Report - Sep. 15, 2011 - CNNMoney",neutral,neutral
+sp500_human_review,129,SP500_ANN_0140,Stifel Stock Chief Warns of 0% Returns Over the Next Decade,negative,negative
+sp500_human_review,130,SP500_ANN_0141,Jim Cramer Agrees With Bank Of America's Prediction For S&P 500 To Hit 5K By 2024: 'But Other Than Sentiment ...,positive,positive
+sp500_human_review,131,SP500_ANN_0142,"Fear gauge decouples from S&P 500 amid sell-off, confounding market",negative,neutral
+sp500_human_review,132,SP500_ANN_0143,"Nasdaq ends higher as yields fall, Boeing curbs gains on Dow",positive,neutral
+sp500_human_review,133,SP500_ANN_0144,"Stock market: United Airlines, Delta stocks rise but S&P 500 falls",negative,neutral
+sp500_human_review,134,SP500_ANN_0145,"Dow Jones, Nasdaq, S&P 500 weekly preview: Q4 earnings season is here",neutral,neutral
+sp500_human_review,135,SP500_ANN_0146,"Industry Analysts Still Predict the S&P 500 Price Will Close Above 5,000 in the Next 12 Months",positive,positive
+sp500_human_review,136,SP500_ANN_0147,The Potential Value of U.S. Equity Allocation to Chinese Investors,neutral,neutral
+sp500_human_review,137,SP500_ANN_0148,"Stock market news today: Stocks rally as Salesforce's 11% gain lifts Dow while S&P, Nasdaq reverse early losses",positive,positive
+sp500_human_review,138,SP500_ANN_0149,"S&P 500, Nasdaq end sharply lower as Alphabet disappoints, Treasury yields bounce",negative,negative
+sp500_human_review,139,SP500_ANN_0150,"Sell In May And Go Away, Except In Year With An Election",neutral,neutral
+sp500_human_review,140,SP500_ANN_0151,Enthusiasm for Tech Stocks and Optimism About Fed Rate Hikes Lift Markets,positive,positive
+sp500_human_review,141,SP500_ANN_0152,"YSU investment fund club outperforms S&P 500 index, Youngstown -",positive,positive
+sp500_human_review,142,SP500_ANN_0153,Regression to Trend: A Perspective on Long-Term Market Performance,neutral,neutral
+sp500_human_review,143,SP500_ANN_0154,Sector Views March 2023: GICS Change Adds Growth to Financials,positive,positive
+sp500_human_review,144,SP500_ANN_0155,Your smartphone could replace hotel keys,neutral,neutral
+sp500_human_review,145,SP500_ANN_0156,Can the S&P 500 Maintain Its July Momentum?,neutral,neutral
+sp500_human_review,146,SP500_ANN_0157,Aerospace-Defense Outperforms S&P 500 YTD: 4 Stocks to Buy,positive,positive
+sp500_human_review,147,SP500_ANN_0158,Salesforce breaks ranks with 4-1 stock split,neutral,neutral
+sp500_human_review,148,SP500_ANN_0159,"SPX: S&P 500 Futures Dip Ahead of Shortened Week, Nvidia Earnings on Deck",negative,negative
+sp500_human_review,149,SP500_ANN_0160,Wall St dips as Treasury yields rise after auction,negative,negative
+sp500_human_review,150,SP500_ANN_0161,"S&P 500 sheds 2.6% in February as inflation, interest rate worries persist",negative,negative
+sp500_human_review,151,SP500_ANN_0162,"NASDAQ 100, Dow Jones, S&P 500: Mixed Trade Following Last Week’s Surge as Oil Prices Jump",neutral,neutral
+sp500_human_review,152,SP500_ANN_0163,4 Vanguard Funds With a Record of Beating the S&P 500,positive,positive
+sp500_human_review,153,SP500_ANN_0164,"Stocks rally to record highs, Nasdaq closes above 13,000 for the first time",positive,positive
+sp500_human_review,154,SP500_ANN_0165,"Markets News, Oct. 13, 2023: Dow Gains, Nasdaq Sinks as Investors Flock to Safe Havens",negative,neutral
+sp500_human_review,155,SP500_ANN_0166,S&P 500 Gains and Losses Today: Index Falls as Fed Holds Interest Rates Steady,negative,negative
+sp500_human_review,156,SP500_ANN_0167,S&P 500 Enters Bear Market With Help From the Fed,negative,negative
+sp500_human_review,157,SP500_ANN_0168,Increased market volatility seems to be a myth,positive,neutral
+sp500_human_review,158,SP500_ANN_0169,"Why stock market bulls are applauding the S&P 500's close above 4,231",positive,positive
+sp500_human_review,159,SP500_ANN_0170,"Stock market news live updates: Stocks fall for back-to-back sessions, S&P 500 posts weekly loss of more than 1%",negative,negative
+sp500_human_review,160,SP500_ANN_0171,Why GameStop Stock Is Outperforming the S&P 500 In 2022,positive,positive
+sp500_human_review,161,SP500_ANN_0172,Nasdaq notches first record high close since 2021,positive,positive
+sp500_human_review,162,SP500_ANN_0173,Want Stock Market Gains but Hate Risk? Buffer Annuities May Be for You,neutral,neutral
+sp500_human_review,163,SP500_ANN_0174,Biggest ESG Funds Are Outpacing the S&P 500,positive,positive
+sp500_human_review,164,SP500_ANN_0175,Stock Market Outlook: Dismal October Points to 6-Month Rally in S&P 500,positive,positive
+sp500_human_review,165,SP500_ANN_0176,"Tesla shares suffer New Year's hangover on demand worries, delivery issues",negative,negative
+sp500_human_review,166,SP500_ANN_0177,"Stocks Rise To Kick Off Big Week of Earnings, Fed Decision",positive,positive
+sp500_human_review,167,SP500_ANN_0178,"Two Factors That Actually Predict S&P 500 Performance, And What They Show Today",neutral,neutral
+sp500_human_review,168,SP500_ANN_0179,"Utilities stocks 'decimated' by rising rates fall into uncommon trading territory, Bespoke chart shows",negative,negative
+sp500_human_review,169,SP500_ANN_0180,Tesla hits $500 billion mark after soaring 547% this year,positive,positive
+sp500_human_review,170,SP500_ANN_0181,S&P 500 Forecast: Stocks Face Peril as Day of Reckoning Looms,negative,negative
+sp500_human_review,171,SP500_ANN_0182,"S&P 500: Three Stocks Turn $10,000 To $25,265 In Just 3 Months",positive,positive
+sp500_human_review,172,SP500_ANN_0183,Decade-Long S&P 500 Bull Surge Is Running Into a Valuation Wall,negative,negative
+sp500_human_review,173,SP500_ANN_0184,Markets Should Prepare For An Ugly September,negative,negative
+sp500_human_review,174,SP500_ANN_0185,European shares rise as S&P 500 hits record high as earnings thrill,positive,positive
+sp500_human_review,175,SP500_ANN_0186,"Stock Market Today: Dow, S&P Live Updates for February 14",neutral,neutral
+sp500_human_review,176,SP500_ANN_0187,What Can Insider Trading Activity Tell Us?,neutral,neutral
+sp500_human_review,177,SP500_ANN_0188,"Weather hurt earnings of 15% of S&P 500 companies, disclosures show",negative,negative
+sp500_human_review,178,SP500_ANN_0189,"Markets News, Aug. 25, 2023: S&P 500, Nasdaq Rebound From Powell Comments to Close Winning Week",positive,positive
+sp500_human_review,179,SP500_ANN_0190,Europe's GRANOLAS are still beating the S&P 500,positive,positive
+sp500_human_review,180,SP500_ANN_0191,"Strategy Webinar: DXY, EUR/USD, USD/CAD, S&P 500 & Gold Technicals",neutral,neutral
+sp500_human_review,181,SP500_ANN_0192,"Wells Fargo Investment Institute bets on rate cuts, lifts 2024 S&P 500 target",positive,positive
+sp500_human_review,182,SP500_ANN_0193,"S&P 500 doubles from its pandemic bottom, marking the fastest bull market rally since WWII",positive,positive
+sp500_human_review,183,SP500_ANN_0194,"Fundstrat's Tom Lee raises S&P 500 target, sees all-time high before year-end",positive,positive
+sp500_human_review,184,SP500_ANN_0195,High Shareholder Opposition to Pay in 2022: Major Reasons and Examples,neutral,negative
+sp500_human_review,185,SP500_ANN_0196,Dow soars nearly 500 points as new data shows inflation continues to cool,positive,positive
+sp500_human_review,186,SP500_ANN_0197,"Facebook, Google refer suicidal people to help lines",neutral,neutral
+sp500_human_review,187,SP500_ANN_0198,Where Have All The 'Low Priced' Stocks Gone?,neutral,neutral
+sp500_human_review,188,SP500_ANN_0199,$300 a Month in These 3 Stocks Could Make You a Millionaire by Retirement,positive,positive
+sp500_human_review,189,SP500_ANN_0200,"Dow gains, S&P 500 ends lower as market weighs Fed rate hikes",negative,neutral
+sp500_human_review,190,SP500_ANN_0201,Stocks for the Long Run: Honeywell vs. the S&P 500,neutral,neutral
+sp500_human_review,191,SP500_ANN_0202,What Is The VIX Volatility Index? – Forbes Advisor Australia,neutral,neutral
+sp500_human_review,192,SP500_ANN_0203,Why a trend divergence in the S&P 500 and the VIX may spell trouble for stocks,negative,negative
+sp500_human_review,193,SP500_ANN_0204,"S&P 500's P/E Is Actually Lower Than Official Number, BofA Says | Chief Investment Officer",positive,neutral
+sp500_human_review,194,SP500_ANN_0205,U.S. stocks reach new high ahead of record bull market,positive,positive
+sp500_human_review,195,SP500_ANN_0206,Oil tycoon’s ex accepts $975 million after all,neutral,neutral
+sp500_human_review,196,SP500_ANN_0207,"Nasdaq 100, Dow Jones, S&P 500: Weaker-Than-Expected Private Payrolls Data Raises Recession Concerns",negative,negative
+sp500_human_review,197,SP500_ANN_0208,Why Exxon Mobil Stock Is Not A Good Energy Sector Pick,negative,negative
+sp500_human_review,198,SP500_ANN_0209,Wall Street's dirty secret: It's terrible at forecasting stocks,negative,neutral
+sp500_human_review,199,SP500_ANN_0210,"Stock Market News for September 30, 2016",neutral,neutral
+sp500_human_review,200,SP500_ANN_0211,"Stock Market Today: Dow Jones, S&P 500 Opens Lower On Hawkish Fed Remarks; Tilray Up On Strong Earnings",negative,neutral
+sp500_human_review,201,SP500_ANN_0212,History shows stocks can weather rate hike cycle,positive,neutral
+sp500_human_review,202,SP500_ANN_0213,Goldman's Top Strategist Sets His S&P 500 Target For 2012,neutral,neutral
+sp500_human_review,203,SP500_ANN_0214,US stock market: Wall Street ends higher as Nvidia sparks rush for AI stocks,positive,positive
+sp500_human_review,204,SP500_ANN_0215,Dow Jones Today: Index Drops on Consumer Concern,negative,negative
+sp500_human_review,205,SP500_ANN_0216,Nancy Pelosi's Portfolio Plunged 20% in 2022 Stock Market Crash,negative,negative
+sp500_human_review,206,SP500_ANN_0217,S&P 500's Risk-Adjusted Return Was Close to World-Best in 2017,positive,positive
+sp500_human_review,207,SP500_ANN_0218,"Dow, S&P 500 and Nasdaq eke out gains, but close below session highs after July's inflation report",positive,neutral
+sp500_human_review,208,SP500_ANN_0219,Defensive Equities Are Leading the S&P 500 to Its Record Highs,positive,positive
+sp500_human_review,209,SP500_ANN_0220,Credit Calculus Turns Against Stocks With Yield Edge Over Bonds Vanishing,negative,negative
+sp500_human_review,210,SP500_ANN_0221,"W. R. Berkley Stock Has Outperformed S&P500 Over The Last Month, Is It A Buy?",positive,positive
+sp500_human_review,211,SP500_ANN_0222,"SolarEdge, Insulet, and Dollar General Lead S&P 500 Q3 Losses",negative,negative
+sp500_human_review,212,SP500_ANN_0223,Polish Holocaust Survivor Founded Electronics Firm - WSJ,neutral,neutral
+sp500_human_review,213,SP500_ANN_0224,Why Are Investors Allocating to Equal-Weight RSP Now?,neutral,neutral
+sp500_human_review,214,SP500_ANN_0225,"S&P 500 posts biggest decline in nearly two months, Dow drops 250 points to kick off December",negative,negative
+sp500_human_review,215,SP500_ANN_0226,S&P 500: Did We Just Experience a Capitulation Bottom?,neutral,neutral
+sp500_human_review,216,SP500_ANN_0227,"Nasdaq Index, Dow Jones, S&P 500 News: Futures Dip Amid Record Highs, Inflation Data Anticipation",negative,neutral
+sp500_human_review,217,SP500_ANN_0228,Ben & Jerry's says Unilever froze directors' salaries over Israel,negative,negative
+sp500_human_review,218,SP500_ANN_0229,Default risk rises across most US sectors in Q1,negative,negative
+sp500_human_review,219,SP500_ANN_0230,"'Twice as cheap': These stocks' discount to the S&P 500 is double its average, Ritholtz's Brown says",positive,neutral
+sp500_human_review,220,SP500_ANN_0231,S&P 500 ends higher as jobs data fuels rate-hike optimism,positive,positive
+sp500_human_review,221,SP500_ANN_0232,Markets Gain at Midday Amid Expectations Fed Might Not Hike Rates at Next Meeting,positive,positive
+sp500_human_review,222,SP500_ANN_0233,‘Pay up or die’: Thousands of Australians receive death threat text message,neutral,neutral
+sp500_human_review,223,SP500_ANN_0234,Stocks advance as earnings pick up; Dow notches 8th day of gains,positive,positive
+sp500_human_review,224,SP500_ANN_0235,Stocks With the Highest Dividend Yields in the S&P 500,neutral,neutral
+sp500_human_review,225,SP500_ANN_0236,5 Stocks Routinely Outperform During 'Wild' Month Of March,positive,neutral
+sp500_human_review,226,SP500_ANN_0237,"SPDR S&P 500 ETF Trust (SPY) Bounces Back, Halving Last Week's Losses",positive,positive
+sp500_human_review,227,SP500_ANN_0238,"Wall St inches higher, Treasury yields gain as S&P 500 inches closer to record high",positive,positive
+sp500_human_review,228,SP500_ANN_0239,VIX and Biotech ETFs Invigorated Amid Pfizer COVID Pill News,positive,positive
+sp500_human_review,229,SP500_ANN_0240,S&P 500 Gains and Losses Today: Index Advances as GDP Growth Beats Expectations,positive,positive
+sp500_human_review,230,SP500_ANN_0241,What's Powering the Strongest Bull Market Since WWII?,positive,positive
+sp500_human_review,231,SP500_ANN_0242,Biggest Gainers: The S&P 1500's Biggest Gainers Since The March 2009 Low,positive,positive
+sp500_human_review,232,SP500_ANN_0243,"50-year gold price vs stocks chart shows bullion fair value above $2,500 - MINING.COM",neutral,neutral
+sp500_human_review,233,SP500_ANN_0244,S&P 500 Records Worst One Day Decline Since 1987 | Market Insights,negative,negative
+sp500_human_review,234,SP500_ANN_0245,S&P 500 ends Tuesday little changed as earnings season picks up steam: Live updates,neutral,neutral
+sp500_human_review,235,SP500_ANN_0246,Grab a Slice of the Discounted Small-Cap Pie,positive,neutral
+sp500_human_review,236,SP500_ANN_0247,"NASDAQ 100, Dow Jones, S&P 500 News: Inflation Fears Ease, Retail Sales Surge",positive,positive
+sp500_human_review,237,SP500_ANN_0248,"S&P 500 closes at a record, rises for a fourth-straight week on strong tech earnings: Live updates",positive,positive
+sp500_human_review,238,SP500_ANN_0249,B Of A Upped Its Forecast For Stocks — Just Not The Ones You Think,positive,positive
+sp500_human_review,239,SP500_ANN_0250,"2024 Outlook: 9 Views on What to Watch Across S&P 500 Earnings, AI, Banks, and More",neutral,neutral
+sp500_human_review,240,SP500_ANN_0251,"US STOCKS-S&P 500, Nasdaq up as tech stocks rise after J&J vaccine pause",positive,positive
+sp500_human_review,241,SP500_ANN_0252,A Conservative ETF That Boycotts Liberal Companies Is Beating the S&P 500,positive,positive
+sp500_human_review,242,SP500_ANN_0253,BMO says bull case scenario of S&P 500 at 5050 'becoming more likely',positive,positive
+sp500_human_review,243,SP500_ANN_0254,Better Buy: Berkshire Hathaway or Vanguard 500 Index Fund?,neutral,neutral
+sp500_human_review,244,SP500_ANN_0255,Stock Market Returns In Years Ending In 5,neutral,neutral
+sp500_human_review,245,SP500_ANN_0256,"S&P 500, Nasdaq climb as chips, megacaps jump",positive,positive
+sp500_human_review,246,SP500_ANN_0257,"ISM Manufacturing PMI Misses Expectations, S&P 500 Tests New Lows",negative,negative
+sp500_human_review,247,SP500_ANN_0258,Ventas to be major ShelbyHurst office tenant,neutral,neutral
+sp500_human_review,248,SP500_ANN_0259,Seagate Added To S&P 500 Stock Index; Shrs Rally,positive,positive
+sp500_human_review,249,SP500_ANN_0260,"Li Auto Stock Was Up 8% Last Week, Is There More Upside?",positive,positive
+sp500_human_review,250,SP500_ANN_0261,Hexcel Corporation Stock Has 25% Upside In The Near Term,positive,positive
+sp500_human_review,251,SP500_ANN_0262,"Dow drops to start Q4, but there's a historical case to remain bullish on stocks in final trading quarter",neutral,neutral
+sp500_human_review,252,SP500_ANN_0263,Monthly Covered Call Commentary – Global X ETFs,neutral,neutral
+sp500_human_review,253,SP500_ANN_0264,SPDJI: The importance of sector selection over stock picking,neutral,neutral
+sp500_human_review,254,SP500_ANN_0265,"Stock market news live updates: S&P 500 tops 4000 for the first time, Nasdaq gains more than 1%",positive,positive
+sp500_human_review,255,SP500_ANN_0266,Analysts see over 7% upside in S&P 500 amid small-cap rally,positive,positive
+sp500_human_review,256,SP500_ANN_0267,The S&P 493 is finally joining the S&P 500's rally: Morning Brief,positive,positive
+sp500_human_review,257,SP500_ANN_0268,Just 5 Trading Days Accounted for 94% of the S&P 500's Decline in 2022,negative,negative
+sp500_human_review,258,SP500_ANN_0269,Fintech-friendly banks lead best-performing US bank stocks in January,positive,positive
+sp500_human_review,259,SP500_ANN_0270,Getting a Technical Perspective on S&P 500,neutral,neutral
+sp500_human_review,260,SP500_ANN_0281,S&P 500 poised to hit record high; Alcoa gains,positive,positive
+sp500_human_review,261,SP500_ANN_0282,"Stock market today: S&P 500 and Nasdaq hit fresh highs, Nvidia tops $2 trillion as rally rages",positive,positive
+sp500_human_review,262,SP500_ANN_0283,Report: 15-year-olds in Asia are better problem solvers than in the U.S.,neutral,neutral
+sp500_human_review,263,SP500_ANN_0284,S&P 500 Ceilings And Floors | investing.com,neutral,neutral
+sp500_human_review,264,SP500_ANN_0285,Infographic: The Best and Worst Performing Sectors of 2020,neutral,neutral
+sp500_human_review,265,SP500_ANN_0286,Why Tesla took so long to get into the S&P 500 — and what that means for other companies,neutral,neutral
+sp500_human_review,266,SP500_ANN_0287,"Nasdaq sets record high, S&P positive for 2020 as investors double down on recovery",positive,positive
+sp500_human_review,267,SP500_ANN_0288,"Super Micro, Deckers Outdoor Rise on S&P 500 Inclusion",positive,positive
+sp500_human_review,268,SP500_ANN_0289,FINANCIAL CRASH WARNING: Signs major stock markets could be about to IMPLODE,negative,negative
+sp500_human_review,269,SP500_ANN_0290,S&P 500 Weekly Price Forecast – S&P 500 Continues to See Upward Pressure,positive,positive
+sp500_human_review,270,SP500_ANN_0291,This Day In Market History: Peak Tulip Mania,neutral,neutral
+sp500_human_review,271,SP500_ANN_0292,US close: Dow and S&P 500 hit fresh highs after GDP beat,positive,positive
+sp500_human_review,272,SP500_ANN_0293,Markets Drop on Renewed Concerns About Rate Hikes,negative,negative
+sp500_human_review,273,SP500_ANN_0294,China Pushes S&P 500 to New All-Time High,positive,positive
+sp500_human_review,274,SP500_ANN_0295,How a Single ETF Could Help You Retire a Millionaire,positive,neutral
+sp500_human_review,275,SP500_ANN_0296,Equal-Weight S&P 500 ETFs to Consider as Big Tech Struggles,neutral,positive
+sp500_human_review,276,SP500_ANN_0297,"Warren Buffett, Berkshire Hathaway vs. S&P 500",neutral,neutral
+sp500_human_review,277,SP500_ANN_0298,Why Markets Bounced Back So Quickly After the Russian Invasion of Ukraine,positive,neutral
+sp500_human_review,278,SP500_ANN_0299,"'First five days' indicator, which has a solid track record at predicting year, off to good start",positive,positive
+sp500_human_review,279,SP500_ANN_0300,"Market Wrap, March 26: Here's all that happened in the markets today",neutral,neutral
+sp500_human_review,280,SP500_ANN_0301,"Dow Jones, Nasdaq futures indicate a weak start on Wall Street today after Putins speech",negative,negative
+sp500_human_review,281,SP500_ANN_0302,How Investors Are Preparing Now For The Coming Tech-Stock Crash,negative,negative
+sp500_human_review,282,SP500_ANN_0303,Highest Forward 12-Month P/E Ratio for S&P 500 Since 2002,negative,neutral
+sp500_human_review,283,SP500_ANN_0304,Campbell Soup Leads S&P 500 Gains as Higher Prices Help Profit Beat Estimates,positive,positive
+sp500_human_review,284,SP500_ANN_0305,Stocks fall as Wall Street ends a winning streak,negative,negative
+sp500_human_review,285,SP500_ANN_0306,Slow Slog in Stocks Is Now a Steamroller Crushing Every Naysayer,positive,positive
+sp500_human_review,286,SP500_ANN_0307,S&P 500 hits 5000 in intraday: Stocks that saw record highs,positive,positive
+sp500_human_review,287,SP500_ANN_0308,S&P 500 share index notches up record-breaking winning streak,positive,positive
+sp500_human_review,288,SP500_ANN_0309,Keeping a legacy alive: CEO puts her stamp on the family business,neutral,neutral
+sp500_human_review,289,SP500_ANN_0310,"Stock market news today: Stocks snap 9-week win streak as Dow, S&P 500 have worst start since 2016",negative,negative
+sp500_human_review,290,SP500_ANN_0311,The Dow just fell by more than 1100 points,negative,negative
+sp500_human_review,291,SP500_ANN_0312,15 Undervalued S&P 500 Stocks Billionaires Are Loading Up On,positive,positive
+sp500_human_review,292,SP500_ANN_0313,S&P 500 in 2021: These Were the Year's 10 Worst-Performing Stocks,negative,neutral
+sp500_human_review,293,SP500_ANN_0314,7 Stocks Generate An Astounding 25% Of The S&P 500's Profit,positive,positive
+sp500_human_review,294,SP500_ANN_0315,Equity markets signal it is time to diversify,neutral,neutral
+sp500_human_review,295,SP500_ANN_0316,"Stock Market Today: Dow, S&P Live Updates for April 4",neutral,neutral
+sp500_human_review,296,SP500_ANN_0317,How to Use Fibonacci Extensions to Isolate Turning Points in ETFs,neutral,neutral
+sp500_human_review,297,SP500_ANN_0318,"Stock Market Today: Dow, S&P Live Updates for June 2",neutral,neutral
+sp500_human_review,298,SP500_ANN_0319,Retail Investors are Underperforming the Market,negative,negative
+sp500_human_review,299,SP500_ANN_0320,Stock market news today: Stocks soar as investors look ahead to inflation data,positive,positive
+sp500_human_review,300,SP500_ANN_0321,Minimize Risk by Hedging With Derivatives,neutral,neutral
+sp500_human_review,301,SP500_ANN_0322,S&P 500 Q2 2023 earnings beat Wall Street expectations,positive,positive
+sp500_human_review,302,SP500_ANN_0323,Will 50DMA Support Stocks for the 10th Time in 2021 - ALPHA PROFIT,neutral,neutral
+sp500_human_review,303,SP500_ANN_0324,"Like Steve Jobs, Apple’s Tim Cook replies to fans’ e-mails",neutral,neutral
+sp500_human_review,304,SP500_ANN_0325,The Equity Bear Market Won't Be Over Before Recession Begins,negative,negative
+sp500_human_review,305,SP500_ANN_0326,U.S. stocks can climb a lot higher in 2024,positive,positive
+sp500_human_review,306,SP500_ANN_0327,Nasdaq enters a correction as tech shares lead U.S. stocks lower,negative,negative
+sp500_human_review,307,SP500_ANN_0328,"Stocks end slightly higher as S&P 500, Nasdaq book 5th straight monthly gain",positive,positive
+sp500_human_review,308,SP500_ANN_0329,Court bans Samsung tablet from sale in Europe,negative,negative
+sp500_human_review,309,SP500_ANN_0330,S&P 500 Reporting Lowest Net Profit Margin Since 2009,negative,negative
+sp500_human_review,310,SP500_ANN_0331,Wall Street rises as financials recover after Citi results,positive,positive
+sp500_human_review,311,SP500_ANN_0332,15 Stocks Billionaire Investors Agree It's Smart To Buy Now,positive,positive
+sp500_human_review,312,SP500_ANN_0333,Fundstrat's Tom Lee explains why he sees an all-time high in the S&P 500 this year,positive,positive
+sp500_human_review,313,SP500_ANN_0334,SPDR S&P 500 ETF Trust and the Joe Biden Phenomenon,neutral,neutral
+sp500_human_review,314,SP500_ANN_0335,Ikea finds horse meat in Russian hotdogs,neutral,negative
+sp500_human_review,315,SP500_ANN_0336,"Markets News, Dec. 13, 2023: Dow Jumps 500 Points to Record High After Fed Forecasts 3 Rate Cuts in 2024",positive,positive
+sp500_human_review,316,SP500_ANN_0337,U.S. Stocks End Mostly Lower; Nasdaq Claims Positive Turf,negative,neutral
+sp500_human_review,317,SP500_ANN_0338,Stock market news live updates: Stocks surge as Wall Street crawls out of a brutal September,positive,positive
+sp500_human_review,318,SP500_ANN_0339,"VOO: 4 ""Strong Buy"" ETFs that Pay Dividends",positive,positive
+sp500_human_review,319,SP500_ANN_0340,These stocks have been shunned for years. Now investors love them,positive,positive
+sp500_human_review,320,SP500_ANN_0341,Historical Fact: March Triple Witching Sends S&P 500 Lower,negative,negative
+sp500_human_review,321,SP500_ANN_0342,The S&P 500 finally hit a new record after multiple tries this month. Here's what could happen next,positive,neutral
+sp500_human_review,322,SP500_ANN_0343,Bank of America CEO gets 17% bump to $14 million,neutral,positive
+sp500_human_review,323,SP500_ANN_0344,State Street S&P 500 ETF doubles to $10bn since fee cut,positive,positive
+sp500_human_review,324,SP500_ANN_0345,Africa’s super telescopes ‘will inspire science boom’,neutral,positive
+sp500_human_review,325,SP500_ANN_0346,Google: Self-driving cars are mastering city streets,neutral,positive
+sp500_human_review,326,SP500_ANN_0347,Rush Limbaugh: Tech bloggers ‘hate’ Apple,negative,neutral
+sp500_human_review,327,SP500_ANN_0348,McDonald’s breakthrough: Weird places to find the golden arches,neutral,neutral
+sp500_human_review,328,SP500_ANN_0349,"Stock market live Thursday: Dow tanks 2,300 in worst day since Black Monday, S&P 500 bear market",negative,negative
+sp500_human_review,329,SP500_ANN_0350,Stock Market Outlook: S&P 500 on Track for 28% Gain This Year,positive,positive
+sp500_human_review,330,SP500_ANN_0351,Olympus Chairman to step down amid public row,negative,negative
+sp500_human_review,331,SP500_ANN_0352,Index Fund Investment Strategy: Michael Burry Warns of Bubble,negative,neutral
+sp500_human_review,332,SP500_ANN_0353,Energy giant struggles to contain offshore gas leak,negative,negative
+sp500_human_review,333,SP500_ANN_0354,"Nvidia and Big Tech are still the driving forces for the market, bringing S&P 500 back to record levels",positive,positive
+sp500_human_review,334,SP500_ANN_0355,"Stock Market Today: Dow, S&P Live Updates for July 26",neutral,neutral
+sp500_human_review,335,SP500_ANN_0356,Investing Club mailbag: How to use Jim Cramer's trusted S&P Oscillator to interpret market swings before investing,neutral,neutral
+sp500_human_review,336,SP500_ANN_0357,Friday Fun Fact: The Birth of Stock Index Futures,neutral,neutral
+sp500_human_review,337,SP500_ANN_0358,A strategy to outsmart the S&P 500 ‘bubble’,neutral,neutral
+sp500_human_review,338,SP500_ANN_0359,"Market Report - Oct. 31, 2011 - CNNMoney",neutral,neutral
+sp500_human_review,339,SP500_ANN_0360,TSX drops as worries deepen about EU debt crisis,negative,negative
+sp500_human_review,340,SP500_ANN_0361,Brooklyn Brewery: How a journalist became the king of beer,neutral,neutral
+sp500_human_review,341,SP500_ANN_0362,"What's the Difference Between the Dow, S&P 500, and Nasdaq?",neutral,neutral
+sp500_human_review,342,SP500_ANN_0363,Wall Street ekes out modest gains as S&P 500 hovers near all-time closing high,positive,positive
+sp500_human_review,343,SP500_ANN_0364,"Wall Street ends higher on technology, energy boost",positive,positive
+sp500_human_review,344,SP500_ANN_0365,Tech sector contributed all of the stock market gains so far in 2018,positive,positive
+sp500_human_review,345,SP500_ANN_0366,Explained: Can market concentration determine future returns? Take a look at S&P 500's past,neutral,neutral
+sp500_human_review,346,SP500_ANN_0367,Warning signs suggest this year’s stock market rally is on shaky legs,negative,negative
+sp500_human_review,347,SP500_ANN_0368,‘Fear Rick’s Vest’: Santorum’s sweaters go viral,neutral,neutral
+sp500_human_review,348,SP500_ANN_0369,Aggressive demand falters in S&P 500: Will a shakeout follow? [Video],negative,negative
+sp500_human_review,349,SP500_ANN_0370,"S&P 500 and Nasdaq 100 Make Gains, While CAC40 Struggles",positive,neutral
+sp500_human_review,350,SP500_ANN_0371,U.S. Stocks Cut Losses In The Wake Of AIG Disclosure,negative,positive
+sp500_human_review,351,SP500_ANN_0372,"The Bull Market in Stocks Is on Track to Push S&P 500 to 5,000 by 2024",positive,positive
+sp500_human_review,352,SP500_ANN_0373,Wall Street ends sharply higher on sign of cooling inflation,positive,positive
+sp500_human_review,353,SP500_ANN_0374,Where will the S&P 500 go in 2020? Here are the most bullish and bearish strategists,neutral,neutral
+sp500_human_review,354,SP500_ANN_0375,"Markets News, Feb. 9, 2024: S&P 500 Tops 5K, Nasdaq Approaches 16K Amid Tech Rally",positive,positive
+sp500_human_review,355,SP500_ANN_0376,The Stock Market Doesn't Care About Violence. Here's How It's Performed During Major U.S. Protests And Tragedies,neutral,neutral
+sp500_human_review,356,SP500_ANN_0377,Japan stock index hits 33-year high as investors warm to Tokyo story,positive,positive
+sp500_human_review,357,SP500_ANN_0378,Tesla's stock market value accelerates past $500 billion,positive,positive
+sp500_human_review,358,SP500_ANN_0379,Warren Buffett Boldly Loads Up On 4 Of His Best Stocks,positive,positive
+sp500_human_review,359,SP500_ANN_0380,Stock pain: 15% of S&P 500 down 20% in 2015,negative,negative
+sp500_human_review,360,SP500_ANN_0381,Earnings revision breadth at highest rate in six years,positive,positive
+sp500_human_review,361,SP500_ANN_0382,"ChartIQ Joins S&P Global, Enhances Capital IQ Pro Platform",positive,positive
+sp500_human_review,362,SP500_ANN_0383,The strong January in stocks could be a positive sign for the year,positive,positive
+sp500_human_review,363,SP500_ANN_0384,Wells Fargo Investment Institute 2023 Midyear Outlook: Navigating end-of-cycle turbulence,neutral,neutral
+sp500_human_review,364,SP500_ANN_0385,How Will the GICS Sector Changes Affect Sector ETFs in the U.S.?,neutral,neutral
+sp500_human_review,365,SP500_ANN_0386,S&P 500 Seasonality Turns Negative In Late September,negative,negative
+sp500_human_review,366,SP500_ANN_0387,"The S&P 500’s record-setting holiday run appears likely to continue in 2020, analysts say",positive,positive
+sp500_human_review,367,SP500_ANN_0388,How Apple Stock Continues To Impressively Outperform,positive,positive
+sp500_human_review,368,SP500_ANN_0389,"S&P 500, Nasdaq snap longest winning streak in 2 years after Powell remarks, weak bond auction",negative,negative
+sp500_human_review,369,SP500_ANN_0390,"S&P 500, Nasdaq eke out 3rd day of gains, but November rally hits speed bump",positive,neutral
+sp500_human_review,370,SP500_ANN_0391,8 Charts That Tell The Stock Market Story Of 2021,neutral,neutral
+sp500_human_review,371,SP500_ANN_0392,Look and feel good: How tech could save the fashion industry,neutral,neutral
+sp500_human_review,372,SP500_ANN_0393,Corporate America's revenues are roaring back,positive,positive
+sp500_human_review,373,SP500_ANN_0394,"Stock Market Today: Dow, S&P Live Updates for November 29",neutral,neutral
+sp500_human_review,374,SP500_ANN_0395,"S&P 500 closes above 5,000 for first time as US inflation cools",positive,positive
+sp500_human_review,375,SP500_ANN_0396,Investing in S&P 500 from the UK – What to Know,neutral,neutral
+sp500_human_review,376,SP500_ANN_0397,"10-Year Treasury Yield Dives On Government Funding Plan, ADP Jobs Data; S&P 500 Falls",negative,negative
+sp500_human_review,377,SP500_ANN_0398,"Best Mutual Funds 2022 Topping Their Categories And Beat Benchmarks Over 1, 3, 5 & 10 Years",positive,positive
+sp500_human_review,378,SP500_ANN_0399,CalPERS Equity Portfolio Edges Out S&P 500 Returns in Q4 2022 | Chief Investment Officer,positive,positive
+sp500_human_review,379,SP500_ANN_0400,"S&P 500 Earnings Season Update: August 4, 2023",neutral,neutral
+sp500_human_review,380,SP500_ANN_0401,‘Augmented-reality’ windshields and the future of driving,neutral,neutral
+sp500_human_review,381,SP500_ANN_0402,Inflation Data Eats Into the Stock Market's Bull Run,negative,negative
+sp500_human_review,382,SP500_ANN_0403,"Nasdaq grabs new record, S&P turns positive for 2020",positive,positive
+sp500_human_review,383,SP500_ANN_0404,Stocks shake off Israel-Gaza war fears to end higher after remarks by Fed officials,positive,positive
+sp500_human_review,384,SP500_ANN_0405,Rise of the US mega-caps creates shaky 'top-heavy' market,negative,negative
+sp500_human_review,385,SP500_ANN_0406,High-Frequency Cross-Market Trading and Market Volatility - Liberty Street Economics,neutral,neutral
+sp500_human_review,386,SP500_ANN_0407,3 Charts That Show Why the Dow Could Keep Underperforming the S&P 500 and Nasdaq in 2022,neutral,negative
+sp500_human_review,387,SP500_ANN_0408,Wall Street sheds gains as oil slide weighs,negative,negative
+sp500_human_review,388,SP500_ANN_0409,Tesla getting trounced by S&P 500 after three years,negative,negative
+sp500_human_review,389,SP500_ANN_0410,"Dow surges 1,086 points for biggest point gain in history",positive,positive
+sp500_human_review,390,SP500_ANN_0411,Report: Profits for Media and Entertainment Sector Remain High Despite Downturn,positive,positive
+sp500_human_review,391,SP500_ANN_0412,Market 'freak out': Stocks rebound from scary plunge,positive,neutral
+sp500_human_review,392,SP500_ANN_0413,Are European Stocks Cheap or is the U.S. Expensive?,neutral,neutral
+sp500_human_review,393,SP500_ANN_0414,Stocks close sharply down after Powell says rates will rise more than expected,negative,negative
+sp500_human_review,394,SP500_ANN_0415,"How Stocks Behave After S&P 500, VIX Returns Are Positive",neutral,neutral
+sp500_human_review,395,SP500_ANN_0416,Meet Elizabeth: The heart and soul of ‘BioShock Infinite’,neutral,neutral
+sp500_human_review,396,SP500_ANN_0417,China protests at India cotton export ban,negative,negative
+sp500_human_review,397,SP500_ANN_0418,4 Insurance Stocks That Have Outperformed S&P 500 in a Year,positive,positive
+sp500_human_review,398,SP500_ANN_0419,Limit Your Downside Risk During a Bear Market,neutral,neutral
+sp500_human_review,399,SP500_ANN_0420,Junk Bonds Are Sending An Important Message To The Markets (JNK),neutral,neutral
+sp500_human_review,400,SP500_ANN_0421,Tesla (TSLA) Stock Price Forecast Gap Is Widest in S&P500,neutral,neutral
+sp500_human_review,401,SP500_ANN_0422,Digital Transformation Is Racing Ahead and No Industry Is Immune - SPONSOR CONTENT FROM DXC TECHNOLOGY,neutral,neutral
+sp500_human_review,402,SP500_ANN_0423,U.S. Stocks Erase Losses Amid Hopes Of AIG Rescue,positive,positive
+sp500_human_review,403,SP500_ANN_0424,How Sustainable Is Johnson & Johnson’s Dividend?,neutral,neutral
+sp500_human_review,404,SP500_ANN_0425,Smart-Beta ETFs That Lived Up to Their Nickname,positive,positive
+sp500_human_review,405,SP500_ANN_0426,"Unstoppable Action: S&P 500 Hits Record High, Dow Soars 350 Points!",positive,positive
+sp500_human_review,406,SP500_ANN_0427,‘NBA 2K15’ face scans create mutant horrors,neutral,neutral
+sp500_human_review,407,SP500_ANN_0428,These 19 large-cap stocks have now dropped at least 60% from their 52-week highs,negative,negative
+sp500_human_review,408,SP500_ANN_0429,It's Been One Of The Top 5 Worst Starts To A Year For Stocks And Bonds,negative,negative
+sp500_human_review,409,SP500_ANN_0430,"US Stock Market: New Highs For Dow, S&P 500, And Nasdaq After Fed's Decision",positive,positive
+sp500_human_review,410,SP500_ANN_0431,"Stocks Edge Higher On Deals, Commodities Prices - CBS Los Angeles",positive,positive
+sp500_human_review,411,SP500_ANN_0432,"US Indices Beginning to Look Vulnerable; S&P 500, Nasdaq, Dow Price Setups",negative,negative
+sp500_human_review,412,SP500_ANN_0433,8 Beaten Down Blue Chips with Upside as S&P 500 Nears Record,positive,positive
+sp500_human_review,413,SP500_ANN_0434,"Stock market drop over debt ceiling could begin within days, experts said",negative,negative
+sp500_human_review,414,SP500_ANN_0435,What Happens to Stocks Added to the Nasdaq-100?,neutral,neutral
+sp500_human_review,415,SP500_ANN_0436,LIVE MARKETS S&P 500 valuations starting to look not half bad,positive,neutral
+sp500_human_review,416,SP500_ANN_0437,Research suggests female CEOs outearn their male peers—but it's not that simple,neutral,neutral
+sp500_human_review,417,SP500_ANN_0438,Wall Street ends sharply lower as chipmakers and megacaps slide,negative,negative
+sp500_human_review,418,SP500_ANN_0439,U.S. stocks snap 4-day winning streak as Treasury yields climb after inflation data,negative,negative
+sp500_human_review,419,SP500_ANN_0440,All Correlations Go to 1 in a Crisis: Cattle Crush Spread during COVID-19 - PAER Report,neutral,neutral
+sp500_human_review,420,SP500_ANN_0441,‘Capital Factory’ spurs startups in Austin,neutral,positive
+sp500_human_review,421,SP500_ANN_0442,CBOE Introduces 10 Options-Based Strategy Performance Benchmark Indexes,neutral,neutral
+sp500_human_review,422,SP500_ANN_0443,S&P 500 Price Forecast – S&P 500 Continues to Threaten a Breakout,positive,positive
+sp500_human_review,423,SP500_ANN_0444,LIVE MARKETS 2021 saw a lot less volatility in the S&P 500,positive,neutral
+sp500_human_review,424,SP500_ANN_0445,University Of California's Hedge Fund Investments Plagued By High Fees,negative,negative
+sp500_human_review,425,SP500_ANN_0446,"Dow flips higher as S&P 500, Nasdaq remain at fresh 2023 high ahead of Fed policy decision",positive,positive
+sp500_human_review,426,SP500_ANN_0447,What you need to know about the stock market's circuit breakers,neutral,neutral
+sp500_human_review,427,SP500_ANN_0448,Warren Buffett's Advice: Forget Get-Rich-Quick. Here's How to Get Rich Slowly,neutral,neutral
+sp500_human_review,428,SP500_ANN_0449,Dow Futures Higher After Monday's Trillion Dollar Wipeout As Coronavirus Concerns Linger,positive,neutral
+sp500_human_review,429,SP500_ANN_0450,Stock Market Gains Could Be Supercharged in 2024 If 'January Trifecta',positive,positive
+sp500_human_review,430,SP500_ANN_0451,"S&P 500 falls again on Thursday, inching closer to bear market territory",negative,negative
+sp500_human_review,431,SP500_ANN_0452,Equal-Weight Indexers Didn't Suck Wind For A Decade,positive,neutral
+sp500_human_review,432,SP500_ANN_0453,S&P 500 Weekly Price Forecast – Stock Markets Continue Slow Grind,neutral,neutral
+sp500_human_review,433,SP500_ANN_0454,"Why people share murder, rape on Facebook",neutral,neutral
+sp500_human_review,434,SP500_ANN_0455,"Five years on, millions still dig ‘FarmVille’",neutral,neutral
+sp500_human_review,435,SP500_ANN_0456,TD Ameritrade Investor Movement Index: IMX Score Increases as 2023 Begins,positive,positive
+sp500_human_review,436,SP500_ANN_0457,"SocGen equity strategists upbeat on S&P 500 near-term, cautious into 2024",positive,neutral
+sp500_human_review,437,SP500_ANN_0458,"Up Over 32% This Year, Is Ark Innovation ETF a Better Investment in 2023 Than the S&P 500?",positive,positive
+sp500_human_review,438,SP500_ANN_0459,Taco Bell pulls beef from UK outlets after horse meat discovery,negative,negative
+sp500_human_review,439,SP500_ANN_0460,S&P 500 Gains and Losses Today: Solar Stocks Soar After Fed Signals Rate Cuts Next Year,positive,positive
+sp500_human_review,440,SP500_ANN_0461,Top 10 Names in S&P 500 Responsible for 90% of Q1 Gains,neutral,neutral
+sp500_human_review,441,SP500_ANN_0462,Facebook gets dumped from an S&P index that tracks socially responsible companies,negative,negative
+sp500_human_review,442,SP500_ANN_0463,"S&P 500 Gains and Losses Today: Gen Digital's Customers, Revenue Advance",positive,positive
+sp500_human_review,443,SP500_ANN_0464,"Should You Buy the Vanguard S&P 500 ETF? 3 Pros, 2 Cons",neutral,neutral
+sp500_human_review,444,SP500_ANN_0465,Stocks Wobble as a Bumpy Week on Wall St. Comes to a Close (Published 2018),negative,neutral
+sp500_human_review,445,SP500_ANN_0466,"Stock Market Today: Dow, S&P Live Updates for May 25",neutral,neutral
+sp500_human_review,446,SP500_ANN_0467,The 100 Largest Low-Wage Employers Have Spent $341 Billion on Stock Buybacks Since 2020,neutral,neutral
+sp500_human_review,447,SP500_ANN_0468,"Tech giants drive fifth day of gains for Nasdaq, S&P 500",positive,positive
+sp500_human_review,448,SP500_ANN_0469,"Now is an 'ideal' time for young people to start building wealth, says investing expert",positive,neutral
+sp500_human_review,449,SP500_ANN_0470,Stocks gain as European central bank says it's ready to act,positive,positive
+sp500_human_review,450,SP500_ANN_0481,Wall St closes higher on eve of Fed decision; investors assess earnings,positive,positive
+sp500_human_review,451,SP500_ANN_0482,Bangladesh risks losing EU market access,negative,negative
+sp500_human_review,452,SP500_ANN_0483,Elon Musk overtakes Bill Gates to become world's second richest person,neutral,positive
+sp500_human_review,453,SP500_ANN_0484,"S&P 500 Ready to Join Bear Market, Says Morgan Stanley",negative,negative
+sp500_human_review,454,SP500_ANN_0485,This chart shows that oil is going to $75: Technical analyst,neutral,neutral
+sp500_human_review,455,SP500_ANN_0486,Study finds crypto is ‘fool’s gold’ when it comes to hedging,negative,negative
+sp500_human_review,456,SP500_ANN_0487,A brutal April knocked the S&P 500 into its second stock-market correction of 2022,negative,negative
+sp500_human_review,457,SP500_ANN_0488,ProPicks: Beat the S&P 500 with our cutting-edge AI-powered stock selection,positive,positive
+sp500_human_review,458,SP500_ANN_0489,S&P 500 Will Likely Report Earnings Growth in Q2 2019,positive,positive
+sp500_human_review,459,SP500_ANN_0490,Why Google's split will change the S&P 500 forever,neutral,neutral
+sp500_human_review,460,SP500_ANN_0491,Hedge funds have lost $43 billion trying to short the market as the S&P 500 eyes its best month in over a year,positive,positive
+sp500_human_review,461,SP500_ANN_0492,Here's How Stocks Performed After The Fed Stopped Hiking Rates In The Past,neutral,neutral
+sp500_human_review,462,SP500_ANN_0493,Goldman Sees Bull Market In 2019 Despite Investor Pessimism,positive,positive
+sp500_human_review,463,SP500_ANN_0494,Health care stocks rebound despite fight over Obamacare,positive,positive
+sp500_human_review,464,SP500_ANN_0495,"Wall Street ignores these 'orphan' stocks, but they've beaten the S&P 500 over 20 years",positive,positive
+sp500_human_review,465,SP500_ANN_0496,Hedgeye Risk Management | S&P Sector Scorecard: Everything You Need to Know About the U.S. Economy,neutral,neutral
+sp500_human_review,466,SP500_ANN_0497,The stock market usually bounces from Thanksgiving to Christmas,positive,neutral
+sp500_human_review,467,SP500_ANN_0498,'From Bambi to Godzilla.' Strategist David Rosenberg skewers the Federal Reserve as he sees a 30% hit to home prices and the S&P 500 returning to an early 2020 low,negative,negative
+sp500_human_review,468,SP500_ANN_0499,Prudence pays as cash-rich US companies outperform peers in 2020,positive,positive
+sp500_human_review,469,SP500_ANN_0500,S&P 500 generates double-digit gains for third consecutive year,positive,positive
+sp500_human_review,470,SP500_ANN_0501,‘The mother of all crises.’ A US debt default would ricochet around the world,negative,negative
+sp500_human_review,471,SP500_ANN_0502,The FIRE Lunatics With 8% Return Assumptions,neutral,neutral
+sp500_human_review,472,SP500_ANN_0503,What Does It Mean That The Stock Market Is A Leading Economic Indicator?,neutral,neutral
+sp500_human_review,473,SP500_ANN_0504,'Big Short' Legend Michael Burry Hints Stock Market Crash Is Underway,negative,negative
+sp500_human_review,474,SP500_ANN_0505,Dollars and Sense: Hot stocks and housing bubbles,neutral,neutral
+sp500_human_review,475,SP500_ANN_0506,Goldman Sachs thinks the economy will actually pull off a soft landing—but adds the S&P will stay flat for a whole year,neutral,neutral
+sp500_human_review,476,SP500_ANN_0507,"Stocks log worst week since 2008: March 20, 2020",negative,negative
+sp500_human_review,477,SP500_ANN_0508,Tesla Stock Plummets Over 21%. How Much Further Can It Drop?,negative,negative
+sp500_human_review,478,SP500_ANN_0509,Companies Are Dropping Like Flies (And 10 Are Most At Risk Now),negative,negative
+sp500_human_review,479,SP500_ANN_0510,"Dow jumps 417 as stocks rally, oil hits $102",positive,positive
+sp500_human_review,480,SP500_ANN_0511,Cathie Wood slams Tesla's removal from S&P 500 ESG index: 'Ridiculous',negative,negative
+sp500_human_review,481,SP500_ANN_0512,20 Percent of TSP C Fund Invested in FAANG Stocks,neutral,neutral
+sp500_human_review,482,SP500_ANN_0513,Twitter Caps Nine Years of Largely Unfulfilled Promise on NYSE,negative,negative
+sp500_human_review,483,SP500_ANN_0514,S&P 500 on Track to Hit Fresh Record Highs,positive,positive
+sp500_human_review,484,SP500_ANN_0515,"Dow Jones, S&P 500 Forecast – Approaching Long-term Support as Panic Sets In",negative,negative
+sp500_human_review,485,SP500_ANN_0516,"As Stocks Fall, Economic Fears Rise, Along With Inflation",negative,negative
+sp500_human_review,486,SP500_ANN_0517,Analyst sounds the alarm on the 'most crowded trade in investing history',negative,negative
+sp500_human_review,487,SP500_ANN_0518,S&P 500 Gains and Losses Today: Stocks Lose Ground as Hiring Slows,negative,negative
+sp500_human_review,488,SP500_ANN_0519,"US stocks end higher as Citi, others report strong earnings",positive,positive
+sp500_human_review,489,SP500_ANN_0520,S&P 500 ends up slightly with boost from financials; Netflix up late,positive,positive
+sp500_human_review,490,SP500_ANN_0521,Out of the Woods? The S&P 500 Recovers 50% of Year's Drawdown,positive,positive
+sp500_human_review,491,SP500_ANN_0522,S&P 500 & Nasdaq Rebound from Key Support; How Much More Upside?,positive,positive
+sp500_human_review,492,SP500_ANN_0523,11 Stocks Hold Up Best During Corrections (And 2 Even Gain),positive,positive
+sp500_human_review,493,SP500_ANN_0524,‘Fatal Attraction’ was in theaters the last time the S&P 500 did this well in January,positive,positive
+sp500_human_review,494,SP500_ANN_0525,Women Hold a Third of S&P 500 Boards Seats With Gains in June,neutral,positive
+sp500_human_review,495,SP500_ANN_0526,S&P 500 takes a pause ahead of U.S inflation data,neutral,neutral
+sp500_human_review,496,SP500_ANN_0527,"Stock Market Today: Dow, S&P Live Updates for April 21",neutral,neutral
+sp500_human_review,497,SP500_ANN_0528,4 Magnificent ETFs to Buy Now That Are Proven Moneymakers,positive,positive
+sp500_human_review,498,SP500_ANN_0529,12 of the worst predictions about the global economy that intelligent people have ever made,negative,neutral
+sp500_human_review,499,SP500_ANN_0530,SPDR S&P 500 ETF Trust (SPY) News and Forecast: Turnaround Tuesday or pump and dump?,neutral,neutral
+sp500_human_review,500,SP500_ANN_0531,"Stock Market (SPX) Keep Rallying, Defying Doom Scenarios",positive,positive
+sp500_human_review,501,SP500_ANN_0532,S&P 500 Gains and Losses Today: Index Slips After Downward Revision to GDP Growth,negative,negative
+sp500_human_review,502,SP500_ANN_0533,"Nasdaq 100 & S&P 500 Hold Support, while Nikkei 225 Remains Above the 200-day Moving Average",positive,neutral
+sp500_human_review,503,SP500_ANN_0534,AI-darling Nvidia's bumper results push S&P 500 to record high,positive,positive
+sp500_human_review,504,SP500_ANN_0535,The Lernstift smartpen checks your spelling as you write,neutral,neutral
+sp500_human_review,505,SP500_ANN_0536,The Best and Worst Ways to Trade SPY Options Each Week,neutral,neutral
+sp500_human_review,506,SP500_ANN_0537,Oppenheimer Says S&P 500 Could Rise Another 12% by Year-End — and These Stocks Could Follow,positive,positive
+sp500_human_review,507,SP500_ANN_0538,Nelson Peltz: Disney board has underperformed the S&P 500 'on every measure',negative,negative
+sp500_human_review,508,SP500_ANN_0539,This Chart Shows the Secret to Never Losing Money in the Stock Market,neutral,neutral
+sp500_human_review,509,SP500_ANN_0540,"Barclays predicts shares of AMD, one of the market's hottest stocks, will plunge 35%",negative,negative
+sp500_human_review,510,SP500_ANN_0541,A Bull Market Is Coming: History Says the S&P 500 Could Soar 24% in the Next Year,positive,positive
+sp500_human_review,511,SP500_ANN_0542,"Stocks have never bottomed before a recession hits, but there's still a chance the market rallies in 2023 despite ...",positive,neutral
+sp500_human_review,512,SP500_ANN_0543,Paris Terror Attacks: The Economic Fallout,negative,negative
+sp500_human_review,513,SP500_ANN_0544,S&P 500 Weekly Price Forecast – Attempt to Break Out but Failed,negative,negative
+sp500_human_review,514,SP500_ANN_0545,SPDR S&P 500 ETF tops record $500 bln in assets as Nvidia soars,positive,positive
+sp500_human_review,515,SP500_ANN_0546,CME upgrade soothes critics who viewed prior system as unfair| Gulf Times,positive,positive
+sp500_human_review,516,SP500_ANN_0547,"Stock Market Today: Dow, S&P Live Updates for March 29",neutral,neutral
+sp500_human_review,517,SP500_ANN_0548,"Markets News, Aug. 24, 2023: Nvidia Boost Fizzles; Nasdaq, S&P 500 Fall in Worst Session in Weeks",negative,negative
+sp500_human_review,518,SP500_ANN_0549,Stocks Break to New Highs While VIX Drops to New Low,positive,positive
+sp500_human_review,519,SP500_ANN_0550,"S&P 500 Climbs as US Dollar, Rates Decline: Will the 5,000 Gap Fill Hold?",positive,positive
+sp500_human_review,520,SP500_ANN_0551,Indie RIAs say they're taking clients from brokers,neutral,positive
+sp500_human_review,521,SP500_ANN_0552,Dow scores best week since October 2022 as stocks rise after soft jobs report,positive,positive
+sp500_human_review,522,SP500_ANN_0553,Big stock rally could be followed by 'big collapse': Bank of America,negative,negative
+sp500_human_review,523,SP500_ANN_0554,Five reasons why U.S. stocks soared in 2016,positive,positive
+sp500_human_review,524,SP500_ANN_0555,International Wide Moat Stocks Ready to Shine,positive,positive
+sp500_human_review,525,SP500_ANN_0556,S&P 500 Gains and Losses Today: Solar Power Stocks Sink After SolarEdge Warning,negative,negative
+sp500_human_review,526,SP500_ANN_0557,"S&P 500 forms 'doji' pattern, a bearish sign for stock-market investors",negative,negative
+sp500_human_review,527,SP500_ANN_0558,US Stocks are Forecast to Have Less Pain but No Gain in 2023,neutral,neutral
+sp500_human_review,528,SP500_ANN_0559,Dow loses more than 200 points Thursday to snap historic 13-day rally: Live updates,negative,negative
+sp500_human_review,529,SP500_ANN_0560,It's been a while since the S&P 500 had a big pullback—and that could mean rocky times ahead,negative,negative
+sp500_human_review,530,SP500_ANN_0561,S&P 500 closes slightly red as weak corporate guidance fuels recession fears,negative,negative
+sp500_human_review,531,SP500_ANN_0562,Global markets update: US stocks dip despite GDP growth | Mint,negative,neutral
+sp500_human_review,532,SP500_ANN_0563,"Is Macy's, Inc. (M) a Profitable Pick for Value Investors?",neutral,neutral
+sp500_human_review,533,SP500_ANN_0564,S&P 500 ends higher as investors bet on lower rates,positive,positive
+sp500_human_review,534,SP500_ANN_0565,Dollar-Cost Averaging: How It Works and When It Pays Off – 2020 Analysis,neutral,neutral
+sp500_human_review,535,SP500_ANN_0566,US healthcare stocks roiled by investor tug of war over economy,negative,negative
+sp500_human_review,536,SP500_ANN_0567,We Asked ChatGPT For Stock Picks — Here's What It Said,neutral,neutral
+sp500_human_review,537,SP500_ANN_0568,YouTube’s most popular video of 2014 was…,neutral,neutral
+sp500_human_review,538,SP500_ANN_0569,4 Reasons Why Inverse ETFs Are Broken & Here's A Better Solution,neutral,negative
+sp500_human_review,539,SP500_ANN_0570,Why more Amber alerts will be waking you up,neutral,neutral
+sp500_human_review,540,SP500_ANN_0571,S&P 500 CAPE vs S&P 500 12-mth forward returns,neutral,neutral
+sp500_human_review,541,SP500_ANN_0572,"US STOCKS Dow, S&P 500 close higher, but pro-Trump protests weigh on gains",positive,neutral
+sp500_human_review,542,SP500_ANN_0573,"Investors Were Expecting A Rebound From Tuesday's Plunge In The S&P 500. Based On History, It Was A Lot Less ...",neutral,negative
+sp500_human_review,543,SP500_ANN_0574,"3 Stock Market Predictions for 2024: The S&P 500 Gains, Apple Falls Behind Microsoft, and Cybersecurity and Artificial ...",positive,neutral
+sp500_human_review,544,SP500_ANN_0575,"The 10 Biggest Single-Day Declines for the Dow, Nasdaq, and S&P 500",negative,negative
+sp500_human_review,545,SP500_ANN_0576,Nalini Nadkarni: The tree-climbing scientist who brings plants to prison,neutral,neutral
+sp500_human_review,546,SP500_ANN_0577,Tesla gives up 16% pop to close negative in wild speculative trading,negative,negative
+sp500_human_review,547,SP500_ANN_0578,Ken Griffin's Hedge Fund Reportedly Crushed S&P 500 in January,positive,positive
+sp500_human_review,548,SP500_ANN_0579,Silver Vs. SPX: Ratios At Historic Lows | investing.com,neutral,neutral
+sp500_human_review,549,SP500_ANN_0580,"2015 All-America Research Team: Equity-Linked Strategies, No. 1: Marko Kolanovic & team",neutral,neutral
+sp500_human_review,550,SP500_ANN_0581,S&P 500 to rise 30% over next two years: Strategist,positive,positive
+sp500_human_review,551,SP500_ANN_0582,Two More Reasons This Bear Market Isn't Over,negative,negative
+sp500_human_review,552,SP500_ANN_0583,S&P 500 to end 2023 up 17% but little gains seen between now and year end: Reuters poll,positive,neutral
+sp500_human_review,553,SP500_ANN_0584,Wabtec to replace Goodyear Tire on S&P 500 Feb. 27,neutral,neutral
+sp500_human_review,554,SP500_ANN_0585,Wall Street thinks stocks have room to run even higher than originally thought,positive,positive
+sp500_human_review,555,SP500_ANN_0586,All else being equal: Making the case for equal-weight ETFs,neutral,neutral
+sp500_human_review,556,SP500_ANN_0587,"Oscar de la Renta: The man who could sell a $12,000 dress",neutral,neutral
+sp500_human_review,557,SP500_ANN_0588,Stocks rise but pare gains in first trading day of 2017,positive,neutral
+sp500_human_review,558,SP500_ANN_0589,"S&P 500, Nasdaq 100 Break Series of Lower Highs",positive,neutral
+sp500_human_review,559,SP500_ANN_0590,"Nasdaq, S&P 500 aim for longest winning streaks in roughly 2 years as QQQs challenge important trend line",positive,positive
+sp500_human_review,560,SP500_ANN_0591,Sprint falls to last in Consumer Reports rankings,negative,negative
+sp500_human_review,561,SP500_ANN_0592,A death cross for the S&P 500 highlights a stock market in tatters,negative,negative
+sp500_human_review,562,SP500_ANN_0593,Looming Debt Crisis Might Turbocharge VXX,negative,negative
+sp500_human_review,563,SP500_ANN_0594,Why this ‘anti-momentum’ ETF is back in favor with investors,neutral,positive
+sp500_human_review,564,SP500_ANN_0595,"Macro Asset: Bitcoin Trounces Gold, S&P 500, & More In 2021 | Bitcoinist.com",neutral,positive
+sp500_human_review,565,SP500_ANN_0596,"Charts suggest the S&P 500 is nearing a ‘decisive’ moment, Jim Cramer says",neutral,neutral
+sp500_human_review,566,SP500_ANN_0597,S&P 500 Bearish Triangle May Lead To Additional 8% Decline!,negative,negative
+sp500_human_review,567,SP500_ANN_0598,Markets Throw a Welcome Party of Sorts for Biden (Published 2020),positive,neutral
+sp500_human_review,568,SP500_ANN_0599,"Most-shorted S&P 500 stock of 2020 surges, putting squeeze on short sellers",positive,positive
+sp500_human_review,569,SP500_ANN_0600,World stocks slide on weaker U.S. earnings outlook,negative,negative
+sp500_human_review,570,SP500_ANN_0601,Why Wall Street analysts almost never put 'sell' ratings on stocks they cover,neutral,neutral
+sp500_human_review,571,SP500_ANN_0602,Discovery CEO David Zaslav Earned $33.3 Million In 2013,neutral,neutral
+sp500_human_review,572,SP500_ANN_0603,The Best American Funds for 401(k) Retirement Savers,neutral,neutral
+sp500_human_review,573,SP500_ANN_0604,Why It's a Surprise the S&P 500 Is 8% Higher Now Than Before Fed Hikes,positive,positive
+sp500_human_review,574,SP500_ANN_0605,Stock Market News Today: S&P 500 on Track to End Six-Session Win Streak,negative,negative
+sp500_human_review,575,SP500_ANN_0606,How Turkey turned from emerging star to economic mess,negative,negative
+sp500_human_review,576,SP500_ANN_0607,"Stocks close higher Friday, Nasdaq notches best quarter since 2020: Live updates",positive,positive
+sp500_human_review,577,SP500_ANN_0608,"As Crazy as It Sounds, the Stock Market Will Hit New Record Highs This Year: Analyst",positive,positive
+sp500_human_review,578,SP500_ANN_0609,NASDAQ Composite Outperforms Dow and S&P 500 as Markets Rally on Credit Suisse Assurance,positive,positive
+sp500_human_review,579,SP500_ANN_0610,"S&P 500 rally is showing signs of a bubble, selloff is coming - JPM",negative,negative
+sp500_human_review,580,SP500_ANN_0611,Steve Jobs’ yacht impounded over pay dispute,negative,negative
+sp500_human_review,581,SP500_ANN_0612,Nasdaq is poised to underperform S&P 500 for first time since 2016 as investors shun tech stocks,negative,negative
+sp500_human_review,582,SP500_ANN_0613,"Bitcoin Underperforms S&P 500 as Stocks Have Overshot Fundamentals, Crypto Trading Firm QCP Says",negative,negative
+sp500_human_review,583,SP500_ANN_0614,S&P 500 may need better breadth to tackle all-time high as six stocks deliver 88% of market cap gains in 2023 ...,neutral,neutral
+sp500_human_review,584,SP500_ANN_0615,A Look Inside Bill Gates' Stock Portfolio Reveals His Big Winners,positive,positive
+sp500_human_review,585,SP500_ANN_0616,STOCKS NEWS US-Symantec option volume swells. calls active,positive,neutral
+sp500_human_review,586,SP500_ANN_0617,Why Has Trading Volume On The S&P Dropped?,negative,neutral
+sp500_human_review,587,SP500_ANN_0618,Dillons to add cash-related financial services,neutral,positive
+sp500_human_review,588,SP500_ANN_0619,How dependent is Europe on Russia for gas?,neutral,neutral
+sp500_human_review,589,SP500_ANN_0620,Investing in Champagne: 8 Expensive Bottles Worth Splurging On,neutral,neutral
+sp500_human_review,590,SP500_ANN_0621,"S&P 500 notches fourth straight positive week, touches highest level since August: Live updates",positive,positive
+sp500_human_review,591,SP500_ANN_0622,Asian shares rise as S&P 500 records longest win streak in two years,positive,positive
+sp500_human_review,592,SP500_ANN_0623,Wild stock market reversals put dip-buyers on pace for historic year,positive,positive
+sp500_human_review,593,SP500_ANN_0624,Stocks just delivered a reminder about October’s reputation for volatility,negative,neutral
+sp500_human_review,594,SP500_ANN_0625,Apparently This Matters: Baby Baird’s tapir,neutral,neutral
+sp500_human_review,595,SP500_ANN_0626,How to Identify a Stock Market Bottom? Look for These Signals,neutral,neutral
+sp500_human_review,596,SP500_ANN_0627,"Nasdaq 100, Dow Jones, S&P 500 News: Investor Eyes on Nvidia, Fed Minutes for Market Insight",neutral,neutral
+sp500_human_review,597,SP500_ANN_0628,Global shares rally on hopes for Greek deal; U.S. yields rise,positive,positive
+sp500_human_review,598,SP500_ANN_0629,"S&P 500 Price Forecast – S&P 500 Continues to Stagnate, Looking For Momentum",negative,neutral
+sp500_human_review,599,SP500_ANN_0630,"Stocks end mostly lower, extending losing streak for S&P 500",negative,negative
+sp500_human_review,600,SP500_ANN_0631,Starting with Futures: S&P 500 E-minis | Market Insights,neutral,neutral
+sp500_human_review,601,SP500_ANN_0632,Mothers reveal all: The secrets to raising a successful child,neutral,neutral
+sp500_human_review,602,SP500_ANN_0633,Dickerson: Etsy is disrupting global supply chains,neutral,positive
+sp500_human_review,603,SP500_ANN_0634,10 Stocks Consistently Shower Investors With Big Gains In April,positive,positive
+sp500_human_review,604,SP500_ANN_0635,Two New Elements Added to Chemistry's Periodic Table,neutral,neutral
+sp500_human_review,605,SP500_ANN_0636,"Stock Market Today: Dow, S&P Live Updates for April 12",neutral,neutral
+sp500_human_review,606,SP500_ANN_0637,‘Incredible shrinking car’ drives sideways to park in tiny spaces,neutral,neutral
+sp500_human_review,607,SP500_ANN_0638,Salespeople Need a Strategy for Selling to CEOs,neutral,neutral
+sp500_human_review,608,SP500_ANN_0639,Stock market books worst day of 2023 as rising yields contribute to 'perfect storm',negative,negative
+sp500_human_review,609,SP500_ANN_0640,"Stocks spike 2%, log 2nd best gains of 2013 amid debt deal hopes; Dow skyrockets 300 points",positive,positive
+sp500_human_review,610,SP500_ANN_0641,"Wall Street closes 2013 at records; best year in 16 for S&P, 18 for Dow",positive,positive
+sp500_human_review,611,SP500_ANN_0642,Overview: What stretched valuations mean for investors,neutral,neutral
+sp500_human_review,612,SP500_ANN_0643,Hope City: ‘Africa’s tallest building’ planned at $10 billion tech hub,neutral,positive
+sp500_human_review,613,SP500_ANN_0644,"Nikkei 225, FTSE 100 and S&P 500 Continue to Free Fall",negative,negative
+sp500_human_review,614,SP500_ANN_0645,CHART OF THE DAY: AOL's Sleepy First Day Of Trading,neutral,neutral
+sp500_human_review,615,SP500_ANN_0646,Nasdaq leads Wall St to higher close as CPI report lifts sentiment,positive,positive
+sp500_human_review,616,SP500_ANN_0647,Study Says Birkin Bag Is a Better Investment Than Stocks and Gold,neutral,positive
+sp500_human_review,617,SP500_ANN_0648,"NASDAQ 100, Dow Jones, S&P 500: Futures Rise; Penn Entertainment, Lyft Steal Spotlight",positive,positive
+sp500_human_review,618,SP500_ANN_0649,"S&P 500, Nasdaq end lower as Treasury yields rise on Fed rate hike expectations",negative,negative
+sp500_human_review,619,SP500_ANN_0650,What if the S&P 500 fumbles its bear-market exit? What strategists think of the role of tech in this rally.,neutral,neutral
+sp500_human_review,620,SP500_ANN_0651,"Stocks mostly fall on bank ratings, FedEx warning",negative,negative
+sp500_human_review,621,SP500_ANN_0652,10 years to extinction: S&P 500 companies,negative,negative
+sp500_human_review,622,SP500_ANN_0653,"Stocks tumble on Friday, Nasdaq snaps eight-week winning streak: Live updates",negative,negative
+sp500_human_review,623,SP500_ANN_0654,The Recession Debate Pits CEOs and Economists Against Equity Analysts and Investors,negative,neutral
+sp500_human_review,624,SP500_ANN_0655,"Facing criticism, PBMs may be downplaying profit margins",negative,neutral
+sp500_human_review,625,SP500_ANN_0656,"Stock market live Monday: Market finishes at session high, Dow up 580, S&P 500 goes positive for June",positive,positive
+sp500_human_review,626,SP500_ANN_0657,The S&P 500's hidden $828 billion annual expenses,negative,neutral
+sp500_human_review,627,SP500_ANN_0658,Surge in real-estate stocks propels sector to best-performing in S&P 500 as bond yields fall,positive,positive
+sp500_human_review,628,SP500_ANN_0659,"Markets News, Nov. 14, 2023: Nasdaq Surges to 3-Month High, Bond Yields Sink on Easing Inflation",positive,positive
+sp500_human_review,629,SP500_ANN_0660,"Utilities, energy outperform other S&P 500 sectors in March",positive,positive
+sp500_human_review,630,SP500_ANN_0661,"Dow plunges more than 900 points for its worst day since 2020, falls for a fourth straight week",negative,negative
+sp500_human_review,631,SP500_ANN_0662,"Stock Market News Today: Dow, S&P 500 Rise on Coronavirus Stimulus",positive,positive
+sp500_human_review,632,SP500_ANN_0663,GLOBAL MARKETS-Wall St dips; Greece negotiating team rejig boosts Europe,neutral,neutral
+sp500_human_review,633,SP500_ANN_0664,LIVE MARKETS S&P 500 year-end 2022 target 5100 - Goldman,positive,neutral
+sp500_human_review,634,SP500_ANN_0665,"The S&P 500 is up 8% this year, but most stocks are down—here's what it means for your money",negative,neutral
+sp500_human_review,635,SP500_ANN_0666,The odds are stacked against stock pickers,negative,negative
+sp500_human_review,636,SP500_ANN_0667,Big Restaurants' Cash May Only Last This Many Months,negative,negative
+sp500_human_review,637,SP500_ANN_0668,Dow Jones Industrial Average and the S&P 500,neutral,neutral
+sp500_human_review,638,SP500_ANN_0669,60% Of This Year's Top Stocks Are In This Sector (It's Not Tech),neutral,positive
+sp500_human_review,639,SP500_ANN_0670,"S&P 500, Dow, Nasdaq rise with vote expected to yield split government",positive,positive
+sp500_human_review,640,SP500_ANN_0671,"NASDAQ 100, Dow Jones, S&P 500: Futures Slide as Investors Brace for Inflation Data, Earnings Season",negative,negative
+sp500_human_review,641,SP500_ANN_0672,"Dow Jones at All-Time Highs; S&P 500, Nasdaq Bears Fail to Reverse Bull Trend",positive,positive
+sp500_human_review,642,SP500_ANN_0673,NFO Alert: Axis Mutual Fund launches Axis S&P 500 ETF Fund of Fund; all you need to know | Mint,neutral,neutral
+sp500_human_review,643,SP500_ANN_0674,Warren Buffett blasts hedge funds and high fees in annual letter,negative,neutral
+sp500_human_review,644,SP500_ANN_0675,"Bill Miller to step down as fund manager - Nov. 17, 2011",neutral,neutral
+sp500_human_review,645,SP500_ANN_0676,"Dow Jones, S&P 500 Pullback May Accelerate as Retail Traders Become Bullish",negative,negative
+sp500_human_review,646,SP500_ANN_0677,"Insider trading charges dismissed against Michael Steinberg, 6 others",neutral,positive
+sp500_human_review,647,SP500_ANN_0678,"When Performance Matters: Nasdaq-100® vs. S&P 500, Second Quarter '22",neutral,neutral
+sp500_human_review,648,SP500_ANN_0679,"Stock market news live: Coronavirus jitters send Dow swooning to worst-ever point loss, closes at near 3-year low",negative,negative
+sp500_human_review,649,SP500_ANN_0680,"SHARE BAZAR LIVE: Axis Bank results weaker than expected, S&P 500 closes at new record high",neutral,neutral
+sp500_human_review,650,SP500_ANN_0681,February stock market trends | Active Trader Commentary,neutral,neutral
+sp500_human_review,651,SP500_ANN_0682,Why the 200-Day Moving Average Matters in Today’s Market,neutral,neutral
+sp500_human_review,652,SP500_ANN_0683,"US Stock Market News: Dow Jones jumps 383 pts, Nasdaq, S&P 500 follow suit as bank contagion fears ease",positive,positive
+sp500_human_review,653,SP500_ANN_0684,Nvidia Climbs Into The Top Five S&P 500 Weightings,positive,positive
+sp500_human_review,654,SP500_ANN_0685,Side effect of larger smartphones: More data usage,neutral,neutral
+sp500_human_review,655,SP500_ANN_0686,Stocks Hit Correction Territory as the West Announces Russia Sanctions,negative,negative
+sp500_human_review,656,SP500_ANN_0687,Ether ($ETH USD) Correlation With US Stocks Reaches Record: Chart,neutral,neutral
+sp500_human_review,657,SP500_ANN_0688,Forget Godzilla: Facebook rolls out its own dinosaur,neutral,neutral
+sp500_human_review,658,SP500_ANN_0689,Red Alert For 2nd Crash Downwave | investing.com,negative,negative
+sp500_human_review,659,SP500_ANN_0690,"Wall St. powered higher by tech, Amazon results",positive,positive
+sp500_human_review,660,SP500_ANN_0691,"Stocks close out 2023 with a 24% gain, buoyed by a resilient economy",positive,positive
+sp500_human_review,661,SP500_ANN_0692,7 Safe ETFs to Shield Your Portfolio From Market Turmoil,neutral,neutral
+sp500_human_review,662,SP500_ANN_0693,Read This Before You Buy the SPDR S&P 500 ETF,neutral,neutral
+sp500_human_review,663,SP500_ANN_0694,"These stocks have gained 1,000%+ during bull run",positive,positive
+sp500_human_review,664,SP500_ANN_0695,Cathie Wood Warns Against Extreme Fear Of Innovation Gripping The Market,negative,neutral
+sp500_human_review,665,SP500_ANN_0696,'Night effect' ETFs to shut down with overnight stock returns elusive,negative,negative
+sp500_human_review,666,SP500_ANN_0697,Britain’s pound is beating every other major currency this year,positive,positive
+sp500_human_review,667,SP500_ANN_0698,"Markets Week Ahead: Gold, EUR/USD, S&P 500 Break Out as USD Tanks; Tesla Earnings Eyed",positive,neutral
+sp500_human_review,668,SP500_ANN_0699,Only Two S&P 500 Sectors Have A Rising ROIC Through 3Q20,positive,neutral
+sp500_human_review,669,SP500_ANN_0700,The stock market rarely produces average returns: Morning Brief,neutral,neutral
+sp500_human_review,670,SP500_ANN_0701,Fitbit recalls activity tracker due to skin rashes,negative,negative
+sp500_human_review,671,SP500_ANN_0702,"Bitcoin S&P 500 Correlation Means It Should Cost $18K, Says Analyst",neutral,neutral
+sp500_human_review,672,SP500_ANN_0703,"Markets News, Aug. 11, 2023: S&P 500, Nasdaq Fall for Second Straight Week; Chevron Lifts the Dow",negative,negative
+sp500_human_review,673,SP500_ANN_0704,"As S&P 500 hits 2023 highs, it’s all systems go for stock market bulls",positive,positive
+sp500_human_review,674,SP500_ANN_0705,5 Must-See Stock Correction and Bear Market Statistics That'll Put Your Mind at Ease,neutral,neutral
+sp500_human_review,675,SP500_ANN_0706,"S&P 500's Record High Fueled by a Few, With Most Still Below Peak",negative,neutral
+sp500_human_review,676,SP500_ANN_0707,E-mini S&P 500 Index (ES) Futures Technical Analysis – Chart Pattern Indicates Heightened Volatility,neutral,neutral
+sp500_human_review,677,SP500_ANN_0708,"Discover Financial Stock Is Up 65% In 2 Months, But What's Next?",positive,positive
+sp500_human_review,678,SP500_ANN_0709,Stocks - Wall Street Mixed as Trade Tensions Linger,negative,neutral
+sp500_human_review,679,SP500_ANN_0710,How Investors Should Brace for the Coming Earnings Recession,negative,negative
+sp500_human_review,680,SP500_ANN_0711,Stocks Rally as Trump and Business Leaders Pledge Support (Published 2020),positive,positive
+sp500_human_review,681,SP500_ANN_0712,Back to the Future: Marty McFly could have gotten rich off these stocks,positive,neutral
+sp500_human_review,682,SP500_ANN_0713,'Hindenburg Omen' looms over S&P 500 as stocks stall,negative,negative
+sp500_human_review,683,SP500_ANN_0714,Federal Realty Investment Trust Stock Can Still Grow By 40%,positive,positive
+sp500_human_review,684,SP500_ANN_0715,Facebook parent company Meta is now the worst performer in the S&P 500 this year,negative,negative
+sp500_human_review,685,SP500_ANN_0716,Strategists Predict Trouble for U.S. Stocks After Massive U-Turn,negative,negative
+sp500_human_review,686,SP500_ANN_0717,"Asia markets rise as S&P 500 hits new 2023 high, China's producer price index falls",positive,neutral
+sp500_human_review,687,SP500_ANN_0718,S&P 500 Earnings May See First Double-Digit Drop in Decade,negative,negative
+sp500_human_review,688,SP500_ANN_0719,NBA says it expects to give 2019 All-Star Game to Charlotte,neutral,neutral
+sp500_human_review,689,SP500_ANN_0720,"The S&P 500 could fall another 5% and test a critical support level that has previously marked the bottom, Bank of ...",negative,negative
+sp500_human_review,690,SP500_ANN_0721,The Battle of the Indices (NDX vs. SPX) for Options Traders,neutral,neutral
+sp500_human_review,691,SP500_ANN_0722,S&P 500 Forecast: Index gains 1.2% as positive earnings usher in buyers,positive,positive
+sp500_human_review,692,SP500_ANN_0723,"S&P Global (SPGI) Q4 Earnings & Revenues Beat Mark, Rise Y/Y",positive,positive
+sp500_human_review,693,SP500_ANN_0724,"Dow ends up more than 500 points, recovers from slump Monday",positive,positive
+sp500_human_review,694,SP500_ANN_0725,Is It Safer to Pull Your Money Out of the Stock Market or Keep Investing for Now?,neutral,neutral
+sp500_human_review,695,SP500_ANN_0726,Morgan Stanley's Wilson: S&P 500 Could Fall About 20%,negative,negative
+sp500_human_review,696,SP500_ANN_0727,Biden's Stock Market Is Crushing Trump's,positive,positive
+sp500_human_review,697,SP500_ANN_0728,Stocks Gain Ground As PCE Price Index Reports Show That Inflation Is Under Control,positive,positive
+sp500_human_review,698,SP500_ANN_0729,"Microsoft, Google parent Alphabet, and nearly a fifth of S&P 500 hits 52-week lows",negative,negative
+sp500_human_review,699,SP500_ANN_0730,Queen Elizabeth II is getting a 78% raise from the government,neutral,neutral
+sp500_human_review,700,SP500_ANN_0731,U.S. Stocks Fall On Economic Woes; Amazon Outlook Weighs,negative,negative
+sp500_human_review,701,SP500_ANN_0732,"S&P 500 Market Outlook: The Good, The Bad, and The Ugly",neutral,neutral
+sp500_human_review,702,SP500_ANN_0733,Dow Jones Futures Rise After S&P 500 Undercuts Low; Tesla Forges New Buy Point,neutral,positive
+sp500_human_review,703,SP500_ANN_0734,"AI Is Overhyped, S&P 500 at Risk If 'Magnificent 7' Stocks Fall: Smead",negative,negative
+sp500_human_review,704,SP500_ANN_0735,Wall St lower; cuts losses as oil prices reverse course,negative,negative
+sp500_human_review,705,SP500_ANN_0736,Stock Market Crash: The Battle Between Retail Traders And Smart Money,negative,negative
+sp500_human_review,706,SP500_ANN_0737,Stop this Stock Market Ride! I Want to Get Off!,negative,negative
+sp500_human_review,707,SP500_ANN_0738,Morgan Stanley's Mike Wilson admits he 'was wrong' about the S&P 500 as the index is close to erasing 2022's plunge,positive,positive
+sp500_human_review,708,SP500_ANN_0739,Analyzing Market Breadth: Kickin’ It With Old-School Indicators,neutral,neutral
+sp500_human_review,709,SP500_ANN_0740,S&P 500 (VIX) dips in pre market session for another blood bath ahead,negative,negative
+sp500_human_review,710,SP500_ANN_0741,Another rip-off: Leveraged and inverse ETFs,negative,negative
+sp500_human_review,711,SP500_ANN_0742,Morgan Stanley's Slimmon on joining the S&P 500 and Nasdaq rally,positive,neutral
+sp500_human_review,712,SP500_ANN_0743,Sugru: A gripping tale of struggle and success,neutral,positive
+sp500_human_review,713,SP500_ANN_0744,Skeptical on Buying the S&P 500 Dip? Check Out This ETF,neutral,neutral
+sp500_human_review,714,SP500_ANN_0745,25 US Companies With The Highest Profit Margins,positive,neutral
+sp500_human_review,715,SP500_ANN_0746,"Fed tightening 'always breaks something': S&P 500 will drop to 3,800 by March, warn Bank of America strategists",negative,negative
+sp500_human_review,716,SP500_ANN_0747,"Women's Gains on S&P 500 Boards Slow, Delaying Parity Progress",negative,negative
+sp500_human_review,717,SP500_ANN_0748,S&P 500 rises at the start of big week but bearish technicals cast shadow,negative,neutral
+sp500_human_review,718,SP500_ANN_0749,"Stock-Market Outlook: UBS Lifts S&P 500 Target, Trumpets Soft Landing",positive,positive
+sp500_human_review,719,SP500_ANN_0750,"Europe higher, Asia mixed ahead of Fed decision",neutral,neutral
+sp500_human_review,720,SP500_ANN_0751,Finding Balance in US Equities as Macro Threats Mount,neutral,neutral
+sp500_human_review,721,SP500_ANN_0752,Market reactions to past virus scares show stocks may have more to lose,negative,negative
+sp500_human_review,722,SP500_ANN_0753,"Nasdaq and S&P 500 close at record highs, Ford jumps 8% as strong earnings boost stocks",positive,positive
+sp500_human_review,723,SP500_ANN_0754,US stocks: Wall Street returns to highest level in more than a year,positive,positive
+sp500_human_review,724,SP500_ANN_0755,Profiting From Trash: 3 Waste Management Stocks to Consider,neutral,positive
+sp500_human_review,725,SP500_ANN_0756,Here Are the Best and Worst Performing Assets of 2016,neutral,neutral
+sp500_human_review,726,SP500_ANN_0757,"Not Even A Riot At The Capitol Can Keep Stocks Down As Dow, S&P 500 And NASDAQ Hit Record Highs—Again",positive,positive
+sp500_human_review,727,SP500_ANN_0758,"US stock market today: Dow Jones, S&P 500 hold on to the green; Nasdaq boosted by Intel, Microsoft, App...",positive,positive
+sp500_human_review,728,SP500_ANN_0759,This Day In Market History: Robert Brennan Fined For Securities Fraud,negative,negative
+sp500_human_review,729,SP500_ANN_0760,"US STOCKS-S&P 500, Nasdaq to open lower as Tesla, Netflix slump",negative,negative
+sp500_human_review,730,SP500_ANN_0761,"US stock market: Dow Jones, Nasdaq slip after First Republic Bank takeover",negative,negative
+sp500_human_review,731,SP500_ANN_0762,Introducing the world’s next tallest building – which also cleans the air,neutral,neutral
+sp500_human_review,732,SP500_ANN_0763,"Stock Market Today: Dow, S&P Live Updates for September 22",neutral,neutral
+sp500_human_review,733,SP500_ANN_0764,"S&P 500 (SPX), Dow Jones (DJI), Nasdaq Composite (IXIC) Daily Technical Outlook: Tech Woes Stir Markets, Industrial Average Teeters",negative,negative
+sp500_human_review,734,SP500_ANN_0765,S&P 500 hits record as technology rally pushes stocks higher,positive,positive
+sp500_human_review,735,SP500_ANN_0766,Bristol-Myers Stock May Rebound 9% Short Term,positive,positive
+sp500_human_review,736,SP500_ANN_0767,"S&P 500 Cracks 5,000 Points, but Stellar Returns May Not Continue",negative,neutral
+sp500_human_review,737,SP500_ANN_0768,Wall Street flat as earnings fail to excite investors,negative,negative
+sp500_human_review,738,SP500_ANN_0769,"For Signs Of Relief Rally, Watch the S&P 500 versus Retail Stocks",neutral,neutral
+sp500_human_review,739,SP500_ANN_0770,VIX Fell Into a Death Cross. That's Usually Good for the S&P 500,positive,positive
+sp500_human_review,740,SP500_ANN_0781,Mazda hit by anti-Japan protests in China,negative,negative
+sp500_human_review,741,SP500_ANN_0782,The 8 Most Profitable U.S. Companies Practically Print Money,positive,positive
+sp500_human_review,742,SP500_ANN_0783,S&P 500 Forward P/E Ratio Falls Below Five-Year Average for First Time Since Q2 2020,negative,neutral
+sp500_human_review,743,SP500_ANN_0784,U.S. stocks rise as Treasury yields fall on hopes of end to Fed rate hikes,positive,positive
+sp500_human_review,744,SP500_ANN_0785,Microsoft to sell $399 Xbox One without Kinect,neutral,neutral
+sp500_human_review,745,SP500_ANN_0786,COVID-19 Stock Market Crash: Why I Always Prefer The S&P 500 Over The Straits Times Index,neutral,neutral
+sp500_human_review,746,SP500_ANN_0787,BofA's Savita Subramanian explains why she's neutral on the S&P 500,neutral,neutral
+sp500_human_review,747,SP500_ANN_0788,"Motoring: Tesla's profit sets up S&P 500 entry, while Musk pushes for growth",positive,positive
+sp500_human_review,748,SP500_ANN_0789,Markets Drop for Second-Straight Day on Fed Hike Fears,negative,negative
+sp500_human_review,749,SP500_ANN_0790,These 'Perfect 10' Stocks Drive 87% Of World's Stock Gains,neutral,positive
+sp500_human_review,750,SP500_ANN_0791,President Obama made one of history's greatest stock market calls in March 2009,neutral,neutral
+sp500_human_review,751,SP500_ANN_0792,"NASDAQ 100, Dow Jones, S&P 500: Dow Jones Surges Over 350 Points, S&P 500 Hits 13-Month High",positive,positive
+sp500_human_review,752,SP500_ANN_0793,S&P 500 (SPY) ETF: What's on the Horizon? - TipRanks.com,neutral,neutral
+sp500_human_review,753,SP500_ANN_0794,"Wall Street marks a milestone as the S&P 500 closes above 5,000 for the first time",positive,positive
+sp500_human_review,754,SP500_ANN_0795,Wall St Week Ahead Relentless U.S. stock rally faces Fed test,negative,neutral
+sp500_human_review,755,SP500_ANN_0796,5 Dividend ETFs That Beat S&P 500 in 2023,positive,positive
+sp500_human_review,756,SP500_ANN_0797,Rare stock-market event? Here's how many times the S&P 500 has seen a 9-day winning streak in the last 95 years.,neutral,neutral
+sp500_human_review,757,SP500_ANN_0798,US stocks join global rally amid COVID treatment hopes,positive,positive
+sp500_human_review,758,SP500_ANN_0799,U.S. Stocks Plunge as Coronavirus Crisis Spreads,negative,negative
+sp500_human_review,759,SP500_ANN_0800,Spotify founder: I’m not music industry’s savior,neutral,neutral
+sp500_human_review,760,SP500_ANN_0801,Tame CPI Inflation In October Puts Rally Back In Gear,positive,positive
+sp500_human_review,761,SP500_ANN_0802,"S&P 500 Is Almost At New Record High, Will The Uptrend Continue?",positive,positive
+sp500_human_review,762,SP500_ANN_0803,What Is The Great Recession? – Forbes Advisor,neutral,neutral
+sp500_human_review,763,SP500_ANN_0804,Financial firm with 500 workers in metro Denver rebrands as S&P Global,neutral,neutral
+sp500_human_review,764,SP500_ANN_0805,These seven stocks have done the worst in the 10-year bull market,negative,negative
+sp500_human_review,765,SP500_ANN_0806,Are investors ignoring the Federal Reserve’s warning?,negative,neutral
+sp500_human_review,766,SP500_ANN_0807,Here's How Long It Takes For Stocks To Recover From Bear Markets,neutral,neutral
+sp500_human_review,767,SP500_ANN_0808,Trump Tax Plan Seen More Wash Than Windfall for S&P 500 Earnings,neutral,negative
+sp500_human_review,768,SP500_ANN_0809,S&P 500 has bottomed says indicator with a perfect track record,positive,positive
+sp500_human_review,769,SP500_ANN_0810,"Gold Prices May Be Topping, SPX 500 Locked in Trading Range",neutral,neutral
+sp500_human_review,770,SP500_ANN_0811,"Nasdaq 100, Dow Jones, S&P 500 News: Wall Street Indexes Dip Ahead of Inflation Data",negative,negative
+sp500_human_review,771,SP500_ANN_0812,"FTSE 100, S&P 500 and Russell 2000 Hover Above Support Ahead of US NFP",neutral,neutral
+sp500_human_review,772,SP500_ANN_0813,"U.S. stocks price in recession risk more than other assets, says Citi",negative,negative
+sp500_human_review,773,SP500_ANN_0814,S&P 500 futures edge higher after hot inflation sell-off,positive,positive
+sp500_human_review,774,SP500_ANN_0815,Should you feel guilty for buying your iPhone?,neutral,neutral
+sp500_human_review,775,SP500_ANN_0816,Tesla underperforms S&P 500 since joining index in 2020,negative,negative
+sp500_human_review,776,SP500_ANN_0817,Stock Market Closes More Than 7.5% Down in Worst Day on Wall Street Since 2008,negative,negative
+sp500_human_review,777,SP500_ANN_0818,Wall St hits fresh 2023 highs after inflation data; Fed on deck,positive,positive
+sp500_human_review,778,SP500_ANN_0819,"Bitcoin Is Leading Indicator for S&P 500, Past Data Shows",neutral,neutral
+sp500_human_review,779,SP500_ANN_0820,There's A New World Order As 4 Big Stocks Like Tesla Fall To Pieces,negative,negative
+sp500_human_review,780,SP500_ANN_0821,BofA Quants Say a Winning Stock Signal Is Bad Omen for Bulls,negative,negative
+sp500_human_review,781,SP500_ANN_0822,Sell in May and Go Away? Sure. Just Not These Stocks,neutral,neutral
+sp500_human_review,782,SP500_ANN_0823,S&P 500; 6-months divergence continues here!,neutral,neutral
+sp500_human_review,783,SP500_ANN_0824,S&P 500 Poised for Short-Term Gains but Long-Term Challenges Loom,neutral,neutral
+sp500_human_review,784,SP500_ANN_0825,How to avoid the world's second biggest economy in your portfolio,neutral,negative
+sp500_human_review,785,SP500_ANN_0826,"S&P 500 hovers near 5,000-mark with earnings, jobs data in focus",neutral,neutral
+sp500_human_review,786,SP500_ANN_0827,"Markets News, Oct. 30, 2023: Stocks Rise; Dow Notches Best Day Since June To Kick Off Earnings, Fed Week",positive,positive
+sp500_human_review,787,SP500_ANN_0828,Fundstrat's Tom Lee predicts S&P 500 rising to 5000 next year in first look at 2022,positive,positive
+sp500_human_review,788,SP500_ANN_0829,Stock Market Outlook: Why the S&P 500 Keeps Crushing Record Highs,positive,positive
+sp500_human_review,789,SP500_ANN_0830,"Citi strategists upbeat on US stocks in 2024, fueled by earnings",positive,positive
+sp500_human_review,790,SP500_ANN_0831,Dow and US stocks plunge again: Live updates,negative,negative
+sp500_human_review,791,SP500_ANN_0832,Stock market news today: Stocks finish mixed as Powell wraps up testimony amid continued jobs strength,neutral,neutral
+sp500_human_review,792,SP500_ANN_0833,"Investor Daily: Deckers finds its footing with Uggs - Aug. 19, 2009",neutral,positive
+sp500_human_review,793,SP500_ANN_0834,"S&P 500, Nasdaq Futures Move Higher After Weekly Wins",positive,positive
+sp500_human_review,794,SP500_ANN_0835,S&P 500 posts longest weekly winning streak since 2017; finishes flat on day,positive,positive
+sp500_human_review,795,SP500_ANN_0836,The ‘czar’ who rates your favorite players on ‘Madden’,neutral,neutral
+sp500_human_review,796,SP500_ANN_0837,Capped vs. Uncapped Indexed Annuity Strategies,neutral,neutral
+sp500_human_review,797,SP500_ANN_0838,Why FANG & Biotech Are Not As Expensive As You Think,neutral,neutral
+sp500_human_review,798,SP500_ANN_0839,"Dow closes more than 350 points higher, Nasdaq jumps 1% in rebound from Fed Day sell-off: Live updates",positive,positive
+sp500_human_review,799,SP500_ANN_0840,"AI Frenzy Accounts for All of S&P 500 Gain in 2023, SocGen Says",neutral,positive
+sp500_human_review,800,SP500_ANN_0841,Buttercup the duck gets a 3-D printed foot,neutral,neutral
+sp500_human_review,801,SP500_ANN_0842,US stocks retreat from records ahead of tax bill vote,negative,negative
+sp500_human_review,802,SP500_ANN_0843,Citigroup raises S&P 500 target for 2023 on increased chances of ‘soft landing’,positive,positive
+sp500_human_review,803,SP500_ANN_0844,"Stock Market Today: Dow, S&P Live Updates for Sept. 2",neutral,neutral
+sp500_human_review,804,SP500_ANN_0845,Survey: 70% of teens hide online behavior from parents,neutral,neutral
+sp500_human_review,805,SP500_ANN_0846,Dow Rebounds 90 Points After Yesterday's Plunge,positive,positive
+sp500_human_review,806,SP500_ANN_0847,How Does Inflation Affect The Stock Market? – Forbes Advisor,neutral,neutral
+sp500_human_review,807,SP500_ANN_0848,America's CEOs made 324 times more than you last year,neutral,neutral
+sp500_human_review,808,SP500_ANN_0849,2018 Stock Market Cycles Outlook: New Highs... After A Dip,positive,neutral
+sp500_human_review,809,SP500_ANN_0850,Goldman Sachs Says Investors Are Underestimating the Chance of a COVID-19 Vaccine in 2020,positive,positive
+sp500_human_review,810,SP500_ANN_0851,Should Invesco S&P 500 High Dividend Low Volatility ETF (SPHD) Be on Your Investing Radar?,neutral,neutral
+sp500_human_review,811,SP500_ANN_0852,Tesla got booted from S&P 500 ESG index and Musk is mad,negative,negative
+sp500_human_review,812,SP500_ANN_0853,S&P 500 ends holiday-shortened week up nearly 3 percent,positive,positive
+sp500_human_review,813,SP500_ANN_0854,VIX ETFs Surge Over 6% as Stocks Fall and Volatility Expands,negative,neutral
+sp500_human_review,814,SP500_ANN_0855,Motilal Oswal MSCI EAFE Top 100 Select Index Fund Review,neutral,neutral
+sp500_human_review,815,SP500_ANN_0856,CBOE launches S&P 500 ESG Index Options - PA Future,neutral,neutral
+sp500_human_review,816,SP500_ANN_0857,S&P 500 Price Forecast – Stock Markets Run Into Brick Wall,negative,negative
+sp500_human_review,817,SP500_ANN_0858,Oppenheimer’s Stoltzfus Sees Record High for S&P 500 in 2024,positive,positive
+sp500_human_review,818,SP500_ANN_0859,Stocks Poised for Bull Run in April Despite Monday Sell-Off,positive,positive
+sp500_human_review,819,SP500_ANN_0860,Nasdaq ends sharply higher as Alphabet and AMD fuel AI surge,positive,positive
+sp500_human_review,820,SP500_ANN_0861,"Wall St falls after mixed earnings, downbeat manufacturing data",negative,negative
+sp500_human_review,821,SP500_ANN_0862,US Dollar Likely to Strengthen versus Canadian Dollar,positive,positive
+sp500_human_review,822,SP500_ANN_0863,This Wall Street legend has lived through every bear market since the 1950s. He says the one coming could hit the S&P 500 with a 30% loss,negative,negative
+sp500_human_review,823,SP500_ANN_0864,Wall Street Says the S&P 500 Is Headed Higher: 2 Unique Growth Stocks to Buy Now and Hold,positive,positive
+sp500_human_review,824,SP500_ANN_0865,"This week on ‘The Next List’: Jad Abumrad, the certifiable ‘genius’ from Radiolab",neutral,neutral
+sp500_human_review,825,SP500_ANN_0866,Dow Jumps 500 Points As Apple Surges And Bank Stocks Rally—But Risk Of Market Accident Lingers,positive,positive
+sp500_human_review,826,SP500_ANN_0867,Analyst who forecast the S&P 500 correction has a new price target,neutral,neutral
+sp500_human_review,827,SP500_ANN_0868,Jeremy Grantham Bets 10 Stocks Will Protect Him From 'Superbubble',neutral,neutral
+sp500_human_review,828,SP500_ANN_0869,Lennar Stock Leads S&P 500 On Earnings Beat As Homebuyers Accept 'New Normal',positive,positive
+sp500_human_review,829,SP500_ANN_0870,Wall Street ends higher after Ukraine concerns ease,positive,positive
+sp500_human_review,830,SP500_ANN_0871,"Markets News, Dec. 18, 2023: Stocks Gain; Oil Rises as Conflict Disrupts Red Sea Shipping",positive,positive
+sp500_human_review,831,SP500_ANN_0872,Stock Market Falls as Investors Fret About Tech Growth,negative,negative
+sp500_human_review,832,SP500_ANN_0873,Does the S&P 500 Need to Touch this Line? See the Technical History,neutral,neutral
+sp500_human_review,833,SP500_ANN_0874,History Says the S&P 500 Will Move Higher This Year: 1 Remarkable Growth Stock to Buy Now Before the Holiday Rally,positive,positive
+sp500_human_review,834,SP500_ANN_0875,"Dow slides 206 points, S&P 500 closes back below key 2,800 level",negative,negative
+sp500_human_review,835,SP500_ANN_0876,Sell-Everything Markets Are Serving Up Healthier Doses of Panic,negative,negative
+sp500_human_review,836,SP500_ANN_0877,6 Stocks Outperforming the S&P 500 Index,positive,positive
+sp500_human_review,837,SP500_ANN_0878,Bank of America boosts pay of CEO Brian Moynihan,positive,neutral
+sp500_human_review,838,SP500_ANN_0879,3 Best Performing Securities by Asset Class in the Last Decade,positive,positive
+sp500_human_review,839,SP500_ANN_0880,S&P 500 & Sectors: Price-To-Economic Book Value Ratio Is Flat In 2Q23,neutral,neutral
+sp500_human_review,840,SP500_ANN_0881,Stock market highs mask economic inequality in US: Deutsche Bank,negative,neutral
+sp500_human_review,841,SP500_ANN_0882,"FIS Shares Plummet on Spinoff Plan, Outlook",negative,negative
+sp500_human_review,842,SP500_ANN_0883,3 Reasons to Invest in an S&P 500 ETF Right Now,neutral,positive
+sp500_human_review,843,SP500_ANN_0884,10 Best Performing S&P 500 Stocks Since 2000. You'll Never Guess No. 1,positive,neutral
+sp500_human_review,844,SP500_ANN_0885,S&P 500 nears bear-market exit. Will Big Tech's rally finally spread to the broader stock market?,neutral,positive
+sp500_human_review,845,SP500_ANN_0886,"With the Stock Market Up 3% in 2023, Is It Safe to Invest Right Now?",neutral,neutral
+sp500_human_review,846,SP500_ANN_0887,Trump leaves office with a good — but not historically great — stock market record,positive,neutral
+sp500_human_review,847,SP500_ANN_0888,Should You Buy Stocks When There is Blood in the Streets?,neutral,neutral
+sp500_human_review,848,SP500_ANN_0889,Why I've stopped reinvesting dividends: Blodget,neutral,negative
+sp500_human_review,849,SP500_ANN_0890,"iShares, ProShares ETFs among the index funds with the worst returns of the decade",negative,negative
+sp500_human_review,850,SP500_ANN_0891,S&P 500 Forward P/E Ratio Rises Above 20.0 For First Time in 2 Years,neutral,neutral
+sp500_human_review,851,SP500_ANN_0892,U.S. Stocks Revisit Negative Territory; Energy Has The Gains,negative,negative
+sp500_human_review,852,SP500_ANN_0893,Stock market outlook: S&P 500 could crash 20% as recession hits in 2023,negative,negative
+sp500_human_review,853,SP500_ANN_0894,Stifel strategists see S&P 500 struggling to gain much ground by mid 2024,negative,negative
+sp500_human_review,854,SP500_ANN_0895,Investing For Kids: Give The Gift Of Stock,neutral,neutral
+sp500_human_review,855,SP500_ANN_0896,"S&P ekes out record on healthcare gains, tax plan hopes",positive,positive
+sp500_human_review,856,SP500_ANN_0897,Review: Google Maps puts Apple Maps to shame,neutral,neutral
+sp500_human_review,857,SP500_ANN_0898,Research: Women Score Higher Than Men in Most Leadership Skills,neutral,neutral
+sp500_human_review,858,SP500_ANN_0899,"After S&P 500's best month since 2020, analysts look for bear market's end",positive,positive
+sp500_human_review,859,SP500_ANN_0900,Lowest Net Profit Margin Projected for S&P 500 since Q4 2012,negative,negative
+sp500_human_review,860,SP500_ANN_0901,"Stock market live Thursday: Dow down 130 after sudden midday drop, gold 7-year high, E-Trade surges",negative,neutral
+sp500_human_review,861,SP500_ANN_0902,Markets Mixed at Midday as Strong Earnings Reports Lift the Dow and S&P 500,positive,positive
+sp500_human_review,862,SP500_ANN_0903,UBS pushes out S&P 500 mid-2024 target forecast to year-end,neutral,neutral
+sp500_human_review,863,SP500_ANN_0904,"S&P 500, Dow and Nasdaq Since Their 2000 Highs",neutral,neutral
+sp500_human_review,864,SP500_ANN_0905,Short bets against energy stocks rise to highest level since 2020,negative,negative
+sp500_human_review,865,SP500_ANN_0906,"Dow, S&P 500 end lower after Fed’s Powell says back-to-back rate hikes aren’t ruled out",negative,negative
+sp500_human_review,866,SP500_ANN_0907,U.S. stocks open higher as S&P 500 potentially extends longest stretch of gains since 2021,positive,positive
+sp500_human_review,867,SP500_ANN_0908,S&P 500 barely gains while Dow ends lower as Cisco and Walmart drag,negative,negative
+sp500_human_review,868,SP500_ANN_0909,Why stock bulls are sitting on their hands again: Morning Brief,neutral,neutral
+sp500_human_review,869,SP500_ANN_0910,Fine-wine investors toast despite stock market tumble,neutral,neutral
+sp500_human_review,870,SP500_ANN_0911,Why the S&P 500 could gain another 10% from its previous high,positive,positive
+sp500_human_review,871,SP500_ANN_0912,Survey: Pros Expect Modest Rally In Stocks Despite Growing Recession Fears,positive,neutral
+sp500_human_review,872,SP500_ANN_0913,Valero Energy Stock To Remain Below Its Pre-Covid Peak,negative,negative
+sp500_human_review,873,SP500_ANN_0914,"Executive Paywatch: 1,000-to-1 Pay Ratio CEOs Furlough Workers",negative,negative
+sp500_human_review,874,SP500_ANN_0915,Reclusive Huawei CEO breaks media silence,neutral,neutral
+sp500_human_review,875,SP500_ANN_0916,S&P 500 ticks up on Tuesday to close at highest level in 2023: Live updates,positive,positive
+sp500_human_review,876,SP500_ANN_0917,"Stock Market Today: Dow, S&P Live Updates for February 26, 2020",neutral,neutral
+sp500_human_review,877,SP500_ANN_0918,"Marriott Opens StateView Hotel, Adds to Autograph Collection",neutral,neutral
+sp500_human_review,878,SP500_ANN_0919,CEO Succession Practices in the Russell 3000 and S&P 500,neutral,neutral
+sp500_human_review,879,SP500_ANN_0920,Wall St ends up but still down on week as volatility rules,negative,neutral
+sp500_human_review,880,SP500_ANN_0921,"Markets News, Sept. 13, 2023: Dow Slips, Nasdaq Gains After Core Inflation Accelerated in August",neutral,neutral
+sp500_human_review,881,SP500_ANN_0922,Economy Faces 'Tornado-Like Headwind' as Financial Markets Spiral (Published 2020),negative,negative
+sp500_human_review,882,SP500_ANN_0923,5 Reasons S&P 500 Index Funds Are Perfect for New Investors,neutral,neutral
+sp500_human_review,883,SP500_ANN_0924,Nvidia earnings toss S&P 500 to new high,positive,positive
+sp500_human_review,884,SP500_ANN_0925,US Stocks Approach Crucial Test of How Far Bear Market Will Go,negative,neutral
+sp500_human_review,885,SP500_ANN_0926,"US Indices’ Upside Could be Capped: S&P 500, Nasdaq Price Setups",negative,neutral
+sp500_human_review,886,SP500_ANN_0927,"Stock market outlook: Why Nobel winner Robert Shiller's CAPE metric sees S&P 500 heading below 3,000",negative,negative
+sp500_human_review,887,SP500_ANN_0928,"IEEFA update: Oil and gas stocks place dead last in 2019, again, despite 30% price rise",negative,negative
+sp500_human_review,888,SP500_ANN_0929,Nobel Prize winner Thaler helps run a fund that’s nearly doubled the S&P since the bull market began,positive,positive
+sp500_human_review,889,SP500_ANN_0930,"Equity Predictions for 2023 Look Negative, and Are Probably Correct",negative,negative
+sp500_human_review,890,SP500_ANN_0931,Drop in oil sends Wall Street sliding – EMTV Online,negative,negative
+sp500_human_review,891,SP500_ANN_0932,Security Benefit Enhances its Foundations Annuity With New Indices for Greater Diversification,positive,positive
+sp500_human_review,892,SP500_ANN_0933,"S&P 500 closes lower, notching six days of losses ahead of key inflation report",negative,negative
+sp500_human_review,893,SP500_ANN_0934,"Dow jumps 200 points to a record on strong jobs report, S&P 500 notches 7th straight day of gains",positive,positive
+sp500_human_review,894,SP500_ANN_0935,College Tuition Growth Rate vs. Stock / Bond Investment Performance,neutral,neutral
+sp500_human_review,895,SP500_ANN_0936,"Nasdaq Index, Dow Jones, S&P 500 News: Fed’s Dovish Stance Spurs Market Surge",positive,positive
+sp500_human_review,896,SP500_ANN_0937,Why Campbell Soup Stock Gained 21% in June,positive,positive
+sp500_human_review,897,SP500_ANN_0938,The Biggest Companies That Don't Pay Dividends -- But May Be About To,neutral,neutral
+sp500_human_review,898,SP500_ANN_0939,"Bear-Market Rally Is Fooling Traders, Morgan Stanley Strategist Mike Wilson Says",negative,negative
+sp500_human_review,899,SP500_ANN_0940,S&P 500 Futures: Fade Bounces Into Price Resistance,negative,neutral
+sp500_human_review,900,SP500_ANN_0941,"S&P 500 Gains and Losses Today: Index Advances, Shaking Off Rate Hike Concerns",positive,positive
+sp500_human_review,901,SP500_ANN_0942,"S&P 500 Won't Hit New High for Years, House Prices Will Fall: Cooperman",negative,negative
+sp500_human_review,902,SP500_ANN_0943,Companies Buying Back Their Stock At Pre-Pandemic Levels—A Sign Of Economic Optimism,positive,positive
+sp500_human_review,903,SP500_ANN_0944,U.S. freezes assets of top Japanese mafia boss,negative,neutral
+sp500_human_review,904,SP500_ANN_0945,A social-media addict tries to disconnect,neutral,neutral
+sp500_human_review,905,SP500_ANN_0946,Peter Gabriel crowdsources new ‘Sledgehammer’ on Facebook,neutral,neutral
+sp500_human_review,906,SP500_ANN_0947,Debt To Capital: Unscrubbed Data Creates Misleading Credit Ratings,negative,negative
+sp500_human_review,907,SP500_ANN_0948,This Income ETF Is Good for These Turbulent Times,positive,positive
+sp500_human_review,908,SP500_ANN_0949,US STOCKS-Nasdaq climbs as tech shares rally after HP results,positive,positive
+sp500_human_review,909,SP500_ANN_0950,"S&P 500, Nasdaq 100 Clear Fibonacci Resistance and Break Out Higher. What’s Next?",positive,positive
+sp500_human_review,910,SP500_ANN_0951,The 20% up rule — bull market vs bear rally,neutral,neutral
+sp500_human_review,911,SP500_ANN_0952,News Corp CEO Rupert Murdoch files for divorce,neutral,neutral
+sp500_human_review,912,SP500_ANN_0953,S&P 500 companies led by founders outperform their peers,positive,positive
+sp500_human_review,913,SP500_ANN_0954,27 giant profitable companies paid no taxes,negative,neutral
+sp500_human_review,914,SP500_ANN_0955,"Wall Street slips as investors eye Russia, Fed hikes, quarter-end",negative,negative
+sp500_human_review,915,SP500_ANN_0956,"NASDAQ 100, Dow Jones, S&P 500 News: Investors Brace for Turbulence Amid Yield Surge",negative,negative
+sp500_human_review,916,SP500_ANN_0957,US Stocks Finish Higher as Tech Stock Gains Offset Weak Economic Data,positive,neutral
+sp500_human_review,917,SP500_ANN_0958,Gold Finds Support as Key Inflation Rate Hits a 30-Year High,positive,neutral
+sp500_human_review,918,SP500_ANN_0959,House of the Day: A Private Pool in a Hong Kong High Rise,neutral,neutral
+sp500_human_review,919,SP500_ANN_0960,"Hotel Stocks Decline, but News of Hersha Deal Softened Impact",negative,neutral
+sp500_human_review,920,SP500_ANN_0961,Tired of 'Mad Money' Picks? This ETF Shorts Jim Cramer,neutral,neutral
+sp500_human_review,921,SP500_ANN_0962,"Weekly Charts for the Dow, S&P 500 and Nasdaq Show Signs of a Bottom",positive,neutral
+sp500_human_review,922,SP500_ANN_0963,Ukraine's surprising comeback could be giving markets a boost,positive,positive
+sp500_human_review,923,SP500_ANN_0964,The Message in the S&P 500's 12-Month Winning Streak,positive,positive
+sp500_human_review,924,SP500_ANN_0965,Which U.S. Companies are Most Exposed to Europe?,neutral,neutral
+sp500_human_review,925,SP500_ANN_0966,7 Index Funds to Buy to Retire a Millionaire,neutral,positive
+sp500_human_review,926,SP500_ANN_0967,"BlackRock and the $15 trillion fund industry should be broken up, antimonopoly group says",negative,negative
+sp500_human_review,927,SP500_ANN_0968,"History Says A September Stock Market Crash is Overdue, Even in 2020",negative,negative
+sp500_human_review,928,SP500_ANN_0969,Mean Reversion to the Rescue | Gold News,neutral,neutral
+sp500_human_review,929,SP500_ANN_0970,Barclays Suspends Sales For 30 iPath ETNs,negative,negative
+sp500_human_review,930,SP500_ANN_0971,Stock-Market Selloff: S&P 500 Logs Longest Losing Streak of 2023,negative,negative
+sp500_human_review,931,SP500_ANN_0972,Have stocks been volatile this earnings season? Yes and no,neutral,neutral
+sp500_human_review,932,SP500_ANN_0973,Stock Market Today: S&P 500 posts highest close of 2023 as stocks book big weekly gains,positive,positive
+sp500_human_review,933,SP500_ANN_0974,"Stocks dip, bonds fall as CPI keeps Fed on course",negative,negative
+sp500_human_review,934,SP500_ANN_0975,Nasdaq leads Wall Street gains as Microsoft hits record,positive,positive
+sp500_human_review,935,SP500_ANN_0976,Stock Market Today: S&P 500 snaps 5-week win run as hotter inflation cools bulls By Investing.com,negative,negative
+sp500_human_review,936,SP500_ANN_0977,Wall Street falls fourth straight day as recession worries nag,negative,negative
+sp500_human_review,937,SP500_ANN_0978,Chanel Handbags Skyrocket in Value - Investment Value of Chanel Purses,positive,positive
+sp500_human_review,938,SP500_ANN_0979,How the S&P 500 (SPY) Reacts to Unemployment Reports,neutral,neutral
+sp500_human_review,939,SP500_ANN_0980,"Wall Street opens lower as Apple, Celgene weigh",negative,negative
+sp500_human_review,940,SP500_ANN_0981,Highest Number of S&P 500 Companies Issuing Negative EPS Guidance Since Q4 2019,negative,negative
+sp500_human_review,941,SP500_ANN_0982,Vanguard: You'll make a lot less money in the stock market in the next 10 years—here's what you can do,negative,negative
+sp500_human_review,942,SP500_ANN_0983,Leveraging a Growing Segment of Nasdaq-100 Funds,neutral,neutral
+sp500_human_review,943,SP500_ANN_0984,"The Stock Market Will Soar to Record Highs in 2024, Mike Wilson Says",positive,positive
+sp500_human_review,944,SP500_ANN_0985,"S&P 500, Nasdaq close first March session with record highs",positive,positive
+sp500_human_review,945,SP500_ANN_0986,"S&P 500 closes at record as yields rise, dollar retreats",positive,positive
+sp500_human_review,946,SP500_ANN_0987,S&P 500 books biggest drop since April after U.S. loses AAA ratings for a second time,negative,negative
+sp500_human_review,947,SP500_ANN_0988,"'Buy-and-hold' strategy beats 'sell in May and go away' trading slogan, report claims",positive,positive
+sp500_human_review,948,SP500_ANN_0989,"S&P 500 notches new high for 2023 Friday, on six-week hot streak after solid economic data: Live updates",positive,positive
+sp500_human_review,949,SP500_ANN_0990,How Have The Best And Worst Stocks Of 2016 Performed In 2017?,neutral,neutral
+sp500_human_review,950,SP500_ANN_0991,Nasdaq closes 1% higher Wednesday after inflation data is cooler than anticipated: Live updates,positive,positive
+sp500_human_review,951,SP500_ANN_0992,Stocks just got some new competition from bonds as 10-year rate tops dividend yield,negative,neutral
+sp500_human_review,952,SP500_ANN_0993,Coty sinks to bottom of S&P 500 index in May,negative,negative
+sp500_human_review,953,SP500_ANN_0994,"Stock Market Today: Dow, S&P Live Updates for Nov. 24, 2020",neutral,neutral
+sp500_human_review,954,SP500_ANN_0995,"NASDAQ 100, Dow Jones, S&P 500: Futures Edge Higher Ahead of Inflation Data",positive,neutral
+sp500_human_review,955,SP500_ANN_0996,"Stock market live Tuesday: S&P 500 hits another record, Apple drags down Dow, oil jumps to 5-month high",positive,neutral
+sp500_human_review,956,SP500_ANN_0997,"Wall Street Rally Goes up in Smoke, Indexes End Lower",negative,negative
+sp500_human_review,957,SP500_ANN_0998,RICHARD RUSSELL: Here Are 2 Reasons Why I'm Not Buying The Latest 'Dow Theory' Buy-Signal,negative,negative
+sp500_human_review,958,SP500_ANN_0999,Earnings Season: Beating the Snot Out of Expectations,positive,positive
+sp500_human_review,959,SP500_ANN_1000,Worst of Midterm Year 2018 Could Already Be Over,positive,positive
+sp500_human_review,960,SP500_ANN_1001,The growth imperative for medical-device companies,neutral,neutral
+sp500_human_review,961,SP500_ANN_1002,LNG Stock Chart: 3 Stocks Crushing the S&P 500,positive,positive
+sp500_human_review,962,SP500_ANN_1003,South Korea spending $1.5 billion for ‘5G’ network,positive,neutral
+sp500_human_review,963,SP500_ANN_1004,"Dow closes more than 200 points higher, S&P 500 rebounds to stave off September slide",positive,positive
+sp500_human_review,964,SP500_ANN_1005,"Dow jumps 480 points, S&P 500 closes at record as market shakes off coronavirus fears",positive,positive
+sp500_human_review,965,SP500_ANN_1006,Threat of military strike sends ripples through global oil market,negative,negative
+sp500_human_review,966,SP500_ANN_1007,"Computer Sciences To Join S&P 500, Stock Jumps",positive,positive
+sp500_human_review,967,SP500_ANN_1008,"Stocks are down after a volatile year, but that's not the whole picture",negative,neutral
+sp500_human_review,968,SP500_ANN_1009,"Stock picking has a terrible track record, and it’s getting worse",negative,negative
+sp500_human_review,969,SP500_ANN_1010,Stock Market Today: S&P 500 ends slightly lower but posts 24% 2023 gain,positive,positive
+sp500_human_review,970,SP500_ANN_1021,S&P 500 Forecast 2021: Long-Term Looks Positive,positive,positive
+sp500_human_review,971,SP500_ANN_1022,Dow Jones posts back-to-back losses after U.S. job openings fall to 28-month low,negative,negative
+sp500_human_review,972,SP500_ANN_1023,"Stocks jump 2%, putting the S&P 500 on track for its best month since 1974",positive,positive
+sp500_human_review,973,SP500_ANN_1024,Is iShares S&P 500 Index K (WFSPX) a Strong Mutual Fund Pick Right Now?,neutral,neutral
+sp500_human_review,974,SP500_ANN_1025,"Wall Street soars, fueled by tech as Treasury yields calm",positive,positive
+sp500_human_review,975,SP500_ANN_1026,First ETF to Offer Protection Against 100% of Stock Losses Launches,neutral,positive
+sp500_human_review,976,SP500_ANN_1027,'Wild ride': Morgan Stanley's Mike Wilson predicts double-digit percentage drop will hit stocks in early 2023,negative,negative
+sp500_human_review,977,SP500_ANN_1028,Dow Jones: When will the stock market stop going down?,negative,negative
+sp500_human_review,978,SP500_ANN_1029,The crazy stocks that correlate with Apple,neutral,neutral
+sp500_human_review,979,SP500_ANN_1030,S&P 500 rallies to fresh bull territory; oil rises,positive,positive
+sp500_human_review,980,SP500_ANN_1031,"Apple is now worth $3 trillion, boosted by the Nasdaq’s best start in 40 years",positive,positive
+sp500_human_review,981,SP500_ANN_1032,"5 Warren Buffett Stocks the Pope Would Love, Too",neutral,neutral
+sp500_human_review,982,SP500_ANN_1033,"Afghan grandmother, mom and kids addicted to opium",neutral,neutral
+sp500_human_review,983,SP500_ANN_1034,"Major indexes fall 1%, focus shifts to upcoming Powell speech",negative,negative
+sp500_human_review,984,SP500_ANN_1035,Equal-Weight ETFs Are Still Smart Beta Winners,positive,positive
+sp500_human_review,985,SP500_ANN_1036,FTSE 100 firms trailing behind peers on sexual harassment policies,negative,negative
+sp500_human_review,986,SP500_ANN_1037,South Africa since apartheid: Boom or bust?,neutral,neutral
+sp500_human_review,987,SP500_ANN_1038,"Dow Jones, S&P 500, Nasdaq 100 Sink after Fed, Powell, PacWest Woes Crush Sentiment",negative,negative
+sp500_human_review,988,SP500_ANN_1039,"US Markets: Dow, S&P 500, and Nasdaq End Higher Amid Volatility on Friday",positive,positive
+sp500_human_review,989,SP500_ANN_1040,"Facebook, Zuckerberg Selling 70 Million Shares In Secondary Offering",neutral,neutral
+sp500_human_review,990,SP500_ANN_1041,U.S. Stocks Down As Weak Earnings Trump Fed Cuts,negative,negative
+sp500_human_review,991,SP500_ANN_1042,Dollar or S&P 500: Which Faces the Biggest Post-CPI Reversal Risk?,neutral,neutral
+sp500_human_review,992,SP500_ANN_1043,Vivint Solar Names David Bywater Its Permanent CEO,neutral,neutral
+sp500_human_review,993,SP500_ANN_1044,Bear market confirmed as U.S. stocks' 2022 descent deepens,negative,negative
+sp500_human_review,994,SP500_ANN_1045,Stock Market Outlook: One-Year-Old Bull Rally Suggests More Upside Ahead,positive,positive
+sp500_human_review,995,SP500_ANN_1046,Warren Buffett's favorite indicator signals stocks are 'significantly overvalued',negative,negative
+sp500_human_review,996,SP500_ANN_1047,Russell 2000 Drops to 200-Day Moving Average,negative,negative
+sp500_human_review,997,SP500_ANN_1048,Why global portfolio diversification still makes sense for the investors | Mint,neutral,neutral
+sp500_human_review,998,SP500_ANN_1049,S&P 500 Notches Fresh 2-Year High: How 2023's Rally Compares To Recent Years,positive,positive
+sp500_human_review,999,SP500_ANN_1050,"S&P 500 Gains and Losses Today: Index Slips After Consumer Data, Tech Losses",negative,negative
+sp500_human_review,1000,SP500_ANN_1051,Analyst who forecast the S&P 500's rally unveils new Nasdaq 100 outlook,neutral,neutral
+sp500_human_review,1001,SP500_ANN_1052,"Wall Street climbs as Ukraine worries ease, data improves",positive,positive
+sp500_human_review,1002,SP500_ANN_1053,Goldman Sachs raises its S&P 500 target on vaccine hopes,positive,positive
+sp500_human_review,1003,SP500_ANN_1054,Charting a bull flag: S&P 500 digests two standard deviation breakout,positive,neutral
+sp500_human_review,1004,SP500_ANN_1055,S&P 500 Gains and Losses Today: Tesla Shares Tumble Amid Slowing China Sales,negative,negative
+sp500_human_review,1005,SP500_ANN_1056,"S&P 500 is most likely going to correct back to 4,100, Mizuho warns market bulls",negative,negative
+sp500_human_review,1006,SP500_ANN_1057,"Wall Street advances as bond yields fall, investors digest Fed minutes",positive,positive
+sp500_human_review,1007,SP500_ANN_1058,Australian stocks fall on Greece and China,negative,negative
+sp500_human_review,1008,SP500_ANN_1059,"Space weather: Fine, with a chance of solar flares",neutral,neutral
+sp500_human_review,1009,SP500_ANN_1060,Ethereum Shows Even Closer Correlation with the S&P 500 Index than Bitcoin,neutral,neutral
+sp500_human_review,1010,SP500_ANN_1071,Stocks for the Long Run: Johnson & Johnson vs. the S&P 500,neutral,neutral
+sp500_human_review,1011,SP500_ANN_1072,U.S. stocks make gains as earnings roll in,positive,positive
+sp500_human_review,1012,SP500_ANN_1073,Trump: Stock market winners and losers since the president took office,neutral,neutral
+sp500_human_review,1013,SP500_ANN_1074,"Pharma, ride-share providers among most overbought S&P 500 stocks",negative,neutral
+sp500_human_review,1014,SP500_ANN_1075,Why Michael 'Big Short' Burry Is Feeling Greedy About a S&P 500 Rebound,positive,positive
+sp500_human_review,1015,SP500_ANN_1076,Warren Buffett's S&P 500 Housing Market Play Just Surprised Wall Street,positive,positive
+sp500_human_review,1016,SP500_ANN_1077,"Bitcoin [BTC] and S&P 500 part ways, where now for the king coin?",neutral,neutral
+sp500_human_review,1017,SP500_ANN_1078,Best And Worst S&P Sectors Over The Last 12 Months,neutral,neutral
+sp500_human_review,1018,SP500_ANN_1079,US Stock Bulls Ignore 100 Years of Recessions at Their Peril,negative,negative
+sp500_human_review,1019,SP500_ANN_1080,"News updates from March 1: Nvidia closes above $2tn valuation, Gunvor to plead guilty to US bribery charges",neutral,neutral
+sp500_human_review,1020,SP500_ANN_1091,US stock rally lifts Dow to first close above 26000 points,positive,positive
+sp500_human_review,1021,SP500_ANN_1092,UBS: How the S&P 500 will react to three Russia-Ukraine scenarios,neutral,neutral
+sp500_human_review,1022,SP500_ANN_1093,Short sellers avoid mega-cap stocks that drive market rally,positive,neutral
+sp500_human_review,1023,SP500_ANN_1094,Dow loses more than 400 points and goes negative for 2023 as interest rates spike: Live updates,negative,negative
+sp500_human_review,1024,SP500_ANN_1095,"Gold will outperform the S&P 500 and bitcoin in 2022, Gareth Soloway predicts",negative,positive
+sp500_human_review,1025,SP500_ANN_1096,Tech gains push S&P 500 to another record high this week,positive,positive
+sp500_human_review,1026,SP500_ANN_1097,VOO vs. SPY vs. IVV: What’s The Best S&P 500 ETF In Singapore?,neutral,neutral
+sp500_human_review,1027,SP500_ANN_1098,Buying this fashion status symbol is 'historically safer' than investing in the stock market,neutral,positive
+sp500_human_review,1028,SP500_ANN_1099,Multiple Seasonal Patterns Converge at 6-8% Full Year Gains,positive,positive
+sp500_human_review,1029,SP500_ANN_1100,Small cans lead to big sales for Coca-Cola,positive,positive

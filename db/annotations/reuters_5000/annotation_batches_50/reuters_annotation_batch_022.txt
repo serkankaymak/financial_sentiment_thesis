@@ -1,0 +1,455 @@
+========================================================================================================================
+REUTERS ANNOTATION BATCH 022
+Rows: 1050 - 1099
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01051
+date: 2007-04-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9236706495285034
+TEXT:
+tribune deal would give zell broad powers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01052
+date: 2006-12-12 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9638209342956544
+TEXT:
+bp execs worried about cost cutting, safety paper
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01053
+date: 2006-12-06 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8290888071060181
+TEXT:
+delphi steering unit has $3.3 bln of new business
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01054
+date: 2006-11-13 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6879903078079224
+TEXT:
+american express to buy harbor payments
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01055
+date: 2007-04-13 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.4816620945930481
+TEXT:
+judge approves ca ex-ceos $800 million restitution
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01056
+date: 2007-02-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9189178347587584
+TEXT:
+dell hires solectrons cannon to head new division
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01057
+date: 2007-02-15 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9318243265151978
+TEXT:
+coca-cola raises quarterly dividend by 10 percent
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01058
+date: 2007-04-16 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.603416919708252
+TEXT:
+everbright bank buying into prudential china fund jv
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01059
+date: 2006-12-28 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7898359894752502
+TEXT:
+federal reserve to delay fomc minutes to january 3
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01060
+date: 2007-03-14 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8387636542320251
+TEXT:
+bank of america paying $26 mln to settle sec case
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01061
+date: 2007-02-06 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9223759174346924
+TEXT:
+nike to open 100 stores worldwide within 3 years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01062
+date: 2006-11-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.975925087928772
+TEXT:
+anntaylor november same-store sales fall 4.3 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01063
+date: 2006-12-27 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9321994185447692
+TEXT:
+finance new year, new goals -- one step at a time
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01064
+date: 2007-04-20 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8179857134819031
+TEXT:
+ticketmaster takes legal action against ebays stubhub
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01065
+date: 2006-12-18 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7969047427177429
+TEXT:
+vnu to cut 4,000 jobs, sell european unit to 3i
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01066
+date: 2007-01-11 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9397159218788148
+TEXT:
+brokerage says essilor may buy cooper companies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01067
+date: 2007-03-30 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9287890195846558
+TEXT:
+bain, blackstone among ceridian bidders sources
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01068
+date: 2006-12-18 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8386443257331848
+TEXT:
+delphi to get up to $3.4 billion investment
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01069
+date: 2006-12-25 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.8032249808311462
+TEXT:
+japan keeps view that economy is recovering
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01070
+date: 2006-11-30 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9060481786727904
+TEXT:
+stock options of unitedhealth ceo frozen
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01071
+date: 2006-11-08 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.9325810074806212
+TEXT:
+ex-tyco ceo kozlowski to sell colorado home for $10 mln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01072
+date: 2006-12-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9374223351478576
+TEXT:
+unitedhealth sees 2007 revenue about $79.5 bln
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01073
+date: 2007-04-12 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9375663995742798
+TEXT:
+march retail sales, without autos, gain modestly
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01074
+date: 2007-02-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9159836769104004
+TEXT:
+chrysler says aims for 1,000 salaried cuts by june
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01075
+date: 2007-03-16 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.7793127298355103
+TEXT:
+trade powers must agree on core wto deal soon-eu
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01076
+date: 2007-01-03 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.5944246053695679
+TEXT:
+pay, stock price doomed hds nardelli analysts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01077
+date: 2007-01-16 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5544736385345459
+TEXT:
+commerce bancorp probed by u.s. regulators
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01078
+date: 2006-11-05 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9750242829322816
+TEXT:
+gasoline prices edge lower to $2.18 per gallon
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01079
+date: 2007-02-20 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9482553005218506
+TEXT:
+wal-mart quarterly profit up
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01080
+date: 2006-12-22 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.7387501001358032
+TEXT:
+creditor group expects delta to weigh options
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01081
+date: 2007-04-17 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9524864554405212
+TEXT:
+sec warns auditors firms may manipulate new rule
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01082
+date: 2007-01-11 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9473429322242736
+TEXT:
+alcoa shares up after strong earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01083
+date: 2006-10-31 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9474309682846068
+TEXT:
+u.s. drops royalty claims against chevron nytimes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01084
+date: 2007-01-23 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9634687304496764
+TEXT:
+amd sees challenging pricing through 2007
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01085
+date: 2007-03-16 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9323381185531616
+TEXT:
+consumer prices rise on energy cost bounce
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01086
+date: 2006-12-28 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9423912167549132
+TEXT:
+consumer confidence hits 8-month high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01087
+date: 2007-02-02 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.5309146046638489
+TEXT:
+jobs growth modest in january
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01088
+date: 2006-12-04 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.976090669631958
+TEXT:
+pending home sales index falls
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01089
+date: 2006-12-12 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.6390846371650696
+TEXT:
+yahoo opens panama ad system upgrade to newcomers
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01090
+date: 2007-02-23 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.6819726228713989
+TEXT:
+private equity firms eyeing chrysler report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01091
+date: 2006-11-15 00:00:00
+finbert_score: 0
+finbert_label: neutral
+finbert_confidence: 0.8398093581199646
+TEXT:
+microsoft ceo touts company bet on web services
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01092
+date: 2007-03-20 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.934772253036499
+TEXT:
+accredited shares up 30 pct on new financing deal
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01093
+date: 2007-05-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9749003648757936
+TEXT:
+ford u.s. april sales fall 13 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01094
+date: 2007-01-15 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9054292440414428
+TEXT:
+update 4-u.s. arris bids $1.2 bln for norways tandberg tv
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01095
+date: 2007-03-18 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.676913321018219
+TEXT:
+sun-times reaches settlement with former president
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01096
+date: 2007-05-01 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.976106345653534
+TEXT:
+u.s. march pending home sales index falls 4.9 pct
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01097
+date: 2007-02-14 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.7371184825897217
+TEXT:
+office depot posts higher fourth-quarter profit
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01098
+date: 2006-12-07 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.961341917514801
+TEXT:
+fleetwood posts wider quarterly loss
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01099
+date: 2007-03-09 00:00:00
+finbert_score: -1
+finbert_label: negative
+finbert_confidence: 0.9055191278457642
+TEXT:
+chrysler to recall over 489,000 vehicles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: REUTERS_ANN_01100
+date: 2007-03-19 00:00:00
+finbert_score: 1
+finbert_label: positive
+finbert_confidence: 0.9394221901893616
+TEXT:
+tuis travel unit to merge with first choice
+

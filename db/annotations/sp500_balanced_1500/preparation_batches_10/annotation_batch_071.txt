@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 071
+Rows: 700 - 709
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0701
+sample_id: SP500_HEAD_002584
+date: 2014-02-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9558579921722412
+TEXT:
+Fitbit recalls activity tracker due to skin rashes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0702
+sample_id: SP500_HEAD_008052
+date: 2020-06-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7461913824081421
+TEXT:
+Bitcoin S&P 500 Correlation Means It Should Cost $18K, Says Analyst
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0703
+sample_id: SP500_HEAD_015128
+date: 2023-08-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9494777917861938
+TEXT:
+Markets News, Aug. 11, 2023: S&P 500, Nasdaq Fall for Second Straight Week; Chevron Lifts the Dow
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0704
+sample_id: SP500_HEAD_014680
+date: 2023-07-13 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9271109104156494
+TEXT:
+As S&P 500 hits 2023 highs, it’s all systems go for stock market bulls
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0705
+sample_id: SP500_HEAD_010972
+date: 2022-05-23 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8695640563964844
+TEXT:
+5 Must-See Stock Correction and Bear Market Statistics That'll Put Your Mind at Ease
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0706
+sample_id: SP500_HEAD_009844
+date: 2021-11-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7427077293395996
+TEXT:
+S&P 500's Record High Fueled by a Few, With Most Still Below Peak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0707
+sample_id: SP500_HEAD_008192
+date: 2020-07-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5989132523536682
+TEXT:
+E-mini S&P 500 Index (ES) Futures Technical Analysis – Chart Pattern Indicates Heightened Volatility
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0708
+sample_id: SP500_HEAD_007977
+date: 2020-06-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6095281839370728
+TEXT:
+Discover Financial Stock Is Up 65% In 2 Months, But What's Next?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0709
+sample_id: SP500_HEAD_005942
+date: 2018-06-05 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9570204615592957
+TEXT:
+Stocks - Wall Street Mixed as Trade Tensions Linger
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0710
+sample_id: SP500_HEAD_006529
+date: 2019-02-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8919404149055481
+TEXT:
+How Investors Should Brace for the Coming Earnings Recession
+

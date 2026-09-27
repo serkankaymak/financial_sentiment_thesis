@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 148
+Rows: 1470 - 1479
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1471
+sample_id: SP500_HEAD_015818
+date: 2023-10-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9476287961006165
+TEXT:
+S&P 500 ends at lowest since June 1 as data fuels rate worries
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1472
+sample_id: SP500_HEAD_007954
+date: 2020-05-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.924540638923645
+TEXT:
+While the Pandemic Causes Pandemonium, the Markets Show Resilience
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1473
+sample_id: SP500_HEAD_007340
+date: 2020-01-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.770793080329895
+TEXT:
+SP Funds' Sharia-Compliant ETFs Hit the Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1474
+sample_id: SP500_HEAD_014273
+date: 2023-06-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7956216931343079
+TEXT:
+S&P 500 and Nasdaq close at highest since April 2022
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1475
+sample_id: SP500_HEAD_005071
+date: 2017-03-27 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8816266655921936
+TEXT:
+3 Economic Charts Suggest Strong Possibility of Stock Market Crash in 2017
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1476
+sample_id: SP500_HEAD_013237
+date: 2023-03-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.5621675252914429
+TEXT:
+U.S. Banking Turmoil: Markets Rise as Pressure on Banks Eases (Published 2023)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1477
+sample_id: SP500_HEAD_009128
+date: 2021-04-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.875410795211792
+TEXT:
+Vaxart Stock Should Rebound After 25% Decline Over The Last Month
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1478
+sample_id: SP500_HEAD_000151
+date: 2009-03-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6292591094970703
+TEXT:
+Another week, another bailout: U.S. throws more funds at AIG
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1479
+sample_id: SP500_HEAD_004831
+date: 2016-11-22 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9167553782463074
+TEXT:
+Donald Trump's Stocks: Newmont Isn't Partying Like Dow 19,000
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1480
+sample_id: SP500_HEAD_004924
+date: 2017-01-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4947737455368042
+TEXT:
+Gold Bugs; Poised to beat S&P 500 for years to come?
+

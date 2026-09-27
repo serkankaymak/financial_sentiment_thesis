@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 051
+Rows: 500 - 509
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0501
+sample_id: SP500_HEAD_014055
+date: 2023-05-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5878796577453613
+TEXT:
+‘The mother of all crises.’ A US debt default would ricochet around the world
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0502
+sample_id: SP500_HEAD_006910
+date: 2019-07-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6698949933052063
+TEXT:
+The FIRE Lunatics With 8% Return Assumptions
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0503
+sample_id: SP500_HEAD_007754
+date: 2020-03-25 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.903127908706665
+TEXT:
+What Does It Mean That The Stock Market Is A Leading Economic Indicator?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0504
+sample_id: SP500_HEAD_011570
+date: 2022-09-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7485863566398621
+TEXT:
+'Big Short' Legend Michael Burry Hints Stock Market Crash Is Underway
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0505
+sample_id: SP500_HEAD_002119
+date: 2013-07-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8544468283653259
+TEXT:
+Dollars and Sense: Hot stocks and housing bubbles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0506
+sample_id: SP500_HEAD_012551
+date: 2023-01-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.631671667098999
+TEXT:
+Goldman Sachs thinks the economy will actually pull off a soft landing—but adds the S&P will stay flat for a whole year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0507
+sample_id: SP500_HEAD_007722
+date: 2020-03-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9651748538017273
+TEXT:
+Stocks log worst week since 2008: March 20, 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0508
+sample_id: SP500_HEAD_008358
+date: 2020-09-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9455233812332153
+TEXT:
+Tesla Stock Plummets Over 21%. How Much Further Can It Drop?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0509
+sample_id: SP500_HEAD_013542
+date: 2023-04-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.914208173751831
+TEXT:
+Companies Are Dropping Like Flies (And 10 Are Most At Risk Now)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0510
+sample_id: SP500_HEAD_010546
+date: 2022-03-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.571672797203064
+TEXT:
+Dow jumps 417 as stocks rally, oil hits $102
+

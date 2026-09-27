@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 015
+Rows: 140 - 149
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0141
+sample_id: SP500_HEAD_016561
+date: 2023-11-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7615522146224976
+TEXT:
+Jim Cramer Agrees With Bank Of America's Prediction For S&P 500 To Hit 5K By 2024: 'But Other Than Sentiment ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0142
+sample_id: SP500_HEAD_011045
+date: 2022-06-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.935488760471344
+TEXT:
+Fear gauge decouples from S&P 500 amid sell-off, confounding market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0143
+sample_id: SP500_HEAD_017188
+date: 2024-01-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5415782332420349
+TEXT:
+Nasdaq ends higher as yields fall, Boeing curbs gains on Dow
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0144
+sample_id: SP500_HEAD_008982
+date: 2021-02-22 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6377620697021484
+TEXT:
+Stock market: United Airlines, Delta stocks rise but S&P 500 falls
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0145
+sample_id: SP500_HEAD_017187
+date: 2024-01-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.912900984287262
+TEXT:
+Dow Jones, Nasdaq, S&P 500 weekly preview: Q4 earnings season is here
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0146
+sample_id: SP500_HEAD_010601
+date: 2022-03-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5800227522850037
+TEXT:
+Industry Analysts Still Predict the S&P 500 Price Will Close Above 5,000 in the Next 12 Months
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0147
+sample_id: SP500_HEAD_009346
+date: 2021-06-10 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7484771013259888
+TEXT:
+The Potential Value of U.S. Equity Allocation to Chinese Investors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0148
+sample_id: SP500_HEAD_013046
+date: 2023-03-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7141490578651428
+TEXT:
+Stock market news today: Stocks rally as Salesforce's 11% gain lifts Dow while S&P, Nasdaq reverse early losses
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0149
+sample_id: SP500_HEAD_016152
+date: 2023-10-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9615036845207214
+TEXT:
+S&P 500, Nasdaq end sharply lower as Alphabet disappoints, Treasury yields bounce
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0150
+sample_id: SP500_HEAD_001416
+date: 2012-08-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9045495390892029
+TEXT:
+Sell In May And Go Away, Except In Year With An Election
+

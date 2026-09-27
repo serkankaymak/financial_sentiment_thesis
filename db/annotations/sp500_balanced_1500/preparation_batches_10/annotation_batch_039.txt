@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 039
+Rows: 380 - 389
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0381
+sample_id: SP500_HEAD_005189
+date: 2017-05-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8019547462463379
+TEXT:
+Earnings revision breadth at highest rate in six years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0382
+sample_id: SP500_HEAD_012456
+date: 2023-01-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5096153616905212
+TEXT:
+ChartIQ Joins S&P Global, Enhances Capital IQ Pro Platform
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0383
+sample_id: SP500_HEAD_012690
+date: 2023-01-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9481364488601685
+TEXT:
+The strong January in stocks could be a positive sign for the year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0384
+sample_id: SP500_HEAD_014322
+date: 2023-06-15 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8349737524986267
+TEXT:
+Wells Fargo Investment Institute 2023 Midyear Outlook: Navigating end-of-cycle turbulence
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0385
+sample_id: SP500_HEAD_005684
+date: 2018-02-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9044628739356995
+TEXT:
+How Will the GICS Sector Changes Affect Sector ETFs in the U.S.?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0386
+sample_id: SP500_HEAD_005413
+date: 2017-09-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9553077220916748
+TEXT:
+S&P 500 Seasonality Turns Negative In Late September
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0387
+sample_id: SP500_HEAD_007303
+date: 2019-12-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6330832839012146
+TEXT:
+The S&P 500’s record-setting holiday run appears likely to continue in 2020, analysts say
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0388
+sample_id: SP500_HEAD_012090
+date: 2022-11-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9448524713516235
+TEXT:
+How Apple Stock Continues To Impressively Outperform
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0389
+sample_id: SP500_HEAD_016374
+date: 2023-11-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9518484473228455
+TEXT:
+S&P 500, Nasdaq snap longest winning streak in 2 years after Powell remarks, weak bond auction
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0390
+sample_id: SP500_HEAD_016478
+date: 2023-11-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8449530601501465
+TEXT:
+S&P 500, Nasdaq eke out 3rd day of gains, but November rally hits speed bump
+

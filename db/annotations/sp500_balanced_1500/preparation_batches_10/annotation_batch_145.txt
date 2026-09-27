@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 145
+Rows: 1440 - 1449
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1441
+sample_id: SP500_HEAD_008542
+date: 2020-10-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9453301429748535
+TEXT:
+Bitcoin, Gold and S&P 500 Return of investment comparison. for BITSTAMP:BTCUSD by TiborVrbovsky
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1442
+sample_id: SP500_HEAD_000605
+date: 2011-06-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9106311202049255
+TEXT:
+Real Estate News About Gary Levinsohn, Peter Pfendler and Billy Joel
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1443
+sample_id: SP500_HEAD_009828
+date: 2021-11-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9230551719665527
+TEXT:
+S&P 500, Nasdaq extend record streaks, with boost from chip, growth shares
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1444
+sample_id: SP500_HEAD_002412
+date: 2013-11-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.896381139755249
+TEXT:
+Mutant fungus croaks frog named after Darwin
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1445
+sample_id: SP500_HEAD_015321
+date: 2023-08-25 00:00:00
+finbert_label: negative
+finbert_confidence: 0.42442649602890015
+TEXT:
+S&P, Nasdaq close higher, snap 3-week losing streak as Wall Street shakes off rate hike fears: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1446
+sample_id: SP500_HEAD_011135
+date: 2022-06-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8248242735862732
+TEXT:
+S&P 500 confirms bear market as fears of a recession mount
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1447
+sample_id: SP500_HEAD_009841
+date: 2021-11-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6419851183891296
+TEXT:
+E-mini S&P 500 Index (ES) Futures Technical Analysis – Could Be Diverging from Cash Market Index
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1448
+sample_id: SP500_HEAD_006231
+date: 2018-10-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8290613889694214
+TEXT:
+Stock Market Crash Deja Vu? Keep An Eye On This Pattern!
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1449
+sample_id: SP500_HEAD_000116
+date: 2008-11-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9564965963363647
+TEXT:
+DHL announces 9,500 job cuts - Nov. 10, 2008
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1450
+sample_id: SP500_HEAD_014415
+date: 2023-06-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.48466426134109497
+TEXT:
+YOLO Army Bets on Stocks at Fastest Pace Ever, JPMorgan Says
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 023
+Rows: 220 - 229
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0221
+sample_id: SP500_HEAD_010638
+date: 2022-04-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5560529232025146
+TEXT:
+W. R. Berkley Stock Has Outperformed S&P500 Over The Last Month, Is It A Buy?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0222
+sample_id: SP500_HEAD_015799
+date: 2023-10-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8484681844711304
+TEXT:
+SolarEdge, Insulet, and Dollar General Lead S&P 500 Q3 Losses
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0223
+sample_id: SP500_HEAD_000610
+date: 2011-06-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8903584480285645
+TEXT:
+Polish Holocaust Survivor Founded Electronics Firm - WSJ
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0224
+sample_id: SP500_HEAD_014752
+date: 2023-07-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9144725799560547
+TEXT:
+Why Are Investors Allocating to Equal-Weight RSP Now?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0225
+sample_id: SP500_HEAD_007244
+date: 2019-12-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9559789299964905
+TEXT:
+S&P 500 posts biggest decline in nearly two months, Dow drops 250 points to kick off December
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0226
+sample_id: SP500_HEAD_012975
+date: 2023-02-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8701515197753906
+TEXT:
+S&P 500: Did We Just Experience a Capitulation Bottom?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0227
+sample_id: SP500_HEAD_017798
+date: 2024-02-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8872897028923035
+TEXT:
+Nasdaq Index, Dow Jones, S&P 500 News: Futures Dip Amid Record Highs, Inflation Data Anticipation
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0228
+sample_id: SP500_HEAD_011407
+date: 2022-08-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9005035161972046
+TEXT:
+Ben & Jerry's says Unilever froze directors' salaries over Israel
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0229
+sample_id: SP500_HEAD_010647
+date: 2022-04-05 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9025120139122009
+TEXT:
+Default risk rises across most US sectors in Q1
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0230
+sample_id: SP500_HEAD_017162
+date: 2024-01-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9021506309509277
+TEXT:
+'Twice as cheap': These stocks' discount to the S&P 500 is double its average, Ritholtz's Brown says
+

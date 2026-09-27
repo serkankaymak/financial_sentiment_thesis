@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 002
+Rows: 10 - 19
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0011
+sample_id: SP500_HEAD_016068
+date: 2023-10-19 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.4971914291381836
+TEXT:
+Wall Street's 'Magnificent Seven' face moment of truth as earnings season arrives
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0012
+sample_id: SP500_HEAD_017427
+date: 2024-01-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.46868422627449036
+TEXT:
+S&P 500 valuations rise on hopes of fairy tale end to inflation fight
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0013
+sample_id: SP500_HEAD_014538
+date: 2023-07-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9233072996139526
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for July 4
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0014
+sample_id: SP500_HEAD_013292
+date: 2023-03-20 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6453753709793091
+TEXT:
+Wall St ends higher as bank contagion fears ease, Fed eyed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0015
+sample_id: SP500_HEAD_016658
+date: 2023-11-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8230924010276794
+TEXT:
+S&P 500 Gains and Losses Today: NetApp and GM Rise; Hormel and Las Vegas Sands Fall
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0016
+sample_id: SP500_HEAD_014043
+date: 2023-05-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9463200569152832
+TEXT:
+The S&P 500 is up almost 8% in the first 100 trading days of the year. That bodes well for the rest of 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0017
+sample_id: SP500_HEAD_012132
+date: 2022-11-28 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8979278206825256
+TEXT:
+SDOG Maintains Significant Lead Over S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0018
+sample_id: SP500_HEAD_002339
+date: 2013-10-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8804752230644226
+TEXT:
+Happiness at work: Why money isn’t the only thing that matters
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0019
+sample_id: SP500_HEAD_005616
+date: 2018-01-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9566951394081116
+TEXT:
+These S&P 500 Stocks Got Cut in Half in 2017
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0020
+sample_id: SP500_HEAD_013793
+date: 2023-05-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9430985450744629
+TEXT:
+US Market Opening: Dow Jones, S&P 500 fall as investors await inflation results
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 030
+Rows: 290 - 299
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0291
+sample_id: SP500_HEAD_006525
+date: 2019-02-05 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9074357151985168
+TEXT:
+This Day In Market History: Peak Tulip Mania
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0292
+sample_id: SP500_HEAD_017423
+date: 2024-01-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9102718234062195
+TEXT:
+US close: Dow and S&P 500 hit fresh highs after GDP beat
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0293
+sample_id: SP500_HEAD_013375
+date: 2023-03-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9392751455307007
+TEXT:
+Markets Drop on Renewed Concerns About Rate Hikes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0294
+sample_id: SP500_HEAD_006860
+date: 2019-07-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8858071565628052
+TEXT:
+China Pushes S&P 500 to New All-Time High
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0295
+sample_id: SP500_HEAD_012368
+date: 2022-12-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8656700849533081
+TEXT:
+How a Single ETF Could Help You Retire a Millionaire
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0296
+sample_id: SP500_HEAD_012086
+date: 2022-11-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.790061891078949
+TEXT:
+Equal-Weight S&P 500 ETFs to Consider as Big Tech Struggles
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0297
+sample_id: SP500_HEAD_004246
+date: 2016-02-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9049432873725891
+TEXT:
+Warren Buffett, Berkshire Hathaway vs. S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0298
+sample_id: SP500_HEAD_010460
+date: 2022-03-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.47115862369537354
+TEXT:
+Why Markets Bounced Back So Quickly After the Russian Invasion of Ukraine
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0299
+sample_id: SP500_HEAD_007338
+date: 2020-01-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.946631669998169
+TEXT:
+'First five days' indicator, which has a solid track record at predicting year, off to good start
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0300
+sample_id: SP500_HEAD_009103
+date: 2021-03-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9087035655975342
+TEXT:
+Market Wrap, March 26: Here's all that happened in the markets today
+

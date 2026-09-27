@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 063
+Rows: 620 - 629
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0621
+sample_id: SP500_HEAD_014234
+date: 2023-06-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7498260736465454
+TEXT:
+S&P 500 notches fourth straight positive week, touches highest level since August: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0622
+sample_id: SP500_HEAD_016389
+date: 2023-11-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5098417401313782
+TEXT:
+Asian shares rise as S&P 500 records longest win streak in two years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0623
+sample_id: SP500_HEAD_013413
+date: 2023-03-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6186771392822266
+TEXT:
+Wild stock market reversals put dip-buyers on pace for historic year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0624
+sample_id: SP500_HEAD_007085
+date: 2019-10-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.47435352206230164
+TEXT:
+Stocks just delivered a reminder about October’s reputation for volatility
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0625
+sample_id: SP500_HEAD_001837
+date: 2013-03-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9191785454750061
+TEXT:
+Apparently This Matters: Baby Baird’s tapir
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0626
+sample_id: SP500_HEAD_013117
+date: 2023-03-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9237183928489685
+TEXT:
+How to Identify a Stock Market Bottom? Look for These Signals
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0627
+sample_id: SP500_HEAD_017730
+date: 2024-02-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9094650149345398
+TEXT:
+Nasdaq 100, Dow Jones, S&P 500 News: Investor Eyes on Nvidia, Fed Minutes for Market Insight
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0628
+sample_id: SP500_HEAD_003417
+date: 2015-02-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.642707109451294
+TEXT:
+Global shares rally on hopes for Greek deal; U.S. yields rise
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0629
+sample_id: SP500_HEAD_017518
+date: 2024-02-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8614051342010498
+TEXT:
+S&P 500 Price Forecast – S&P 500 Continues to Stagnate, Looking For Momentum
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0630
+sample_id: SP500_HEAD_010896
+date: 2022-05-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9624382853507996
+TEXT:
+Stocks end mostly lower, extending losing streak for S&P 500
+

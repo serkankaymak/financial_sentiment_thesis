@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 022
+Rows: 210 - 219
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0211
+sample_id: SP500_HEAD_010656
+date: 2022-04-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7255517244338989
+TEXT:
+Stock Market Today: Dow Jones, S&P 500 Opens Lower On Hawkish Fed Remarks; Tilray Up On Strong Earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0212
+sample_id: SP500_HEAD_010542
+date: 2022-03-16 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8075008392333984
+TEXT:
+History shows stocks can weather rate hike cycle
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0213
+sample_id: SP500_HEAD_000925
+date: 2011-12-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9353703260421753
+TEXT:
+Goldman's Top Strategist Sets His S&P 500 Target For 2012
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0214
+sample_id: SP500_HEAD_014064
+date: 2023-05-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9209791421890259
+TEXT:
+US stock market: Wall Street ends higher as Nvidia sparks rush for AI stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0215
+sample_id: SP500_HEAD_013876
+date: 2023-05-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.964682936668396
+TEXT:
+Dow Jones Today: Index Drops on Consumer Concern
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0216
+sample_id: SP500_HEAD_012480
+date: 2023-01-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9715986847877502
+TEXT:
+Nancy Pelosi's Portfolio Plunged 20% in 2022 Stock Market Crash
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0217
+sample_id: SP500_HEAD_005689
+date: 2018-02-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9309978485107422
+TEXT:
+S&P 500's Risk-Adjusted Return Was Close to World-Best in 2017
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0218
+sample_id: SP500_HEAD_015114
+date: 2023-08-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9496952891349792
+TEXT:
+Dow, S&P 500 and Nasdaq eke out gains, but close below session highs after July's inflation report
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0219
+sample_id: SP500_HEAD_007159
+date: 2019-10-30 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9066761136054993
+TEXT:
+Defensive Equities Are Leading the S&P 500 to Its Record Highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0220
+sample_id: SP500_HEAD_011618
+date: 2022-09-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5027719140052795
+TEXT:
+Credit Calculus Turns Against Stocks With Yield Edge Over Bonds Vanishing
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 055
+Rows: 540 - 549
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0541
+sample_id: SP500_HEAD_014948
+date: 2023-08-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7843897938728333
+TEXT:
+A Bull Market Is Coming: History Says the S&P 500 Could Soar 24% in the Next Year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0542
+sample_id: SP500_HEAD_012461
+date: 2023-01-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7406244874000549
+TEXT:
+Stocks have never bottomed before a recession hits, but there's still a chance the market rallies in 2023 despite ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0543
+sample_id: SP500_HEAD_004035
+date: 2015-11-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5696790814399719
+TEXT:
+Paris Terror Attacks: The Economic Fallout
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0544
+sample_id: SP500_HEAD_008496
+date: 2020-10-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.4278949201107025
+TEXT:
+S&P 500 Weekly Price Forecast – Attempt to Break Out but Failed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0545
+sample_id: SP500_HEAD_017774
+date: 2024-02-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8464899659156799
+TEXT:
+SPDR S&P 500 ETF tops record $500 bln in assets as Nvidia soars
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0546
+sample_id: SP500_HEAD_004431
+date: 2016-05-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5926005244255066
+TEXT:
+CME upgrade soothes critics who viewed prior system as unfair| Gulf Times
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0547
+sample_id: SP500_HEAD_013382
+date: 2023-03-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9183222055435181
+TEXT:
+Stock Market Today: Dow, S&P Live Updates for March 29
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0548
+sample_id: SP500_HEAD_015299
+date: 2023-08-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9644580483436584
+TEXT:
+Markets News, Aug. 24, 2023: Nvidia Boost Fizzles; Nasdaq, S&P 500 Fall in Worst Session in Weeks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0549
+sample_id: SP500_HEAD_006617
+date: 2019-03-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8604735732078552
+TEXT:
+Stocks Break to New Highs While VIX Drops to New Low
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0550
+sample_id: SP500_HEAD_017662
+date: 2024-02-15 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7680144906044006
+TEXT:
+S&P 500 Climbs as US Dollar, Rates Decline: Will the 5,000 Gap Fill Hold?
+

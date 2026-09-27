@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 010
+Rows: 90 - 99
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0091
+sample_id: SP500_HEAD_000678
+date: 2011-07-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7637929320335388
+TEXT:
+Wyoming Ranch Asks $175 Million, Believed to Be Highest for U.S. Ranch | Private Properties
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0092
+sample_id: SP500_HEAD_011562
+date: 2022-09-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7756046652793884
+TEXT:
+The S&P 500 will tumble another 9% in 2022 even as the bear-market rally propelled a rebound in sentiment on Wall ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0093
+sample_id: SP500_HEAD_015454
+date: 2023-09-06 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9286202192306519
+TEXT:
+Power failure: Why did SolarEdge’s value plummet by $11 billion in a year?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0094
+sample_id: SP500_HEAD_012776
+date: 2023-02-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.47800111770629883
+TEXT:
+Analysts Making Larger Cuts Than Average to EPS Estimates for S&P 500 Companies for Q1
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0095
+sample_id: SP500_HEAD_004349
+date: 2016-04-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.3736230134963989
+TEXT:
+U.S. Stocks Little Changed Amid Global Rally as Commodities Drop
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0096
+sample_id: SP500_HEAD_007788
+date: 2020-04-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8110544681549072
+TEXT:
+Markets Plunge as a Global Recession Appears Almost Inevitable (Published 2020)
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0097
+sample_id: SP500_HEAD_008235
+date: 2020-08-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7715038657188416
+TEXT:
+S&P 500 rallies, closes just shy of its record closing high
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0098
+sample_id: SP500_HEAD_013164
+date: 2023-03-10 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9487410187721252
+TEXT:
+S&P 500 Weekly Price Forecast – Stock Market Has a Tough Week Again
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0099
+sample_id: SP500_HEAD_009906
+date: 2021-11-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9411019086837769
+TEXT:
+Monster Beverage (MNST) Stock Up 107,060% Over 20 Years; Top Performer in SPX
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0100
+sample_id: SP500_HEAD_015673
+date: 2023-09-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9269317388534546
+TEXT:
+NightDragon, Diligent Report Finds Gap in Cyber Experience in S&P500 Board Rooms
+

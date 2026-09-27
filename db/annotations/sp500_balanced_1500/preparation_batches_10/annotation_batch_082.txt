@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 082
+Rows: 810 - 819
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0811
+sample_id: SP500_HEAD_017824
+date: 2024-02-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9432999491691589
+TEXT:
+Nasdaq 100, Dow Jones, S&P 500 News: Wall Street Indexes Dip Ahead of Inflation Data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0812
+sample_id: SP500_HEAD_015874
+date: 2023-10-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7074602246284485
+TEXT:
+FTSE 100, S&P 500 and Russell 2000 Hover Above Support Ahead of US NFP
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0813
+sample_id: SP500_HEAD_011902
+date: 2022-10-19 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5904693603515625
+TEXT:
+U.S. stocks price in recession risk more than other assets, says Citi
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0814
+sample_id: SP500_HEAD_017639
+date: 2024-02-14 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5843062400817871
+TEXT:
+S&P 500 futures edge higher after hot inflation sell-off
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0815
+sample_id: SP500_HEAD_001042
+date: 2012-01-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.654386043548584
+TEXT:
+Should you feel guilty for buying your iPhone?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0816
+sample_id: SP500_HEAD_016984
+date: 2023-12-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8691003918647766
+TEXT:
+Tesla underperforms S&P 500 since joining index in 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0817
+sample_id: SP500_HEAD_007599
+date: 2020-03-09 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9682348966598511
+TEXT:
+Stock Market Closes More Than 7.5% Down in Worst Day on Wall Street Since 2008
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0818
+sample_id: SP500_HEAD_016856
+date: 2023-12-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5794664621353149
+TEXT:
+Wall St hits fresh 2023 highs after inflation data; Fed on deck
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0819
+sample_id: SP500_HEAD_012326
+date: 2022-12-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5915667414665222
+TEXT:
+Bitcoin Is Leading Indicator for S&P 500, Past Data Shows
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0820
+sample_id: SP500_HEAD_012375
+date: 2022-12-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6438499689102173
+TEXT:
+There's A New World Order As 4 Big Stocks Like Tesla Fall To Pieces
+

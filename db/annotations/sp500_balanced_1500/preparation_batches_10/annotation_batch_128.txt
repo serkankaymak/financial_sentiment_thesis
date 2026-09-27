@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 128
+Rows: 1270 - 1279
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1271
+sample_id: SP500_HEAD_012858
+date: 2023-02-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.4877314865589142
+TEXT:
+This Valentine's Day Stock Stat Could Signal a Sweet 2023
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1272
+sample_id: SP500_HEAD_007465
+date: 2020-02-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9084057807922363
+TEXT:
+Intangible Assets: A Hidden but Crucial Driver of Company Value
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1273
+sample_id: SP500_HEAD_002559
+date: 2014-02-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8943380117416382
+TEXT:
+The TSX beat the S&P 500 for a decade. Time to switch?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1274
+sample_id: SP500_HEAD_015551
+date: 2023-09-12 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9666467905044556
+TEXT:
+Nasdaq closes lower by 1% Tuesday as Apple slides and tech suffers, Oracle sheds 13%: Live updates
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1275
+sample_id: SP500_HEAD_010784
+date: 2022-05-02 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5015812516212463
+TEXT:
+Warren Buffett says 'monkeys' could do as good a job investing as Wall Street financial advisors
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1276
+sample_id: SP500_HEAD_006315
+date: 2018-11-21 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7426654100418091
+TEXT:
+Buxton Helmsley Outperforms S&P 500 by 19.27% Throughout 2018
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1277
+sample_id: SP500_HEAD_008485
+date: 2020-09-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6069014668464661
+TEXT:
+Why S&P 500 returns could be flat until 2030 unless you reinvest dividends
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1278
+sample_id: SP500_HEAD_004297
+date: 2016-03-23 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9199344515800476
+TEXT:
+China arrests dozens over illegal vaccines
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1279
+sample_id: SP500_HEAD_007240
+date: 2019-12-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7216662168502808
+TEXT:
+Companies are hiding the costs of CEO jet perks from Wall Street
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1280
+sample_id: SP500_HEAD_016714
+date: 2023-12-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7074798345565796
+TEXT:
+Bull market in view after S&P 500 hits fresh year-high
+

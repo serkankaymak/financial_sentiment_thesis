@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 113
+Rows: 1120 - 1129
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1121
+sample_id: SP500_HEAD_004448
+date: 2016-05-31 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9038900136947632
+TEXT:
+Hitler’s coding machine sold on eBay – for $14
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1122
+sample_id: SP500_HEAD_005414
+date: 2017-09-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.4771638810634613
+TEXT:
+Hedge fund manager fails to beat the market, owes Warren Buffett a million bucks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1123
+sample_id: SP500_HEAD_016948
+date: 2023-12-18 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8939121961593628
+TEXT:
+S&P 500 Gains and Losses Today: Amazon Reportedly Aims To Expand Reach Into Sports
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1124
+sample_id: SP500_HEAD_004153
+date: 2016-01-14 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.824752926826477
+TEXT:
+Stock Market Capitulation Here? What To Watch For
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1125
+sample_id: SP500_HEAD_000355
+date: 2010-08-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8984894156455994
+TEXT:
+CNNMoney.com Market Report - Aug. 27, 2010
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1126
+sample_id: SP500_HEAD_001036
+date: 2012-01-27 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6621484756469727
+TEXT:
+UFC president hacked after scrapping with Anonymous
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1127
+sample_id: SP500_HEAD_014325
+date: 2023-06-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7284064888954163
+TEXT:
+S&P 500, Nasdaq jump for sixth straight session to end at 14-month highs despite hawkish Fed and ECB
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1128
+sample_id: SP500_HEAD_016030
+date: 2023-10-17 00:00:00
+finbert_label: negative
+finbert_confidence: 0.34700676798820496
+TEXT:
+Markets News, Oct. 17, 2023: Indexes Finish Little Changed as Treasury Yields Climb
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1129
+sample_id: SP500_HEAD_002669
+date: 2014-03-31 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9320936799049377
+TEXT:
+Global markets - Stocks up on central bank support hopes
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1130
+sample_id: SP500_HEAD_001169
+date: 2012-04-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.49585527181625366
+TEXT:
+Stocks climb after yesterday's big decline
+

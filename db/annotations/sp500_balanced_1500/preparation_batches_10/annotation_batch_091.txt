@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 091
+Rows: 900 - 909
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0901
+sample_id: SP500_HEAD_007488
+date: 2020-02-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9542196393013
+TEXT:
+Stock market live Thursday: Dow down 130 after sudden midday drop, gold 7-year high, E-Trade surges
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0902
+sample_id: SP500_HEAD_014750
+date: 2023-07-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6920961141586304
+TEXT:
+Markets Mixed at Midday as Strong Earnings Reports Lift the Dow and S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0903
+sample_id: SP500_HEAD_016010
+date: 2023-10-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6033244729042053
+TEXT:
+UBS pushes out S&P 500 mid-2024 target forecast to year-end
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0904
+sample_id: SP500_HEAD_017160
+date: 2024-01-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8873631954193115
+TEXT:
+S&P 500, Dow and Nasdaq Since Their 2000 Highs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0905
+sample_id: SP500_HEAD_010457
+date: 2022-03-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7786486744880676
+TEXT:
+Short bets against energy stocks rise to highest level since 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0906
+sample_id: SP500_HEAD_014482
+date: 2023-06-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.904350996017456
+TEXT:
+Dow, S&P 500 end lower after Fed’s Powell says back-to-back rate hikes aren’t ruled out
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0907
+sample_id: SP500_HEAD_016362
+date: 2023-11-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8910717964172363
+TEXT:
+U.S. stocks open higher as S&P 500 potentially extends longest stretch of gains since 2021
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0908
+sample_id: SP500_HEAD_016468
+date: 2023-11-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9533718228340149
+TEXT:
+S&P 500 barely gains while Dow ends lower as Cisco and Walmart drag
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0909
+sample_id: SP500_HEAD_012223
+date: 2022-12-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8483714461326599
+TEXT:
+Why stock bulls are sitting on their hands again: Morning Brief
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0910
+sample_id: SP500_HEAD_007863
+date: 2020-04-27 00:00:00
+finbert_label: positive
+finbert_confidence: 0.3852580189704895
+TEXT:
+Fine-wine investors toast despite stock market tumble
+

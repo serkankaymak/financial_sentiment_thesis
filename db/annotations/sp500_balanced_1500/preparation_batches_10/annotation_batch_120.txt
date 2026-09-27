@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 120
+Rows: 1190 - 1199
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1191
+sample_id: SP500_HEAD_004277
+date: 2016-03-09 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9396321177482605
+TEXT:
+Stimulus hopes and higher oil prices buoy European markets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1192
+sample_id: SP500_HEAD_008817
+date: 2020-12-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9196859002113342
+TEXT:
+Biden's post-election stock market bump is easily beating Trump's
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1193
+sample_id: SP500_HEAD_001242
+date: 2012-05-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9440511465072632
+TEXT:
+Wall Street climbs, shows positive signs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1194
+sample_id: SP500_HEAD_004305
+date: 2016-03-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.882036030292511
+TEXT:
+Moon village envisioned by European Space Agency
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1195
+sample_id: SP500_HEAD_017398
+date: 2024-01-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9501023888587952
+TEXT:
+Expect to see an 8% return in the S&P 500 this year, says RBC's Lori Calvasina
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1196
+sample_id: SP500_HEAD_012589
+date: 2023-01-20 00:00:00
+finbert_label: negative
+finbert_confidence: 0.960005521774292
+TEXT:
+US Stock Market Today: Dow Jones slides 252 points, Nasdaq ends 104 points lower as labour data fuels Fed w...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1197
+sample_id: SP500_HEAD_017523
+date: 2024-02-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8905746936798096
+TEXT:
+Stock market appears ‘accident prone’ as S&P 500 nears 5,000 milestone
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1198
+sample_id: SP500_HEAD_017256
+date: 2024-01-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5497638583183289
+TEXT:
+US 'landing' key to stretched equity/bond correlation
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1199
+sample_id: SP500_HEAD_008761
+date: 2020-12-14 00:00:00
+finbert_label: negative
+finbert_confidence: 0.686055600643158
+TEXT:
+Dow jumps more than 300 points on stimulus optimism, S&P 500 snaps 4-day losing streak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1200
+sample_id: SP500_HEAD_011314
+date: 2022-07-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9407988786697388
+TEXT:
+4 ETFs That Have Been Soundly Beating the S&P This Year
+

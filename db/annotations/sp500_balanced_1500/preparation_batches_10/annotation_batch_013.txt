@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 013
+Rows: 120 - 129
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0121
+sample_id: SP500_HEAD_004053
+date: 2015-11-30 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8236059546470642
+TEXT:
+Google And Microsoft Top The Most Popular Mutual Fund Stocks
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0122
+sample_id: SP500_HEAD_012112
+date: 2022-11-22 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7635083198547363
+TEXT:
+S&P closes at more than two-month high on retail, energy lift
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0123
+sample_id: SP500_HEAD_008202
+date: 2020-08-03 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9439724087715149
+TEXT:
+Growth and momentum strategies led S&P 500 gains in July
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0124
+sample_id: SP500_HEAD_003851
+date: 2015-08-26 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6871254444122314
+TEXT:
+The Stock Market Hasn't Had a Selloff Like This One in Over 75 Years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0125
+sample_id: SP500_HEAD_015282
+date: 2023-08-24 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5785040855407715
+TEXT:
+Stock Screen Finds These Growth Stocks Outperforming The S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0126
+sample_id: SP500_HEAD_013932
+date: 2023-05-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8672352433204651
+TEXT:
+NASDAQ 100, Dow Jones, S&P 500: Optimism Surrounds U.S. Debt Ceiling Talks as Stocks Rise
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0127
+sample_id: SP500_HEAD_002472
+date: 2013-12-31 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7591198086738586
+TEXT:
+Stocks: Stellar year ends on a high note
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0128
+sample_id: SP500_HEAD_016387
+date: 2023-11-09 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.751193642616272
+TEXT:
+S&P 500, NAS 100 Runs into Resistance, Can the Rally Continue?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0129
+sample_id: SP500_HEAD_007229
+date: 2019-11-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9151193499565125
+TEXT:
+2020 Could See Slower But Continued Stock Gains Say Analysts
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0130
+sample_id: SP500_HEAD_014091
+date: 2023-05-30 00:00:00
+finbert_label: negative
+finbert_confidence: 0.576976478099823
+TEXT:
+'Few are priced for an upcrash.' The S&P 500 could reach 4,600 this year, thanks to pessimism, says RBC.
+

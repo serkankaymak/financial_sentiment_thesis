@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 034
+Rows: 330 - 339
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0331
+sample_id: SP500_HEAD_003957
+date: 2015-10-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5287199020385742
+TEXT:
+Wall Street rises as financials recover after Citi results
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0332
+sample_id: SP500_HEAD_011612
+date: 2022-09-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7779151797294617
+TEXT:
+15 Stocks Billionaire Investors Agree It's Smart To Buy Now
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0333
+sample_id: SP500_HEAD_014729
+date: 2023-07-17 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6820192933082581
+TEXT:
+Fundstrat's Tom Lee explains why he sees an all-time high in the S&P 500 this year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0334
+sample_id: SP500_HEAD_010793
+date: 2022-05-04 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8985102772712708
+TEXT:
+SPDR S&P 500 ETF Trust and the Joe Biden Phenomenon
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0335
+sample_id: SP500_HEAD_001836
+date: 2013-03-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8560411334037781
+TEXT:
+Ikea finds horse meat in Russian hotdogs
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0336
+sample_id: SP500_HEAD_016882
+date: 2023-12-13 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9251486659049988
+TEXT:
+Markets News, Dec. 13, 2023: Dow Jumps 500 Points to Record High After Fed Forecasts 3 Rate Cuts in 2024
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0337
+sample_id: SP500_HEAD_000053
+date: 2008-06-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9418500065803528
+TEXT:
+U.S. Stocks End Mostly Lower; Nasdaq Claims Positive Turf
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0338
+sample_id: SP500_HEAD_011774
+date: 2022-10-03 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5145613551139832
+TEXT:
+Stock market news live updates: Stocks surge as Wall Street crawls out of a brutal September
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0339
+sample_id: SP500_HEAD_008334
+date: 2020-09-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9420283436775208
+TEXT:
+VOO: 4 "Strong Buy" ETFs that Pay Dividends
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0340
+sample_id: SP500_HEAD_012897
+date: 2023-02-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8882457613945007
+TEXT:
+These stocks have been shunned for years. Now investors love them
+

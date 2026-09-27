@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 009
+Rows: 80 - 89
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0081
+sample_id: SP500_HEAD_002524
+date: 2014-01-24 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6732859015464783
+TEXT:
+New Push to Protect Au Pairs as U.S. Program Is Reviewed
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0082
+sample_id: SP500_HEAD_011798
+date: 2022-10-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8836942315101624
+TEXT:
+Record dollar strength ravages stocks with most overseas exposure
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0083
+sample_id: SP500_HEAD_005060
+date: 2017-03-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9286260604858398
+TEXT:
+Wall Street’s worst day since before Trump’s election
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0084
+sample_id: SP500_HEAD_010025
+date: 2021-12-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7242383360862732
+TEXT:
+This Legal Way To Dodge Taxes Is Working Again This Year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0085
+sample_id: SP500_HEAD_003831
+date: 2015-08-21 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.6795609593391418
+TEXT:
+How Frequently Do New S&P 500 Highs Stick?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0086
+sample_id: SP500_HEAD_013378
+date: 2023-03-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.5190320611000061
+TEXT:
+Why the Stock Market Makes You Feel Bad All the Time
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0087
+sample_id: SP500_HEAD_006041
+date: 2018-07-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9195495247840881
+TEXT:
+This Day In Market History: American Market Speculator Jesse Livermore Is Born
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0088
+sample_id: SP500_HEAD_011332
+date: 2022-07-18 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9332788586616516
+TEXT:
+Here's How This Stock Sets Up Wyckoff Accumulation For The Next Big Move
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0089
+sample_id: SP500_HEAD_006527
+date: 2019-02-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9424843192100525
+TEXT:
+3 Questions to Ask About the 200-day Moving Average
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0090
+sample_id: SP500_HEAD_008475
+date: 2020-09-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9319297075271606
+TEXT:
+How to Read the S&P 500's Key Technical Signals
+

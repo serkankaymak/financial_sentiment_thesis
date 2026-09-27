@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 122
+Rows: 1210 - 1219
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1211
+sample_id: SP500_HEAD_011417
+date: 2022-08-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7238017320632935
+TEXT:
+US Market Today: Top gainers and losers on Nasdaq and S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1212
+sample_id: SP500_HEAD_007618
+date: 2020-03-11 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9592095613479614
+TEXT:
+SNAPSHOT-S&P 500 falls 20% from record high, crossing bear market threshold
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1213
+sample_id: SP500_HEAD_017198
+date: 2024-01-08 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8783122897148132
+TEXT:
+Dow ends higher after third session of gains, as bond yields pull back
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1214
+sample_id: SP500_HEAD_007144
+date: 2019-10-28 00:00:00
+finbert_label: negative
+finbert_confidence: 0.7746672034263611
+TEXT:
+Stock Market Record Surprises Skeptics Yet Again
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1215
+sample_id: SP500_HEAD_006749
+date: 2019-05-16 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8582403063774109
+TEXT:
+S&P 500 companies' highest and lowest paid CEOs of 2018
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1216
+sample_id: SP500_HEAD_012312
+date: 2022-12-20 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8995109796524048
+TEXT:
+Take Warren Buffett's Advice: 2 Reasons Right Now Is the Best Time to Invest in the Stock Market
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1217
+sample_id: SP500_HEAD_012717
+date: 2023-02-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7993090152740479
+TEXT:
+4 Reasons Why Aerospace & Defense ETFs May Gain Further
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1218
+sample_id: SP500_HEAD_010619
+date: 2022-03-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9604953527450562
+TEXT:
+Wall Street falls as S&P suffers biggest quarterly drop in two years
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1219
+sample_id: SP500_HEAD_008437
+date: 2020-09-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9390775561332703
+TEXT:
+Subscription Businesses Outpace S&P 500 Revenues Nearly 6X Amid Pandemic, Marking Pivotal Turning Point Across ...
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1220
+sample_id: SP500_HEAD_017649
+date: 2024-02-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.867169201374054
+TEXT:
+S&P 500 Earnings Mentions of AI Hits Record Level in Latest Quarter
+

@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 118
+Rows: 1170 - 1179
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1171
+sample_id: SP500_HEAD_008348
+date: 2020-09-03 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.7964504361152649
+TEXT:
+Bitcoin price, stocks and gold plunge in tandem — What's next?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1172
+sample_id: SP500_HEAD_000638
+date: 2011-06-29 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9372308850288391
+TEXT:
+CBS Newscaster Charles Osgood's Midtown Manhattan Co-Op at the Osborne For Sale, $6.9 Million
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1173
+sample_id: SP500_HEAD_005160
+date: 2017-05-08 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9163458943367004
+TEXT:
+Jeff Gundlach makes bets against U.S. stocks, for emerging markets
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1174
+sample_id: SP500_HEAD_007978
+date: 2020-06-01 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8821579813957214
+TEXT:
+There are just four black CEOs of Fortune 500 companies. Here's how they are addressing the death of George Floyd
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1175
+sample_id: SP500_HEAD_007622
+date: 2020-03-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.750586748123169
+TEXT:
+2007-2008 vs. 2020 Crisis Comparison: How Did United Parcel Service Stock Fare Compared with S&P 500?
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1176
+sample_id: SP500_HEAD_017650
+date: 2024-02-15 00:00:00
+finbert_label: positive
+finbert_confidence: 0.6944937705993652
+TEXT:
+Stock indexes are breaking records and crossing milestones – making many investors feel wealthier
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1177
+sample_id: SP500_HEAD_006417
+date: 2018-12-31 00:00:00
+finbert_label: negative
+finbert_confidence: 0.6150297522544861
+TEXT:
+A Foolish Take: What 2018's Stock Market Drop Means for 2019
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1178
+sample_id: SP500_HEAD_016559
+date: 2023-11-21 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9618468880653381
+TEXT:
+S&P 500, Nasdaq close down, ending 5-session winning streaks; retailers, tech weak
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1179
+sample_id: SP500_HEAD_009732
+date: 2021-10-11 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8013664484024048
+TEXT:
+Trump would be $400M RICHER if he invested money his father left him in the S&P 500, report claims
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1180
+sample_id: SP500_HEAD_012373
+date: 2022-12-28 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9056973457336426
+TEXT:
+Look Ahead Instead of in the Rearview Mirror | Chase
+

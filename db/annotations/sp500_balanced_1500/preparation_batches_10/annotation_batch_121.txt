@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 121
+Rows: 1200 - 1209
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1201
+sample_id: SP500_HEAD_007053
+date: 2019-09-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.502032995223999
+TEXT:
+U.S. Indices Open Session On The Bull - Forex News by FX Leaders
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1202
+sample_id: SP500_HEAD_013071
+date: 2023-03-06 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9223526120185852
+TEXT:
+14 S&P 500 Stocks To Switch Sectors In March - ETF Focus on TheStreet: ETF research and Trade Ideas
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1203
+sample_id: SP500_HEAD_006916
+date: 2019-07-26 00:00:00
+finbert_label: positive
+finbert_confidence: 0.46205446124076843
+TEXT:
+10 Restaurant Stocks That Have Beaten the S&P 500 This Year
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1204
+sample_id: SP500_HEAD_014645
+date: 2023-07-11 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9181974530220032
+TEXT:
+Stock Market Today: Dow ends up 317 points, scores best day in a month ahead of June CPI reading
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1205
+sample_id: SP500_HEAD_002059
+date: 2013-06-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.86160808801651
+TEXT:
+The Domini 400 Social Index: Outperforming the S&P 500
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1206
+sample_id: SP500_HEAD_003467
+date: 2015-03-12 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9103285074234009
+TEXT:
+The former U.S. Navy base where Oscar winners roam
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1207
+sample_id: SP500_HEAD_016765
+date: 2023-12-06 00:00:00
+finbert_label: positive
+finbert_confidence: 0.46882784366607666
+TEXT:
+Nasdaq Index, Dow Jones, S&P 500 News: Resilient Futures Ahead of ADP Payrolls Data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1208
+sample_id: SP500_HEAD_014599
+date: 2023-07-07 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9469336867332458
+TEXT:
+US STOCKS-S&P 500, Dow slip after mixed jobs data
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1209
+sample_id: SP500_HEAD_009442
+date: 2021-07-16 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8019630908966064
+TEXT:
+10 Best Stocks to Buy With 50+ Years of Dividend Increases
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_1210
+sample_id: SP500_HEAD_005358
+date: 2017-08-18 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8439673185348511
+TEXT:
+Donald Trump Is Beginning To Lose To Obama In His Favorite Metric: Stock Market Performance
+

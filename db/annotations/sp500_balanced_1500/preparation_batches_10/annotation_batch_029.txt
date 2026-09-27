@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 029
+Rows: 280 - 289
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0281
+sample_id: SP500_HEAD_004548
+date: 2016-07-12 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8257653117179871
+TEXT:
+S&P 500 poised to hit record high; Alcoa gains
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0282
+sample_id: SP500_HEAD_017887
+date: 2024-03-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.5900291800498962
+TEXT:
+Stock market today: S&P 500 and Nasdaq hit fresh highs, Nvidia tops $2 trillion as rally rages
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0283
+sample_id: SP500_HEAD_002674
+date: 2014-04-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9352155923843384
+TEXT:
+Report: 15-year-olds in Asia are better problem solvers than in the U.S.
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0284
+sample_id: SP500_HEAD_006450
+date: 2019-01-07 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9145300388336182
+TEXT:
+S&P 500 Ceilings And Floors | investing.com
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0285
+sample_id: SP500_HEAD_008835
+date: 2021-01-04 00:00:00
+finbert_label: negative
+finbert_confidence: 0.8686758279800415
+TEXT:
+Infographic: The Best and Worst Performing Sectors of 2020
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0286
+sample_id: SP500_HEAD_008658
+date: 2020-11-17 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9127386212348938
+TEXT:
+Why Tesla took so long to get into the S&P 500 — and what that means for other companies
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0287
+sample_id: SP500_HEAD_008007
+date: 2020-06-08 00:00:00
+finbert_label: negative
+finbert_confidence: 0.569502055644989
+TEXT:
+Nasdaq sets record high, S&P positive for 2020 as investors double down on recovery
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0288
+sample_id: SP500_HEAD_017872
+date: 2024-03-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8166192173957825
+TEXT:
+Super Micro, Deckers Outdoor Rise on S&P 500 Inclusion
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0289
+sample_id: SP500_HEAD_005212
+date: 2017-06-02 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9056946039199829
+TEXT:
+FINANCIAL CRASH WARNING: Signs major stock markets could be about to IMPLODE
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0290
+sample_id: SP500_HEAD_017773
+date: 2024-02-23 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8816497325897217
+TEXT:
+S&P 500 Weekly Price Forecast – S&P 500 Continues to See Upward Pressure
+

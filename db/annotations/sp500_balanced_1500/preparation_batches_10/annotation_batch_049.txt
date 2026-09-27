@@ -1,0 +1,95 @@
+========================================================================================================================
+ANNOTATION BATCH 049
+Rows: 480 - 489
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0481
+sample_id: SP500_HEAD_016239
+date: 2023-10-31 00:00:00
+finbert_label: positive
+finbert_confidence: 0.542526364326477
+TEXT:
+Wall St closes higher on eve of Fed decision; investors assess earnings
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0482
+sample_id: SP500_HEAD_001949
+date: 2013-05-01 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9392516613006592
+TEXT:
+Bangladesh risks losing EU market access
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0483
+sample_id: SP500_HEAD_008684
+date: 2020-11-24 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.819669783115387
+TEXT:
+Elon Musk overtakes Bill Gates to become world's second richest person
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0484
+sample_id: SP500_HEAD_010735
+date: 2022-04-25 00:00:00
+finbert_label: positive
+finbert_confidence: 0.7492745518684387
+TEXT:
+S&P 500 Ready to Join Bear Market, Says Morgan Stanley
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0485
+sample_id: SP500_HEAD_004582
+date: 2016-07-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.8736269474029541
+TEXT:
+This chart shows that oil is going to $75: Technical analyst
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0486
+sample_id: SP500_HEAD_011375
+date: 2022-07-26 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9064929485321045
+TEXT:
+Study finds crypto is ‘fool’s gold’ when it comes to hedging
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0487
+sample_id: SP500_HEAD_010761
+date: 2022-04-29 00:00:00
+finbert_label: negative
+finbert_confidence: 0.9582899808883667
+TEXT:
+A brutal April knocked the S&P 500 into its second stock-market correction of 2022
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0488
+sample_id: SP500_HEAD_016721
+date: 2023-12-04 00:00:00
+finbert_label: positive
+finbert_confidence: 0.9048742055892944
+TEXT:
+ProPicks: Beat the S&P 500 with our cutting-edge AI-powered stock selection
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0489
+sample_id: SP500_HEAD_006584
+date: 2019-03-01 00:00:00
+finbert_label: positive
+finbert_confidence: 0.8836736679077148
+TEXT:
+S&P 500 Will Likely Report Earnings Growth in Q2 2019
+
+------------------------------------------------------------------------------------------------------------------------
+annotation_id: SP500_ANN_0490
+sample_id: SP500_HEAD_002679
+date: 2014-04-02 00:00:00
+finbert_label: neutral
+finbert_confidence: 0.9042118191719055
+TEXT:
+Why Google's split will change the S&P 500 forever
+
