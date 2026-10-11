@@ -6,6 +6,11 @@ __pycache__/
 app/data/
 checkpoints/
 
+# Local-only secrets and oversized generated datasets
+app/api_keys.txt
+db/processed/market_sentiment_modeling_master.parquet
+db/processed/aggregated_financial_news_enriched.csv
+
 !db/README.md
 
 # Rendered notebook reports
