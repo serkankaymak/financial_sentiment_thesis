@@ -1,0 +1,950 @@
+﻿text,label,human_label,chatgpt_label,gemini_label,score,dataset
+Royal Mail chairman Donald Brydon set to step down,neutral,negative,neutral,neutral,-0.374,FiQA
+Slump in Weir leads FTSE down from record high,negative,negative,negative,negative,-0.827,FiQA
+AstraZeneca wins FDA approval for key new lung cancer pill,positive,positive,positive,positive,0.549,FiQA
+UPDATE 1-Lloyds to cut 945 jobs as part of 3-year restructuring plan,negative,negative,negative,negative,-0.266,FiQA
+Standard Chartered Shifts Emerging-Markets Strategy After Losses,negative,negative,negative,negative,-0.461,FiQA
+AstraZeneca's Lung Cancer Drug Tagrisso Gets FDA Approval,positive,positive,positive,positive,0.393,FiQA
+Severn Trent share price rises as first half profit inches up as customer ...,positive,positive,positive,positive,0.526,FiQA
+Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil,neutral,positive,neutral,neutral,0.037,FiQA
+Lloyds to cut 945 jobs as part of three-year restructuring strategy,negative,negative,negative,negative,-0.532,FiQA
+AstraZeneca to Buy ZS Pharma for $2.7 Billion,neutral,positive,neutral,neutral,0.593,FiQA
+AstraZeneca sells US drug rights to Perrigo for $380 mln,neutral,positive,neutral,neutral,0.326,FiQA
+"UPDATE 1-AstraZeneca buys ZS Pharma for $2.7 billion, pips Actelion",positive,positive,positive,positive,0.468,FiQA
+CORRECTED-Shire to buy Dyax for about $5.9 bln,neutral,positive,neutral,neutral,0.402,FiQA
+Barclays poised to replace Sir Mike Rake as he heads for exit,neutral,positive,neutral,neutral,0.077,FiQA
+AstraZeneca Acquires ZS Pharma in $2.7 Billion Deal,neutral,positive,neutral,neutral,0.52,FiQA
+AstraZeneca shares climb 3% as drug maker ups profits forecasts,positive,positive,positive,positive,0.64,FiQA
+Peroni and Grolsch put up for sale as AB InBev plans acquisition of SABMiller,neutral,positive,neutral,neutral,0.551,FiQA
+easyJet expects resilient demand to withstand security fears,positive,positive,positive,positive,0.165,FiQA
+Compass Group says positive for year ahead,positive,positive,positive,positive,0.634,FiQA
+Bunzl Lifts Dividend Again As Acquisitions Continue To Boost Profits,positive,positive,positive,positive,0.401,FiQA
+US dollar wipes out sales gains for SABMiller,negative,negative,negative,negative,-0.582,FiQA
+"UPDATE 1-SABMiller 2nd-quarter underlying sales rise, forex impacts margins",neutral,positive,neutral,neutral,0.043,FiQA
+UPDATE 2-Pricey beers lift SABMiller's quarterly underlying sales,positive,positive,positive,positive,0.429,FiQA
+"Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",neutral,positive,neutral,neutral,0.324,FiQA
+StanChart and RBS struggle in Bank of England stress tests,negative,negative,negative,negative,-0.738,FiQA
+REFILE-UPDATE 4-Britain's Lloyds to pay first dividend since rescue,positive,positive,positive,positive,0.522,FiQA
+Barclays sells benchmark indices unit to Bloomberg,neutral,positive,neutral,neutral,0.281,FiQA
+"Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",neutral,negative,neutral,neutral,-0.251,FiQA
+AstraZeneca Explores Potential Deal With Acerta for Cancer Drug,neutral,positive,neutral,neutral,0.372,FiQA
+Shell and BG Shareholders to Vote on Deal at End of January,neutral,neutral,neutral,neutral,0.0,FiQA
+AstraZeneca chases Acerta to secure next cancer drug winner,positive,positive,positive,positive,0.519,FiQA
+CompaniesTesco off to a bad start over Xmas â€“ Kantar,negative,negative,negative,negative,-0.604,FiQA
+"DBS, Julius Baer emerge as potential bidders for Barclays Asia wealth unit ...",neutral,positive,neutral,neutral,0.31,FiQA
+Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!,positive,positive,positive,positive,0.766,FiQA
+ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...,positive,positive,positive,positive,0.611,FiQA
+Glencore Studies Possible IPO for Agricultural Trading Business,neutral,positive,neutral,neutral,0.408,FiQA
+UPDATE 1-AstraZeneca boosts respiratory unit with $575 mln Takeda deal,positive,positive,positive,positive,0.47,FiQA
+Bilfinger Industrial Services win Â£100m BP contract extension,positive,positive,positive,positive,0.113,FiQA
+"Standard Chartered, RBS Escape Capital Raising in Stress Test",positive,positive,positive,positive,0.335,FiQA
+AstraZeneca weighing up Acerta bid to secure blood cancer drug,neutral,positive,neutral,neutral,0.284,FiQA
+GlaxoSmithKline set to complete $20 billion Novartis asset swap next week,neutral,positive,neutral,neutral,0.189,FiQA
+2 Turnaround Buys For 2016? BHP Billiton plc And Home Retail Group Plc,positive,positive,positive,positive,0.492,FiQA
+L&G completes UK's largest medically underwritten bulk pension risk deal,positive,positive,positive,positive,0.25,FiQA
+Meggitt share price tumbles as profit falls in 'challenging year',negative,negative,negative,negative,-0.854,FiQA
+Kingfisher share price slides on cost to implement new strategy,negative,negative,negative,negative,-0.786,FiQA
+Shire says internal synergy goals from Baxalta deal higher,positive,positive,positive,positive,0.287,FiQA
+"European shares plunge, roiled by BHP and oil; hopes turn to ECB",negative,negative,negative,negative,-0.736,FiQA
+Morrisons and Debenhams surprise City with Christmas bounce back,positive,positive,positive,positive,0.619,FiQA
+"Britain's FTSE falls back with Ashtead, commodities under pressure",negative,negative,negative,negative,-0.59,FiQA
+Tesco shares jump 6% after Christmas sales beat expectations,positive,positive,positive,positive,0.814,FiQA
+"CEOs of BPM, UBI meet Italy econ minister as M&A talk heats up",neutral,positive,neutral,neutral,0.133,FiQA
+CompaniesHome Retail trims gains but is considered 'in play',neutral,positive,neutral,neutral,0.135,FiQA
+Philippines' San Miguel says to partner with Kirin if it bids for SABMiller's ...,neutral,positive,neutral,neutral,0.19,FiQA
+Investors Remain Skeptical About Shell-BG Deal,negative,negative,negative,negative,-0.266,FiQA
+MarketsShire up 2.5% and Baxalta up 6% on $32bn deal,positive,positive,positive,positive,0.487,FiQA
+Shire share price under pressure after $32bn Baxalta deal,negative,negative,negative,negative,-0.198,FiQA
+Shares in BAE Systems hit 10-month high on rating upgrade,positive,positive,positive,positive,0.905,FiQA
+Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri,neutral,positive,neutral,neutral,0.236,FiQA
+Analyst Views: Astrazeneca shares have seen recent volatility; what will 2015 ...,neutral,negative,neutral,neutral,-0.12,FiQA
+CompaniesDixons Carphone to close 134 UK stores as sales jump,positive,positive,positive,positive,0.144,FiQA
+"Broker tips: RBS, Croda, Sage",neutral,positive,neutral,neutral,0.393,FiQA
+Shell share price: Standard Life announce position against BG acquisition,negative,negative,negative,negative,-0.134,FiQA
+Tesco share price down as grocer faces SFO investigation outcome,negative,negative,negative,negative,-0.542,FiQA
+"Britain's FTSE outperforms Europe, Royal Mail and Tesco rise",positive,positive,positive,positive,0.439,FiQA
+Greene King's third quarter sales boosted by festive season,positive,positive,positive,positive,0.363,FiQA
+ARM Royalties Accelerate as Smartphone Market Regains Strength,positive,positive,positive,positive,0.571,FiQA
+ConAgra Names Former Hillshire Farms CEO Connolly to Top Post,neutral,positive,neutral,neutral,0.101,FiQA
+InterContinental Hotels Group share price climbs on $1.5bn special dividend,positive,positive,positive,positive,0.631,FiQA
+AstraZeneca share price: Acerta deal pays off with orphan drug status,positive,positive,positive,positive,0.495,FiQA
+"BHP Billiton posts big loss, slashes dividend",negative,negative,negative,negative,-0.938,FiQA
+Merged LSE and Deutsche BÃ¶rse would be led by Germany's Kengeter,neutral,positive,neutral,neutral,0.136,FiQA
+BG Group appoints new CEO one month early,neutral,positive,neutral,neutral,0.069,FiQA
+"Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?",neutral,positive,neutral,neutral,0.1,FiQA
+BHP Billiton drags FTSE lower after slashing dividend,negative,negative,negative,negative,-0.604,FiQA
+"BHP Billiton slashes dividend, posts $5.67 billion net loss",negative,negative,negative,negative,-0.341,FiQA
+CompaniesMeggitt profits hit by weak energy and military markets,negative,negative,negative,negative,-0.302,FiQA
+Royal Mail share price edges lower as group raises stamp price,negative,negative,negative,negative,-0.269,FiQA
+"Glencore Cuts 2015 Budget, Plans To Divest From Lonmin",negative,negative,negative,negative,-0.314,FiQA
+GlaxoSmithKline starts hunt for successor to CEO Witty,neutral,neutral,neutral,neutral,0.0,FiQA
+"Rio Tinto swings to loss, drops dividend policy",negative,negative,negative,negative,-0.511,FiQA
+France raises concerns over proposed LSE-Deutsche Boerse deal,negative,negative,negative,negative,-0.347,FiQA
+Arm profits and sales up as shift away from mobile gains pace,positive,positive,positive,positive,0.497,FiQA
+Barclays appoints JPMorgan's Paul Compton as new COO,neutral,negative,neutral,neutral,-0.014,FiQA
+"FastJet slams EasyJet founder Stelios for going public, is 'taking legal advice' over letter about contractual ...",negative,negative,negative,negative,-0.238,FiQA
+NYSE owner ICE considers offer for LSE,neutral,positive,neutral,neutral,0.396,FiQA
+Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?),positive,positive,positive,positive,0.413,FiQA
+Intertek swings to Â£347 mln loss on oil's slump,negative,negative,negative,negative,-0.734,FiQA
+Sanofi poaches AstraZeneca scientist as new research head,neutral,positive,neutral,neutral,0.066,FiQA
+Tesco breaks its downward slide by cutting sales decline in half,positive,positive,positive,positive,0.172,FiQA
+"News FeedSchroders books solid earnings growth, several board changes",positive,positive,positive,positive,0.5,FiQA
+Intertek Group announces strategic update outlining its plan,neutral,positive,neutral,neutral,0.046,FiQA
+London Stock Exchange seals Â£22 billion merger with Germany's Deutsche BÃ¶rse,positive,positive,positive,positive,0.327,FiQA
+Tullow Oil Suspends Dividend Amid Oil Price Fall,negative,negative,negative,negative,-0.498,FiQA
+AB InBev to Sell SABMiller Stake in China's Snow Beer,neutral,negative,neutral,neutral,-0.045,FiQA
+LSE-Deutsche Boerse merger would signal end to exchange mega-deals,neutral,positive,neutral,neutral,0.105,FiQA
+Industry NewsWolseley confident in reslilience amid mixed markets,positive,positive,positive,positive,0.287,FiQA
+Tesco criticised for 'disgraceful' advert showing domestic worker being slapped,negative,negative,negative,negative,-0.498,FiQA
+FTSE edges up as investors cheer Kingfisher results,positive,positive,positive,positive,0.678,FiQA
+Barclays Bonds Rise as Lender Cuts Dividends to Shore Up Capital,positive,positive,positive,positive,0.261,FiQA
+Britain's FTSE gets lift from Prudential results,positive,positive,positive,positive,0.582,FiQA
+"Oil majors like Royal Dutch Shell, Chevron, BP fail to find reserves to counter ...",negative,negative,negative,negative,-0.402,FiQA
+ICE Said to Start Lining Up Financing for LSE Bidding War,neutral,positive,neutral,neutral,0.328,FiQA
+"BP, Statoil, to Withdraw Staff From Algeria Following Rocket Attack",negative,negative,negative,negative,-0.242,FiQA
+Merkel's Government Said to Support Deutsche Boerse-LSE Merger,positive,positive,positive,positive,0.358,FiQA
+Aviva weighs cash handout after beating profit forecast,positive,positive,positive,positive,0.377,FiQA
+"WPP, World's Largest Ad Agency, Reports Strong 2015 Growth",positive,positive,positive,positive,0.555,FiQA
+"Saudi Aramco, Shell plan to break up Motiva, divide up assets",neutral,negative,neutral,neutral,-0.142,FiQA
+AB InBev to sell more SAB assets as seeks EU deal approval,neutral,negative,neutral,neutral,-0.079,FiQA
+Tesco's Sales Pickup Isn't Enough,negative,negative,negative,negative,-0.23,FiQA
+ITV share price: Group mulls takeover of Canada's Entertainment One,neutral,positive,neutral,neutral,0.422,FiQA
+Entertainment One dispels ITV takeover rumours,neutral,positive,neutral,neutral,0.138,FiQA
+GE to Sell Majority Stake in Bank BPH's Core Bank to Alior Bank,neutral,positive,neutral,neutral,0.213,FiQA
+Tata Steel working with StanChart for UK unit sale - source,neutral,positive,neutral,neutral,0.218,FiQA
+Crown Castle buys Tower Development Corp for $461 million,neutral,positive,neutral,neutral,0.366,FiQA
+Tesco sells half of stake in ecommerce site Lazada to Alibaba for Â£90m,neutral,negative,neutral,neutral,-0.038,FiQA
+"CaixaBank, dos Santos Agree on Plan for BPI Angola Exposure",neutral,positive,neutral,neutral,0.244,FiQA
+"BPI Says Caixabank, Isabel dos Santos Reach Agreement Over Angola Exposure",neutral,positive,neutral,neutral,0.243,FiQA
+Spain's Caixabank launches new takeover bid for Banco BPI,neutral,positive,neutral,neutral,0.185,FiQA
+"Despite sales growth, UK's Tesco cautions recovery to be bumpy",negative,negative,negative,negative,-0.077,FiQA
+ITV to pursue takeover of Canada's Entertainment One: Bloomberg,neutral,positive,neutral,neutral,0.199,FiQA
+Shire Sees Baxalta Deal Closing as Expected After New Rules,positive,positive,positive,positive,0.224,FiQA
+"OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong",positive,positive,positive,positive,0.257,FiQA
+Tesco share price steady as analysts weigh in on results,neutral,positive,neutral,neutral,0.052,FiQA
+Standard Chartered lags on capital worries,negative,negative,negative,negative,-0.358,FiQA
+Should You Follow Berkshire Hathaway Into Apple Stock?,neutral,neutral,neutral,neutral,0.0,FiQA
+Morrisons book second consecutive quarter of sales growth,positive,positive,positive,positive,0.43,FiQA
+Royal Mail gets mixed bag from Ofcom postal regulation report,neutral,negative,neutral,neutral,-0.084,FiQA
+UPDATE 3-Ex-Barclays director accused by US of illegal tips to plumber,negative,negative,negative,negative,-0.34,FiQA
+Standard Life share price: Insurer buys advice firm Pearson Jones,neutral,positive,neutral,neutral,0.364,FiQA
+"EU regulators clear $100 billion-plus AB InBev, SABMiller deal",positive,positive,positive,positive,0.392,FiQA
+Retail giant Kingfisher reports 'solid' start to the year,positive,positive,positive,positive,0.368,FiQA
+Tesco closes in on new chairman with Dixons Carphone's John Allan in the frame,neutral,positive,neutral,neutral,0.295,FiQA
+"Berkshire discloses unit's ties to Iran, opens probe",negative,negative,negative,negative,-0.288,FiQA
+Berkshire Hathaway names Kara Raiguel to lead General Re unit,neutral,positive,neutral,neutral,0.077,FiQA
+"European stocks hover near 3-week low, Dialog and BHP slump",negative,negative,negative,negative,-0.584,FiQA
+Hargreaves Lansdown bucks weak markets to see assets rise 2.6 percent,positive,positive,positive,positive,0.571,FiQA
+MillerCoors Delivers 2.9% Underlying Net Income Growth for 2014,positive,positive,positive,positive,0.495,FiQA
+Goodwin not to face Scottish prosecution over RBS,neutral,positive,neutral,neutral,0.114,FiQA
+Royal Mail turnaround proving expensive in tough UK market,negative,negative,negative,negative,-0.057,FiQA
+"Irish Said Chasing Standard Chartered, RBS as Brexit Vote Nears",neutral,positive,neutral,neutral,0.128,FiQA
+Royal Mail share price rallies amid positive broker comments,positive,positive,positive,positive,0.59,FiQA
+InterContinental Hotels first-quarter global room revenue lags estimates,negative,negative,negative,negative,-0.329,FiQA
+London Stock Exchange â€“ Deutsche Boerse merger under threat from Brexit,negative,negative,negative,negative,-0.421,FiQA
+Sainsbury CFO Rogers to Replace Home Retail CEO Walden,neutral,neutral,neutral,neutral,0.0,FiQA
+BRIEF-Legal & General's retirement business books 4 billion stg H1 sales,positive,positive,positive,positive,0.252,FiQA
+Johnson Matthey revs up on clean air drive,positive,positive,positive,positive,0.224,FiQA
+RBS will reportedly appoint Howard Davies as its next chairman,neutral,positive,neutral,neutral,0.089,FiQA
+Asahi could be about to snap up more of SABMiller's beers ahead of AB InBev sale,positive,positive,positive,positive,0.207,FiQA
+LSE-Deutsche BÃ¶rse dealmakers wrong to ignore Brexit risk,negative,negative,negative,negative,-0.473,FiQA
+HSBC Hit by Fresh Details of Tax Evasion Claims,negative,negative,negative,negative,-0.594,FiQA
+Tesco sales recover as focus returns to core business,positive,positive,positive,positive,0.35,FiQA
+"Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?",neutral,positive,neutral,neutral,0.063,FiQA
+Priceline's stock jumps to new high for the year after Barclays upgrade,positive,positive,positive,positive,0.847,FiQA
+"Tesco set to sell Kipa, Giraffe businesses - Sky News",neutral,positive,neutral,neutral,0.23,FiQA
+Relief for Lewis as Tesco sees sales grow for first time in a year,positive,positive,positive,positive,0.42,FiQA
+The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever,neutral,positive,neutral,neutral,0.259,FiQA
+HSBC Says Unit to Book $585 Million Charge on Settlement,negative,negative,negative,negative,-0.434,FiQA
+"Hammerson, JV Partner secure ownership of Ireland's Dundrum - Quick Facts",positive,positive,positive,positive,0.427,FiQA
+CompaniesFresnillo shares jump 8% as silver price breaks $21,positive,positive,positive,positive,0.874,FiQA
+"Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?",neutral,positive,neutral,neutral,0.14,FiQA
+Tesco share price tumbles after negative broker note,negative,negative,negative,negative,-0.779,FiQA
+UPDATE 1-Berkshire applies to boost Wells Fargo stake above 10 pct,positive,positive,positive,positive,0.432,FiQA
+Berkshire applies to boost Wells Fargo stake above 10 percent,positive,positive,positive,positive,0.484,FiQA
+"Aviva, M&G suspend property funds as investors panic",negative,negative,negative,negative,-0.807,FiQA
+BRIEF-Aviva aims to increase dividend pay-out ratio to 50 pct in 2017,positive,positive,positive,positive,0.439,FiQA
+Builder Persimmon hails 6% rise in house sales,positive,positive,positive,positive,0.435,FiQA
+"UPDATE: Persimmon Profit Up Strongly, Outlook Positive",positive,positive,positive,positive,0.937,FiQA
+TRLPC - CRH backs Lafarge Holcim asset buy with 6.5 bln euro bridge loan,neutral,positive,neutral,neutral,0.365,FiQA
+"Buffett's Berkshire builds Deere stake, dumps Exxon",neutral,negative,neutral,neutral,-0.548,FiQA
+Aviva Fined $27 Million by U.K. Regulator Over Fee Failings,negative,negative,negative,negative,-0.675,FiQA
+AstraZeneca's patent on asthma drug invalidated by US court,negative,negative,negative,negative,-0.656,FiQA
+Rolls-Royce to Ensure Compliance After Petrobras Bribery Report,negative,negative,negative,negative,-0.075,FiQA
+Whitbread share price climbs on Q4 sales growth,positive,positive,positive,positive,0.513,FiQA
+Warren Buffett defends Berkshire Hathaway's conglomerate structure,neutral,positive,neutral,neutral,0.144,FiQA
+G4S sees profits rise but UK contract problems remain,neutral,positive,neutral,neutral,0.252,FiQA
+Friends Life lifts profits 38% and hikes divi ahead of proposed Aviva takeover,positive,positive,positive,positive,0.387,FiQA
+Auto Trader share price surges as company floats on LSE,positive,positive,positive,positive,0.655,FiQA
+New Credit Suisse boss faces stiff challenge in Asia,negative,negative,negative,negative,-0.181,FiQA
+"UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",positive,positive,positive,positive,0.315,FiQA
+Is It Worth Investing In Tesco PLC And Prudential plc Now?,neutral,positive,neutral,neutral,0.161,FiQA
+Insight hires Aviva's David Hillier for multi-asset team,neutral,positive,neutral,neutral,0.137,FiQA
+UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers,positive,positive,positive,positive,0.516,FiQA
+Sainsbury's says to outperform rivals in tough market,positive,positive,positive,positive,0.536,FiQA
+CompaniesKingfisher bid for Mr Bricolage runs into trouble,negative,negative,negative,negative,-0.253,FiQA
+UPDATE 3-Auto Trader shares leap in UK's biggest private equity-backed listing,positive,positive,positive,positive,0.641,FiQA
+GSK and Novartis complete deals to reshape both drugmakers,neutral,positive,neutral,neutral,0.264,FiQA
+"Aviva, Friends Life top forecasts ahead of 5.6 billion pound merger",positive,positive,positive,positive,0.39,FiQA
+Citigroup to Sell OneMain to Springleaf for $4.25 Billion,neutral,positive,neutral,neutral,0.283,FiQA
+"U.K. Stocks Resume Gains to Rally to Record; CRH, Tullow Climb",positive,positive,positive,positive,0.544,FiQA
+British American Tobacco drops and sues PwC over pollution scandal,negative,negative,negative,negative,-0.437,FiQA
+UK's FTSE has worst day so far in 2015 as BG and Prudential fall,negative,negative,negative,negative,-0.651,FiQA
+"Kraft, Cadbury's and Britvic in Total Recall: how pulling a product affects profit",negative,negative,negative,negative,-0.179,FiQA
+Kingfisher takeover of Mr Bricolage could hit a brick wall,negative,negative,negative,negative,-0.311,FiQA
+"U.K. Stocks Little Changed Near Record as Barclays, Shell Fall",neutral,negative,neutral,neutral,-0.508,FiQA
+Legal & General arm buys 50 pct stake in MediaCityUK in Manchester,positive,positive,positive,positive,0.379,FiQA
+"CompaniesTravis Perkins lifts dividend, earnings rise 15%",positive,positive,positive,positive,0.494,FiQA
+Market Report: Aviva tops the market as traders approve of its choice of Friends,positive,positive,positive,positive,0.443,FiQA
+Insurer Old Mutual picks Standard Bank's Hemphill as new CEO,neutral,positive,neutral,neutral,0.025,FiQA
+Primark racks up a happy Christmas after strong sales,positive,positive,positive,positive,0.704,FiQA
+"FDA panel backs safety updates for AstraZeneca, Takeda drugs",neutral,negative,neutral,neutral,-0.198,FiQA
+CompaniesDiageo stays neutral on India boardroom turmoil,neutral,neutral,neutral,neutral,0.0,FiQA
+UPDATE 1-Pearson expects to grow this year after solid end to 2014,positive,positive,positive,positive,0.446,FiQA
+Shell's $70 Billion BG Deal Meets Shareholder Skepticism,negative,negative,negative,negative,-0.345,FiQA
+Tesco sells Blinkbox and broadband service to TalkTalk,neutral,positive,neutral,neutral,0.192,FiQA
+Shell offers 50 percent premium to buy BG for $70 billion,positive,positive,positive,positive,0.193,FiQA
+WPP boosts sales despite cautious clients,positive,positive,positive,positive,0.251,FiQA
+LONDON MORNING BRIEFING: HSBC And Standard Chartered Shares Rise,positive,positive,positive,positive,0.556,FiQA
+UPDATE 1-BP shareholders back more disclosure on climate change risks,neutral,positive,neutral,neutral,0.037,FiQA
+City spirits sink after Diageo comes up short with sales slide,negative,negative,negative,negative,-0.521,FiQA
+Diageo receives reports from United Spirits on financial irregularities involving ...,negative,negative,negative,negative,-0.255,FiQA
+Unilever profit rises despite sales slump in China,positive,positive,positive,positive,0.213,FiQA
+Rolls-Royce Wins $9.2 Billion Order From Emirates Airline,positive,positive,positive,positive,0.777,FiQA
+Tesco sales rise shows tentative recovery continues,positive,positive,positive,positive,0.256,FiQA
+Diageo sales disappoint as currency and comparatives leave bitter taste,negative,negative,negative,negative,-0.545,FiQA
+Tesco leads leap in FTSE 100; Marks & Spencer drops,neutral,positive,neutral,neutral,0.389,FiQA
+AstraZeneca profit down as sales of stalwarts fade,negative,negative,negative,negative,-0.405,FiQA
+"Whitbread Profit Up As Sales Continue To Rise, Looking For New CEO",positive,positive,positive,positive,0.385,FiQA
+Doubts grow over GlaxoSmithKline's $6 bln capital return plan,negative,negative,negative,negative,-0.221,FiQA
+easyJet leads Britain's FTSE lower as global bond rout resumes,negative,negative,negative,negative,-0.495,FiQA
+Imperial Tobacco Adds Quarterly Dividends After Profit Rose,positive,positive,positive,positive,0.336,FiQA
+Royal Dutch Shell profit rises; dividend up 4%,positive,positive,positive,positive,0.65,FiQA
+BG Group Still Happy With Shell's $70 Billion Offer,positive,positive,positive,positive,0.235,FiQA
+SABMiller buys Meantime to quench thirst for craft beer,positive,positive,positive,positive,0.296,FiQA
+Aviva shuts Friends Life head office in rapid integration move,neutral,negative,neutral,neutral,-0.09,FiQA
+Retailers Kingfisher and Sports Direct rise in Britain's share index,positive,positive,positive,positive,0.459,FiQA
+Tesco share price closes higher as two more directors leave grocer,positive,positive,positive,positive,0.354,FiQA
+Tesco leads FTSE higher on Clubcard bid reports,positive,positive,positive,positive,0.453,FiQA
+Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration,positive,positive,positive,positive,0.516,FiQA
+"RPT-Old Mutual Q1 gross sales beat forecasts, up 18 pct",positive,positive,positive,positive,0.724,FiQA
+"UPDATE 3-BP settles oil spill-related claims with Halliburton, Transocean",neutral,negative,neutral,neutral,-0.121,FiQA
+GlaxoSmithKline share price slips as FDA okays asthma therapy only for adults,negative,negative,negative,negative,-0.408,FiQA
+Glencore chief blames rivals' overproduction for share price fall,negative,negative,negative,negative,-0.301,FiQA
+Hargreaves Lansdown share price falls as costs mount - although pensions ...,negative,negative,negative,negative,-0.514,FiQA
+"PRESS: Serco Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT",neutral,positive,neutral,neutral,0.195,FiQA
+UPDATE 1-Cypress Semiconductor offers to buy Integrated Silicon Solution,neutral,positive,neutral,neutral,0.461,FiQA
+"UPDATE 1-Nomura, RBS must pay $806 mln in mortgage bond case-US judge",negative,negative,negative,negative,-0.69,FiQA
+MillerCoors Board Names Gavin Hattersley Interim CEO,neutral,neutral,neutral,neutral,0.0,FiQA
+"Britain's FTSE gains, Land Securities up after dividend hike",positive,positive,positive,positive,0.549,FiQA
+"Britain's FTSE bounces back, Mondi and Barratt lead",positive,positive,positive,positive,0.558,FiQA
+Morning Agenda: Shire's Deal for NPS,neutral,positive,neutral,neutral,0.195,FiQA
+Old Mutual First-Quarter Sales Up 18% Buoyed by Emerging Markets,positive,positive,positive,positive,0.689,FiQA
+Do it for me' trend underpins UK sales growth at Kingfisher,positive,positive,positive,positive,0.304,FiQA
+"Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",positive,positive,positive,positive,0.372,FiQA
+Carnival Corporation and China Merchants Group Sign Memo of Understanding ...,neutral,positive,neutral,neutral,0.119,FiQA
+"Aberdeen AM posts H1 outflows, says conditions to remain challenging",negative,negative,negative,negative,-0.364,FiQA
+Teva: FDA Approves Generic Version of AstraZeneca Heartburn Drug,positive,positive,positive,positive,0.476,FiQA
+Severn Trent share price jumps as Canadian investor renews pursuit of utility,positive,positive,positive,positive,0.433,FiQA
+New Morrisons duo get former boss's support to diffuse investor tension,neutral,positive,neutral,neutral,0.143,FiQA
+Slowly adding some $FIO here but gotta be careful. This will be one of biggest winners in 2012,positive,positive,positive,positive,0.459,FiQA
+$TRX http://stks.co/1KkK Long setup. MACD cross.,positive,positive,positive,positive,0.438,FiQA
+I am not optimistic about $amzn both fundementals and charts look like poopoo this quarter.,negative,negative,negative,negative,-0.506,FiQA
+$IACI http://stks.co/tJU Looks good on the weekly chart.,positive,positive,positive,positive,0.379,FiQA
+"$pcln back over ""up"" trendline from 10/4",positive,positive,positive,positive,0.308,FiQA
+RT @robbieLOLZ $NFLX A close above here is looking good for the bulls. Will hold my positions to see where we close at. Keep buying here.,positive,positive,positive,positive,0.578,FiQA
+Profit taking on $AAPL this morning?  That has to be the pressure on the stock.  I'm still bullish on $AAPL.,positive,positive,positive,positive,0.222,FiQA
+$SKX turning. Coming from far could go far. Stock price implies you pay nothing for the business,positive,positive,positive,positive,0.298,FiQA
+$MOS looking good here at $58.65. Calls are active in this month and weekly,positive,positive,positive,positive,0.492,FiQA
+$YMI http://stks.co/Xyf Long setup. Closed above the 20MA. MACD cross. November catalyst.,positive,positive,positive,positive,0.444,FiQA
+$TZOO a close above 28.64 and we are ready to rock and roll,positive,positive,positive,positive,0.308,FiQA
+"I'm liking the price action in $SWKS, currently @21.80 ; my target: 24.00+ before year end.",positive,positive,positive,positive,0.603,FiQA
+$WFT closng higher from here,positive,positive,positive,positive,0.48,FiQA
+$SPPI..building RS. Sweet. I want this to break a new 52week. The earnings growth justifies way higher,positive,positive,positive,positive,0.601,FiQA
+Double bottom with handle buy point of 29.51 $IP http://chart.ly/akvujxh,positive,positive,positive,positive,0.446,FiQA
+"$GLD http://stks.co/jr8 Daily chart - though RSI and Stoch. point at a possible move up, there's a lot of resistance.",neutral,positive,neutral,neutral,0.176,FiQA
+$ACOM http://stks.co/1G6x Downside breakout looks to be coming soon.,negative,negative,negative,negative,-0.536,FiQA
+$ZAGG getting ready...Target $15 plus on a close over $13.50 on better than avg daily Volume http://chart.ly/lha44tn,positive,positive,positive,positive,0.385,FiQA
+volatility squeeze in $AAPL. I hope it gets resolved to the upside,neutral,positive,neutral,neutral,0.042,FiQA
+"Still short $LNG from $11.70 area...next stop could be down through $9.00. Someone slammed it hard with 230,000 shs this am! More to follow",negative,negative,negative,negative,-0.543,FiQA
+Covered my small $MWW short @ 7.99 for a .16 loss. Flat on the day. All cash now.,negative,positive,negative,negative,0.348,FiQA
+"RT FITZSTOCK2004: $IYT http://stks.co/1NBF the Transports always lead  the way, and  they broke DT  line  1st, MACD cross,  bull  flag=",positive,positive,positive,positive,0.594,FiQA
+$DUG weekly stochastics finally starting to turn up after long consolidation. Buying here.,positive,positive,positive,positive,0.702,FiQA
+$SPY Don't hang your bull hat yet. Next week we will pop higher on QE3 hope on back of fed's 2 day meeting.,positive,positive,positive,positive,0.412,FiQA
+"$SLW is down, but weekly $34 calls (-28.95%), .23 x .25 have 321 volume. Worth a chance here, jmho: http://stks.co/1Qfg",negative,positive,negative,negative,0.145,FiQA
+"$HSC Receives 7-Year, $50M Contract at New Saudi Arabian Steel Mill",positive,positive,positive,positive,0.497,FiQA
+"Reuters: Green Mountain revenue misses, shares plunge http://stks.co/13mW > $GMCR prints 43.80, market in a foul mood, bad day to disappoint",negative,negative,negative,negative,-0.668,FiQA
+"$XLF http://stks.co/1KJ9 Bounced off target buy area, bought $skf as a hedge. watch 50ma's slope",neutral,negative,neutral,neutral,-0.299,FiQA
+$vxx adding to position here !,positive,positive,positive,positive,0.685,FiQA
+$GPS Gap September Comparable Store Sales -4%,negative,negative,negative,negative,-0.441,FiQA
+Double bottom with handle buy point of 56.49 $WMT http://chart.ly/ml857v3,positive,positive,positive,positive,0.654,FiQA
+$MA http://stks.co/1CYN continues to consolidate / base here,neutral,positive,neutral,neutral,0.148,FiQA
+Nasdaq Sets Up for Breakout Part II | via @AllStarCharts http://stks.co/15Nv  $GOOG $AMZN $QCOM,positive,positive,positive,positive,0.396,FiQA
+$isrg trading at all-time high after strong earnings report with 4 days of short interest.,positive,positive,positive,positive,0.729,FiQA
+$UTSI http://stks.co/15uR Long setup. Reported very good earnings.,positive,positive,positive,positive,0.63,FiQA
+Here come the shorts marchin' in.  $GMCR.  Lovin' it!,negative,negative,negative,negative,-0.522,FiQA
+$aapl news is becoming very bullish again http://stks.co/tMU,positive,positive,positive,positive,0.526,FiQA
+$ES_F. Nice little cup-and-handle shaping up on the 15-minute. End-of-day $SPY $SPX favours a good day for the index. Will we see a gap open,positive,positive,positive,positive,0.341,FiQA
+Short more $FAZ for all who don't know that means markets will tank now :-p,negative,negative,negative,negative,-0.605,FiQA
+RT @alphatrends VMarkets Are Still Acting Weak http://stks.co/1agn  $SPY $QQQ $XLF $SMH $IWM,negative,negative,negative,negative,-0.443,FiQA
+"FBR Capital reiterated ""Outperform"" rating on $BRCM with a price target of $45.00 on Friday.",positive,positive,positive,positive,0.521,FiQA
+$ELN longs...congrats...another HOD,positive,positive,positive,positive,0.445,FiQA
+$SKH http://stks.co/163e Long setup. Watch for continuation and volume expansion here. Hot sector.,positive,positive,positive,positive,0.622,FiQA
+Looks like its booking a one way ticket to its 40 week MA near 50. Losing 10 week here $LULU http://chart.ly/7xb9h9b,negative,positive,negative,negative,0.006,FiQA
+$FIO won't stay down,positive,positive,positive,positive,0.376,FiQA
+$AAPL http://stks.co/1LDx Clearing this descending trend line / buy area now,positive,positive,positive,positive,0.529,FiQA
+$ROST Nov 90 calls 2.08 .. Go Long until exp imo ! Unless europeans keeps F'ing around !,positive,positive,positive,positive,0.414,FiQA
+i-Grid shows $DIA capped for the long term at range of 123.40- 124.77;any rally beyond today's levels or into this range leads to meltdown.,negative,negative,negative,negative,-0.172,FiQA
+"Whats up with $LULU?  Numbers looked good, not great, but good.  I think conference call will instill confidence.",positive,positive,positive,positive,0.011,FiQA
+"$ZSL looking very weak, could be a good short setup.",negative,negative,negative,negative,-0.614,FiQA
+$mcp rolling over for a new intraday low. Bottom Pickers continue to get destroyed,negative,negative,negative,negative,-0.607,FiQA
+"ACE Limited, which has a 17 year dividend growth streak, plans a 33% dividend hike: http://stks.co/1BUE $ACE",positive,positive,positive,positive,0.455,FiQA
+"$AAPL 50DMA turned up, MACD crossover a half-a-hair away on the weekly. EOD break out likely.",positive,positive,positive,positive,0.498,FiQA
+$CIEN http://stks.co/dZU CIEN seems to have broken out of a major horizontal resistance. Targets $14.35.,positive,positive,positive,positive,0.345,FiQA
+like $T for a breakout long as well. getting through the 100 and 200 MA could see it run.,positive,positive,positive,positive,0.655,FiQA
+$IBM staying strong,positive,positive,positive,positive,0.532,FiQA
+"$SINA even though the ""report"" is untrue and has been proven unture, the damage is done. No one wants to touch it now",negative,negative,negative,negative,-0.55,FiQA
+"$amzn 4 period RSI is down at 20, just read Connors book on trading strategies",neutral,positive,neutral,neutral,0.221,FiQA
+$SIGA Bid for Reargument Denied by Judge,negative,negative,negative,negative,-0.354,FiQA
+$CERN - consolidating above 50 & 200 MA - nice long entry here w stop below 10 MA - targeting $70 area,positive,positive,positive,positive,0.443,FiQA
+$SPY http://stks.co/1MiR We're holding above Wednesday and Thursday closes. I'm leaning bullish. Small postions. Waiting.,positive,positive,positive,positive,0.316,FiQA
+$RDC Rowan Expands Share Repurchase Program to $150 million,positive,positive,positive,positive,0.285,FiQA
+$NVDA sideways,neutral,neutral,neutral,neutral,0.0,FiQA
+$HITK  Resuming advance into new historical highs.,positive,positive,positive,positive,0.68,FiQA
+Held its recent double bottom buy point of 56.57 almost to the penny today $WMT http://chart.ly/6nosp5q,positive,positive,positive,positive,0.198,FiQA
+$GOOG breakout very likely medium target $700+ http://stks.co/1Lpz http://chart.ly/lgb94rr,positive,positive,positive,positive,0.518,FiQA
+RT @Street_Insider The Steve Jobs Effect? Apple $AAPL First Day iPhone 4S Sales Were Off the Charts http://stks.co/YYe,positive,positive,positive,positive,0.539,FiQA
+"that was quick, out $FIO 21.35, market tanking, scaling down longs now",negative,negative,negative,negative,-0.497,FiQA
+$SPY extreme win today - 2 cents above 2009  low on 10-year and $SPY up 2 percent - life is a bowl of cherries - great short setting up $$,positive,negative,positive,positive,-0.406,FiQA
+$LNT Increases Annual Dividend Target to $1.80/Share from $1.70/Share,positive,positive,positive,positive,0.324,FiQA
+"RT @Cash_Cow $TLT still has a rising RSI & MACD, all this bond buying is signaling some bad moves for the market. $SPY $UUP",negative,negative,negative,negative,-0.361,FiQA
+$IDCC - $89 share total value of company after crunching #'s. The 4g technology is their diamond in the rough.,positive,positive,positive,positive,0.477,FiQA
+"RT @stockdemons think shorting here into close might be play, $SPY - high beta reversing..looks worth a shot",negative,negative,negative,negative,-0.469,FiQA
+$TZA is a rocket ship!!!,positive,positive,positive,positive,0.807,FiQA
+"Lots of metal stocks look like a 5-10% run awaits. Long $SSRI,$PAAS and $NEM but most high quality names should go if metal prices cooperate",positive,positive,positive,positive,0.394,FiQA
+$vxx starting to creep up while $spy sits near hod ...,neutral,positive,neutral,neutral,0.141,FiQA
+VIVUS $VVUS bear raid in effect. Stock down 12%,negative,negative,negative,negative,-0.57,FiQA
+looks like a big feb 18-22 $put spread on $cree.  Last quarter 0% YoY rev growth trading @ 24x earnings.  I may try a short.,negative,negative,negative,negative,-0.352,FiQA
+$YELP wayyy overvalued right now IMO. Should be trading single digits. May take a short pos. into earnings. Near term target 18 ......,negative,negative,negative,negative,-0.451,FiQA
+$renn topping tail 5 min. chart at 7.31 short from here.,negative,negative,negative,negative,-0.64,FiQA
+$SPY weak close,negative,negative,negative,negative,-0.297,FiQA
+$ZNGA http://stks.co/3rdu Looking for a test at 9.25 resistance point. cc @ cfrazierjr @FletchTrade #traders,neutral,positive,neutral,neutral,0.248,FiQA
+$EFUT hod  posted buy pm at $4.40,positive,positive,positive,positive,0.354,FiQA
+"@SOULLOR the regular scrappy Q $SWY usually presents. Sales weak, margins down, debt still way up.",negative,negative,negative,negative,-0.515,FiQA
+"$AAPL Taking out the shorts here, a punishing reminder not to spear the  strongest in the herd.",positive,positive,positive,positive,0.144,FiQA
+"RT @Dasan @TMTanalyst ...since $AAPL mastered their supply chain // in cornering NAND, Apple mastered EVERYONE'S supply chain!",positive,positive,positive,positive,0.461,FiQA
+$PRLB hanging tough in down market due to analyst upgrades last week. Up almost 3%.,positive,positive,positive,positive,0.394,FiQA
+$AMRN It's accumulating. I think buy now or hold your peace. This should go up today/tomorrow.,positive,positive,positive,positive,0.469,FiQA
+$AXP Looking for continuation with volume increase http://stks.co/c8sR,positive,positive,positive,positive,0.308,FiQA
+MT @TheAcsMan Amazing seeing everyone suddenly touting $MSFT. Long been favorite covered call & double dip dividend play.,positive,positive,positive,positive,0.444,FiQA
+Surprising to see $JWN and $SKS sales numbers still holding up so well. I guess the high end might not be a concern after all.,positive,positive,positive,positive,0.315,FiQA
+"AP: Caterpillar posts 60 percent jump in 4Q profit on steep global sales increase, tops Wall St. view > $CAT",positive,positive,positive,positive,0.586,FiQA
+$SPY Long 1/2 position 137.89,neutral,positive,neutral,neutral,0.428,FiQA
+$AAPL price momentum weakening going into the close.,negative,negative,negative,negative,-0.22,FiQA
+RT @ACInvestorBlog $AAPL still on track for $500,positive,positive,positive,positive,0.166,FiQA
+$SPY $MITK fast 56pc dive http://stks.co/3ffN $$,negative,negative,negative,negative,-0.26,FiQA
+$BAC in for swing trade  looks like want go up,positive,positive,positive,positive,0.433,FiQA
+$PCLN runs into the 50sma on the acquisition news,neutral,positive,neutral,neutral,0.486,FiQA
+$aapl short term fund/redemption liquidations.. Should have the channel cleared soon and on solid footing. $520 is new floor come July! :),positive,negative,positive,positive,-0.175,FiQA
+$WYNN big bounce,positive,positive,positive,positive,0.61,FiQA
+$AAPL wants lower. up waves getting smaller on the 2 min,negative,negative,negative,negative,-0.37,FiQA
+Short interest increases yet again http://stks.co/e19h via @ryandetrick $SPY,negative,negative,negative,negative,-0.342,FiQA
+"$QCOR a little pullback is fine but if this erases all of todays gains, I cannot believe the manipulation its capable of",negative,negative,negative,negative,-0.169,FiQA
+$WMT BULLISH with MACD CROSSOVER with RSI and STO going up - above 73.4$ MA50 res. could run http://stks.co/gGCq,positive,positive,positive,positive,0.574,FiQA
+Rival companies $GWR and WATCO eyeing $RA w take-over interest.  http://stks.co/o0xY,positive,positive,positive,positive,0.396,FiQA
+$AAPL 620 resistance area,neutral,negative,neutral,neutral,-0.025,FiQA
+what is up with $HK..... from Jan to now it's been a sinking ship...,negative,negative,negative,negative,-0.573,FiQA
+I'm no professional ANAL-yst but I DO put my $ where my mouth is. $AAPL will do $575 b4 yr.endâ€”That's another hun from here.Long LEAPS =^.^=,positive,positive,positive,positive,0.579,FiQA
+"$AAPL bounce right now has no vol, more vol when it slid",negative,positive,negative,negative,0.19,FiQA
+"$LULU http://stks.co/o17i Bounced off support early in week - now indicators turning up (RSI, MACD, SMI) Worth a look",positive,positive,positive,positive,0.351,FiQA
+$NIHD insiders got this one wrong. Looking for bottom. Rsi under 30,negative,negative,negative,negative,-0.202,FiQA
+"It's a bad idea to make 5 min predictions based on faith: RT @dandyduct $AAPL Sell signal hit at 584, it will go down for the next 5 min",negative,negative,negative,negative,-0.445,FiQA
+$KCG bot at 2.24,neutral,positive,neutral,neutral,0.384,FiQA
+$HZNP havent seen vol like this since the runup. lets see one more dip to 2.0x,neutral,negative,neutral,neutral,-0.274,FiQA
+pretty steady accumulation off support today.  Purdy. $AGU,positive,positive,positive,positive,0.464,FiQA
+Out of shorts $ALTR at 38.85 with loss,negative,positive,negative,negative,0.372,FiQA
+"$GMCR with the way this has been acting, it may fall to 65 today, horrible action since it hit 70 yesterday",negative,negative,negative,negative,-0.51,FiQA
+$EBAY had a nice breakout of the recent consolidation. Congrats to those who had it. http://stks.co/2TAd,positive,positive,positive,positive,0.452,FiQA
+"$SDS +1.46% 15.32, picking up some speed. May 16 calls now +35% .19: http://stks.co/3eiK, Next week $16 calls .11c: http://stks.co/3eiL",positive,positive,positive,positive,0.41,FiQA
+"$AAPL AAPL: Gundlach Slams iPad mini, Sees Downside to $425. http://stks.co/bDqV",negative,negative,negative,negative,-0.325,FiQA
+$AAPL AUG 645 calls +550% .67c: http://stks.co/i9T3,positive,positive,positive,positive,0.553,FiQA
+"Went long on this $COG, will see 70's again me thinks",positive,positive,positive,positive,0.574,FiQA
+$AAPL nibbling on a small long via 525.. buying off 13min charts..,positive,positive,positive,positive,0.509,FiQA
+Added. Cost now at 1.54. Bounce off of Put OI & S1 pivot. @moteltan BTO $AAPL Apr 27 2012 605.0 Calls @ 1.66 for ride to 609 ish.,positive,positive,positive,positive,0.47,FiQA
+"$WAC trade continuing very nicely from yesterday, almost up $3 from yesterday entry, deal pricing tonight looking very strong here... $SPY",positive,positive,positive,positive,0.495,FiQA
+Equity indexes working on a positive engulfing for March. $SML $RUT $IWC $SMH $SOX  Small-caps / semis with a fakeout before the b/out.,positive,positive,positive,positive,0.308,FiQA
+$BONE Earnings Stocks Poised to Pop http://stks.co/2zWE,positive,positive,positive,positive,0.432,FiQA
+$SONC Amazing run since middle of March - obvious that the quality/tastiness of their burgers is not being factored into this price advance,positive,positive,positive,positive,0.492,FiQA
+$LEE http://stks.co/24kM LEE ready to exit bankruptcy. Strong volume today.,positive,positive,positive,positive,0.298,FiQA
+$RCON some upside today. This thing is severe low float. If there is catalyst for this guy. It can run.,positive,positive,positive,positive,0.254,FiQA
+$PPG Descending triangle but I am liking it for an upside break http://stks.co/o9nY,positive,positive,positive,positive,0.201,FiQA
+$NSM ascending base breakout starting to gain traction; strong stock http://stks.co/gBSH,positive,positive,positive,positive,0.605,FiQA
+$aapl.  Test the high today and probably go beyond after hours...,positive,positive,positive,positive,0.505,FiQA
+Long $PCLN,positive,positive,positive,positive,0.663,FiQA
+Multi Top on $MCD chart finally leads to a fall in price.  Stability is questioned in the stock but coming weeks will tell.,negative,negative,negative,negative,-0.474,FiQA
+$DMND green and moving,positive,positive,positive,positive,0.477,FiQA
+$MTD (Mettler-Toledo) ready for a breakout,positive,positive,positive,positive,0.428,FiQA
+$ACAD under $2 today?,neutral,negative,neutral,neutral,-0.164,FiQA
+$amzn breaking,neutral,positive,neutral,neutral,0.251,FiQA
+$EA points to the two Facebook games and accuses $ZNGA of copyright infringement. http://stks.co/g3A1,negative,negative,negative,negative,-0.284,FiQA
+"$KGC http://stks.co/3Qta Oversold, falling wedge and positive divergence place it on the launch pad; looking for a bounce.",positive,positive,positive,positive,0.303,FiQA
+RT @bman1 $LNG looks primed also $EGHT poised to run too...,positive,positive,positive,positive,0.381,FiQA
+$JNK http://stks.co/2Fcm Does not want to go down... risk appetite still high,positive,positive,positive,positive,0.272,FiQA
+"PNC, Goldman Sachs Receive Dividend Hike Green Light (But Don't Act): http://stks.co/2pa7 $PNC $GS",positive,positive,positive,positive,0.316,FiQA
+$AMD big dumping... would not touch it for a while,negative,negative,negative,negative,-0.699,FiQA
+$GNRC finding support at its 10-day line so far.,neutral,positive,neutral,neutral,0.256,FiQA
+"Loaded up on $bsx yesterday,looking good now. Still think way more upside than downside.",positive,positive,positive,positive,0.664,FiQA
+"$QCOR Just added 3,000 shares @28.",neutral,positive,neutral,neutral,0.73,FiQA
+$AAPL rejected the hod...should head lower. Sitting on the sidelines for now.,negative,negative,negative,negative,-0.36,FiQA
+"Google, Inc. completes acquisition of ICOA, Inc. http://stks.co/nFEI $ICOA $GOOG",neutral,positive,neutral,neutral,0.451,FiQA
+Amazon declares 'best ever' Black Friday and Cyber Monday for Kindle family http://stks.co/cEtw via Engadget $AMZN,positive,positive,positive,positive,0.434,FiQA
+Long $VVUS shares as a call option w/ an expiration of..  umm.. TODAY.    Hitting HOD here.,positive,positive,positive,positive,0.609,FiQA
+$ISR- @IsoRay Up 6% and high on volume http://stks.co/iFpo #biotech,positive,positive,positive,positive,0.612,FiQA
+$FB Nice buyable intraday dip right here,positive,positive,positive,positive,0.492,FiQA
+$LSCC Accumulation chart continues to make new highs showing accumulation continuing to take place http://stks.co/aDpO,positive,positive,positive,positive,0.497,FiQA
+$SAVE breaking it's downtrend line on increasing volume. A move above 20.57 could see more upside. http://stks.co/l8y4,positive,positive,positive,positive,0.546,FiQA
+$GOOG resistance turned support?  It,neutral,positive,neutral,neutral,0.34,FiQA
+$CRM Sep 40 calls are +35% since entry #BANG http://stks.co/deDm,positive,positive,positive,positive,0.519,FiQA
+Current holdings via options - Long: $AAPL $V $GS $AET & Short: $VXX,neutral,positive,neutral,neutral,0.635,FiQA
+$AAPL I am big OUT from this. seems its falling towards 530.. :(,negative,negative,negative,negative,-0.639,FiQA
+$PKT Momentum building for breakout trigger ! Long setup http://stks.co/eXVU,positive,positive,positive,positive,0.592,FiQA
+$NFLX VISION : short term consolidation then movement higher http://stks.co/j05uu,positive,positive,positive,positive,0.231,FiQA
+$UUP at major resistance right now. Can go much higher if it can break above. May take several attempts - few days to a week,neutral,positive,neutral,neutral,0.171,FiQA
+$spy $vxx $aapl the parties over loaded on $uvxy volatility is back,negative,negative,negative,negative,-0.223,FiQA
+$brcm raises revenue forecast,positive,positive,positive,positive,0.367,FiQA
+$BBRY bye bye Sammy. Hello BB. Sounds like we'll see some green tomorrow.,positive,positive,positive,positive,0.395,FiQA
+$ASTX Daily technical indicators are bullish. Breakout watch over 4.58  http://stks.co/eOvw,positive,positive,positive,positive,0.516,FiQA
+$EDU bouncing nicely after add-on (posted),positive,positive,positive,positive,0.437,FiQA
+$YHOO A breakout above $29.83 would constitute a technical entry for the short term trader. http://stks.co/jkUF,positive,positive,positive,positive,0.389,FiQA
+BULLISH Engulfing of COCA COLA: http://stks.co/fYCo $KO,positive,positive,positive,positive,0.551,FiQA
+$IWM buy programs popping $iwm for close print cheap money means higher stock prices $spy robot buying,positive,positive,positive,positive,0.529,FiQA
+"$JE LOOKS like we are bouncing.  Would be nice to finish over $6 today, and make the hammer.  Nice volume from 5.77 bottom.  Fingers crossed",positive,positive,positive,positive,0.391,FiQA
+$XLB the weakest sector this year and possible false breakout  http://stks.co/dL1Z,negative,negative,negative,negative,-0.458,FiQA
+"$TYC just about to break out to new highs, lots of technicals looking great right now.",positive,positive,positive,positive,0.602,FiQA
+"$AAPL at pivot area on intraday chart- break here could send this to 50-day SMA, 457.80 http://stks.co/jPbN",neutral,positive,neutral,neutral,0.128,FiQA
+$SPY wouldn't be surprised to see a green close,positive,positive,positive,positive,0.416,FiQA
+@Vegastrader66 Looks like good entry for $QIHU here.,positive,positive,positive,positive,0.453,FiQA
+"@harmongreg: $BBRY wkly, Inverse Head and Shoulders forming, triggers over 18.50, PO at least 30.80, watching http://stks.co/iPVJ",positive,positive,positive,positive,0.394,FiQA
+$LINE biggies must be loading up here at lows..,positive,positive,positive,positive,0.438,FiQA
+$GS is looking weak while this market is moving higher not a good sign. Unless $gs can get above 157. early short below 154.00 today.,negative,negative,negative,negative,-0.398,FiQA
+Key level to watch in $FB for today is 25.53-- watching to see if it can hold as support http://stks.co/bOH4,neutral,negative,neutral,neutral,-0.042,FiQA
+"$YNDX and the price of some stocks was 2 times lower then annual earnings, I could not resist, I  was buying when everyone was selling",positive,positive,positive,positive,0.531,FiQA
+"Red Daily Triangle on $SHOR,...Scaling Up on Long Position http://stks.co/r82S",positive,positive,positive,positive,0.661,FiQA
+@Megaas2000 $AAPL McDonalds had a big GROWING success for years with the same BigMac and Apple update and improbe Iphone and Ipad,positive,positive,positive,positive,0.295,FiQA
+$ETN UPGRADE today by MS to overweight.  Excellent company and leadership,positive,positive,positive,positive,0.685,FiQA
+"$AAPL double bottom could be in, keep in mind",neutral,positive,neutral,neutral,0.271,FiQA
+@Joerazorback This time I think $AAPL will miss again. Generally speaking market is near top when everyone thinks that market goes only up,negative,negative,negative,negative,-0.363,FiQA
+"$amrn Full bull call spread ranging July to Jan 15. Lets see what this baby does,",positive,positive,positive,positive,0.681,FiQA
+$FB Dax says bye bye 2013 - finished a great yr w 28% plus!,positive,positive,positive,positive,0.319,FiQA
+@CH_Roark: $UNXL I like this Ascending Triangle on the 30-minute chart. Breakout coming Monday! http://stks.co/aT3GLooks promising.,positive,positive,positive,positive,0.478,FiQA
+"@StockTwits: @Kbkiwi: $TSLA Tesla Model S sales exceed target, profitability guidance amended upward: http://stks.co/jQ0w""""",positive,positive,positive,positive,0.526,FiQA
+$SMH got a sell signal on 6/4 and needs to take out 39.28 to go higher otherwise headed lower than 37.60 gap below at 35.38,negative,negative,negative,negative,-0.538,FiQA
+$OSUR up 33% since 6/25 buy signal. resistance 5.33 - expect 1. pullback 2nd half of day or 2. break abov 5.33 & continue rally for 4-5 days,positive,positive,positive,positive,0.552,FiQA
+$SPY Could the pride of social media be gettin ready to fall?  $FB - chart rolling over?,negative,negative,negative,negative,-0.287,FiQA
+$NFLX +3% of the lows,positive,positive,positive,positive,0.323,FiQA
+$SBUX getting sold here.,negative,negative,negative,negative,-0.551,FiQA
+$PG Ackman making the big added efficiency argument. betting on operational imporvement in a huge conglomerate can go either way imo.,neutral,positive,neutral,neutral,0.116,FiQA
+$RIMM $spx $nya $compq $djia all going down,negative,negative,negative,negative,-0.559,FiQA
+"@IfHeDiesHeDies: @Bullhorn334: $ZNGA shorts are getting nervous""""",positive,positive,positive,positive,0.366,FiQA
+$ocn has the stuff. Will be looking to add shares if we get a new high breakout.,positive,positive,positive,positive,0.421,FiQA
+$BBRY hearing rumours of a major joint venture announcement.,positive,positive,positive,positive,0.427,FiQA
+$AAPL Good time to buy. Will the run come before earnings or after?,positive,positive,positive,positive,0.533,FiQA
+"$QIHU totally missed this one, was about to jump in on that 60 break test but didn't, congrats shorts",negative,negative,negative,negative,-0.494,FiQA
+@catskillfishing  Note the monthly chart of $GDX & how it recaptured support. $GLD possible double bottom set up. http://stks.co/aw6z,positive,positive,positive,positive,0.272,FiQA
+"Key price to watch in $NFLX, off the previous double top reject, 218.23 http://stks.co/sIYn",neutral,negative,neutral,neutral,-0.341,FiQA
+$SPY Tomorrow party time for the Bears!! $GOOG and $MSFT -5.5%,negative,negative,negative,negative,-0.454,FiQA
+"$SLV -4.44% at 18 now AWFUL, down from 42.50",negative,negative,negative,negative,-0.591,FiQA
+$SPY c'mon bulls buy DIPS!,positive,positive,positive,positive,0.228,FiQA
+@gakrum nice chart shows distinctive down channel not a dip.. where do you see the bottom? $SPY ..$150? ..$130?,negative,negative,negative,negative,-0.443,FiQA
+$DXCM - Making higher highs & higher lows as it consolidates over past several weeks. 26.70 was all time high (2006).,positive,positive,positive,positive,0.478,FiQA
+"#Apple breaks major support, here are some levels to watch - http://stks.co/jRmW $AAPL $QQQ",negative,negative,negative,negative,-0.455,FiQA
+$CRUS Upgraded to a buy by Alpha Street Research,positive,positive,positive,positive,0.715,FiQA
+"$NFLX small pos, short 180 wkly puts.",neutral,negative,neutral,neutral,-0.597,FiQA
+$TSLA I see more downside in next two weeks be careful -20 dollars drop potential vs +10 up moved,negative,negative,negative,negative,-0.477,FiQA
+$FB Big Money Is Pouring Into Facebook From All Directions;http://stks.co/sOwG,positive,positive,positive,positive,0.645,FiQA
+$LULU #Outlook #Q1 2013 #lost revenue in the range of $12 million to $17 million -not good,negative,negative,negative,negative,-0.43,FiQA
+@Dojiknows th SP and the potential of QNX BES10 and BBM  cross platform will bring good news in time $bbry,positive,positive,positive,positive,0.284,FiQA
+$NUGT longer term bullish,positive,positive,positive,positive,0.814,FiQA
+"2nd raise this year.  ""@BVHealthcare: $QCOR Questcor Increases Quarterly Cash Dividend 20 Percent.. http://stks.co/goan""",positive,positive,positive,positive,0.576,FiQA
+$SPY  still wants higher I think.,positive,positive,positive,positive,0.448,FiQA
+$BBRY lets see 14+ today,positive,positive,positive,positive,0.302,FiQA
+$DCTH Near HOD,positive,positive,positive,positive,0.366,FiQA
+$MSFT SQL Server revenue grew double-digit with SQL Server Premium revenue growing over 30% http://stks.co/ir2F,positive,positive,positive,positive,0.454,FiQA
+$GTE LONG at 7.44,positive,positive,positive,positive,0.732,FiQA
+$DARA breaking out,positive,positive,positive,positive,0.427,FiQA
+$TSLA gyrating @ S1 above gap. keeping an eye on S2 http://stks.co/jQfB,neutral,positive,neutral,neutral,0.346,FiQA
+"$CNP Sell Short Position on CNP,...Closed for Profit $ 59,367.00 (7.75%) http://stks.co/ghjc",positive,positive,positive,positive,0.155,FiQA
+$BBRY Actually lost .03c per share if U incl VZ as no debt and 3.1 in Cash.,negative,negative,negative,negative,-0.238,FiQA
+$BBRY nice bounce,positive,positive,positive,positive,0.296,FiQA
+"$DNN picked some up, like this going into 2014",positive,positive,positive,positive,0.653,FiQA
+$NUGT Gold above 1400...wow,positive,positive,positive,positive,0.424,FiQA
+$BBRY Ready for Take OFF!,positive,positive,positive,positive,0.472,FiQA
+$VOLC THIS STOCK HAS A VERY VERY VERY VERY VERY HIGH PROBABILITY OF RALLYING TOMORROW AND/OR EARLY NEXT WEEK,positive,positive,positive,positive,0.72,FiQA
+"$YOKU high volume blast off Friday, goes higher  http://stks.co/qSaL",positive,positive,positive,positive,0.565,FiQA
+$aapl key is to breakout above 460 on solid volume or else it's a no trade for now,neutral,positive,neutral,neutral,0.123,FiQA
+"Long Position on $IP,....Scaling UP http://stks.co/sIln",positive,positive,positive,positive,0.662,FiQA
+The Boeing Company (NYSE:BA) Bearish Trader bets $550K that Stock Will Sell Off 9.79% by July Expiry $BA http://stks.co/tCSE,negative,negative,negative,negative,-0.493,FiQA
+"$TXRH reports Q1 EPS of $0.37 versus the estimated $0.35, beating by $0.02. EPS were Up 19% from the same quarter last year.",positive,positive,positive,positive,0.365,FiQA
+@asdfLLC. Nice pop today. Told ya we would be green haha. Funny you bring that up. I'm actually working on a story about $NOK at the moment,positive,positive,positive,positive,0.404,FiQA
+$AMCN pushing highs,positive,positive,positive,positive,0.543,FiQA
+@pierrules: $SIRI LONG!!,positive,positive,positive,positive,0.759,FiQA
+$RNN staying above the open a very good sign!!!,positive,positive,positive,positive,0.551,FiQA
+Watch these bancos.they're holding up relatively well compared to the broad market $XLF $BAC $GS $C <--large C buying in $BAC in backburner,positive,positive,positive,positive,0.394,FiQA
+$CAT is hangin on my a thread. 1click away from a cliff drop.. Needs follow through (or snap-back on the VIX),negative,negative,negative,negative,-0.337,FiQA
+$PRGN A bottom right here?,neutral,positive,neutral,neutral,0.041,FiQA
+$AAPL Action into the close indicates that $AAPL probably hit a near term high.  Momentum slowing after a huge run.,negative,positive,negative,negative,0.124,FiQA
+$V A potential bearish shark pattern if point B $226 to be taken out. http://stks.co/i0GGH,negative,negative,negative,negative,-0.326,FiQA
+"$RNN day traders flushed out, it should start going up slowly from now on .",positive,positive,positive,positive,0.411,FiQA
+@chessNwine: $IWM 30-Minute Chart. Small caps threatening descending triangle breakdown under $110.20.  http://stks.co/r0KKm,negative,negative,negative,negative,-0.382,FiQA
+$YELP This goes green and so many shorts are toast!,positive,positive,positive,positive,0.463,FiQA
+RT @tomhend777 $MU needs to hold here -Broken for now. Needs big flush. Still not technically oversold so now big bounce yet,negative,negative,negative,negative,-0.046,FiQA
+$AMRN Got sell signal 7/1/14 still in force with target below 1.50,negative,negative,negative,negative,-0.431,FiQA
+"$SLV POS, been saying it for 2 years. Going lower. Forget about it or go short.",negative,negative,negative,negative,-0.631,FiQA
+New recommendation from Carl Kirst of BMO Capital Markets for $WMB is BUY.Price target is $62:http://stks.co/t0S0r,positive,positive,positive,positive,0.566,FiQA
+$DNKN $KKD $DPZ $LOCO Inside week buy triggers. http://stks.co/h0vV8  http://stks.co/r0ebN,positive,positive,positive,positive,0.485,FiQA
+"$RIG whos ever pushing this is crazy, get ready for suspended dividend (turning into growth stock) blow out earnings, and major buyback, lol",positive,negative,positive,positive,-0.023,FiQA
+$AAPL Nice RSI 33 bounce at 9:58,positive,positive,positive,positive,0.291,FiQA
+"$AXDX I got bored, and took my proprietary profit exit. I didn't like the option liquidity and lousy spreads.",neutral,negative,neutral,neutral,-0.334,FiQA
+$NFLX Easy pop to 500$ by end of feb.. Then steady as she goes for 600 into second earnings report..800$ year end no matter what,positive,positive,positive,positive,0.577,FiQA
+$IWM relative weakness is pretty apparent but the short boat is getting full on this one. I prefer the boat closer to empty.,negative,negative,negative,negative,-0.262,FiQA
+@saltwaternurse $INO can test 10 again in next few days. time to take some profits here. or hedge with puts.,positive,negative,positive,positive,-0.169,FiQA
+"@Stockoptionexpert: $MAT - 6%, big trader added 10000 April put contracts 3 days ago  http://stks.co/c1Ols",negative,negative,negative,negative,-0.576,FiQA
+$FTI Breakout today after reporting earnings last night,positive,positive,positive,positive,0.554,FiQA
+"$KO had missed earnings expectations for the last two quarters, so today’s strong results came as a major surprise http://stks.co/d0RHF",positive,positive,positive,positive,0.338,FiQA
+$COH Gaining Momentum! Nice buy signals here! Long Over $35.92 http://stks.co/t0tAh,positive,positive,positive,positive,0.527,FiQA
+$BABA may take a few days wks months watch what happened to $FB $TWTR after they IPO. mrkt needs to washout. to hunt well need 2 wait stalk.,neutral,negative,neutral,neutral,-0.055,FiQA
+$RAD All my charts are flashing oversold.,neutral,negative,neutral,neutral,-0.011,FiQA
+$RSOL bought 3500 shares today!,positive,positive,positive,positive,0.738,FiQA
+$ARIA This is the reason why shorts don't show up...long steady small climbs. The best way to accrue value. IMO,positive,positive,positive,positive,0.484,FiQA
+$CAMT Looks like might break down. I'm out,negative,negative,negative,negative,-0.516,FiQA
+$ATHN Seems like a good short setup. Stop above the 50 day. No position.,negative,negative,negative,negative,-0.338,FiQA
+$KIOR My god. Market getting crushed today. Gotta hold if anything g should recover some tomorrow I imagine.,negative,negative,negative,negative,-0.302,FiQA
+$AAPL  downgrade is bias. This stock is a buy.,positive,positive,positive,positive,0.498,FiQA
+LinkedIn Revenue Up Nearly 50% http://stks.co/g1F4T  $LNKD,positive,positive,positive,positive,0.423,FiQA
+$PLUG bear raid,negative,negative,negative,negative,-0.48,FiQA
+$GPRO down 25% since Tue morning.,negative,negative,negative,negative,-0.527,FiQA
+$ROST Ross Stores Upgraded to Outperform at RBC Capital Markets http://stks.co/j0Q9t,positive,positive,positive,positive,0.565,FiQA
+$ARIA Bounce Player! Long above $6.17 http://stks.co/q0WfF,positive,positive,positive,positive,0.383,FiQA
+"$TSLA looking good..i'd love to see a basing action here, letting the RSI take a breather. http://stks.co/g1T7c",positive,positive,positive,positive,0.362,FiQA
+$RAD I would consider this opportunity to add my position because the company is on the right track they are still improving sales...,positive,positive,positive,positive,0.401,FiQA
+$TROW Ascending triangle gives a bullish bias to this chart. Breakout above 84 will be positive http://stks.co/g0ls5,positive,positive,positive,positive,0.544,FiQA
+$AEGN MACD and ADX are crossing over the signal lines! Long Setup http://stks.co/qzzx,positive,positive,positive,positive,0.569,FiQA
+what #stocks large players are selling http://stks.co/t0Vel $CROX $GOGO $INO,neutral,negative,neutral,neutral,-0.507,FiQA
+$RNN More bleeding Monday.,negative,negative,negative,negative,-0.465,FiQA
+$PLUG Closed short position. Small gain. Not interested in options expiring worthless,positive,positive,positive,positive,0.143,FiQA
+$TWTR The best scenario going forward is this stock slowly falling everyday....Which is quite probable...,negative,negative,negative,negative,-0.264,FiQA
+$MXWL Oh snap. Just went long again. LT,positive,positive,positive,positive,0.691,FiQA
+$HRL ready to pop! http://stks.co/s0Ny4,positive,positive,positive,positive,0.336,FiQA
+$FB i guess they want it down look at the those sell orders,negative,negative,negative,negative,-0.465,FiQA
+@ACInvestorBlog: $SPY eod run :),positive,positive,positive,positive,0.391,FiQA
+Phew! So far good $BBRY did not break 10.40 coz I was told that is key support level.,positive,positive,positive,positive,0.145,FiQA
+$Oil slid to a four-year low after #OPEC kept its oil production unchanged  http://stks.co/a1IX4 $USO $WTI $Brent,negative,negative,negative,negative,-0.369,FiQA
+$CDTI bounce here on support or H&S setup this area is very important for bulls to not lose http://stks.co/c0mf3,neutral,positive,neutral,neutral,0.374,FiQA
+3-star analyst Joe Wittine from Longbow Research reiterated a HOLD rating on $NTAP.,neutral,positive,neutral,neutral,0.214,FiQA
+$GOOG Testing the 200 day after some consolidation http://stks.co/h0cPJ,neutral,positive,neutral,neutral,0.285,FiQA
+Walter Investment Management Corp Receives a Sell from Compass Point $WAC http://stks.co/c1IvX,negative,negative,negative,negative,-0.45,FiQA
+"@BrooklynBandit: $SIMO Basing nice. A close over 24.18 is bullish $QQQ $SPY $STUDY watch for a close near HOD. Currently up +3%"" up +5%",positive,positive,positive,positive,0.361,FiQA
+$KEP breaking out when the market pulls back  http://stks.co/r0cet,positive,positive,positive,positive,0.413,FiQA
+$VIPS similar pattern like beginning of May. Did u sell? Same now..will go up much higher after this drop.,positive,positive,positive,positive,0.479,FiQA
+"@Binkster69 Not that. it's just ER's lol. But looking at the correlation of $ARIA and foreign price charts, they are all poised to breakout.",positive,positive,positive,positive,0.5,FiQA
+$GDX $GDXJ $JNUG - strong move today for the Junior Gold Miners - keep an EYE out for a gap fill -,positive,positive,positive,positive,0.55,FiQA
+@BULLYA @pollux654321 My 50 $KORS 80 Calls are going to b a Blessing for my Daughters tuition!,positive,positive,positive,positive,0.431,FiQA
+$FB they are hitting  everything in sight.short it. but twtr,negative,negative,negative,negative,-0.504,FiQA
+"$KNDI Let's see some higher highs and higher lows rest of the day , slow and steady",positive,positive,positive,positive,0.396,FiQA
+"$INO Up, up, and away!",positive,positive,positive,positive,0.604,FiQA
+$BOBE down $2.84  premarket,negative,negative,negative,negative,-0.512,FiQA
+$RSH - looking for first profitable quarter in 3 years!!!  ;).  LONG & STRONG,positive,positive,positive,positive,0.643,FiQA
+$GS sells flat..I am out..,neutral,negative,neutral,neutral,-0.541,FiQA
+Synergy Pharma Soars 67% Today On Positive Phase 3 Results $SGYP http://stks.co/j2awg,positive,positive,positive,positive,0.623,FiQA
+NaturalGas Settles At 3-year Low $DBO $BNO  http://stks.co/d27qX,negative,negative,negative,negative,-0.563,FiQA
+$WX Decent pull back . .,neutral,negative,neutral,neutral,-0.325,FiQA
+"09:01 AM      $AKS  DJ AK Steel Revenue Rises 36% on Auto Sector Demand, Acquisition",positive,positive,positive,positive,0.42,FiQA
+$BBRY both 1m/6m trends turn bullish today with a resistance level at $11.31. http://stks.co/j1qt6,positive,positive,positive,positive,0.561,FiQA
+Long $GPRO for a brealout trade,positive,positive,positive,positive,0.594,FiQA
+$UGAZ Will this cold put a dent in the massive horizontal rig production. Who knows  http://stks.co/p1V6P,neutral,negative,neutral,neutral,-0.237,FiQA
+"$HPQ Says Breakup Will Cost Billions, but Sees Savings Too http://stks.co/p27hZ",neutral,negative,neutral,neutral,-0.265,FiQA
+@Renatta @Fr0van @kjepeneter @RPTL  Strong close 4 $PLNR  coming,positive,positive,positive,positive,0.523,FiQA
+Buyback not trending right ( $CPIX spending more as shares pricier). Hopefully will pull back w 6.87 Q2 closing VWAP,negative,negative,negative,negative,-0.231,FiQA
+End Of Day Scan: Stochastic Overbought $JDST $FREE $BLRX $LPG $AFSI $DVAX $HDGE $AHT $ALR $ASMB  www.dailystockplays.com,neutral,negative,neutral,neutral,-0.385,FiQA
+$HYG Potential continuation Uptrend on a 60'-15'-4' charts http://stks.co/t1Qp6,positive,positive,positive,positive,0.437,FiQA
+$CYTX looks like an ascending channel on Finfiz http://stks.co/f26r4,positive,positive,positive,positive,0.363,FiQA
+"$WFM Bought a little yesterday, hoping for an earnings pop.",positive,positive,positive,positive,0.562,FiQA
+EUR/USD Finding Support Near 1.10 Level $ERO $UUP $UDN $FXE  http://stks.co/b29eU,neutral,positive,neutral,neutral,0.259,FiQA
+$IBIO  up 10% in premarket ready for lift off,positive,positive,positive,positive,0.507,FiQA
+"RECAP: $MSFT rumor this morning had them spinning off XBOX unit, stock grinds up all day to close on highs",positive,positive,positive,positive,0.594,FiQA
+"$AAPL AAPL finally breaking under the 49 M.A.. With no buybacks this week, look for AAPL to test the 120 support area.",negative,negative,negative,negative,-0.2,FiQA
+"$DGI technical alerts: Gilligan's Island Buy Setup, Stochastic Buy Signal, Lizard Bullish, Hammer Candlestick, Wid... http://stks.co/c29Nu",positive,positive,positive,positive,0.564,FiQA
+$REN bottoming out again.. Good time to buy,positive,positive,positive,positive,0.587,FiQA
+$GOOGL Hit With Lawsuit from Russian Search Engine $YNDX http://stks.co/b1kD8,negative,negative,negative,negative,-0.17,FiQA
+$GALE Breakout Coming Soon!,positive,positive,positive,positive,0.465,FiQA
+$AAPL $131 rally mode,positive,positive,positive,positive,0.5,FiQA
+"Homebuilders - $RYL breaking below support, watch this one.  $SPY",negative,negative,negative,negative,-0.397,FiQA
+$AAPL afternoon selloff as usual will be brutal. get ready to lose a ton of money.,negative,negative,negative,negative,-0.569,FiQA
+"$ESI on lows, down $1.50 to $2.50 BK a real possibility",negative,negative,negative,negative,-0.465,FiQA
+End Of Day Scan: Bullish MA  Crossovers $BBVA $PDS $NTLS $NGL $SBRCY $FGL $MTNOY $TTT  www.dailystockplays.com,positive,positive,positive,positive,0.457,FiQA
+"@louiebeene vwap is 1.63, held the trend line. Should be on a LOT of radars. $NAVB",positive,positive,positive,positive,0.325,FiQA
+$NEON oversold,neutral,positive,neutral,neutral,0.43,FiQA
+"$SSYS just re-tested lows . Should rise steadily from here. It hit $81 just 21 trading days ago, and $130.86 on Sept 18. It'll do it again.",positive,positive,positive,positive,0.395,FiQA
+"$KNDI Break that HOD on volume, and we have a nice consolidation completed for another run.",positive,positive,positive,positive,0.602,FiQA
+$INVE : SEE YA ABOVE $8,positive,positive,positive,positive,0.502,FiQA
+$BXS: BancorpSouth Announces Extension of Merger Agreements with ... http://stks.co/s2PDF,neutral,positive,neutral,neutral,0.348,FiQA
+"Maglan Capital Up +20.84% In February, Long Fairpoint  http://stks.co/s1eQc $$ $FRP",positive,positive,positive,positive,0.559,FiQA
+Exact (EXAS) Flagged As Strong On High Volume $EXAS http://stks.co/r26Ra,positive,positive,positive,positive,0.385,FiQA
+$BIOC RSI extremely in long's favor looking at BIOC historically.,positive,positive,positive,positive,0.503,FiQA
+$TNH Looks like an explosive setup if it can break the 20EMA and 105 level http://stks.co/b1SVH,positive,positive,positive,positive,0.348,FiQA
+$VMW  Got a nice push today following small sweepers of May C this morning,positive,positive,positive,positive,0.28,FiQA
+$DDD 3D Systems (DDD) Stock Receives Ratings Downgrade Today at Jefferies http://stks.co/g1cqd,negative,negative,negative,negative,-0.501,FiQA
+$AAPL Dips being bought up real quick. Higher lows fo sho,positive,positive,positive,positive,0.249,FiQA
+Long $X 24.62,positive,positive,positive,positive,0.601,FiQA
+$NKE gapping up to all time highs http://stks.co/q1jAu #tradeideas http://stks.co/r1j6c,positive,positive,positive,positive,0.782,FiQA
+@Intuitiv $CLNE gasoline prices spike in California. http://stks.co/t1bOi,neutral,positive,neutral,neutral,0.46,FiQA
+$AVGO great growth stk &  also raised dividend . clearly a great investment http://stks.co/r2F3h,positive,positive,positive,positive,0.597,FiQA
+"$RXII Tang really is toxic, they keep bringing the share price down. At least they could let it climb a little before dragging it down.",negative,negative,negative,negative,-0.507,FiQA
+$AAPL near a 3% drop thats a lot... now the best i can do is HOLD ER lol,negative,negative,negative,negative,-0.304,FiQA
+$HCP Come to the party and buy this -gonna give solid gains and a dividend $$$$$$,positive,positive,positive,positive,0.52,FiQA
+"$ONTY Continues to base as debate lingers. ONT-10 data next potential catalyst. If positive, stock quickly moves to $10. Downside limited.",positive,positive,positive,positive,0.3,FiQA
+$SPY Looks like bear traps getting laid faster than Cadbury Creme Eggs by the Easter Bunny,positive,positive,positive,positive,0.351,FiQA
+$BBRY Sierra. Has a great cash balance and impressive growth rate.Would be a wonderful marriage!,positive,positive,positive,positive,0.493,FiQA
+$IWM same conditions that sent markets to tumble all hitting this week,negative,negative,negative,negative,-0.236,FiQA
+$CRK time to accumulate for a long position with far more upside than downside,positive,positive,positive,positive,0.668,FiQA
+$BWLD bearish engulfing candle,negative,negative,negative,negative,-0.532,FiQA
+for @vnoto74 to follow:  after a SELL signal by $NDX internals [06/23] ~> technical SELL $QQQ [06/25] ~> DOWN,negative,negative,negative,negative,-0.541,FiQA
+$FREE Ha Heeeeeere comes the pump! So glad I picked up 9K end of day! Get ready for the bull ride!,positive,positive,positive,positive,0.538,FiQA
+$NUAN held up well after the big gains! Maybe we're finally on the move on this!!its still very undervalued and has major upside,positive,positive,positive,positive,0.695,FiQA
+Why $MCD looks set to fall further. http://stks.co/f2fgj,negative,negative,negative,negative,-0.545,FiQA
+$FB bot some @78.47 breakout from the consolidation zone :D,positive,positive,positive,positive,0.724,FiQA
+$XLI Potential intermediate top in an Uptrend on a 60'-15'-4' charts http://stks.co/j1TdF,neutral,positive,neutral,neutral,0.126,FiQA
+$TWTR sad the only thing to move this is a takeover rumor only to be sold off next day !,negative,negative,negative,negative,-0.278,FiQA
+$GEVO PLUNGING!  Back to $3.55.,negative,negative,negative,negative,-0.628,FiQA
+energy still failing to close above the 10D MA.  continues to stand out weak $XLE,negative,negative,negative,negative,-0.517,FiQA
+$ENB.CA {Head&Shoulders} bullish reversal setup and breakout. Oil and Gas Pipleline stock. $USO,positive,positive,positive,positive,0.253,FiQA
+"$IMRS - it's important to be pragmatic in analysis...high prices could offer head-winds....bullish story intact,evenif the market rolls over",positive,positive,positive,positive,0.4,FiQA
+Micron Shares Pounded On Fears Of Loss Of Business From Apple; Stifel Defends $AAPL $MU http://stks.co/t1Z8T @Marjo,negative,negative,negative,negative,-0.596,FiQA
+"$CHKP ABC Bullish Pattern, Targets https://t.co/uVMmRSR5Zy",positive,positive,positive,positive,0.496,FiQA
+$TSLA is now up 57% from its February low. Amazing rebound.,positive,positive,positive,positive,0.582,FiQA
+$SBUX downgraded to neutral at Deutsche Bank. Price target reduced to $64 from $70.,negative,negative,negative,negative,-0.446,FiQA
+"Micron Technology Inc #NASDAQ: $MU down 2.3% today and down 8.9% since being put on ""The Short"" https://t.co/EQQLTfUiOU",negative,negative,negative,negative,-0.469,FiQA
+$YHOO About to break out on the 5-min...,positive,positive,positive,positive,0.313,FiQA
+$GILD 91 now support. $IBB $BIB https://t.co/GIoOf6zbKv,neutral,positive,neutral,neutral,0.188,FiQA
+$FB down 7.5% from this #bearish pattern.  Considering the #bullish sentiment - That's an impressive bearish move https://t.co/TaJF0cH2qh,negative,negative,negative,negative,-0.39,FiQA
+$SAVE long. https://t.co/yEJuS9cMlC,positive,positive,positive,positive,0.388,FiQA
+@mugatushair Now it is time to short $TSLA,negative,negative,negative,negative,-0.385,FiQA
+$COST Costco less than stellar day but it held the 50 day moving average,neutral,negative,neutral,neutral,-0.14,FiQA
+"$AGN and $PYPL under pressure along with the market, however there were bullish options trades in both this morning https://t.co/9xG5W8nONT",neutral,positive,neutral,neutral,0.014,FiQA
+Costco: A Premier Retail Dividend Play https://t.co/Fa5cnh2t0t $COST,positive,positive,positive,positive,0.354,FiQA
+"Sheryl Sandberg Sells 109,000 Shares of Facebook Inc $FB Stock https://t.co/3vXT7AMnpk via @RatingsNetwork",neutral,negative,neutral,neutral,-0.186,FiQA
+Amazon has been selling surveillance cameras infected with malware $AMZN #Amazon  https://t.co/TohLEQ8FK6 https://t.co/5PR4cBtVVy,negative,negative,negative,negative,-0.186,FiQA
+"$TSLA 5th wave down on the 1 hour chart, hammer candle developing, close to 200 sma, might be a good spot for calls",positive,positive,positive,positive,0.4,FiQA
+Baird Upgrades Tesla Motors $TSLA to Outperform https://t.co/1FA6aTOqlw,positive,positive,positive,positive,0.52,FiQA
+$ilmn piper Jeffries raises pt.  I remain long,positive,positive,positive,positive,0.467,FiQA
+"@HopeTurock yes, the expectations of a deal are somewhat priced in but we could see a nice pop if bids come in higher than expected... $YHOO",positive,positive,positive,positive,0.234,FiQA
+I don't see it. 200 day sma is the big hurdle. There is a good base building. $NFLX  https://t.co/ImKYGO2cyc,neutral,positive,neutral,neutral,0.228,FiQA
+Daily Mail parent company in talks with potential partners about joint bid for Yahoo's internet assets: https://t.co/mK7MEMtADT $YHOO,neutral,positive,neutral,neutral,0.228,FiQA
+"$FB trending nicely, intraday.",positive,positive,positive,positive,0.404,FiQA
+Starbucks' Digital Strategy To Drive Significant Growth With Customer Loyalty $SBUX https://t.co/Xk6lZ3UI3K,positive,positive,positive,positive,0.388,FiQA
+"$QCOM chart: Qualcomm Short 61.8% Retracement, Trendline and Resistance. https://t.co/2WQqh35KOY",negative,negative,negative,negative,-0.371,FiQA
+"$INTU is in the process of streamlining its structure, especially through divestment of non-core businesses   https://t.co/dR5baNun2u",neutral,positive,neutral,neutral,0.229,FiQA
+"$TSLA steaming up again, this stock is relentless at the moment",positive,positive,positive,positive,0.535,FiQA
+.@barronsonline sees #Apple at $150/share in a year (+36% from today) on growing services business. $AAPL https://t.co/3BDNEKN7l1,positive,positive,positive,positive,0.408,FiQA
+Adobe Receives New Rating from Top Analyst $ADBE https://t.co/LJNXPEvHZN,neutral,positive,neutral,neutral,0.141,FiQA
+Activision Blizzard Media Networks Announces Record #Esports Viewership https://t.co/729BiqLbtK $ATVI partnered with $HDSI for 9 #tournament,positive,positive,positive,positive,0.208,FiQA
+"Also, BMO had just initiated $incy with an outperform yesterday, while several other firms all reiterated buy ratings.",positive,positive,positive,positive,0.574,FiQA
+AstraZeneca sells Caprelsa rights to Sanofi unit,neutral,positive,neutral,neutral,0.233,FiQA
+UPDATE 5-Barclays Chairman McFarlane axes CEO to speed up strategic change,negative,negative,negative,negative,-0.229,FiQA
+Miners Meltdown as BHP to Rio Tinto Sink in Commodities Rout,negative,negative,negative,negative,-0.665,FiQA
+"FTSE led lower by M&S, GlaxoSmithKline",negative,negative,negative,negative,-0.448,FiQA
+Morrisons faces festive sales test,neutral,negative,neutral,neutral,-0.113,FiQA
+GKN to buy Fokker Technologies for 706 mln euros,neutral,positive,neutral,neutral,0.276,FiQA
+Diageo Sells Ryder Cup Venue Gleneagles Hotel to Ennismore Group,neutral,positive,neutral,neutral,0.237,FiQA
+"UPDATE: CIB, Legal & General Sell Egyptian Life Joint Venture To AXA",neutral,positive,neutral,neutral,0.148,FiQA
+AstraZeneca to Pay Inovio Up to $700 Million for Cancer Drug,positive,positive,positive,positive,0.33,FiQA
+Rio Tinto CEO says iron ore market at equilibrium,neutral,neutral,neutral,neutral,0.0,FiQA
+US sanctions put Gazprom-Shell alliance plans in jeopardy,negative,negative,negative,negative,-0.314,FiQA
+Tesco share price dips as Blinkbox Books closes ending supermarket's digital ...,negative,negative,negative,negative,-0.389,FiQA
+"UPDATE 1-BHP Billiton's credit ratings fragile in FY16, agencies warn",negative,negative,negative,negative,-0.338,FiQA
+CRH adds CR Laurence to acquisitions tally for $1.3bn,positive,positive,positive,positive,0.231,FiQA
+Stakes High for AstraZeneca Heart Drug Facing Tough Competition,negative,negative,negative,negative,-0.24,FiQA
+Shire to buy NPS for $5.2 billion to boost rare disease drugs,positive,positive,positive,positive,0.235,FiQA
+"AstraZeneca bags another cancer drug deal, this time with Inovio",positive,positive,positive,positive,0.316,FiQA
+"L&G still paying price for dividend cut during crisis, chief says",negative,negative,negative,negative,-0.338,FiQA
+Buffett's Company Reports 37 Percent Drop in 2Q Earnings,negative,negative,negative,negative,-0.566,FiQA
+Travis Perkins Hikes Dividend 20% As Profit And Revenue Rise,positive,positive,positive,positive,0.769,FiQA
+"Tesco, Asda sales fall as march of the discounters continues: Kantar",negative,negative,negative,negative,-0.398,FiQA
+Shire proposes $30 bln all-share tie-up with Baxalta,neutral,positive,neutral,neutral,0.22,FiQA
+"Tesco, Asda sales fall as march of the discounters continues-Kantar",negative,negative,negative,negative,-0.356,FiQA
+Verizon and AT&T accused of hurting rivals,negative,negative,negative,negative,-0.446,FiQA
+"FTSE 100 falls as China devaluation hits Burberry, mining stocks",negative,negative,negative,negative,-0.479,FiQA
+AstraZeneca's MedImmune Inks Licensing Deal With Omnis Pharmaceuticals,positive,positive,positive,positive,0.295,FiQA
+"Nine banks including Barclays, Citi, agree to pay $2 billion to settle forex ...",negative,negative,negative,negative,-0.647,FiQA
+FDA approves Shire's Vyvanse for binge-eating disorder,positive,positive,positive,positive,0.291,FiQA
+CompaniesCar insurer Hastings Group driving Â£180m IPO,positive,positive,positive,positive,0.302,FiQA
+UPDATE 1-Dairy Crest loses a third of Morrisons milk contract,negative,negative,negative,negative,-0.161,FiQA
+Glencore slumps 25 pct as debt fears grow,negative,negative,negative,negative,-0.718,FiQA
+Horizonte acquires neighbouring Glencore nickel property in Brazil,positive,positive,positive,positive,0.182,FiQA
+Companies Thetrainline.com announces arrival of London IPO,positive,positive,positive,positive,0.245,FiQA
+UPDATE 1-Engineering firm Smiths Group confirms CEO appointment,neutral,positive,neutral,neutral,0.078,FiQA
+Industry NewsMorrisons unveils which stores will close as 900 jobs face the axe,negative,negative,negative,negative,-0.731,FiQA
+Glencore slumps 30 percent as debt fears grow,negative,negative,negative,negative,-0.781,FiQA
+Aberdeen Asset Management Gains Foothold In China,positive,positive,positive,positive,0.357,FiQA
+ARM Holdings plc Partners With International Business Machines Corp. To Drive ...,positive,positive,positive,positive,0.273,FiQA
+"FTSE 100 drops 2.5 pct on Glencore, metals price fears",negative,negative,negative,negative,-0.597,FiQA
+"After Barclays and Bank of America, Citigroup has blockchain in sight",neutral,positive,neutral,neutral,0.198,FiQA
+AB InBev approaches SABMiller to explore $250bn tie-up,positive,positive,positive,positive,0.237,FiQA
+EU regulator backs approval for GSK injectable asthma drug,positive,positive,positive,positive,0.379,FiQA
+Glencore fight back over debt fears lifts shares,positive,positive,positive,positive,0.278,FiQA
+"News FeedFTSE 100 movers: Ashtead jumps on strong interims; Glencore, BP in ...",positive,positive,positive,positive,0.461,FiQA
+Brewer AB InBev seeks $275 bln tie-up with SABMiller,neutral,positive,neutral,neutral,0.295,FiQA
+AB InBev looks to win over SABMiller investors,neutral,positive,neutral,neutral,0.276,FiQA
+UPDATE 1-EU regulator backs approval for GSK injectable asthma drug,positive,positive,positive,positive,0.418,FiQA
+Copper market may get a 2003-style supply shock from Glencore closures,negative,negative,negative,negative,-0.571,FiQA
+Breakingviews: IAG can pay more for Aer Lingus,positive,positive,positive,positive,0.12,FiQA
+TalkTalk hires BAE Systems to investigate cyber attack,negative,negative,negative,negative,-0.113,FiQA
+Renewed AB InBev Bid for SABMiller Ups Stake in Beer Battle,positive,positive,positive,positive,0.236,FiQA
+CompaniesAB InBev signals it won't go hostile for SABMiller,neutral,positive,neutral,neutral,0.107,FiQA
+Tesco share price jumps as Q3 sales top estimates,positive,positive,positive,positive,0.719,FiQA
+AstraZeneca diabetes drug combination faces delay after FDA rebuff,negative,negative,negative,negative,-0.391,FiQA
+Mylan Appoints Ranjan Ray Chaudhuri as Global Commercial Lead for Mylan's Over ...,neutral,neutral,neutral,neutral,0.0,FiQA
+SABMiller revenue hit by weaker EM currencies,negative,negative,negative,negative,-0.439,FiQA
+UPDATE 5-SABMiller rejects AB InBev's $104 bln takeover approach,negative,positive,negative,negative,0.172,FiQA
+CRH's concrete bid for Holcim Lafarge assets,neutral,positive,neutral,neutral,0.282,FiQA
+AB InBev offers SABMiller $3 billion breakup fee,neutral,positive,neutral,neutral,0.197,FiQA
+GSK joins China trade push as UK trumpets healthcare deals,positive,positive,positive,positive,0.294,FiQA
+AB InBev ups offer for SABMiller as deadline looms,positive,positive,positive,positive,0.257,FiQA
+Tesco PLC's Recovery Continues With A Â£250m Cash Infusion,positive,positive,positive,positive,0.337,FiQA
+"METALS-Zinc surges 12 pct after Glencore cuts output, fuelling metals rally",positive,positive,positive,positive,0.162,FiQA
+CompaniesUnilever sales lifted by ice cream in soft economy,positive,positive,positive,positive,0.383,FiQA
+AB InBev's Latest Bid Said Unlikely to Win SABMiller's Approval,negative,positive,negative,negative,0.127,FiQA
+Persimmon share price climbs on 23% rise in full-year revenue,positive,positive,positive,positive,0.975,FiQA
+Britain's FTSE forges ahead as Shire surges,positive,positive,positive,positive,0.512,FiQA
+AB InBev attacks SABMiller bid rebuffal,negative,negative,negative,negative,-0.158,FiQA
+Anheuser-Busch InBev Increases Offer for Rival SABMiller,positive,positive,positive,positive,0.24,FiQA
+Why I'd Buy ARM Holdings plc And BHP Billiton plc Today,positive,positive,positive,positive,0.424,FiQA
+Barclays PLC & Lloyds Banking Group PLC Are The 2 Banks I'd Buy Today,positive,positive,positive,positive,0.434,FiQA
+EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany,neutral,negative,neutral,neutral,-0.227,FiQA
+Ruling sets lower limit on potential fine for BP,positive,negative,positive,positive,-0.261,FiQA
+"EXCLUSIVE-BP, China's CNPC to unveil oil alliance - sources",positive,positive,positive,positive,0.318,FiQA
+SAB's Chairman Digs In With Board Divided on InBev Offer,negative,positive,negative,negative,0.016,FiQA
+Kinder Morgan and BP Form Joint Venture Limited Liability Company to Purchase ...,positive,positive,positive,positive,0.225,FiQA
+Supreme Court Upholds $236 Million Jury Award Against ExxonMobil,negative,negative,negative,negative,-0.459,FiQA
+Standard Chartered's Shares Plunge 7% After Fitch Downgrade,negative,negative,negative,negative,-0.812,FiQA
+Reed Elsevier share price slides on underwhelming full-year results,negative,negative,negative,negative,-0.526,FiQA
+WPP wins race for 'programmatic buying' agency Essence Digital,positive,positive,positive,positive,0.238,FiQA
+BHP Billiton share price: Brazil to sue Samarco for Â£3.5bn,negative,negative,negative,negative,-0.637,FiQA
+G4S slides on balance sheet worries,negative,negative,negative,negative,-0.593,FiQA
+FDA approves AstraZeneca drug for advanced lung cancer,positive,positive,positive,positive,0.507,FiQA
+HSBC appoints business leaders to board,neutral,positive,neutral,neutral,0.154,FiQA
+"HSBC shakes up board with two new business chiefs, three departures",neutral,negative,neutral,neutral,-0.074,FiQA
+"Last month we added to our $GILD position and started a new one in $BWLD We see slow, steady, unspectacular growth going forward near term",positive,positive,positive,positive,0.422,FiQA
+"$TSLA lots of green on the 5 min, watch the hourly $259.33 possible resistance currently @ $257.00",neutral,positive,neutral,neutral,0.318,FiQA
+$AMGN And #UCB Announce Positive Top-Line Results From Ph3 Study Evaluating Romosozumab In Men... https://t.co/4hBoUDR8B8 via @YahooFinance,positive,positive,positive,positive,0.47,FiQA
+Sold some $TSLA Puts this morning Closed them at the close. Helps pay for monthly expenses,positive,negative,positive,positive,-0.043,FiQA
+Windows 10 is awful why did it force an upgrade on my pc without my consent? #windows #Microsoft $msft,negative,negative,negative,negative,-0.49,FiQA
+$EXPE working on the second leg of its reversal run as it breaks another down trend and continues higher. https://t.co/76DSJysyR0,positive,positive,positive,positive,0.536,FiQA
+$CTRP not a bad long chart now that it's through sma100 resistance.,positive,positive,positive,positive,0.498,FiQA
+"$INTC & $AAPL strong, tech leads DOW higher",positive,positive,positive,positive,0.588,FiQA
+$CTRP breaking out https://t.co/Z2je3rTKch,positive,positive,positive,positive,0.364,FiQA
+$CSX another strong rail today after breaking intraday resistance at 1$9.80 https://t.co/eA4FBVuqGP,positive,positive,positive,positive,0.468,FiQA
+loading $SPY and $AAPL puts. think were toppy IMHO.,negative,negative,negative,negative,-0.537,FiQA
+#Fintech provider $CAFN Cachet Financial Solutions Surging Forward today post earnings Up +13.26% https://t.co/9BJ3csk2i9 $JKHY $FISV #Momo,positive,positive,positive,positive,0.418,FiQA
+"Really surprised by how much $FB has now fallen. Thought there'd be some support around the 50d, but I guess not.",negative,negative,negative,negative,-0.334,FiQA
+$tsla bad day to short,positive,positive,positive,positive,0.45,FiQA
+"$TSLA TO RECALL 2,700 MODEL X SUVS FOR SEAT-BELT FIX",negative,negative,negative,negative,-0.235,FiQA
+5 Best Analyst Rated Stocks in Last 72hrs: $ORCL $AAPL $CBS $INO $CPXX View all ratings here: https://t.co/IRID6zd5gc,positive,positive,positive,positive,0.509,FiQA
+Bought some more $CELG as it is ready for a bounce.,positive,positive,positive,positive,0.628,FiQA
+Analysts impressed with progress at Tesla's flagship factory; co spent $1.6B on upgrades in '15 https://t.co/SABxCSn8cd by @tsrandall $TSLA,positive,positive,positive,positive,0.474,FiQA
+"$CELG back near 104, where it opened and rallied higher last wk. A good place to take a shot https://t.co/zwHThSvFSF",positive,positive,positive,positive,0.465,FiQA
+$AMZN new HOD with conviction keeping $570 on watch for Resistance.,positive,positive,positive,positive,0.529,FiQA
+$FB  rejecting HIGHS shortable...at 109,negative,negative,negative,negative,-0.387,FiQA
+"$CSX is up today to report.  Wall Street is expecting EPS to be at $0.37, and revenues at $2,732B.",neutral,positive,neutral,neutral,0.461,FiQA
+$FB turns back down in early trading.... https://t.co/reuf5PzhBm,negative,negative,negative,negative,-0.393,FiQA
+Followed the levels I shared with you on $NFLX $GOOGL $TSLA calls for nice gains. Still holding $FB 110 calls. Week made in a morning.,positive,positive,positive,positive,0.471,FiQA
+"$FAST $GWW - daily sales slowing again, pretty timely coincident indicator https://t.co/m6BKHBkzK5",negative,negative,negative,negative,-0.105,FiQA
+"Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/xDGrAExkKz",negative,negative,negative,negative,-0.367,FiQA
+"SiriusXM added 465,000 net new subscribers in the first quarter of 2016 $SIRI #CEO #sales #marketresearch #tech #entrepreneur #Speaker",positive,positive,positive,positive,0.466,FiQA
+5-star analyst @brianwieser from Pivotal Research upgraded rating on $GOOGL to BUY. Brian has a 79% success rate https://t.co/t0dn02EOH5,positive,positive,positive,positive,0.561,FiQA
+"You know that back seat? Don't sit in it. - $TSLA -> Tesla recalls 2,700 Model X cars https://t.co/7J0Gwz89ZC",negative,negative,negative,negative,-0.319,FiQA
+This $BBBY stock options trade would have more than doubled your money https://t.co/Oa0loiRIJL via @TheStreet,positive,positive,positive,positive,0.294,FiQA
+X marks the recall: Tesla recalls #ModelX for faulty 3rd row seat. https://t.co/HSqdoVry07 $TSLA https://t.co/4Cs3CNZEBB,negative,negative,negative,negative,-0.26,FiQA
+$STX move off the bottom but still in bear market #datasecurity $EMC $SNDK $WDC https://t.co/VkYdWPxeSN,negative,negative,negative,negative,-0.421,FiQA
+$FB (110.20) is starting to show some relative strength and signs of potential B/O on the daily.,positive,positive,positive,positive,0.334,FiQA
+$SBUX heading for the 200DMA and certain doom if it can not hold there.,negative,negative,negative,negative,-0.437,FiQA
+$AMZN long into earnings. looks good over 600,positive,positive,positive,positive,0.613,FiQA
+$GOOGL is a short below 740 into the upper BB and is overbought,negative,negative,negative,negative,-0.48,FiQA
+Timberrrr $TSLA https://t.co/MRBgfDHHVa,negative,negative,negative,negative,-0.562,FiQA
+Interest Heats Up for @Yahoo $YHOO - The Wall Street Journal  https://t.co/j5jVjI9bia,positive,positive,positive,positive,0.413,FiQA
+Commented on It's Time To Embrace Dividend Growth https://t.co/wc2qfP79TN $ABBV $CSCO $WYN,neutral,positive,neutral,neutral,0.284,FiQA
+Word on the street is that Allergen is looking at Endo International after the failed Pfizer merger. May-20 $35 calls active. $ENDP,neutral,positive,neutral,neutral,0.472,FiQA
+$SBUX inverted head & shoulders pattern in the works. bullish.,positive,positive,positive,positive,0.572,FiQA
+I see a 20 percent upside in $FB shares from here,positive,positive,positive,positive,0.589,FiQA
+long $AAPL,positive,positive,positive,positive,0.648,FiQA
+$FB popping up to HOD,positive,positive,positive,positive,0.446,FiQA
+$TSLA yeah lets go down to 230s lol,negative,negative,negative,negative,-0.355,FiQA
+#NDX component Tesla has announced it is recalling 2700 Model X SUVs. $TSLA,negative,negative,negative,negative,-0.221,FiQA
+$YHOO making new HOD,positive,positive,positive,positive,0.442,FiQA
+"Daily Mail owner considering Yahoo bid $yhoo ,up 2,05% https://t.co/extZr1riyP",positive,positive,positive,positive,0.288,FiQA
+$PCLN Back to Back intraday reversals look out below. Shorts moving in!,negative,negative,negative,negative,-0.53,FiQA
+$PYPL great vol flow trade here.. Love this company long time.,positive,positive,positive,positive,0.408,FiQA
+$ISRG PT raised to $700 from $640 at Leerink - keeps Outperform rated,positive,positive,positive,positive,0.489,FiQA
+Long $TSLA short $MBLY https://t.co/jSpUSzo6na,neutral,positive,neutral,neutral,0.607,FiQA
+"$TSLA recalls 2,700 Model X cars. Stock dropping hard...",negative,negative,negative,negative,-0.626,FiQA
+$AAPL - Has broken its downtrend - but 200DMA proving to be stiff resistance short term. https://t.co/VlzlgvIHZV,neutral,positive,neutral,neutral,0.222,FiQA
+"potential defect with third-row seat belts. Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/YVYDncdNdi",negative,negative,negative,negative,-0.366,FiQA
+Netflix Grows Efforts To Create Loyal Customers $NFLX https://t.co/5QXBkoBphe,positive,positive,positive,positive,0.225,FiQA
+$FB $AAPL $NKE $JWN bearish charts keep getting worse.,negative,negative,negative,negative,-0.619,FiQA
+"Apple expected to launch new iPhone, iPad today $AAPL https://t.co/XfnICWeBeG",neutral,positive,neutral,neutral,0.264,FiQA
+$TSLA stock gaining steam... Plus other notable moves from this week: https://t.co/Hz0wdp5za1,positive,positive,positive,positive,0.349,FiQA
+$GILD  is expanding its research facilities...keeping up with the pace of innovation  https://t.co/uOE7FJ4LOP,positive,positive,positive,positive,0.297,FiQA
+"$ENDP - we saw a large order in this one last week, someone also accumulating May & Jun 35's Calls today",positive,positive,positive,positive,0.613,FiQA
+TripAdvisor jumps on M&A rumors https://t.co/O4lwCDXMbr $TRIP,positive,positive,positive,positive,0.47,FiQA
+Seat belt recall? who cares....  I'm a buyer $TSLA,positive,positive,positive,positive,0.598,FiQA
+$FB gettin in the buy zone soon ;),positive,positive,positive,positive,0.361,FiQA
+Starbucks downgraded on same day as new downgraded rewards program starts  $SBUX,negative,negative,negative,negative,-0.46,FiQA
+"$ADBE technical alerts: Expansion Breakout, Gilligan's Island Sell Setup, Volume Surge, and New 52... https://t.co/LxX66tknFH",neutral,positive,neutral,neutral,0.208,FiQA
+Thank you $GOOG (Google Alphabet) and $FB (Facebook) stocks! What a nice reversal.,positive,positive,positive,positive,0.318,FiQA
+"Tesla Motors recalls 2,700 Model X SUVs https://t.co/BFWS3DbM0U $TSLA",negative,negative,negative,negative,-0.424,FiQA
+Deutsche Bank downgrades Starbucks because of new loyalty program https://t.co/Iy4LCUGABc $SBUX,negative,negative,negative,negative,-0.436,FiQA
+$GOOGL gets an upgrade price target $970,positive,positive,positive,positive,0.47,FiQA
+NetApp downgraded by Macquarie to underperform. $22.00 PT. https://t.co/XCNgws0t4q $NTAP #NTAP via @RatingsNetwork,negative,negative,negative,negative,-0.574,FiQA
+"Tesla is recalling 2,700 Model X cars: https://t.co/8Z7BkVsTl9 $TSLA",negative,negative,negative,negative,-0.291,FiQA
+$fb small long 109.25 via calls,positive,positive,positive,positive,0.352,FiQA
+"Isolationism? Another Sell Rating, Sell Ratings On SPY, QQQ, IWM And Several Companies https://t.co/6NKWEcrBA5 $AAPL $AXP $BAC $BLUE $FXE",negative,negative,negative,negative,-0.389,FiQA
+ALERT: New RSI signal created on $COST - Buy at 148.78 - Time: 14:19 - Strength: 10. Powered by https://t.co/MhOBzU3Rmx,positive,positive,positive,positive,0.497,FiQA
+$SAP Q1 disappoints as #software licenses down. Real problem? #Cloud growth trails $MSFT $ORCL $GOOG $CRM $ADBE https://t.co/jNDphllzq5,negative,negative,negative,negative,-0.431,FiQA
+$FB gone green on day,positive,positive,positive,positive,0.476,FiQA
+"$AMZN rejected that 604 to the penny. Weak open and it goes r/g within first 30 mins, could have 8-10 points in it. https://t.co/58tEAEXxpE",positive,negative,positive,positive,-0.229,FiQA
+$GOOGL is setting up above its 50-day moving average. https://t.co/tTm9RnFoXJ,positive,positive,positive,positive,0.516,FiQA
+$FB still a dog going much lower this week,negative,negative,negative,negative,-0.554,FiQA
+Academics claim Google Android two-factor authentication is breakable. #security #authentication #hacking $goog https://t.co/nJx4mnrGLo,negative,negative,negative,negative,-0.309,FiQA
+ALERT: New MACD signal created on $CTXS - Buy at 77.09 - Time: 18:23 - Strength: 10. Powered by https://t.co/4TdgjEDLLZ,positive,positive,positive,positive,0.49,FiQA
+$BAC $ADSK $NFLX long this morning,positive,positive,positive,positive,0.476,FiQA
+Locked in some $FB puts for nice gain,positive,negative,positive,positive,-0.524,FiQA
+3rd red day in a row ? $TSLA,negative,negative,negative,negative,-0.43,FiQA
+#Apple up almost 20% from its February lows with very little fanfare. $AAPL,positive,positive,positive,positive,0.431,FiQA
+$DISH weakness continues again. 49.43 area resistance after last week,negative,negative,negative,negative,-0.41,FiQA
+$AAPL iPhone shipments on track to exceed forecasts - MarketWatch https://t.co/2CXahJIX7d,positive,positive,positive,positive,0.367,FiQA
+$COST short finally making gains. I will take half my gains at 147,positive,negative,positive,positive,-0.41,FiQA
+Why $TWTR is doomed in 1 chart $FB $GOOG  https://t.co/MpyLiReQjh https://t.co/nlcZawDoHP,negative,negative,negative,negative,-0.07,FiQA
+Apple Inc.: The Rip-Roaring Rally Is Just Beginning! (AAPL) | InvestorPlace $AAPL https://t.co/jrcFC8XlY9,positive,positive,positive,positive,0.559,FiQA
+"Upside moves in the volatile #mining sector, sending Anglo American PLC $AAL up 6.8% as of 4:30 PM, London time",positive,positive,positive,positive,0.462,FiQA
+"Tesla: Voluntary recall of 2,700 Model X vehicles, due to back seat issue. $TSLA https://t.co/NPAkc3U6GS",negative,negative,negative,negative,-0.327,FiQA
+@scottrade Why is $tsla not available for shorting at this time?  Same for $w?,neutral,negative,neutral,neutral,-0.528,FiQA
+Deutsche Bank Downgraded Starbucks Co. $SBUX https://t.co/QqlEvVwPMV https://t.co/f2PdQjuTHa,negative,negative,negative,negative,-0.611,FiQA
+Juniper tumbles on Q1 warning; Cisco also lower https://t.co/N8X8BpLJ1E $JNPR $CSCO,negative,negative,negative,negative,-0.556,FiQA
+Looking for a strong bounce $SPY -- Lunchtime rally coming. $DIA $IWM $QQQ $AA $FB,positive,positive,positive,positive,0.521,FiQA
+"Baird likes $TSLA - upgrades to outperform, lifts price target to $300. Research firm also sees no capital raise necessary in next few qtrs",positive,positive,positive,positive,0.61,FiQA
+$tsla X recall not a big deal... the problem is now they will have an excuse to guide way way lower...,negative,positive,negative,negative,0.003,FiQA
+"On #FEDDAY looking for a sharp move up in equities $AAPL $HD $LOW $FB seeing $UVXY $TVIX getting hammered, even though market is down.",positive,positive,positive,positive,0.368,FiQA
+$JD down 20% in after-hour market. anyone care to explain why?,negative,negative,negative,negative,-0.551,FiQA
+Look at that $AMZN > 600,positive,positive,positive,positive,0.326,FiQA
+Yahoo stock is up to $36.46 as the bidding war picks up for the company https://t.co/JDNZXDCMkl $YHOO https://t.co/HmOegfHgvn,positive,positive,positive,positive,0.391,FiQA
+Starbucks shares down as much as ~4.2% $SBUX https://t.co/JlgrprR54k,negative,negative,negative,negative,-0.383,FiQA
+$AAPL Beat the estimates. Will still go down on lack of new products. https://t.co/sX3z7u6N8o,negative,negative,negative,negative,-0.248,FiQA
+"Facebook, near a buy point last week, faces a different technical test today https://t.co/c72LLMpiNM $FB $AAPL $NFLX https://t.co/fPFbYTYPuY",neutral,positive,neutral,neutral,0.102,FiQA
+"$SBUX down PM, from $DB downgrade.. PT cut from 70 to $64",negative,negative,negative,negative,-0.531,FiQA
+$EBAY  e-bay bay!  working on a couple daily dojis .. should continue to the downside  https://t.co/lgU0yBxEZe,negative,negative,negative,negative,-0.441,FiQA
+Breaking 52 week highs timing looks great now $AHS $BABY $POST $IGE $IRDM $EWBC $PHYS $ULTA $VNET $BIV https://t.co/11K8JzuzMU,positive,positive,positive,positive,0.419,FiQA
+$TSLA recalling pretty much every single model X @cnnbrk got to short that even at work you jump in money trade,negative,negative,negative,negative,-0.378,FiQA
+$aapl high of day just hit. Back at it tomorrow.,positive,positive,positive,positive,0.394,FiQA
+ouch looks like $tsla shorts getting skinned again,positive,positive,positive,positive,0.518,FiQA
+"Qualcomm: 10% Dividend Increase Rewards Patient Investors, The Future Looks Bright https://t.co/TJjVpqhHqD $QCOM",positive,positive,positive,positive,0.484,FiQA
+Facebook $FB received a Buy rating from Wells Fargo 5-star Analyst Peter Stabler (Wells Fargo) https://t.co/jnB4c9vdCu,positive,positive,positive,positive,0.456,FiQA
+$TSLA Wish had my puts back but see if we can find support around 243.39 and pop up so that I can get back in. https://t.co/hFkLq3WObV,neutral,negative,neutral,neutral,-0.485,FiQA
+Citrix Systems Inc $CTXS Position Increased by Mizuho… https://t.co/v7Lkq08Flp @ShareStockNews,positive,positive,positive,positive,0.529,FiQA
+"Notable gainers among liquid option names this morning include $STX (+7.0%), $NEM (+4.6%), $WDC (+4.2%), $X (+4.1%), and $GME (+3.4%),",positive,positive,positive,positive,0.513,FiQA
+Is #Facebook's user engagement falling? https://t.co/tqMMt7N16X $FB https://t.co/sedqRWgdkt,negative,negative,negative,negative,-0.39,FiQA
+S&P downgrades Barclays and RBS on government bailout fears,negative,negative,negative,negative,-0.53,FiQA
+Irish housebuilder Cairn Homes plans London listing,neutral,positive,neutral,neutral,0.189,FiQA
+Arm slammed by handset sales outlook,negative,negative,negative,negative,-0.41,FiQA
+CompaniesLSE adds ex-SEC head Schapiro to board,neutral,positive,neutral,neutral,0.076,FiQA
+Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls,positive,negative,positive,positive,-0.41,FiQA
+FTSE 100 flat; Standard Chartered leads risers,neutral,positive,neutral,neutral,0.589,FiQA
+Keith Skeoch to step up as David Nish quits as chief executive of Standard Life,neutral,negative,neutral,neutral,-0.09,FiQA
+Passengers rise at EasyJet and Aer Lingus,positive,positive,positive,positive,0.329,FiQA
+Dixons Carphone profit boost on strong sales,positive,positive,positive,positive,0.478,FiQA
+"FTSE rallies off three-month low, boosted by StanChart, Sainsbury",positive,positive,positive,positive,0.334,FiQA
+"Royal Mail, Johnson Matthey lead FTSE lower",negative,negative,negative,negative,-0.438,FiQA
+Sainsbury sales slip again as price pressures take a toll,negative,negative,negative,negative,-0.303,FiQA
+Sophos aims to raise $100m in London IPO,neutral,positive,neutral,neutral,0.214,FiQA
+UPDATE 3-Stifel to buy former Lehman brokerage from Barclays,neutral,positive,neutral,neutral,0.164,FiQA
+Borealis Infrastructure putting together new Severn Trent bid,neutral,positive,neutral,neutral,0.214,FiQA
+"FTSE falls to 3-month low on Greek debt concerns, easyJet skids",negative,negative,negative,negative,-0.414,FiQA
+Johnson Matthey share price slumps as company posts full-year results,negative,negative,negative,negative,-0.626,FiQA
+UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee,positive,positive,positive,positive,0.239,FiQA
+Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale,negative,negative,negative,negative,-0.195,FiQA
+Petrofac books further Â£30m cost for Shetland gas terminal delays,negative,negative,negative,negative,-0.343,FiQA
+Petrofac share price rises despite Â£30m costs on North Sea project,positive,positive,positive,positive,0.09,FiQA
+Whitbread boss Andy Harrison defends sales fall as 'just a blip',negative,negative,negative,negative,-0.1,FiQA
+Barclays share price subdued as bank faces fresh forex probe,negative,negative,negative,negative,-0.373,FiQA
+CompaniesActelion shares hit record on Shire takeover talk,positive,positive,positive,positive,0.721,FiQA
+"FDA approves NPS drug, in move validating Shire takeover deal",positive,positive,positive,positive,0.332,FiQA
+Diageo Shares Surge on Report of Possible Takeover by Lemann,positive,positive,positive,positive,0.415,FiQA
+RBS chairman admits surprise at size of regulatory penalties,negative,negative,negative,negative,-0.333,FiQA
+RSA Insurance Hires Towergate's Egan as Chief Financial Officer,neutral,positive,neutral,neutral,0.002,FiQA
+Johnson Matthey raises prospect of investor payout,positive,positive,positive,positive,0.281,FiQA
+InterContinental Hotels Denies Reports of Starwood Merger Talks,neutral,negative,neutral,neutral,-0.078,FiQA
+REFILE-Hikma and Barclays help Britain's FTSE to climb higher,positive,positive,positive,positive,0.452,FiQA
+Ocwen Reaches Settlement With California Regulator,neutral,positive,neutral,neutral,0.171,FiQA
+FDA Approves AstraZeneca's Iressa As Lung Cancer Treatment,positive,positive,positive,positive,0.42,FiQA
+AstraZeneca suffers setback after drug fails to treat eye cancer,negative,negative,negative,negative,-0.392,FiQA
+British American Tobacco first-half sales hurt by currency moves,negative,negative,negative,negative,-0.346,FiQA
+Zurich Insurance Considering Offer for UK Rival RSA Insurance,neutral,positive,neutral,neutral,0.25,FiQA
+"Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",negative,negative,negative,negative,-0.281,FiQA
+UPDATE 1-AstraZeneca sells rare cancer drug to Sanofi for up to $300 mln,positive,positive,positive,positive,0.258,FiQA
+Sainsbury sells unit to LloydsPharmacy,neutral,positive,neutral,neutral,0.234,FiQA
+BAE Systems's sales boosted by European Typhoon and currencies,positive,positive,positive,positive,0.39,FiQA
+"Royal Mail 'breached competition law' over delivery service changes, Ofcom claims",negative,negative,negative,negative,-0.315,FiQA
+#Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP,negative,negative,negative,negative,-0.267,FiQA
+Microsoft joins the open-source Eclipse Foundation https://t.co/z8G5cZaKeU focus on collaboration & open business is a smart strategy! $MSFT,positive,positive,positive,positive,0.26,FiQA
+"Sudden optimism about iPhone sales (i.e., not as bad as expected) gives Apple $AAPL a lift.  https://t.co/oKTCw4YiB5",positive,positive,positive,positive,0.279,FiQA
+$NFLX +1% $104.80 LONG streaming services rapidly outpacing traditional cable,positive,positive,positive,positive,0.571,FiQA
+Infection worries prompt regulatory reviews of Gilead leukaemia drug $GILD https://t.co/H9vqXpZ15G via @YahooFinance,negative,negative,negative,negative,-0.401,FiQA
+Deutsche Bank cuts $SBUX,negative,negative,negative,negative,-0.539,FiQA
+"Fastenal misses by $0.01, misses on revenue $FAST #NYSE https://t.co/63JHQ7pwMN",negative,negative,negative,negative,-0.374,FiQA
+$TSLA recall,negative,negative,negative,negative,-0.227,FiQA
+Piper upgrades Symantec on improving renewal rates and enterprise growth $SYMC,positive,positive,positive,positive,0.525,FiQA
+#FusionIQ NEW Positive Timing Signal on $SBUX Today https://t.co/9ImlXz4YNa Please Retweet #Signals,positive,positive,positive,positive,0.341,FiQA
+#LongPos $TSLA 256 Break-out thru 50 & 200- DMA (197-230) upper head res (274-279) Short squeeze in progress Nr term obj: 310 Stop loss:239,positive,positive,positive,positive,0.504,FiQA
+Starbucks' Digital Strategy To Drive Significant Growth With Customer Loyalty https://t.co/9Q7cI79IYO $SBUX,positive,positive,positive,positive,0.335,FiQA
+$ISRG Break out confirmed. Bought Leaps. Good trading!,positive,positive,positive,positive,0.36,FiQA
+$FB & $TSLA cracking lower early. $short #correction #stocks,negative,negative,negative,negative,-0.511,FiQA
+Hard to find new buyers of $TSLA at 250.  Shorts continue to pile in.,negative,negative,negative,negative,-0.373,FiQA
+"$AMZN trades in mid to upper range. No break out yet, either direction",neutral,positive,neutral,neutral,0.059,FiQA
+$NFLX and $TSLA making all kinds of gains 📈,positive,positive,positive,positive,0.42,FiQA
+"@TraceyRyniec not just energy, it's so broad. You will see it in WWG and Kaman as well. I'd be short $fast",negative,negative,negative,negative,-0.625,FiQA
+$AAPL Goldman Sachs reiterates conviction buy on Apple with a $155 PT $SPY $DJIA $GS https://t.co/h5hmXSITwM,positive,positive,positive,positive,0.335,FiQA
+Tesla issues its first Model X recall https://t.co/t1kMqVwhQQ $TSLA,negative,negative,negative,negative,-0.287,FiQA
+$ENDP being sued by FTC.....nobody will buy them with that hanging over their heads,negative,negative,negative,negative,-0.602,FiQA
+$TSLA weakest in todays DT watchlist,negative,negative,negative,negative,-0.383,FiQA
+"$TSLA on fire, what is that 6 up days in a row. Someone neeeeds!! in",positive,positive,positive,positive,0.452,FiQA
+"$KNDI #China #ElectricCar maker. China car sales +7.8%. Also, may feed off $TSLA momentum run lately.",positive,positive,positive,positive,0.225,FiQA
+"took some $ENDP long this am, using VWAP as guide",neutral,positive,neutral,neutral,0.613,FiQA
+"maybe closing all those $AAPL calls i had this morning was a bad idea, money left on the table...",negative,positive,negative,negative,0.501,FiQA
+$AAPL weekly still under the 50 moving average and creating a lower high. https://t.co/vT7ppzY2UY,negative,negative,negative,negative,-0.215,FiQA
+"Intuitive Surgical $ISRG is in a great financial position, take a look https://t.co/VahhJAcBFG https://t.co/24hQTQX4ou",positive,positive,positive,positive,0.406,FiQA
+$NFLX I say it's time to short at this point.,negative,negative,negative,negative,-0.489,FiQA
+$TSLA upgraded to Buy @ Argus w/ $333 PT - you'd almost think after ~100pt run in 5 weeks this would be the sell signal,positive,positive,positive,positive,0.349,FiQA
+$FB slight green... May be runner later,positive,positive,positive,positive,0.328,FiQA
+"$AAPL Stock Climbs as Barron's Sees 40% Upside, Jim Cramer's Take  https://t.co/lKlD9mVKBQ",positive,positive,positive,positive,0.517,FiQA
+"Tesla to recall 2,700 Model X SUVs over seat issue https://t.co/OdPraN59Xq $TSLA https://t.co/xvn4blIwpy https://t.co/ThfvWTnRPs",negative,negative,negative,negative,-0.31,FiQA
+Juniper tumbles on Q1 warning; Cisco also lower $JNPR $CSCO https://t.co/bGvIntk43h,negative,negative,negative,negative,-0.366,FiQA
+"$ATVI ooks pretty bullish for now. from a short-term perspective, it's got a good chance of maybe sliding back to 33.70 #stocks #investing",positive,positive,positive,positive,0.323,FiQA
+$CTRP  breaking out here on good vol and a parser buy signal  ..noticed this on bob langs comments looking for 48 fast,positive,positive,positive,positive,0.418,FiQA
+"78 users on Vetr are bearish on Tesla Motors, Inc., indicating a SELL Rating (2 stars) for $TSLA https://t.co/vVpzqCXsNJ",negative,negative,negative,negative,-0.485,FiQA
+"$STX long play, another consistent profit zone.. check it out https://t.co/DQfuzOzYlh https://t.co/ggne4ayzqn",positive,positive,positive,positive,0.48,FiQA
+"$FB trend, hits mid 110's and drops",negative,negative,negative,negative,-0.343,FiQA
+$PCLN Trying to break daily trend line! Big move could happen https://t.co/gY0aDb2jsQ https://t.co/KPBBCgQ2xy,neutral,positive,neutral,neutral,0.485,FiQA
+$FB I've been dead on so far. Such a bloated valuation. https://t.co/czCf8Kbrlt,negative,negative,negative,negative,-0.536,FiQA
+$TSLA recall model X https://t.co/b7izYa4BuE,negative,negative,negative,negative,-0.347,FiQA
+"$TSLA Recalls 2,700 Model X Vehicles; Shares Volatile https://t.co/tcKqZnMIqX #TSLA #tech #stockmarket https://t.co/FeMhJtAmQj",negative,negative,negative,negative,-0.336,FiQA
+Breaking: Tesla recalls all Model X cars  .. details on show now $TSLA,negative,negative,negative,negative,-0.308,FiQA
+"$QCOM The indicator RSI is over 50, which stands at 56.1, an upward movement is expected. https://t.co/yfa9jcUsQa",positive,positive,positive,positive,0.387,FiQA
+Supermarket Stocks Rally as Tesco Plans to Axe Non-core UK Assets $TSCO https://t.co/BmvhcrwREA,positive,positive,positive,positive,0.248,FiQA
+$TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66,negative,negative,negative,negative,-0.019,FiQA
+Why Alphabet Inc was just upgraded to buy https://t.co/dEVnLKhqtZ $GOOGL,positive,positive,positive,positive,0.465,FiQA
+Added more $BBBY @jimcramer is wrong about this one. Still a very profitable merchant with profitable stores,positive,positive,positive,positive,0.557,FiQA
+Added long at friday close  $SPY $LABU $BLUE $AMZN,positive,positive,positive,positive,0.513,FiQA
+"Isolationism? Another Sell Rating, Sell Ratings On SPY, QQQ, IWM And Several Companies https://t.co/j35FNnx744 $AAPL #APPLE $AXP $BAC",negative,negative,negative,negative,-0.513,FiQA
+Costco: A Premier Retail Dividend Play https://t.co/J3UhTs022M $COST,positive,positive,positive,positive,0.463,FiQA
+Pivotal Research upgrading $GOOGL to buy.  https://t.co/LSahepdqhD    #stocktrading,positive,positive,positive,positive,0.512,FiQA
+Most bullish stocks on Twitter during this dip. $YHOO $GDX $GOOGL $STZ $GOLD $EW $VZ $CELG $SBUX $SCTY more: https://t.co/iuZJelfwt3,positive,positive,positive,positive,0.408,FiQA
+#Tesla Model S deliveries are up 35% in Germany - record deliveries in March [Chart] https://t.co/yCnClcBImV  $TSLA,positive,positive,positive,positive,0.365,FiQA

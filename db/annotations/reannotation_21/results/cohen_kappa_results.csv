@@ -1,0 +1,16 @@
+﻿dataset,comparison,n,agreement,kappa
+Twitter Financial News Sentiment,Human vs ChatGPT,11931,0.7191350264018104,0.5528418537217472
+Twitter Financial News Sentiment,Human vs Gemini,11931,0.7690889280026821,0.6085908052963211
+Twitter Financial News Sentiment,ChatGPT vs Gemini,11931,0.8733551253038303,0.803623396462543
+Financial PhraseBank - 50agree,Human vs ChatGPT,4846,0.8400742880726372,0.725764657423237
+Financial PhraseBank - 50agree,Human vs Gemini,4846,0.8631861328931077,0.7527202597035366
+Financial PhraseBank - 50agree,ChatGPT vs Gemini,4846,0.8782501031778787,0.7914966141918731
+Financial PhraseBank - 66agree,Human vs ChatGPT,4217,0.8840407872895423,0.7983401230898859
+Financial PhraseBank - 66agree,Human vs Gemini,4217,0.9051458382736542,0.8278672757506443
+Financial PhraseBank - 66agree,ChatGPT vs Gemini,4217,0.9018259426132321,0.8301564485978581
+Financial PhraseBank - 75agree,Human vs ChatGPT,3453,0.9229655372140168,0.8616564659739685
+Financial PhraseBank - 75agree,Human vs Gemini,3453,0.9406313350709528,0.8897993592198549
+Financial PhraseBank - 75agree,ChatGPT vs Gemini,3453,0.9304952215464813,0.8761677634528143
+Financial PhraseBank - allagree,Human vs ChatGPT,2264,0.965547703180212,0.9376375276644479
+Financial PhraseBank - allagree,Human vs Gemini,2264,0.9686395759717314,0.9425697486515445
+Financial PhraseBank - allagree,ChatGPT vs Gemini,2264,0.9646643109540636,0.9365364575485945
