@@ -1,0 +1,17 @@
+{
+  "model_key": "bert",
+  "model": "BERT-base-uncased",
+  "dataset": "internal_test",
+  "n_eval": 1630,
+  "accuracy": 0.9263803680981595,
+  "precision_macro": 0.9092233164668029,
+  "recall_macro": 0.9267838212175272,
+  "f1_macro": 0.9171548052721917,
+  "f1_weighted": 0.9269039305225021,
+  "f1_negative": 0.8925869894099848,
+  "f1_neutral": 0.9452679589509693,
+  "f1_positive": 0.9136094674556213,
+  "support_negative": 314,
+  "support_neutral": 893,
+  "support_positive": 423
+}

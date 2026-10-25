@@ -1,0 +1,17 @@
+{
+  "model_key": "finbert",
+  "model": "FinBERT",
+  "dataset": "internal_test",
+  "n_eval": 1630,
+  "accuracy": 0.9331288343558283,
+  "precision_macro": 0.9232300806779324,
+  "recall_macro": 0.9255246501913786,
+  "f1_macro": 0.9243680122223363,
+  "f1_weighted": 0.9331895192355442,
+  "f1_negative": 0.9079365079365079,
+  "f1_neutral": 0.9511510387422796,
+  "f1_positive": 0.9140164899882215,
+  "support_negative": 314,
+  "support_neutral": 893,
+  "support_positive": 423
+}

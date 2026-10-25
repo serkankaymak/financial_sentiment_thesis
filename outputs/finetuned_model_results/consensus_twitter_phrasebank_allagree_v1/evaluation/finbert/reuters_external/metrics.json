@@ -1,0 +1,17 @@
+{
+  "model_key": "finbert",
+  "model": "FinBERT",
+  "dataset": "reuters_external",
+  "n_eval": 3842,
+  "accuracy": 0.7813638729828214,
+  "precision_macro": 0.8100967053107048,
+  "recall_macro": 0.7932679576913643,
+  "f1_macro": 0.7839298956164596,
+  "f1_weighted": 0.7891740729869222,
+  "f1_negative": 0.8324022346368715,
+  "f1_neutral": 0.7104769057453999,
+  "f1_positive": 0.8089105464671076,
+  "support_negative": 1176,
+  "support_neutral": 1051,
+  "support_positive": 1615
+}

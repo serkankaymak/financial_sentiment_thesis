@@ -1,0 +1,36 @@
+{
+  "random_state": 42,
+  "phrasebank_config": "allagree",
+  "consensus_rule": "human_label == chatgpt_label == gemini_label",
+  "models": [
+    {
+      "model_key": "bert",
+      "display_name": "BERT-base-uncased",
+      "model_name": "bert-base-uncased",
+      "is_finbert": false
+    },
+    {
+      "model_key": "distilbert",
+      "display_name": "DistilBERT-base-uncased",
+      "model_name": "distilbert-base-uncased",
+      "is_finbert": false
+    },
+    {
+      "model_key": "roberta",
+      "display_name": "RoBERTa-base",
+      "model_name": "roberta-base",
+      "is_finbert": false
+    },
+    {
+      "model_key": "finbert",
+      "display_name": "FinBERT",
+      "model_name": "ProsusAI/finbert",
+      "is_finbert": true
+    }
+  ],
+  "counts": {
+    "train": 7683,
+    "validation": 978,
+    "internal_test": 1630
+  }
+}

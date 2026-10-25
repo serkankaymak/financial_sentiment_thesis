@@ -1,0 +1,17 @@
+{
+  "model_key": "roberta",
+  "model": "RoBERTa-base",
+  "dataset": "reuters_external",
+  "n_eval": 3842,
+  "accuracy": 0.7998438313378449,
+  "precision_macro": 0.824386983240157,
+  "recall_macro": 0.8119672563969417,
+  "f1_macro": 0.8029270601684395,
+  "f1_weighted": 0.8076338986683813,
+  "f1_negative": 0.8709090909090909,
+  "f1_neutral": 0.717948717948718,
+  "f1_positive": 0.8199233716475096,
+  "support_negative": 1176,
+  "support_neutral": 1051,
+  "support_positive": 1615
+}

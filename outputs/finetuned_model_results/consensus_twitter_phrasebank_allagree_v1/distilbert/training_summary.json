@@ -1,0 +1,10 @@
+{
+  "model_key": "distilbert",
+  "model_name": "distilbert-base-uncased",
+  "train_n": 7683,
+  "validation_n": 978,
+  "validation_loss": 0.3874810039997101,
+  "validation_f1_macro": 0.91165029861512,
+  "checkpoint_dir": "D:\\serkan.kaymak\\financial_sentiment_thesis\\financial_sentiment_thesis\\checkpoints\\financial_sentiment_multi_model\\consensus_twitter_phrasebank_allagree_v1\\distilbert\\checkpoints",
+  "final_model_dir": "D:\\serkan.kaymak\\financial_sentiment_thesis\\financial_sentiment_thesis\\checkpoints\\financial_sentiment_multi_model\\consensus_twitter_phrasebank_allagree_v1\\distilbert\\final_model"
+}

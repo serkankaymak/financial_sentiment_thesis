@@ -1,0 +1,10 @@
+{
+  "model_key": "roberta",
+  "model_name": "roberta-base",
+  "train_n": 7683,
+  "validation_n": 978,
+  "validation_loss": 0.23504073917865753,
+  "validation_f1_macro": 0.9544114353315912,
+  "checkpoint_dir": "D:\\serkan.kaymak\\financial_sentiment_thesis\\financial_sentiment_thesis\\checkpoints\\financial_sentiment_multi_model\\consensus_twitter_phrasebank_allagree_v1\\roberta\\checkpoints",
+  "final_model_dir": "D:\\serkan.kaymak\\financial_sentiment_thesis\\financial_sentiment_thesis\\checkpoints\\financial_sentiment_multi_model\\consensus_twitter_phrasebank_allagree_v1\\roberta\\final_model"
+}
