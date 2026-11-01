@@ -1,0 +1,17 @@
+{
+  "model_key": "bert",
+  "model": "BERT-base-uncased",
+  "dataset": "sp500_external",
+  "n_eval": 1060,
+  "accuracy": 0.8075471698113208,
+  "precision_macro": 0.8066740134630043,
+  "recall_macro": 0.8068371239039781,
+  "f1_macro": 0.8066058447958321,
+  "f1_weighted": 0.8073997995604675,
+  "f1_negative": 0.8109756097560976,
+  "f1_neutral": 0.7867867867867868,
+  "f1_positive": 0.8220551378446115,
+  "support_negative": 323,
+  "support_neutral": 339,
+  "support_positive": 398
+}

@@ -1,0 +1,17 @@
+{
+  "model_key": "roberta",
+  "model": "RoBERTa-base",
+  "dataset": "sp500_external",
+  "n_eval": 1060,
+  "accuracy": 0.8330188679245283,
+  "precision_macro": 0.8343225779999291,
+  "recall_macro": 0.8304218242733802,
+  "f1_macro": 0.8319468244928281,
+  "f1_weighted": 0.832838389146823,
+  "f1_negative": 0.8426073131955485,
+  "f1_neutral": 0.8023774145616642,
+  "f1_positive": 0.8508557457212714,
+  "support_negative": 323,
+  "support_neutral": 339,
+  "support_positive": 398
+}

@@ -1,0 +1,17 @@
+{
+  "model_key": "distilbert",
+  "model": "DistilBERT-base-uncased",
+  "dataset": "synthetic_external",
+  "n_eval": 3000,
+  "accuracy": 0.9686666666666667,
+  "precision_macro": 0.9699332419982118,
+  "recall_macro": 0.9686666666666666,
+  "f1_macro": 0.9685724979241366,
+  "f1_weighted": 0.9685724979241366,
+  "f1_negative": 0.9553941908713693,
+  "f1_neutral": 0.9930417495029821,
+  "f1_positive": 0.9572815533980582,
+  "support_negative": 1000,
+  "support_neutral": 1000,
+  "support_positive": 1000
+}

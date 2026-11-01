@@ -1,0 +1,17 @@
+{
+  "model_key": "bert",
+  "model": "BERT-base-uncased",
+  "dataset": "reuters_external",
+  "n_eval": 5000,
+  "accuracy": 0.6622,
+  "precision_macro": 0.7148830774032652,
+  "recall_macro": 0.6917194585353569,
+  "f1_macro": 0.6662879984181095,
+  "f1_weighted": 0.6790994275159217,
+  "f1_negative": 0.7539267015706806,
+  "f1_neutral": 0.5555230002929974,
+  "f1_positive": 0.6894142933906502,
+  "support_negative": 1579,
+  "support_neutral": 1146,
+  "support_positive": 2275
+}

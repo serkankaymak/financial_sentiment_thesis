@@ -1,0 +1,17 @@
+{
+  "model_key": "finbert",
+  "model": "FinBERT",
+  "dataset": "sp500_external",
+  "n_eval": 1060,
+  "accuracy": 0.8066037735849056,
+  "precision_macro": 0.8130452209259014,
+  "recall_macro": 0.8058516827725208,
+  "f1_macro": 0.8069190059683802,
+  "f1_weighted": 0.8074938370467794,
+  "f1_negative": 0.8184818481848185,
+  "f1_neutral": 0.7818930041152263,
+  "f1_positive": 0.8203821656050956,
+  "support_negative": 323,
+  "support_neutral": 339,
+  "support_positive": 398
+}

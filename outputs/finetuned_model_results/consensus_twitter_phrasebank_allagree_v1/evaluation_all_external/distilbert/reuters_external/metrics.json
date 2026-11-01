@@ -1,0 +1,17 @@
+{
+  "model_key": "distilbert",
+  "model": "DistilBERT-base-uncased",
+  "dataset": "reuters_external",
+  "n_eval": 5000,
+  "accuracy": 0.638,
+  "precision_macro": 0.6933156394575234,
+  "recall_macro": 0.6673312315071133,
+  "f1_macro": 0.6425573550976421,
+  "f1_weighted": 0.6551214823549284,
+  "f1_negative": 0.7275922671353251,
+  "f1_neutral": 0.5344927536231884,
+  "f1_positive": 0.665587044534413,
+  "support_negative": 1579,
+  "support_neutral": 1146,
+  "support_positive": 2275
+}
