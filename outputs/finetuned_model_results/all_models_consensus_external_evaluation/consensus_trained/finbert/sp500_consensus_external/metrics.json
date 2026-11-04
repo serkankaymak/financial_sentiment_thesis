@@ -1,0 +1,18 @@
+{
+  "training_group": "consensus_trained",
+  "model_key": "finbert",
+  "dataset": "sp500_consensus_external",
+  "gold_source": "consensus_label",
+  "n_eval": 4510,
+  "accuracy": 0.8248337028824834,
+  "precision_macro": 0.8434174445764544,
+  "recall_macro": 0.8024197165092408,
+  "f1_macro": 0.8172673250881844,
+  "f1_weighted": 0.8228458336984165,
+  "f1_negative": 0.8074921956295525,
+  "f1_neutral": 0.8479404031551271,
+  "f1_positive": 0.7963693764798737,
+  "support_negative": 1022,
+  "support_neutral": 2095,
+  "support_positive": 1393
+}

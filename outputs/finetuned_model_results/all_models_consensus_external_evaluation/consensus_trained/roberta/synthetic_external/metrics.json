@@ -1,0 +1,18 @@
+{
+  "training_group": "consensus_trained",
+  "model_key": "roberta",
+  "dataset": "synthetic_external",
+  "gold_source": "label",
+  "n_eval": 3000,
+  "accuracy": 0.9953333333333333,
+  "precision_macro": 0.9953712238192178,
+  "recall_macro": 0.9953333333333333,
+  "f1_macro": 0.995335246331379,
+  "f1_weighted": 0.995335246331379,
+  "f1_negative": 0.9954796584630838,
+  "f1_neutral": 0.995995995995996,
+  "f1_positive": 0.9945300845350572,
+  "support_negative": 1000,
+  "support_neutral": 1000,
+  "support_positive": 1000
+}

@@ -1,0 +1,18 @@
+{
+  "training_group": "initial_trained",
+  "model_key": "distilbert",
+  "dataset": "sp500_consensus_external",
+  "gold_source": "consensus_label",
+  "n_eval": 4510,
+  "accuracy": 0.7618625277161862,
+  "precision_macro": 0.791964900457813,
+  "recall_macro": 0.7275984101868683,
+  "f1_macro": 0.7464754652471074,
+  "f1_weighted": 0.7565807482020236,
+  "f1_negative": 0.7244348762109796,
+  "f1_neutral": 0.7997486384583159,
+  "f1_positive": 0.7152428810720268,
+  "support_negative": 1022,
+  "support_neutral": 2095,
+  "support_positive": 1393
+}

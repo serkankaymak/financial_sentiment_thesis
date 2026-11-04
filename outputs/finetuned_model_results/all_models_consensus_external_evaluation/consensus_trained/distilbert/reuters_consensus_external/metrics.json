@@ -1,0 +1,18 @@
+{
+  "training_group": "consensus_trained",
+  "model_key": "distilbert",
+  "dataset": "reuters_consensus_external",
+  "gold_source": "consensus_label",
+  "n_eval": 3848,
+  "accuracy": 0.692047817047817,
+  "precision_macro": 0.6855449947764058,
+  "recall_macro": 0.6886206502992941,
+  "f1_macro": 0.6819251801060283,
+  "f1_weighted": 0.6986860810388259,
+  "f1_negative": 0.7483523067705212,
+  "f1_neutral": 0.5724804417855499,
+  "f1_positive": 0.7249427917620137,
+  "support_negative": 1780,
+  "support_neutral": 936,
+  "support_positive": 1132
+}

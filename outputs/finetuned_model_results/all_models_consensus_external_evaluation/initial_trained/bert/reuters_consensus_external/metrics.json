@@ -1,0 +1,18 @@
+{
+  "training_group": "initial_trained",
+  "model_key": "bert",
+  "dataset": "reuters_consensus_external",
+  "gold_source": "consensus_label",
+  "n_eval": 3848,
+  "accuracy": 0.6985446985446986,
+  "precision_macro": 0.6986743349681929,
+  "recall_macro": 0.702597182759568,
+  "f1_macro": 0.6910744915425365,
+  "f1_weighted": 0.7076688782652706,
+  "f1_negative": 0.7557084766969033,
+  "f1_neutral": 0.5789705235371755,
+  "f1_positive": 0.738544474393531,
+  "support_negative": 1780,
+  "support_neutral": 936,
+  "support_positive": 1132
+}

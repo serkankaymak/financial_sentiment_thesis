@@ -1,0 +1,18 @@
+{
+  "training_group": "consensus_trained",
+  "model_key": "roberta",
+  "dataset": "sp500_consensus_external",
+  "gold_source": "consensus_label",
+  "n_eval": 4510,
+  "accuracy": 0.8583148558758315,
+  "precision_macro": 0.86731931737047,
+  "recall_macro": 0.8466580122041033,
+  "f1_macro": 0.8550976422669089,
+  "f1_weighted": 0.857773955968711,
+  "f1_negative": 0.8502754131196795,
+  "f1_neutral": 0.8697431234371448,
+  "f1_positive": 0.8452743902439024,
+  "support_negative": 1022,
+  "support_neutral": 2095,
+  "support_positive": 1393
+}
