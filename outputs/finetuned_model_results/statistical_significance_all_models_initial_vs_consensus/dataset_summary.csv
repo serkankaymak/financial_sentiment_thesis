@@ -1,0 +1,4 @@
+﻿dataset,comparisons,completed,mean_macro_f1_difference,significant_mcnemar_after_holm
+Reuters,4,4,0.01267944295312648,3
+S&P 500,4,4,0.04303496323111258,4
+Sentetik,4,4,0.005817810753861591,2

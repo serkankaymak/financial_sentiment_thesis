@@ -1,0 +1,5 @@
+﻿model,comparisons,completed,mean_macro_f1_difference,significant_mcnemar_after_holm
+BERT,3,3,0.021494541616805862,3
+DistilBERT,3,3,0.02068438835819275,3
+FinBERT (hedefe ince ayarlı),3,3,0.020222780655218098,1
+RoBERTa,3,3,0.019641245287250825,2
