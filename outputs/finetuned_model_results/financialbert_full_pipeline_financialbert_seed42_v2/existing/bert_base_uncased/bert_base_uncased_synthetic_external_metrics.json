@@ -1,0 +1,12 @@
+{
+  "stage": "bert_base_uncased_synthetic_external",
+  "n_eval": 3000,
+  "accuracy": 0.9743333333333334,
+  "precision_macro": 0.9747583296297381,
+  "recall_macro": 0.9743333333333334,
+  "f1_macro": 0.9742136158685053,
+  "f1_weighted": 0.9742136158685053,
+  "f1_negative": 0.9645972293483838,
+  "f1_neutral": 0.9778652238071815,
+  "f1_positive": 0.9801783944499505
+}

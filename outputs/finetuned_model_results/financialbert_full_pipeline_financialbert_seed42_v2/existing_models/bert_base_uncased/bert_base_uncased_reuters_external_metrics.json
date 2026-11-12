@@ -1,0 +1,12 @@
+{
+  "stage": "bert_base_uncased_reuters_external",
+  "n_eval": 5000,
+  "accuracy": 0.6034,
+  "precision_macro": 0.7164722179845325,
+  "recall_macro": 0.6451157224454659,
+  "f1_macro": 0.6131323624578936,
+  "f1_weighted": 0.6239703023401341,
+  "f1_negative": 0.6790367153572838,
+  "f1_neutral": 0.5245060302797023,
+  "f1_positive": 0.6358543417366946
+}

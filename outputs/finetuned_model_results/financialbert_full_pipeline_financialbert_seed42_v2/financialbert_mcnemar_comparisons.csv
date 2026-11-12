@@ -1,0 +1,7 @@
+﻿dataset,reference,comparison,n,reference_accuracy,comparison_accuracy,reference_only_correct,comparison_only_correct,mcnemar_p_value
+sp500_external,ready,target,1060,0.32547169811320753,0.6264150943396226,85,404,9.328500434140368e-51
+sp500_external,ready,consensus,1060,0.32547169811320753,0.6443396226415095,99,437,1.2047097722200404e-51
+synthetic_external,ready,target,3000,0.3536666666666667,0.9856666666666667,4,1900,0.0
+synthetic_external,ready,consensus,3000,0.3536666666666667,0.9846666666666667,1,1894,0.0
+reuters_external,ready,target,5000,0.2504,0.6118,308,2115,0.0
+reuters_external,ready,consensus,5000,0.2504,0.626,341,2219,0.0

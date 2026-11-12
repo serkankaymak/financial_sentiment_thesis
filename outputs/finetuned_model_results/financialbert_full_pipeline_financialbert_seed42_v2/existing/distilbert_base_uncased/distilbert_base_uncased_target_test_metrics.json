@@ -1,0 +1,12 @@
+{
+  "stage": "distilbert_base_uncased_target_test",
+  "n_eval": 2386,
+  "accuracy": 0.8583403185247276,
+  "precision_macro": 0.8135803172940661,
+  "recall_macro": 0.8308100852431083,
+  "f1_macro": 0.8218125555181799,
+  "f1_weighted": 0.8593272832957123,
+  "f1_negative": 0.7633378932968536,
+  "f1_neutral": 0.8988543371522095,
+  "f1_positive": 0.8032454361054767
+}

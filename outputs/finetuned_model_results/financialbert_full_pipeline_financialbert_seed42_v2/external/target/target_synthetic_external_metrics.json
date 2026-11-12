@@ -1,0 +1,12 @@
+{
+  "stage": "target_synthetic_external",
+  "n_eval": 3000,
+  "accuracy": 0.9856666666666667,
+  "precision_macro": 0.9858309543620725,
+  "recall_macro": 0.9856666666666666,
+  "f1_macro": 0.9856693379723257,
+  "f1_weighted": 0.9856693379723256,
+  "f1_negative": 0.9813036887316827,
+  "f1_neutral": 0.993993993993994,
+  "f1_positive": 0.9817103311913
+}

@@ -1,0 +1,12 @@
+{
+  "stage": "bert_base_uncased_sp500_external",
+  "n_eval": 1060,
+  "accuracy": 0.7556603773584906,
+  "precision_macro": 0.7714268575285451,
+  "recall_macro": 0.7554228289436015,
+  "f1_macro": 0.7549284020350996,
+  "f1_weighted": 0.7561484287807161,
+  "f1_negative": 0.7448275862068966,
+  "f1_neutral": 0.7458492975734355,
+  "f1_positive": 0.774108322324967
+}

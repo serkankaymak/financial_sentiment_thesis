@@ -1,0 +1,12 @@
+{
+  "stage": "bert_base_uncased_target_test",
+  "n_eval": 2386,
+  "accuracy": 0.8721709974853311,
+  "precision_macro": 0.8279759442796569,
+  "recall_macro": 0.8486912031705215,
+  "f1_macro": 0.8378059582731471,
+  "f1_weighted": 0.8732732093904401,
+  "f1_negative": 0.7698519515477793,
+  "f1_neutral": 0.909210095050803,
+  "f1_positive": 0.8343558282208589
+}
