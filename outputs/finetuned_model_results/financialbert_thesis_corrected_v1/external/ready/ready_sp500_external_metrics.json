@@ -1,0 +1,13 @@
+{
+  "stage": "ready_sp500_external",
+  "n_eval": 1060,
+  "accuracy": 0.5339622641509434,
+  "precision_macro": 0.6915944700460829,
+  "recall_macro": 0.5352184067394273,
+  "f1_macro": 0.5073521042478913,
+  "f1_weighted": 0.512279943208697,
+  "f1_negative": 0.38461538461538464,
+  "f1_neutral": 0.5748393021120294,
+  "f1_positive": 0.5626016260162602,
+  "model_name": "ahmedrachid/FinancialBERT-Sentiment-Analysis"
+}
